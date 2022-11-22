@@ -1,0 +1,29 @@
+.c-card-number {
+  padding: 1.5rem;
+  border: 8px solid var(--bf500);
+
+  @media (min-width: 48em) {
+    height: 100%;
+    position: relative;
+    padding: 1.5rem 1.5rem 4rem;
+
+    .fr-btn {
+      position: absolute;
+      left: 1.5rem;
+      bottom: 1.5rem;
+    }
+  }
+
+  &__num {
+    color: var(--bf500);
+    font-size: 5rem;
+    line-height: 1;
+    font-weight: bold;
+  }
+
+  .fr-h2 {
+    span {
+      color: var(--bf500);
+    }
+  }
+}

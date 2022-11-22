@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+<div class="fr-container fr-mt-8v fr-mb-10v">
+  <h1>{{ .Params.title }}</h1>
+  <p class="fr-text--lead">
+    {{ replace .Params.desc "\n" "<br />" | safeHTML }}
+  </p>
+  <div class="fr-mb-10v c-filters">
+    <button class="fr-btn fr-btn--secondary" title="Toggle" aria-expanded="false" aria-controls="filters-defis">
+      Filtrer
+    </button>
+    <form class="fr-collapse" id="filters-defis" autocomplete="off">
+      <div class="fr-grid-row fr-grid-row--gutters">
+        <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
+          <label class="fr-label" for="promos">Promotion</label>
+          <select class="fr-select js-filter" id="promos">
+            <option value="*">Toutes</option>
+            {{ range (where .Site.RegularPages "Section" "promos") }}
+            <option value="is-promo-{{ .Title | urlize }}">{{ .Title }}</option>
+            {{ end }}
+          </select>
+        </div>
+      </div>
+    </form>
+  </div>
+  <div class="fr-grid-row fr-grid-row--gutters js-grid">
+    {{ range (where (where .Site.RegularPages "Type" "personnes") ".Params.role" "agent-public") }}
+      <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3 {{ range $index, $promos := .Params.promos }}{{ if gt $index 0 }} {{ end }}is-promo-{{ . | urlize }}{{ end }}">
+        {{ .Render "li" }}
+      </div>
+    {{ end }}
+  </div>
+</div>
+
+{{ end }}

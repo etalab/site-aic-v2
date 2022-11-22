@@ -1,0 +1,18 @@
+<div class="fr-card fr-enlarge-link fr-card--member">
+  <div class="fr-card__body">
+    <h4 class="fr-card__title">
+      <a href="{{ .RelPermalink }}" class="fr-card__link">{{ .Title }}</a>
+    </h4>
+    {{ with .Params.defis }}
+    {{ if ( gt ( len . ) 0 ) }}
+    <p class="fr-card__detail">
+      {{ delimit . ", " }}
+    </p>
+    {{ end }}
+    {{ end }}
+    <p class="fr-card__desc">{{ .Params.job }}</p>
+  </div>
+  <div class="fr-card__img">
+    <img src="/{{ .Params.image }}" class="fr-responsive-img" alt="">
+  </div>
+</div>

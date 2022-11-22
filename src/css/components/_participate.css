@@ -1,0 +1,20 @@
+.c-participate {
+  color: #fff;
+  background-color: var(--bf500);
+  padding: 2rem 0 4rem;
+
+  @media (min-width: 48em) {
+    padding: 3rem 0 14rem;
+  }
+
+  &__title {
+    margin-bottom: 2rem;
+  }
+
+  .fr-btn {
+    background-color: var(--w-bf500);
+    color: var(--bf500);
+    --color-hover: var(--block-color-hover) !important;
+    --color-active: var(--block-color-active) !important;
+  }
+}

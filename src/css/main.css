@@ -1,0 +1,285 @@
+/* @import './dsfr'; */
+@import "./dsfr-theme-tac";
+
+@import "./components/_embed";
+@import "./components/_hero";
+@import "./components/_style-title";
+@import "./components/_section";
+@import "./components/_join";
+@import "./components/_error";
+@import "./components/_talent";
+@import "./components/_filters";
+@import "./components/_metas";
+@import "./components/_participate";
+@import "./components/_rounded";
+@import "./components/_card-plus";
+@import "./components/_card-alt";
+@import "./components/_card-number";
+@import "./components/_wait";
+@import "./components/_list-links";
+@import "./components/_link-head";
+
+ul,
+ol {
+  padding-left: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.fr-card__img {
+  background-color: #bff1f1;
+
+  img {
+    .fr-card:not(.fr-card--member):not(.fr-card--horizontal) & {
+      object-fit: contain;
+    }
+  }
+}
+
+.fr-card__detail {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.c-project-head {
+  position: relative;
+
+  &__title {
+    padding-left: 60px;
+
+    @media (min-width: 62em) {
+      padding-left: 0;
+    }
+  }
+
+  &__meta {
+    margin-bottom: 0;
+
+    img {
+      width: 24px;
+      height: auto;
+      vertical-align: middle;
+      margin-right: 10px;
+    }
+  }
+
+  &__picto {
+    position: absolute;
+    left: 0;
+    top: 20px;
+    width: 50px;
+    height: auto;
+
+    @media (min-width: 62em) {
+      position: static;
+      width: 100%;
+    }
+  }
+}
+
+.c-wysiwyg {
+  p {
+    margin-bottom: 1rem;
+  }
+
+  h2 {
+    margin-top: 2.5rem;
+  }
+
+  .subtitle {
+    margin-top: 3rem;
+    font-weight: 500;
+  }
+
+  &--quote {
+    position: relative;
+
+    &::after {
+      content: "";
+      display: block;
+      width: 50px;
+      height: 46px;
+      margin: 20px 0 0 auto;
+      background: url(/img/quote.svg) left top no-repeat;
+      background-size: contain;
+      transform: scaleX(-1);
+    }
+  }
+
+  a:not([class]) {
+    color: var(--bf500);
+  }
+}
+
+.u-text-center {
+  text-align: center;
+}
+
+.u-color-primary {
+  color: var(--bf500);
+}
+
+.fr-pagination__list {
+  justify-content: center;
+}
+
+.is-active .fr-tag {
+  color: #fff;
+  background-color: #000091;
+}
+
+.fr-btn--icon-only {
+  padding: 0.5rem !important;
+
+  img {
+    width: 20px;
+    margin: 0 0.25rem;
+  }
+}
+
+.fr-card {
+  .fr-card__img {
+    img {
+      object-fit: cover;
+    }
+  }
+}
+
+.fr-link--align {
+  margin-left: -0.75rem;
+}
+
+.fr-card--horizontal {
+  .fr-card__img {
+    @media (min-width: 48em) {
+      max-width: 328px;
+    }
+
+    &::before {
+      @media (min-width: 48em) {
+        padding-bottom: 40%;
+      }
+    }
+
+    img {
+      object-fit: cover;
+    }
+  }
+}
+
+.c-multi-btns {
+  a {
+    margin: 0.5rem 1rem 0.5rem 0;
+  }
+}
+
+.fr-callout ol {
+  margin: 1rem 0 0 1rem;
+}
+
+.fr-callout__text {
+  p {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+
+    @media (min-width: 48em) {
+      font-size: 1.25rem;
+      line-height: 2rem;
+    }
+  }
+}
+
+.fr-callout--contact {
+  @media (min-width: 62em) {
+    margin-top: 5rem;
+  }
+}
+
+.fr-card a.fr-tag {
+  position: relative;
+  z-index: 2;
+}
+
+.fr-text--xl,
+.fr-text--lead {
+  p {
+    font-size: 1.25rem;
+    line-height: 2rem;
+
+    @media (min-width: 48em) {
+      font-size: 1.375rem;
+      line-height: 2.25rem;
+    }
+  }
+}
+
+.is-step-title {
+  .fr-tag {
+    margin-bottom: 0.5rem;
+
+    @media (min-width: 36em) {
+      margin-bottom: 0;
+    }
+  }
+
+  br {
+    @media (min-width: 36em) {
+      display: none;
+    }
+  }
+}
+
+.u-text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+
+  @media (min-width: 48em) {
+    font-size: 1.25rem;
+    line-height: 2rem;
+  }
+
+  p {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+
+    @media (min-width: 48em) {
+      font-size: 1.25rem;
+      line-height: 2rem;
+    }
+  }
+}
+
+.fr-tag {
+  &--fix-center {
+    position: relative;
+    top: -2px;
+  }
+}
+
+/* These styles are added to support site's accessibility (a11y) */
+
+.a11y_no-li-dot ul li::before {
+  display: none;
+}
+
+a.fr-tag.a11y_outlined {
+  outline-width: 2px !important;
+}
+
+/* Source: https://www.nomensa.com/blog/how-improve-web-accessibility-hiding-elements */
+.a11y_visually-hidden {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  /* IE6, IE7 */
+  clip: rect(1px 1px 1px 1px);
+}

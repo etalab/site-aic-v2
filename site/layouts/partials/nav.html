@@ -1,0 +1,113 @@
+<div class="fr-skiplinks">
+  <nav class="fr-container" role="navigation" aria-label="Accès rapide">
+    <ul class="fr-skiplinks__list">
+      <li>
+        <a class="fr-link" href="#contenu">Contenu</a>
+      </li>
+      <li>
+        <a class="fr-link" href="#navigation-804">Menu</a>
+      </li>
+      <li>
+        <a class="fr-link" href="#footer">Pied de page</a>
+      </li>
+    </ul>
+  </nav>
+</div>
+
+<header role="banner" class="fr-header" id="header-navigation">
+  <div class="fr-header__body">
+    <div class="fr-container">
+      <div class="fr-header__body-row">
+        <div class="fr-header__brand fr-enlarge-link">
+          <div class="fr-header__brand-top">
+            <div class="fr-header__logo">
+              <p class="fr-logo">
+                Ministère
+                <br>de la transformation
+                <br>et de la fonction
+                <br>publiques
+              </p>
+            </div>
+            <div class="fr-header__navbar">
+              <button class="fr-btn--menu fr-btn" data-fr-opened="false" aria-controls="modal-833" aria-haspopup="menu"
+                title="Menu">
+                Menu
+              </button>
+            </div>
+          </div>
+          <div class="fr-header__service">
+            <a href="/" title="Accueil - Entrepreneurs d’intérêt général">
+              <p class="fr-header__service-title">Entrepreneurs d’intérêt général</p>
+            </a>
+          </div>
+        </div>
+        <div class="fr-header__tools">
+          <div class="fr-header__tools-links">
+            <ul class="fr-links-group">
+              <li>
+                <a class="fr-link fr-fi-arrow-right-line" href="{{ relref . " participer" }}">Participer</a>
+              </li>
+              <li>
+                <a class="fr-link fr-fi-arrow-right-line" href="{{ relref . " blog" }}">Blog</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Navigation principale -->
+  <div class="fr-header__menu fr-modal" id="modal-833" role="navigation" aria-label="Menu principal">
+    <div class="fr-container">
+      <button class="fr-link--close fr-link" aria-controls="modal-833">Fermer</button>
+      <div class="fr-header__menu-links"></div>
+      <nav class="fr-nav" id="navigation-804" role="navigation" aria-label="Menu principal">
+        <ul class="fr-nav__list">
+          {{ $current := . }}
+          {{ range .Site.Menus.nav }}
+          {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
+          {{ $active = or $active (eq .Identifier $current.Params.menu) }}
+          {{ $active = or $active (and (eq .Name "Défis") (eq $current.Section "defis")) }}
+          {{ $active = or $active (and (eq .Name "Participants") (eq $current.RelPermalink "/talents/")) }}
+          {{ $active = or $active (and (eq .Name "Participants") (eq $current.RelPermalink "/agents/")) }}
+
+          {{ if(eq $current.Section "personnes") }}
+          {{ $active = or $active (and (eq .Name "Équipe") (eq $current.Params.role "agent-programme")) }}
+          {{ $active = or $active (and (eq .Name "Équipe") (eq $current.Params.role "agent-ecosysteme")) }}
+          {{ $active = or $active (and (eq .Name "Participants") (eq $current.Params.role "participant")) }}
+          {{ $active = or $active (and (eq .Name "Participants") (eq $current.Params.role "agent-public")) }}
+          {{ end }}
+
+          {{ $active = or $active (and (eq .Name "Participer") (eq $current.RelPermalink "/participer/candidats/")) }}
+          {{ $active = or $active (and (eq .Name "Participer") (eq $current.RelPermalink
+          "/participer/candidats/postuler/")) }}
+          {{ $active = or $active (and (eq .Name "Participer") (eq $current.RelPermalink
+          "/participer/administrations/")) }}
+          {{ $active = or $active (and (eq .Name "Participer") (eq $current.RelPermalink
+          "/participer/administrations/proposer/")) }}
+          {{ if .HasChildren }}
+          <li class="fr-nav__item">
+            <button class="fr-nav__btn" aria-expanded="false" aria-controls="menu-807" {{ if $active }}
+              aria-current="true" {{ end }}>{{ .Name }}</button>
+            <div class="fr-collapse fr-menu" id="menu-807">
+              <ul class="fr-menu__list">
+                {{ range .Children }}
+                <li>
+                  <a class="fr-nav__link" href="{{ .URL }}" target="_self">{{ .Name }}</a>
+                </li>
+                {{ end }}
+              </ul>
+            </div>
+          </li>
+          {{ else }}
+          <li class="fr-nav__item">
+            <a class="fr-nav__link" href="{{ .URL }}" target="_self" {{ if $active }} aria-current="true" {{ end }}>{{
+              .Name }}</a>
+          </li>
+          {{ end }}
+          {{ end }}
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>

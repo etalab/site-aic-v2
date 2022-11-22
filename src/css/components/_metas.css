@@ -1,0 +1,30 @@
+.c-metas {
+  margin-bottom: 2rem;
+
+  &__author {
+    color: #6a6a6a;
+    font-size: 0.875rem;
+    margin-bottom: 1.5rem;
+  }
+
+  &__share {
+    color: #000091;
+    white-space: nowrap;
+    font-weight: bold;
+
+    @media (min-width: 48em) {
+      padding-left: 2rem;
+    }
+
+    .fr-link {
+      padding: 0.25rem;
+    }
+  }
+
+  &__line {
+    @media (min-width: 48em) {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+}

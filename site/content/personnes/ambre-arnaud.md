@@ -1,0 +1,16 @@
+---
+title: Ambre Arnaud
+job: Développeuse
+promos:
+  - Promotion 2
+role: participant
+defis:
+  - " DataESR"
+expertises:
+- Développement
+image: img/ambre-arnaud.png
+linkedin: ""
+github: https://github.com/ambreelmee
+---
+
+“Diplômée de l’Ecole Centrale Paris, avec une spécialité en informatique et systèmes embarqués, j’ai terminé ma formation en effectuant mon stage de fin d’études chez Theodo en tant que développeuse web. J’ai également profité d’une année de césure au cours de mes études pour gagner en expérience professionnelle en travaillant dans un grand groupe et dans une start-up à Hong-Kong et Londres. Intéressée par les problématiques de modernisation du secteur public, et notamment l’ouverture et l’exploitation des données, je relève le défi DataESR pour mettre mon expérience et mes connaissances mais aussi ma nature curieuse et combative au service d’une cause utile à la société.”

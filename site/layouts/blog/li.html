@@ -1,0 +1,17 @@
+<div class="fr-card fr-enlarge-link">
+  <div class="fr-card__body">
+    <p class="fr-card__detail">{{ partial "date" .Date }} par {{ .Params.author }}</p>
+    <h4 class="fr-card__title">
+      <a href="{{ .Permalink }}" class="fr-card__link">{{ .Title }}</a>
+    </h4>
+    <p class="fr-card__desc">{{ .Description }}</p>
+    <ul class="fr-tags-group">
+      {{ range (.GetTerms "categories") }}
+      <li><a class="fr-tag a11y_outlined" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+  <div class="fr-card__img">
+    <img src="/{{ .Params.image }}" class="fr-responsive-img" alt="" />
+  </div>
+</div>

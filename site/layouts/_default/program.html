@@ -1,0 +1,80 @@
+{{ define "main" }}
+
+<div class="c-hero">
+  <div class="c-hero__bg">
+    <img src="/{{ .Params.image }}" alt="" />
+  </div>
+</div>
+<div class="fr-container">
+  <div class="fr-grid-row fr-grid-row--center">
+    <div class="fr-col-12 fr-col-lg-10">
+      <h1 class="fr-mb-8v">{{ .Title }}</h1>
+      <div class="u-text-lg">
+        {{ partial "markdownify-block" .Params.desc }}
+      </div>
+      {{ with .Params.numbers }}
+      <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
+        {{ range . }}
+        <div class="fr-col-12 fr-col-md-6 fr-col-lg-4">
+          <div class="c-card-number">
+            <div class="c-card-number__num">{{ .num }}</div>
+            <h3 class="fr-h2">{{ .title }}</h3>
+            {{ if ne .btnUrl "" }}
+            <a href="{{ .btnUrl }}" class="fr-btn fr-btn--sm fr-btn--secondary">{{ .btnTitle }}</a>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+      <div class="u-text-lg">
+        {{ partial "markdownify-block" .Params.how.desc }}
+      </div>
+      <h3>{{ .Params.steps.title }}</h3>
+    </div>
+  </div>
+  {{ range .Params.steps.list }}
+  <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
+    <div class="fr-col-12 fr-col-sm-4 fr-col-offset-lg-1 fr-col-lg-3">
+      <img src="{{ .icon }}" alt="" />
+    </div>
+    <div class="fr-col-12 fr-col-sm-8 fr-col-lg-7">
+      <h3 class="fr-h4 fr-mb-3v is-step-title">
+        <span class="fr-tag">{{ .step }} | {{ .duration }}</span> <br />{{ .title }}
+      </h3>
+      <p class="fr-text--lg fr-mb-0">
+        <strong class="u-color-primary">{{ .dates }}.</strong> {{ .desc }}
+      </p>
+    </div>
+  </div>
+  {{ end }}
+  <div class="fr-grid-row fr-grid-row--center">
+    <div class="fr-col-12 fr-col-lg-10">
+      <div class="u-text-lg">
+        {{ partial "markdownify-block" .Params.then.desc }}
+      </div>
+      <div class="
+          fr-grid-row fr-grid-row--gutters fr-grid-row--middle
+          c-section__agent c-section__agent--only
+          fr-mb-12v
+        ">
+        <div class="fr-col-12 fr-col-md-3">
+          <div class="c-rounded">
+            <img src="{{ .Params.quote.photo }}" alt="" />
+          </div>
+        </div>
+        <div class="fr-col-12 fr-col-md-9">
+          <p class="fr-mt-3v fr-h4 u-color-primary">
+            {{ .Params.quote.quote }}
+          </p>
+          <div class="c-section__agent-info">
+            <p class="fr-text--lg fr-mb-0">{{ .Params.quote.name }},</p>
+            <p class="fr-mb-0">{{ .Params.quote.desc }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ end }}

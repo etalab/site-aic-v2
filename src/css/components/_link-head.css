@@ -1,0 +1,11 @@
+.c-link-head {
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  h4 {
+    margin-bottom: 0;
+    padding-right: 1rem;
+  }
+}

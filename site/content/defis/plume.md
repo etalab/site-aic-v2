@@ -1,0 +1,41 @@
+---
+title: Plume
+description: Transformer les métiers des juridictions financières
+who: Cour des comptes
+themes:
+  - Numérique public
+  - Finance
+promos:
+  - Promotion 3
+town: Paris
+date: 2021-10-04T14:17:10.456Z
+expertises:
+  - Data science
+  - Développement
+image: img/eig3-plume.svg
+visible: true
+---
+La [Cour des comptes](https://www.ccomptes.fr/) souhaite développer un outil de rédaction collaborative de ses écrits et réaliser des analyses de données sur les textes utilisés et collectés par les juridictions financières. L’objectif sous-jacent : concevoir et présenter des rapports autrement, apporter un nouvel éclairage sur les contrôles à lancer en priorité, et consolider une doctrine de la Cour sur l’ensemble des politiques publiques qu’elle contrôle et évalue depuis sa création.
+
+## Plume : finir de faire entrer les juridictions financières dans le XXIe siècle
+
+### La problématique
+
+L’article 15 de la déclaration des droits de l’Homme et du citoyen dispose que « la société a le droit de demander compte à tout agent public de son administration ». Cet article est le fondement des missions des juridictions financières : s’assurer du bon emploi des 1 292 Md € d’argent public et en informer le citoyen.
+
+Pour ce faire, comme la plupart des administrations qu’elles contrôlent, la Cour et les chambres régionales et territoriales des comptes (CRTC) produisent des milliers de documents, encore trop souvent imprimés et annotés à la main. Cette méthode, qui répondait parfaitement aux besoins des juridictions financières du XIXe siècle et correctement au XXe siècle, a trouvé ses limites avec le développement des démarches et des outils numériques de rédaction collaborative.
+
+### Le défi : développer des outils de rédaction collaborative et d’exploration de données pour transformer les métiers des juridictions financières
+
+Le défi proposé à la troisième promotion EIG est le suivant :
+
+> * **imaginer et prototyper la chaîne de conception, de production et de délibération des écrits de la Cour et de CRTC**, voire d’autres services publics, à l’époque des wikis, de Git et de Markdown. Ce projet permettra de transformer profondément l’approche des juridictions financières dans l’élaboration de leurs écrits en facilitant la collaboration au sein des équipes et en refondant le processus délibératif. En mettant en commun les demandes formulées aux administrations contrôlées et aux justiciables, la Cour et les CRTC pourront transposer à leurs procédures le principe « dites-le nous une fois » ;
+> * **fouiller les corpus de texte collectés ou élaborés par les juridictions financières** pour valoriser la connaissance produite par les juridictions financières. L’exploration de textes recueillis ou produits et leur croisement avec des corpus externes pourront éclairer le choix des contrôles à lancer en priorité mais aussi aider les magistrats à identifier les positions déjà prises par les juridictions financières (JF) dans le cadre de travaux précédents.
+
+Ce projet sera l’occasion d’API-fier les applications « métier » des JF, afin de rendre les données disponibles encore plus accessibles au grand public. Un citoyen pourra ainsi accéder plus systématiquement aux documents de la Cour des comptes sous des formats techniquement réutilisables.
+
+## Rétrospective
+
+Implémenter de nouveaux outils et méthodes de travail dans l’administration, l’exemple du défi Plume
+
+{{< dailymotion x7o1569 "Vidéo présentant les réalisations du défi Plume">}}

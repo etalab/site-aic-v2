@@ -1,0 +1,69 @@
+baseurl = ""
+languageCode = "fr-fr"
+languageLang = "fr"
+title = "Entrepreneurs d'intérêt général"
+paginate = 8
+
+# RSS, categories and tags disabled for an easy start
+# See configuration options for more details: 
+# https://gohugo.io/getting-started/configuration/#toml-configuration
+# disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+removePathAccents = true
+
+[taxonomies]
+  theme = "themes"
+  promo = "promos"
+  expertise = "expertises"
+  category = "categories"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.nav]]
+    name = "Programme"
+    url = "/programme"
+    identifier = "program"
+    weight = 1
+  [[menu.nav]]
+    name = "Défis"
+    url = "/defis"
+    identifier = "impact"
+    weight = 2
+  [[menu.nav]]
+    name = "Participants"
+    url = "/participants"
+    identifier = "participants"
+    weight = 3
+  
+  [[menu.nav]]
+    name = "Talents EIG"
+    url = "/talents"
+    parent = "participants"
+    weight = 1
+
+  [[menu.nav]]
+    name = "Agents publics"
+    url = "/agents"
+    parent = "participants"
+    weight = 2
+
+  [[menu.nav]]
+    name = "Équipe"
+    url = "/equipe"
+    identifier = "team"
+    weight = 4
+  [[menu.nav]]
+    name = "Participer"
+    url = "/participer"
+    identifier = "participate"
+    weight = 5
+  [[menu.nav]]
+    name = "Contact"
+    url = "/contact"
+    identifier = "contact"
+    weight = 6

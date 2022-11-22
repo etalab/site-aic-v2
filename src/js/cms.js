@@ -1,0 +1,22 @@
+import React from "react";
+import CMS from "netlify-cms-app";
+// Import main site styles as a string to inject into the CMS preview pane
+import styles from "!to-string-loader!css-loader!postcss-loader!../css/main.css";
+import dsfr from "!to-string-loader!css-loader!postcss-loader!../css/dsfr.css";
+import DailymotionShortcode from "./shortcodes/dailymotion";
+import ArrowLinkShortcode from "./shortcodes/arrow-link";
+// import HomePreview from "./cms-preview-templates/home";
+// import PostPreview from "./cms-preview-templates/post";
+// import ProductsPreview from "./cms-preview-templates/products";
+// import ValuesPreview from "./cms-preview-templates/values";
+// import ContactPreview from "./cms-preview-templates/contact";
+CMS.registerPreviewStyle(styles, { raw: true });
+CMS.registerPreviewStyle(dsfr, { raw: true });
+CMS.registerEditorComponent(DailymotionShortcode);
+CMS.registerEditorComponent(ArrowLinkShortcode);
+// CMS.registerPreviewTemplate("home", HomePreview);
+// CMS.registerPreviewTemplate("post", PostPreview);
+// CMS.registerPreviewTemplate("products", ProductsPreview);
+// CMS.registerPreviewTemplate("values", ValuesPreview);
+// CMS.registerPreviewTemplate("contact", ContactPreview);
+CMS.init();

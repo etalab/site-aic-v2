@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="96px" viewBox="0 0 61 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/sablier</title>
+    <g id="Lot-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="05_Participer-Candidats-OFF" transform="translate(-290.000000, -3368.000000)">
+            <g id="Group" transform="translate(222.000000, 3274.000000)">
+                <g transform="translate(48.000000, 90.000000)" id="sablier">
+                    <polygon id="Path" fill="#00C8C8" fill-rule="nonzero" points="80.2672 99.2784 50.3412 49.7302 20.4126 99.2784"></polygon>
+                    <polygon id="Path" fill="#00C8C8" fill-rule="nonzero" points="20.4126 4.94 50.3412 54.4882 80.2672 4.94"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="37.154 79.2688 27.2246 95.706 73.736 95.706 63.8066 79.2688"></polygon>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="49.7666" y="54.9692" width="1.43" height="5.0024"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="49.7666" y="62.829" width="1.43" height="5.0024"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="49.7666" y="70.6914" width="1.43" height="5.0024"></rect>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="50.388 47.5098 60.9934 29.9546 39.7826 29.9546"></polygon>
+                    <rect id="Rectangle" x="0" y="0" width="104" height="104"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

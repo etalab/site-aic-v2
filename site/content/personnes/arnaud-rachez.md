@@ -1,0 +1,15 @@
+---
+title: Arnaud Rachez
+job: Data scientist
+promos:
+  - Promotion 2
+role: participant
+defis:
+  - CoachÉlèves
+expertises:
+- Data science
+image: img/arnaud-rachez.jfif
+github: https://github.com/zermelozf
+---
+
+“J’ai débuté comme ingénieur spécialisé dans le traitement des langues sur le projet IBM Watson en 2013, puis j’ai rejoint Google en tant qu’analyste. Passionné par l’éducation et les langues, j’ai décidé ensuite d’aller étudier le japonais à Tokyo et fondé Linalgo, une startup utilisant le traitement des langues pour en faciliter l’apprentissage. Après un passage par la Corée et une incubation à Singapour, je suis revenu en France pour intégrer la promotion EIG2 et relever le défi lancé par l’Éducation nationale.”

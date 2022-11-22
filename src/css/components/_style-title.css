@@ -1,0 +1,23 @@
+.c-style-title {
+  color: var(--bf500);
+
+  span {
+    padding: 0 4px;
+    background-color: #00c8c7;
+
+    &:nth-child(2) {
+      color: #fff;
+      background-color: var(--bf500);
+    }
+
+    &:nth-child(3) {
+      padding: 0;
+      background-color: transparent;
+      box-shadow: 0 4px 0 0 #e1000f;
+
+      @media (min-width: 48em) {
+        box-shadow: 0 8px 0 0 #e1000f;
+      }
+    }
+  }
+}

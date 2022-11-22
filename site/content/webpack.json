@@ -1,0 +1,31 @@
+{
+  "main": {
+    "js": "main.js"
+  },
+  "cms": {
+    "js": "cms.js"
+  },
+  "": {
+    "woff": [
+      "fonts/Spectral-ExtraBold.woff",
+      "fonts/Spectral-Regular.woff",
+      "fonts/Marianne-Bold_Italic.woff",
+      "fonts/Marianne-Light_Italic.woff",
+      "fonts/Marianne-Regular_Italic.woff",
+      "fonts/Marianne-Bold.woff",
+      "fonts/Marianne-Regular.woff",
+      "fonts/Marianne-Light.woff"
+    ],
+    "woff2": [
+      "fonts/Spectral-ExtraBold.woff2",
+      "fonts/Spectral-Regular.woff2",
+      "fonts/Marianne-Bold_Italic.woff2",
+      "fonts/Marianne-Regular_Italic.woff2",
+      "fonts/Marianne-Light_Italic.woff2",
+      "fonts/Marianne-Bold.woff2",
+      "fonts/Marianne-Regular.woff2",
+      "fonts/Marianne-Light.woff2"
+    ],
+    "keep": "fonts/.keep"
+  }
+}

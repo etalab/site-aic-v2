@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="fr">
+{{ partial "head" . }}
+
+<body class="sans-serif">
+
+  {{ block "header" . }}{{ partial "nav" . }}{{end}}
+
+  <main role="main" id="contenu">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+
+  <script src="/tarteaucitron/tarteaucitron.js"></script>
+  {{ $script := .Site.Data.webpack.main }}
+  {{ with $script.js }}
+  <script src="{{ relURL . }}"></script>
+  {{ end }}
+</body>
+
+</html>

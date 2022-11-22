@@ -1,0 +1,71 @@
+{{ define "main" }}
+
+<div class="fr-container">
+  <div class="fr-grid-row fr-grid-row--center">
+    <div class="fr-col-12 fr-col-lg-10">
+      <nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+        <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-192">Voir le fil
+          d’Ariane</button>
+        <div class="fr-collapse" id="breadcrumb-192">
+          <ol class="fr-breadcrumb__list">
+            <li>
+              <a class="fr-breadcrumb__link" href="{{ .Site.BaseURL }}">Accueil</a>
+            </li>
+            <li>
+              <a class="fr-breadcrumb__link" href="{{ relref . " participer" }}">Participer</a>
+            </li>
+            <li>
+              <a class="fr-breadcrumb__link" aria-current="page">{{ .Title }}</a>
+            </li>
+          </ol>
+        </div>
+      </nav>
+      <div class="c-wysiwyg fr-mb-12v">
+        <h1 class="fr-mb-8v">{{ .Params.head.title }}</h1>
+        <div class="fr-text--xl">
+          {{ partial "markdownify-block" .Params.head.desc }}
+        </div>
+        {{ if .Params.open }}
+        <div class="fr-mb-12v c-multi-btns">
+          <a href="{{ .Params.head.apply.url }}" class="fr-btn fr-btn--lg">{{ .Params.head.apply.title }}</a>
+          <a href="{{ .Params.head.call.url }}" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right"
+            target="_blank">{{ .Params.head.call.title }}</a>
+        </div>
+        {{ end }}
+        <div class="c-wysiwyg u-text-lg">
+          {{ .Params.program | markdownify }}
+          <h2>{{ .Params.criteria.title }}</h2>
+          {{ partial "markdownify-block" .Params.criteria.desc }}
+          {{ range .Params.criteria.list }}
+          <h3 class="fr-h4"><span class="fr-tag fr-tag--fix-center">Critère {{ .num }}</span> {{ .name }}</h3>
+          <p class="fr-mb-8v">{{ .desc }}</p>
+          {{ end }}
+          {{ partial "markdownify-block" .Params.steps }}
+          {{ if not .Params.open }}
+          <div class="c-wait fr-mb-6v">
+            <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--middle">
+              <div class="fr-col-12 fr-col-sm-3 fr-col-md-2 c-wait__icon">
+                <img src="/img/hourglass.svg" alt="">
+              </div>
+              <div class="fr-col-12 fr-col-sm-9 fr-col-md-10">
+                <h3>{{ .Params.wait.title }}</h3>
+                {{ partial "markdownify-block" .Params.wait.desc }}
+              </div>
+            </div>
+          </div>
+          {{ end }}
+
+          {{ if .Params.open }}
+          <div class="fr-mb-12v c-multi-btns">
+            <a href="{{ .Params.head.apply.url }}" class="fr-btn fr-btn--lg">{{ .Params.head.apply.title }}</a>
+            <a href="{{ .Params.head.call.url }}" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right"
+              target="_blank">{{ .Params.head.call.title }}</a>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ end }}

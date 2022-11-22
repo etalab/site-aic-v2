@@ -1,0 +1,110 @@
+{{ define "main" }}
+
+<div class="fr-container">
+  <div class="fr-grid-row fr-grid-row--center">
+    <div class="fr-col-12 fr-col-lg-10">
+      <nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+        <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-192">Voir le fil
+          d’Ariane</button>
+        <div class="fr-collapse" id="breadcrumb-192">
+          <ol class="fr-breadcrumb__list">
+            <li>
+              <a class="fr-breadcrumb__link" href="{{ .Site.BaseURL }}">Accueil</a>
+            </li>
+            <li>
+              <a class="fr-breadcrumb__link" href="{{ relref . " participer" }}">Participer</a>
+            </li>
+            <li>
+              <a class="fr-breadcrumb__link" aria-current="page">{{ .Title }}</a>
+            </li>
+          </ol>
+        </div>
+      </nav>
+      <h1 class="fr-mb-8v">{{ .Title }}</h1>
+      <div class="c-wysiwyg fr-mb-12v">
+        <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
+          {{ range .Params.head.questions }}
+          <div class="fr-col-12 fr-col-md-6 fr-col-lg-4">
+            <div class="c-card-plus">
+              {{ .question }}
+            </div>
+          </div>
+          {{ end }}
+        </div>
+        <h2 class="fr-h4">{{ .Params.head.sub }}</h2>
+        {{ if .Params.open }}
+        <div class="fr-mb-18v c-multi-btns">
+          <a href="{{ .Params.head.apply.url }}" class="fr-btn fr-btn--lg">{{ .Params.head.apply.title }}</a>
+          <a href="{{ .Params.head.call.url }}" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right"
+            target="_blank">{{ .Params.head.call.title }}</a>
+        </div>
+        {{ end }}
+        <h2>{{ .Params.def.title }}</h2>
+        <div class="fr-callout fr-mb-18v">
+          <h4 class="fr-callout__title">{{ .Params.def.info.title }}</h4>
+          <div class="fr-callout__text">
+            {{ .Params.def.info.desc | markdownify }}
+          </div>
+        </div>
+        <h2>{{ .Params.what.title }}</h2>
+        <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
+          {{ range .Params.what.defs }}
+          <div class="fr-col-12 fr-col-md-4 fr-col-xl-3">
+            <div class="c-card-alt fr-h5 fr-mb-0">{{ .def }}</div>
+          </div>
+          {{ end }}
+        </div>
+        <h3>{{ .Params.profiles.title }}</h3>
+        <div class="u-text-lg">
+          {{ .Params.profiles.desc | markdownify }}
+        </div>
+        <div class="c-link-head">
+          <h4 class="fr-h5">{{ .Params.profiles.sub }}</h4>
+          <a class="fr-btn fr-fi-arrow-right-line fr-btn--secondary" href="/talents">Les talents EIG</a>
+        </div>
+        <div class="fr-grid-row fr-grid-row--gutters fr-mb-10v">
+          {{ $personnes := where (where .Site.Pages "Section" "personnes") ".Title" "in" .Params.profiles.list }}
+          {{ if ( gt ( len $personnes ) 0 ) }}
+          {{ range $personnes }}
+          <div class="fr-col-12 fr-col-sm-6 fr-col-md-4">
+            {{ .Render "li" }}
+          </div>
+          {{ end }}
+          {{ end }}
+        </div>
+        <h3>{{ .Params.conditions.title }}</h3>
+        <div class="u-text-lg">
+          {{ .Params.conditions.desc | markdownify }}
+        </div>
+        <h2>{{ .Params.how.title }}</h2>
+        <div class="u-text-lg">
+          {{ .Params.how.desc | markdownify }}
+        </div>
+        {{ if not .Params.open }}
+        <div class="c-wait fr-mb-6v">
+          <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--middle">
+            <div class="fr-col-12 fr-col-sm-3 fr-col-md-2 c-wait__icon">
+              <img src="/img/hourglass.svg" alt="">
+            </div>
+            <div class="fr-col-12 fr-col-sm-9 fr-col-md-10">
+              <h3>{{ .Params.wait.title }}</h3>
+              <div class="u-text-lg">
+                {{ partial "markdownify-block" .Params.wait.desc }}
+              </div>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+        {{ if .Params.open }}
+        <div class="fr-mb-12v c-multi-btns">
+          <a href="{{ .Params.head.apply.url }}" class="fr-btn fr-btn--lg">{{ .Params.head.apply.title }}</a>
+          <a href="{{ .Params.head.call.url }}" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right"
+            target="_blank">{{ .Params.head.call.title }}</a>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ end }}

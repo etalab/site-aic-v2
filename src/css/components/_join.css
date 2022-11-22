@@ -1,0 +1,32 @@
+.c-join {
+  color: #fff;
+  padding: 2rem 0;
+  position: relative;
+  background-color: var(--bf500);
+
+  @media (min-width: 48em) {
+    padding: 4rem 0;
+  }
+
+  .fr-btn {
+    background-color: var(--w-bf500);
+    color: var(--bf500);
+    --color-hover: var(--block-color-hover) !important;
+    --color-active: var(--block-color-active) !important;
+  }
+
+  &__img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 40vw;
+    height: 100%;
+
+    img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+}

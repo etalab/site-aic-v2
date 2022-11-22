@@ -1,0 +1,43 @@
+<head>
+  <link href="/dsfr.css" rel="stylesheet">
+  <title>{{ $.Site.Title }} - {{ .Title }}</title>
+
+  {{ $stylesheet := .Site.Data.webpack.main }}
+  {{ with $stylesheet.css }}
+  <link href="{{ relURL . }}" rel="stylesheet">
+  {{ end }}
+
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <base href="{{ if getenv " CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT" )) (getenv "URL" )
+    (getenv "DEPLOY_PRIME_URL" ) }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
+  {{ if .Description }}
+  <meta name="description" content="{{ .Description }}" />
+  {{ else }}
+  <meta name="description" content="Explorez les projets qui démarreront en septembre 2021" />
+  {{ end }}
+
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png"><!-- 180×180 -->
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <!-- si favicon.ico peut etre placé à la racine du serveur, retirer la ligne ci-dessous -->
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><!-- 32×32 -->
+  <link rel="manifest" href="/manifest.webmanifest" crossorigin="use-credentials">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="business.business">
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:image"
+    content="{{ $.Site.BaseURL }}{{ if .Params.ogImage }}{{ .Params.ogImage }}{{ else if .Params.image }}{{ .Params.image }}{{ else }}img/og-image.jpg{{ end }}">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:title" content="{{ .Title }}">
+  <meta property="twitter:image"
+    content="{{ $.Site.BaseURL }}{{ if .Params.ogImage }}{{ .Params.ogImage }}{{ else if .Params.image }}{{ .Params.image }}{{ else }}img/og-image.jpg{{ end }}">
+
+  {{ if .IsHome }}
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  {{ end }}
+</head>

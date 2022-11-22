@@ -1,0 +1,31 @@
+.c-error {
+  text-align: center;
+  padding: 60px 0 200px;
+  position: relative;
+
+  @media (min-width: 48em) {
+    padding: 120px 0 240px;
+  }
+
+  &__illu {
+    width: 240px;
+    height: auto;
+    position: absolute;
+    bottom: 0;
+    left: -70px;
+
+    @media (min-width: 62em) {
+      width: 520px;
+      left: -170px;
+    }
+  }
+
+  h1 {
+    strong {
+      display: block;
+      font-size: 72px;
+      line-height: 1;
+      margin-bottom: 10px;
+    }
+  }
+}

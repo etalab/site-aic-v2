@@ -1,0 +1,3 @@
+{{ $target := .Get "target" }}
+<a href="{{ .Get "url" }}" class="fr-link fr-fi-arrow-right-line fr-link--icon-right" target="{{ if eq $target "true" }}_blank{{ else }}_self{{ end }}">{{ .Get "title" }}</a>
+

@@ -1,0 +1,55 @@
+{{ define "main" }}
+
+<div class="fr-container">
+  <div class="fr-grid-row fr-grid-row--center">
+    <div class="fr-col-12 fr-col-lg-10">
+      <nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+        <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-192">Voir le fil d’Ariane</button>
+        <div class="fr-collapse" id="breadcrumb-192">
+          <ol class="fr-breadcrumb__list">
+            <li>
+              <a class="fr-breadcrumb__link" href="{{ .Site.BaseURL }}">Accueil</a>
+            </li>
+            <li>
+              <a class="fr-breadcrumb__link" href="{{ relref . "participer" }}">Participer</a>
+            </li>
+            <li>
+              <a class="fr-breadcrumb__link" href="{{ relref . "candidats" }}">{{ (site.GetPage "/participer/candidats").Title }}</a>
+            </li>
+            <li>
+              <a class="fr-breadcrumb__link" aria-current="page">{{ .Title }}</a>
+            </li>
+          </ol>
+        </div>
+      </nav>
+      <h1 class="fr-mb-8v">{{ .Title }}</h1>
+      <div class="c-wysiwyg fr-mb-10v">
+        <div class="fr-callout">
+          <h4 class="fr-callout__title">{{ .Params.callout.title }}</h4>
+          <div class="fr-callout__text">{{ partial "markdownify-block" .Params.callout.desc }}</div>
+        </div>
+        <h2>{{ .Params.how.title }}</h2>
+        {{ .Params.how.desc | markdownify }}
+        <h2>{{ .Params.steps.title }}</h2>
+        {{ range .Params.steps.dates }}
+        <p class="fr-h5 fr-mb-3v u-color-primary">{{ .date }}</p>
+        <div class="fr-mb-8v">{{ partial "markdownify-block" .desc }}</div>
+        {{ end }}
+        {{ .Params.questions | markdownify }}
+        <div class="fr-card fr-card--horizontal fr-enlarge-link fr-mt-10v">
+          <div class="fr-card__body">
+            <h4 class="fr-card__title">
+              <a href="{{ .Params.join.link }}" class="fr-card__link">{{ .Params.join.title }}</a>
+            </h4>
+            <p class="fr-card__desc">{{ .Params.join.desc }}</p>
+          </div>
+          <div class="fr-card__img">
+            <img src="{{ .Params.join.image }}" class="fr-responsive-img" alt="" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ end }}

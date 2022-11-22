@@ -1,0 +1,3 @@
+baseURL = 'https://demo.static-cluster.infra.data.gouv.fr'
+languageCode = 'en-us'
+title = 'Site EIG'

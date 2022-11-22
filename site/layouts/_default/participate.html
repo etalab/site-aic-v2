@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<div class="c-participate">
+  <div class="fr-container">
+    <div class="fr-grid-row fr-grid-row--center">
+      <div class="fr-col-12 fr-col-lg-10">
+        <h1 class="c-participate__title">{{ .Title }}</h1>
+        <ul class="fr-btns-group fr-btns-group--inline">
+          <li><a href="{{ relref . "candidats" }}" class="fr-btn">Candidates et candidats</a></li>
+          <li><a href="{{ relref . "administrations" }}" class="fr-btn">Administrations</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ end }}

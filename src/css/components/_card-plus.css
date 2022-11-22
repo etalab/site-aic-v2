@@ -1,0 +1,15 @@
+.c-card-plus {
+  padding: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 1.33;
+  color: var(--bf500);
+  border: 8px solid #00c8c8;
+
+  @media (min-width: 48em) {
+    font-size: 1.75rem;
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+  }
+}

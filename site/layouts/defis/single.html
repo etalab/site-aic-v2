@@ -1,0 +1,88 @@
+{{ define "main" }}
+
+<div class="fr-container">
+  <div class="fr-mb-10v fr-grid-row fr-grid-row--center">
+    <div class="fr-col-12 fr-col-lg-10 fr-col-xl-8">
+      <nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+        <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-192">Voir le fil
+          d’Ariane</button>
+        <div class="fr-collapse" id="breadcrumb-192">
+          <ol class="fr-breadcrumb__list">
+            <li>
+              <a class="fr-breadcrumb__link" href="/">Accueil</a>
+            </li>
+            <li>
+              <a class="fr-breadcrumb__link" href="{{ relref . " defis" }}">Défis</a>
+            </li>
+            <li>
+              <a class="fr-breadcrumb__link" aria-current="page">{{ .Title }}</a>
+            </li>
+          </ol>
+        </div>
+      </nav>
+      <div class="c-project-head fr-mb-8v">
+        <div class="fr-grid-row fr-grid-row--gutters">
+          <div class="fr-col-12 fr-col-lg-3">
+            <img src="/{{ .Params.image }}" alt="" class="c-project-head__picto">
+          </div>
+          <div class="fr-col-12 fr-col-lg-9">
+            <h1 class="c-project-head__title">{{ .Title }}</h1>
+            <p class="fr-h4 fr-mb-2v">{{ replace .Description "\n" "<br />" | safeHTML }}</p>
+            <ul class="fr-tags-group fr-mb-2v">
+              {{ range $index, $themes := .Params.themes }}
+              <li>
+                <p class="fr-tag">{{ . }}</p>
+              </li>
+              {{ end }}
+              {{ range $index, $promos := .Params.promos }}
+              <li>
+                <p class="fr-tag">{{ . }}</p>
+              </li>
+              {{ end }}
+            </ul>
+            <p class="fr-mb-2v"><strong>{{ .Params.who }}</strong></p>
+            <p class="c-project-head__meta fr-mb-1v">
+              <img src="/img/icon-marker.svg" alt=""> {{ if .Params.place }} {{ .Params.place }} | {{ end }} {{
+              .Params.town }}
+            </p>
+            <p class="c-project-head__meta">
+              <img src="/img/icon-team.svg" alt="">
+              {{ range $index, $exp := .Params.expertises }}{{ if gt $index 0 }}, {{ end }}{{ . }}{{ end }}
+            </p>
+          </div>
+        </div>
+      </div>
+      {{ $personnes := where (where .Site.Pages "Section" "personnes") ".Params.defis" "intersect" (slice .Title) }}
+      {{ $personnes := sort $personnes "Params.role" "desc" }}
+      {{ if ( gt ( len $personnes ) 0 ) }}
+      <h2>L’équipe</h2>
+      <div class="fr-mb-12v">
+        <div class="fr-grid-row fr-grid-row--gutters">
+          {{ range $personnes | first 3 }}
+          <div class="fr-col-12 fr-col-sm-6 fr-col-md-4">
+            {{ .Render "li" }}
+          </div>
+          {{ end }}
+        </div>
+        {{ if ( gt ( len $personnes ) 3 ) }}
+        <div id="team-more" class="fr-collapse fr-mt-4v">
+          <div class="fr-grid-row fr-grid-row--gutters">
+            {{ range $personnes | after 3 }}
+            <div class="fr-col-12 fr-col-sm-6 fr-col-md-4">
+              {{ .Render "li" }}
+            </div>
+            {{ end }}
+          </div>
+        </div>
+        <button class="fr-link js-toggle" aria-expanded="false" aria-controls="team-more">Afficher plus</button>
+        {{ end }}
+      </div>
+      {{ end }}
+      <div class="c-wysiwyg">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ end }}

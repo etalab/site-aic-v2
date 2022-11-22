@@ -1,0 +1,54 @@
+.c-section {
+  padding: 2rem 0;
+  background-color: rgba(0, 200, 199, 0.1);
+
+  &--white {
+    background-color: transparent;
+  }
+
+  &--blue {
+    background-color: #f2f2f9;
+  }
+
+  @media (min-width: 48em) {
+    padding: 3rem 0;
+  }
+
+  &__head {
+    text-align: center;
+
+    h2 {
+      color: var(--bf500);
+    }
+  }
+
+  &__btn {
+    text-align: center;
+  }
+
+  .fr-tag {
+    color: var(--bf500-plain);
+    background-color: var(--bf200-bf300);
+  }
+
+  &__agent-info {
+    font-weight: bold;
+
+    a {
+      box-shadow: none;
+    }
+  }
+
+  &__agent {
+    text-align: center;
+
+    @media (min-width: 62em) {
+      text-align: left;
+    }
+    &--only {
+      @media (min-width: 48em) {
+        text-align: left;
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+<div class="fr-container">
+  <div class="fr-grid-row fr-grid-row--center">
+    <div class="fr-col-12 fr-col-lg-10">
+      <nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+        <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-192">Voir le fil
+          d’Ariane</button>
+        <div class="fr-collapse" id="breadcrumb-192">
+          <ol class="fr-breadcrumb__list">
+            <li>
+              <a class="fr-breadcrumb__link" href="{{ .Site.BaseURL }}">Accueil</a>
+            </li>
+            <li>
+              <a class="fr-breadcrumb__link" href="{{ relref . " participer" }}">Participer</a>
+            </li>
+            <li>
+              <a class="fr-breadcrumb__link" href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a>
+            </li>
+            <li>
+              <a class="fr-breadcrumb__link" aria-current="page">{{ .Title }}</a>
+            </li>
+          </ol>
+        </div>
+      </nav>
+      <h1 class="fr-mb-8v">{{ .Title }}</h1>
+      {{ range $index, $question := .Params.questions }}
+      <section class="fr-accordion">
+        <h3 class="fr-accordion__title">
+          <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-{{ $index }}">{{ .title
+            }}</button>
+        </h3>
+        <div class="fr-collapse" id="accordion-{{ $index }}">
+          {{ partial "markdownify-block" .desc }}
+        </div>
+      </section>
+      {{ end }}
+      <div class="c-wysiwyg fr-mb-12v">
+        {{ partial "markdownify-block" .Params.contact }}
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ end }}
