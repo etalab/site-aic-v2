@@ -1,7 +1,7 @@
 baseurl = ""
 languageCode = "fr-fr"
 languageLang = "fr"
-title = "Entrepreneurs d'intérêt général"
+title = "Test Jamstack"
 paginate = 8
 
 # RSS, categories and tags disabled for an easy start

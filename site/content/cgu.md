@@ -7,14 +7,6 @@ url: /cgu
 
 Ce site est édité par l'équipe Entrepreneurs d'intérêt général, programme d’innovation numérique des Services du Premier Ministre porté par Etalab, à la Direction interministérielle du numérique..
 
-DINUM\
-20 avenue de Ségur\
-75007 Paris\
-Tel. accueil : 01.71.21.01.70
-
-SIRET : 12000101100010 (secrétariat général du gouvernement)\
-SIREN : 120 001 011
-
 ## Directeur de publication
 
 Pour les sujets relevant de la DINUM (transformation numérique de l’État) : Nadi Bou Hanna, directeur interministériel du numérique.
