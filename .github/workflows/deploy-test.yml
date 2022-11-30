@@ -1,9 +1,9 @@
-name: Build Pages
+name: Build Pages Testing
 
 on:
   push:
     branches:
-      - prod  # Set a branch to deploy
+      - master  # Set a branch to deploy
 
 jobs:
   build:
@@ -51,5 +51,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: pages
-          publish_dir: ./dist
-          destination_dir: dist
+          publish_dir: ./docs
+          destination_dir: docs
