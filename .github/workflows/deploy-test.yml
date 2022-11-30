@@ -49,4 +49,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: pages
           publish_dir: ./dist
-          destination_dir: dist
+          destination_dir: ./
