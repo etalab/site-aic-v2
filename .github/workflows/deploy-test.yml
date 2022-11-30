@@ -6,7 +6,7 @@ on:
       - master  # Set a branch to deploy
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-22.04
     permissions:
       pages: write
@@ -37,11 +37,6 @@ jobs:
       - name: Build
         run: npm run build
 
-  # Deployment job
-  deploy:
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/master' }}
