@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: master
-  repo: Pierre-Guichard/clone-test
+  repo: Pierre-Guichard/Pierre-Guichard.github.io
   # base_url: https://oauth.app.etalab.studio
 
 
