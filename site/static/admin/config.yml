@@ -2,8 +2,8 @@ backend:
   name: github
   branch: master
   repo: Pierre-Guichard/Pierre-Guichard.github.io
-  base_url: https://pierre-guichard.github.io
-  auth_endpoint: api/auth
+  base_url: pierre-guichard.github.io
+  site_domain: magenta-flan-e6cf49.netlify.app
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
