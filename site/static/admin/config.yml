@@ -2,7 +2,7 @@ backend:
   name: github
   branch: master
   repo: Pierre-Guichard/Pierre-Guichard.github.io
-  # base_url: https://oauth.app.etalab.studio
+  base_url: https://oauth.app.etalab.studio
 
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
