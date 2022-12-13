@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Numérique public on Test Jamstack</title>
+    <link>/themes/numerique-public/</link>
+    <description>Recent content in Numérique public on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 27 Oct 2021 14:10:19 +0000</lastBuildDate><atom:link href="/themes/numerique-public/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MI - matchID</title>
+      <link>/defis/mi-matchid/</link>
+      <pubDate>Wed, 27 Oct 2021 14:10:19 +0000</pubDate>
+      
+      <guid>/defis/mi-matchid/</guid>
+      <description>Démonstration De nombreuses personnes décédées continuent à conduire. Du moins du point de vue du Fichier National des Permis de Conduire (SNPC), qui n’invalide pas automatiquement un permis si son possesseur décède. Cela pose à la fois des problèmes de sécurité quand ces permis sont utilisés par des conducteurs vivants et un problème de statistiques routières.
+L’analyse des données participe à l’amélioration de la sécurité sur les routes.
+L’outil développé par Martin, matchID, mêle des techniques d’analyse des données et de concordance partielle (“fuzzy matching”) et pour faire correspondre les noms contenus dans les fichiers du SNPC avec ceux contenus dans les registres de décès.</description>
+    </item>
+    
+    <item>
+      <title>MESRI - La machine à données</title>
+      <link>/defis/mesri-la-machine-a-donnees/</link>
+      <pubDate>Wed, 27 Oct 2021 14:02:12 +0000</pubDate>
+      
+      <guid>/defis/mesri-la-machine-a-donnees/</guid>
+      <description>Code source De nombreuses bases de données sont construites à la main, et les informations saisies ne se conforment pas aux référentiels existants. Par exemple, les noms des établissements scolaires pourront différer d’une base de données à l’autre. Comment nettoyer les données sans faire de la « reprise de données » manuelle ?
+Concevoir un outil générique pour faciliter le nettoyage de base de données.
+C’est à cette question que répond la « Magical Merge Machine », une solution développée par Léo et Laurent au Ministère de l’Enseignement Supérieur, de la Recherche et de l’Innovation (MESRI).</description>
+    </item>
+    
+    <item>
+      <title>MCC - Inventaire des orgues</title>
+      <link>/defis/mcc-inventaire-des-orgues/</link>
+      <pubDate>Wed, 27 Oct 2021 13:56:21 +0000</pubDate>
+      
+      <guid>/defis/mcc-inventaire-des-orgues/</guid>
+      <description>Démonstration Code source Dissimulés dans de petites églises de village, mis en valeur dans de célèbres cathédrales gothiques, exposés dans de petites ou grandes collections… les orgues. Instruments de musique, mais aussi objets d’art, ils fédèrent une communauté de passionnés aux connaissances très vastes et complètes. Organistes, historiens de l’art, membres d’associations des amis des orgues : tous souhaitent valoriser ce patrimoine caché.
+Révéler et valoriser le patrimoine des orgues grâce à une approche collaborative.</description>
+    </item>
+    
+    <item>
+      <title>DGFiP - fraude fiscale</title>
+      <link>/defis/dgfip-fraude-fiscale/</link>
+      <pubDate>Wed, 27 Oct 2021 13:52:59 +0000</pubDate>
+      
+      <guid>/defis/dgfip-fraude-fiscale/</guid>
+      <description>Monsieur Dupont habite en France mais il travaille au Luxembourg. Contrairement aux résidents fiscaux français percevant leurs revenus en France, il doit calculer et déclarer lui-même les revenus qu’il perçoit. Sur l’honneur… Pourtant, depuis l’été 2016, plusieurs pays de l’OCDE ont mis en place un système d’échange automatisé des informations (EAI) pour les revenus des résidents fiscaux d’un pays travaillant à l’étranger (salaires, retraites, etc.).
+Mettre les données au service de la justice fiscale.</description>
+    </item>
+    
+    <item>
+      <title>CC - API rapports</title>
+      <link>/defis/cc-api-rapports/</link>
+      <pubDate>Wed, 27 Oct 2021 13:48:51 +0000</pubDate>
+      
+      <guid>/defis/cc-api-rapports/</guid>
+      <description>Code source C’est à la Cour des comptes que les institutions publiques rendent des comptes sur leur gestion de l’argent public. Qu’elle soit saisie ou qu’elle se saisisse elle-même, la Cour des comptes produit un grand nombre de rapports. Destinés à la fois aux institutions concernées et aux citoyens, ces rapports ne sont pourtant disponibles qu’en PDF, un format peu exploitable par des citoyens curieux.
+Grâce à une approche par les données, les rapports de la Cour des comptes deviennent plus accessibles.</description>
+    </item>
+    
+    <item>
+      <title>Gobelins</title>
+      <link>/defis/gobelins/</link>
+      <pubDate>Tue, 26 Oct 2021 14:17:50 +0000</pubDate>
+      
+      <guid>/defis/gobelins/</guid>
+      <description>Démonstration Code source Le Mobilier national et ses manufactures créent, restaurent et conservent des meubles, tapisseries, œuvres… depuis le XVIIe siècle. Ces pièces exceptionnelles dessinées par Charles-André Boulle, Pierre Paulin ou encore Jean Nouvel sont principalement destinées à meubler des lieux publics. Elles sont donc difficilement consultables par les chercheurs, créateurs, historiens ou passionnés.
+Créer un outil didactique pour rendre accessibles ces objets historiques a été la volonté de l’équipe Gobelins.</description>
+    </item>
+    
+    <item>
+      <title>DataESR</title>
+      <link>/defis/dataesr/</link>
+      <pubDate>Tue, 26 Oct 2021 13:57:09 +0000</pubDate>
+      
+      <guid>/defis/dataesr/</guid>
+      <description>La recherche produit tous les jours des trésors de connaissance… et de données ! Des données, le Ministère de l’Enseignement Supérieur, de la Recherche et de l’Innovation en a donc en grande -très grande- quantité. Cependant, elles sont dispersées et ne partagent pas forcément des référentiels communs ce qui rend leur gestion, leur partage et leur utilisation par les citoyens très complexes.
+Aujourd’hui, la recherche se démocratise !
+Sami, Ambre et Maxime œuvrent à la médiation de ces données à travers une plateforme d’exposition et d’aide d’analyse des données pour l’ensemble des usagers, professionnels et grand public.</description>
+    </item>
+    
+    <item>
+      <title>ID numérique</title>
+      <link>/defis/id-numerique/</link>
+      <pubDate>Tue, 26 Oct 2021 08:08:07 +0000</pubDate>
+      
+      <guid>/defis/id-numerique/</guid>
+      <description>La problématique L’identité numérique est considérée comme un axe fondamental de la transformation numérique de la société et recouvre de nombreux enjeux - économiques, sociaux, publics, de souveraineté… C’est pourquoi une direction de programme interministériel a été mis en place en janvier 2018 afin de concevoir et mettre en œuvre un parcours d’identification numérique sécurisé, universel et inclusif pour les citoyens, les étrangers en situation régulière et les personnes morales. Il a été décidé de faire de la future Carte nationale d’identité électronique (CNIe) un support de l’identité numérique.</description>
+    </item>
+    
+    <item>
+      <title>FranceCo</title>
+      <link>/defis/franceco/</link>
+      <pubDate>Sun, 24 Oct 2021 14:38:38 +0000</pubDate>
+      
+      <guid>/defis/franceco/</guid>
+      <description>La problématique FranceConnect est un fédérateur d’identités numériques lancé par l’Etat (DINSIC) en 2015. Il permet de se connecter à des services en ligne en utilisant des comptes déjà existants (ameli, impots.gouv.fr, La Poste, MobileConnect et moi). En novembre 2018, FranceConnect s’est ouvert au secteur privé pour toutes les activités nécessitant réglementairement de vérifier l’identité de leurs utilisateurs. Or près de 40% des utilisateurs de FranceConnect ne vont pas jusqu’au terme de la connexion et l’équipe support reçoit de nombreuses remarques sur les difficultés de connexion.</description>
+    </item>
+    
+    <item>
+      <title>EIG3 Link</title>
+      <link>/defis/eig-link/</link>
+      <pubDate>Sun, 24 Oct 2021 14:04:27 +0000</pubDate>
+      
+      <guid>/defis/eig-link/</guid>
+      <description>Au sein de la mission Etalab, deux EIG rejoindront l’équipe en charge du programme EIG pour accompagner la troisième promotion des entrepreneurs et des mentors pendant 10 mois. Plusieurs objectifs : consolider le collectif EIG 3, apporter un soutien technique et méthodologique aux défis, valoriser et ouvrir les réalisations des équipes, et infuser une dynamique entrepreneuriale au sein de la DINUM.
+Comme l’indique le règlement de l’appel à candidatures, une connaissance fine de l’administration et du programme EIG est nécessaire pour relever le défi “EIG LINK”, pour faire le pont entre les équipes lauréates et l’administration et assurer la pérennisation des défis.</description>
+    </item>
+    
+    <item>
+      <title>Archifiltre</title>
+      <link>/defis/archifiltre/</link>
+      <pubDate>Thu, 14 Oct 2021 08:29:00 +0000</pubDate>
+      
+      <guid>/defis/archifiltre/</guid>
+      <description>Démonstration Code source Les archives sont comme un arbre : rassemblées en un endroit, elles ont de multiples ramifications qui mènent logiquement aux documents que l’on recherche. Dans ce monde d’arborescences, les archives des ministères sociaux constituent un enjeu de taille : tout (documents officiels, fiches, notes, mails…) doit être trié afin de conserver les documents à opposer en cas de réclamation. Or la multiplication des outils informatiques a contribué à la multiplication à la fois des données et des formats, rendant l’archivage encore plus compliqué.</description>
+    </item>
+    
+    <item>
+      <title>Plume</title>
+      <link>/defis/plume/</link>
+      <pubDate>Mon, 04 Oct 2021 14:17:10 +0000</pubDate>
+      
+      <guid>/defis/plume/</guid>
+      <description>La Cour des comptes souhaite développer un outil de rédaction collaborative de ses écrits et réaliser des analyses de données sur les textes utilisés et collectés par les juridictions financières. L’objectif sous-jacent : concevoir et présenter des rapports autrement, apporter un nouvel éclairage sur les contrôles à lancer en priorité, et consolider une doctrine de la Cour sur l’ensemble des politiques publiques qu’elle contrôle et évalue depuis sa création.
+Plume : finir de faire entrer les juridictions financières dans le XXIe siècle La problématique L’article 15 de la déclaration des droits de l’Homme et du citoyen dispose que « la société a le droit de demander compte à tout agent public de son administration ».</description>
+    </item>
+    
+    <item>
+      <title>DataReg</title>
+      <link>/defis/datareg/</link>
+      <pubDate>Mon, 04 Oct 2021 09:08:21 +0000</pubDate>
+      
+      <guid>/defis/datareg/</guid>
+      <description>L’Autorité de régulation des communications électroniques et des postes (ARCEP) souhaite faire passer à l’échelle des outils et des méthodes de régulation par la donnée (outil cartographique, tableaux de bords, API) afin de développer une régulation moderne, en lien avec ses utilisateurs (collectivités locales, services de l’Etat, consommateurs, entreprises régulées, etc.).
+DataReg : Maximiser l’exploitation des données pour permettre aux régulateurs des communications électroniques de gagner en efficacité La problématique Pour réguler les communications électroniques et les postes à l’ère du numérique, l’Arcep a souhaité développer la régulation par la donnée.</description>
+    </item>
+    
+    <item>
+      <title>CibNav</title>
+      <link>/defis/cibnav/</link>
+      <pubDate>Mon, 04 Oct 2021 08:59:57 +0000</pubDate>
+      
+      <guid>/defis/cibnav/</guid>
+      <description>La Direction des affaires maritimes (DAM), au sein du Ministère de la Transition écologique et solidaire, souhaite développer un outil de priorisation des contrôles des navires professionnels à partir de données métiers afin d’améliorer le respect des réglementations (sécurité des navires, équipages, conditions d’emploi).
+CibNav : Aider les agents en charge de la sécurité maritime à contrôler des navires professionnels en développant un outil de ciblage La problématique L’exploitation d’un navire professionnel est aujourd’hui soumise à une triple réglementation : sécurité du navire, composition et conditions d’emploi de l’équipage.</description>
+    </item>
+    
+    <item>
+      <title>SSP Datalab</title>
+      <link>/defis/ssp-datalab/</link>
+      <pubDate>Sun, 26 Sep 2021 12:26:34 +0000</pubDate>
+      
+      <guid>/defis/ssp-datalab/</guid>
+      <description>L’Insee en tant que coordinateur du service statistique public (SSP) souhaite développer une plateforme ergonomique de traitement des données statistiques afin de rendre les techniques modernes plus accessibles et de mutualiser les efforts pour répondre aux défis actuels de la statistique publique.
+La problématique : des outils et techniques de traitement de données difficiles d’accès et dépourvus d’environnements de test Le service statistique public est composé de 16 services statistiques ministériels et de l’Insee (Institut national de la statistique et des études économiques) qui en assure la coordination.</description>
+    </item>
+    
+    <item>
+      <title>SEDAccord</title>
+      <link>/defis/sedaccord/</link>
+      <pubDate>Thu, 23 Sep 2021 09:14:01 +0000</pubDate>
+      
+      <guid>/defis/sedaccord/</guid>
+      <description>Plusieurs ministères réunis afin de disposer d’un système d’archivage électronique souhaitent développer un outil de traitement des archives numériques à destination de l’ensemble des agents de l’administration. Il doit simplifier l’archivage et la mise en conformité des documents, et ainsi accélérer la transformation numérique de l’Etat.
+La problématique : un processus d’archivage numérique complexe qui repose sur des outils difficiles à prendre en main Des milliards d’objets numériques sont créés et échangés chaque jour par les administrations françaises : documents bureautiques, mails, comptes rendus de réunions, notes, plans…</description>
+    </item>
+    
+    <item>
+      <title>Atlas Culture</title>
+      <link>/defis/atlas-culture/</link>
+      <pubDate>Wed, 22 Sep 2021 14:40:18 +0000</pubDate>
+      
+      <guid>/defis/atlas-culture/</guid>
+      <description>L’Atlas Culture, c’est depuis 2017 une publication de 250 pages réalisée par le Département des études, de la prospective, des statistiques (Deps) du ministère de la Culture afin d’offrir une vision globale des dynamiques culturelles à l’échelle régionale.
+L’initiative de développer un atlas numérique interactif répond à plusieurs objectifs :
+  Enrichir le jeu de données présentées, disponibles de l&amp;rsquo;échelon national à l&amp;rsquo;ensemble des échelons territoriaux pour permettre la comparabilité Améliorer la lisibilité des données grâce à la visualisation (carte, graphiques, tableaux) et aux éléments de définition et d’analyse Permettre le croisement et l&amp;rsquo;articulation d&amp;rsquo;un plus grand nombre de données pour enrichir l&amp;rsquo;analyse des dynamiques territoriales   Destinée en priorité aux responsables d’affaires culturelles en administration déconcentrée et en collectivités territoriales pour éclairer la stratégie territoriale d’aménagement culturel, cette ressource sera également utile aux chargés d’étude en agences culturelles ainsi qu’aux professionnels et acteurs de la culture.</description>
+    </item>
+    
+  </channel>
+</rss>

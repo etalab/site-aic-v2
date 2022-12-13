@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formation on Test Jamstack</title>
+    <link>/themes/formation/</link>
+    <description>Recent content in Formation on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 22 Sep 2021 14:47:58 +0000</lastBuildDate><atom:link href="/themes/formation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CapQualif</title>
+      <link>/defis/capqualif/</link>
+      <pubDate>Wed, 22 Sep 2021 14:47:58 +0000</pubDate>
+      
+      <guid>/defis/capqualif/</guid>
+      <description>La sous-direction des gens de mer assure le suivi des marins (réglementation du travail, conditions de travail, protection sociale, emploi…) et est responsable des formations professionnelles maritimes. Afin de simplifier les démarches, elle souhaite développer un outil pour moderniser et automatiser la délivrance des titres des marins professionnels.
+La problématique : des services multiples qui compliquent et rallongent la délivrance des brevets et certificats La profession de marin est une profession réglementée par des conventions internationales et des directives européennes.</description>
+    </item>
+    
+    <item>
+      <title>ePSHAD</title>
+      <link>/defis/e-pshad/</link>
+      <pubDate>Wed, 12 May 2021 14:59:52 +0000</pubDate>
+      
+      <guid>/defis/e-pshad/</guid>
+      <description>Le contexte Les personnes en situation de handicap représentent aujourd’hui une population fragile sur le marché du travail, confrontées à un taux de chômage deux fois plus élevé que la population générale. Les établissements et services médicosociaux de réadaptation professionnelle ont pour mission de favoriser leur insertion professionnelle.
+La problématique Jusqu’alors, les personnes en situation de handicap devaient se déplacer, parfois très loin de leur domicile, pour bénéficier des services de ces établissements.</description>
+    </item>
+    
+  </channel>
+</rss>

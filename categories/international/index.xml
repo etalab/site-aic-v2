@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>International on Test Jamstack</title>
+    <link>/categories/international/</link>
+    <description>Recent content in International on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/international/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mobiliser des compétences numériques dans l&#39;administration : quelles initiatives à l&#39;étranger ?</title>
+      <link>/blog/benchmark-eig/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/benchmark-eig/</guid>
+      <description>Tour d&amp;rsquo;horizon international d&amp;rsquo;initiatives similaires au programme Entrepreneurs d&amp;rsquo;Intérêt Général Qu&amp;rsquo;est-ce que le programme Entrepreneurs d&amp;rsquo;Intérêt Général ?
+Le programme Entrepreneurs d&amp;rsquo;Intérêt Général permet d&amp;rsquo;intégrer pour 10 mois des profils numériques d&amp;rsquo;exception dans les administrations pour relever des défis d&amp;rsquo;amélioration du service public à l&amp;rsquo;aide du numérique et des données. Ces entrepreneurs sont épaulés par des mentors qui participent à leur bonne intégration au sein des administrations, et forment une promotion accompagnée toute l&amp;rsquo;année par une équipe d&#39;Etalab, au sein de la direction interministérielle du numérique.</description>
+    </item>
+    
+    <item>
+      <title>Public Interest Entrepreneurs, why, what and how</title>
+      <link>/blog/memo-anglais/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/memo-anglais/</guid>
+      <description>Inspired by the Presidential Innovation Fellows, the “Public Interest Entrepreneurs” program seeks to inspire in return.
+Its ambition: to champion the digital transformation of the government.
+Its key principle: during 10 months, a cohort of about 30 Public Interest Entrepreneurs work within public administrations in teams of 2 or 3 on challenges linked to data and digital transformation.
+All the rest –why we do it, how we do it and how we make it a success - is in the memo.</description>
+    </item>
+    
+  </channel>
+</rss>

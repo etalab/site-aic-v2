@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Réalisation on Test Jamstack</title>
+    <link>/categories/realisation/</link>
+    <description>Recent content in Réalisation on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 01 Apr 2021 15:26:54 +0000</lastBuildDate><atom:link href="/categories/realisation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[VIDEO] Bilan intermédiaire : où en est la promotion EIG 4 ?</title>
+      <link>/blog/video-bilan-intermediaire-ou-en-est-la-promotion-eig-4-1/</link>
+      <pubDate>Thu, 01 Apr 2021 15:26:54 +0000</pubDate>
+      
+      <guid>/blog/video-bilan-intermediaire-ou-en-est-la-promotion-eig-4-1/</guid>
+      <description>Voilà sept mois que la promotion 4 du programme Entrepreneurs d’Intérêt Général a démarré. En septembre 2020, 10 spécialistes en data science, 17 en développement et 14 en design ont rejoint l’écosystème du numérique public pour relever 17 défis d’intérêt général, aux côtés de 32 agents publics. Prévenir les conflits d’intérêts dans le domaine médical, contribuer à la transparence des fonds publics engagés pour les Jeux Olympiques 2024 ou faciliter le contrôle environnemental des sites industriels… autant d’enjeux auxquels se sont attaquées les équipes.</description>
+    </item>
+    
+    <item>
+      <title>[Vidéo] Retour sur 4 défis de la promotion Designers d’Intérêt Général</title>
+      <link>/blog/restitution-dig-environnement-biodiversite/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/restitution-dig-environnement-biodiversite/</guid>
+      <description>En juin 2019 a été lancé Designers d&amp;rsquo;Intérêt Général, un programme expérimental inspiré du programme Entrepreneurs d&amp;rsquo;Intérêt Général mais uniquement composé de designers (les deux programmes ont fusionné à la fin de la première promotion « DIG »). Quelques mois après la fin de leurs défis, quatre designers de la promotion nous livrent un retour d&amp;rsquo;expérience riche en apprentissages des défis portant sur l&amp;rsquo;environnement et la biodiversité. La restitution s&amp;rsquo;est faite à l&amp;rsquo;occasion du Meetup Design Public #5, qui s&amp;rsquo;est tenu le 26 novembre 2020 pendant le mois de l’innovation publique.</description>
+    </item>
+    
+    <item>
+      <title>Bulletins : notre outil open source de rétrospective hebdomadaire</title>
+      <link>/blog/bulletins-outil-retrospective-hebdomadaire/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/bulletins-outil-retrospective-hebdomadaire/</guid>
+      <description>Accompagner une trentaine de professionnels du numérique au sein de 15 défis dans autant d&amp;rsquo;administrations réparties dans différents lieux : c&amp;rsquo;est la mission que relève au quotidien l&amp;rsquo;équipe du programme Entrepreneurs d&amp;rsquo;Intérêt Général (EIG). Pluridisciplinaire, l&amp;rsquo;équipe appuie entrepreneurs d&amp;rsquo;intérêt général et mentors sur des aspects variés de leurs défis : stratégie, technique, gestion de projet, évaluation, communication, etc.
+Nous vous partageons un des moyens de communication que nous avons mis en place pour mener à bien notre mission d&amp;rsquo;accompagnement : la rétrospective hebdomadaire.</description>
+    </item>
+    
+    <item>
+      <title>Comment faire du design de services dans l&#39;administration ? L&#39;exemple du projet ACOSS-plateforme</title>
+      <link>/blog/le-design-de-services-dans-une-administration/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/le-design-de-services-dans-une-administration/</guid>
+      <description>Coline Lebaratoux a un diplôme supérieur d’arts appliqués en design de services et un master 2 en innovation sociale par le design. Après 4 années passées en agence en tant que designer de services, elle a intégré la promotion EIG 3 pour relever le défi ACOSS-plateforme. En binôme avec Anoureth Pongrattana, développeur full stack, ils ont pour mission de simplifier les démarches administratives liées au secteur de l’emploi à domicile.</description>
+    </item>
+    
+    <item>
+      <title>Le site des collections du Mobilier national : un outil, sept usages</title>
+      <link>/blog/site-mobilier-national-temoignages-utilisateurs/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/site-mobilier-national-temoignages-utilisateurs/</guid>
+      <description>En avril 2019 le Mobilier national rendait accessibles 65 000 meubles, œuvres et textiles sur son nouveau site collection.mobiliernational.culture.gouv.fr. Ces pièces d’une valeur historique et esthétique exceptionnelle étaient difficilement accessible jusque-là…
+Pour les révéler au public, les entrepreneurs d&amp;rsquo;intérêt général (EIG) Ned Baldessin et Laurie Chapotte ont choisi de concevoir un site en utilisant une démarche design, centrée utilisateur : afin de définir et prioriser leur travail, ils ont rencontré et questionné en amont les futurs utilisateurs.</description>
+    </item>
+    
+    <item>
+      <title>Entrepreneur·e d&#39;Intérêt Général - retour en image et en équipe sur les réalisations de la Promotion 2</title>
+      <link>/blog/restitution-eig2/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/restitution-eig2/</guid>
+      <description>La transformation numérique des administrations doit se faire en collaboration avec les citoyens. Pour cela, le programme Entrepreneur·e d&amp;rsquo;Intérêt Général s&amp;rsquo;est fixé une mission : créer des équipes constituées d&amp;rsquo;agents publics désireux d&amp;rsquo;innover et de professionnels du numérique engagés qui relèvent ensemble des défis d&amp;rsquo;intérêt général.
+Pour sa deuxième promotion, le programme a accueilli 28 EIG pour relever 13 défis. Découvrez dès à présent le résultat de 10 mois de travail !</description>
+    </item>
+    
+    <item>
+      <title>Comment prédire les incendies en ville ?</title>
+      <link>/blog/previsecours-causes-incendies-en-ville/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/previsecours-causes-incendies-en-ville/</guid>
+      <description>Incendies en ville : quelles causes probables ? Guillaume Lancrenon, développeur, Entrepreneur d&amp;rsquo;intérêt général pour le défi Prévisecours
+Depuis janvier 2018, je travaille avec Tiphaine Phe-Neau sur le défi Prévisecours, au service des sapeurs-pompiers. Ce défi fait partie du programme d’Etalab « Entrepreneur.e d&amp;rsquo;intérêt général » et il est porté par le ministère de l&amp;rsquo;Intérieur. L’objectif est simple : créer des algorithmes de prédictions d’intervention pour aider les pompiers de l’Essonne à mieux anticiper les ressources humaines et matérielles à mobiliser au quotidien.</description>
+    </item>
+    
+  </channel>
+</rss>

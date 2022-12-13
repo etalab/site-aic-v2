@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collectif on Test Jamstack</title>
+    <link>/categories/collectif/</link>
+    <description>Recent content in Collectif on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 01 Sep 2022 11:18:38 +0000</lastBuildDate><atom:link href="/categories/collectif/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entrepreneurs d’intérêt général : découvrez la 6ème promotion du programme !</title>
+      <link>/blog/entrepreneurs-dinteret-general-decouvrez-la-6eme-promotion-du-programme/</link>
+      <pubDate>Thu, 01 Sep 2022 11:18:38 +0000</pubDate>
+      
+      <guid>/blog/entrepreneurs-dinteret-general-decouvrez-la-6eme-promotion-du-programme/</guid>
+      <description>Développeuses, développeurs, data scientists, data engineers et designers… ils et elles seront 34 à rejoindre les rangs de l’administration française en septembre prochain. 34 « Entrepreneurs d’intérêt général », issus des secteurs public ou privé, jeunes et moins jeunes, aux expertises diverses dans la tech et le design. Derrière ces horizons pluriels, un désir commun de s’engager pour l’intérêt général et d’œuvrer pour la transformation numérique des administrations.
+Pendant 10 mois, les EIG vont concevoir et déployer des outils numériques en réponse à des défis identifiés par des agents publics, sur des thèmes aussi variés que la santé, l’environnement ou les affaires sociales.</description>
+    </item>
+    
+    <item>
+      <title> Qui sont et que font les « entrepreneurs d’intérêt général » ?</title>
+      <link>/blog/etre-eig/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/etre-eig/</guid>
+      <description>Chaque année, le programme Entrepreneurs d’Intérêt Général lance un appel à candidatures pour recruter des spécialistes du numérique qui améliorent le service public à l’aide du numérique et des données. Une fois sélectionnés, ces spécialistes deviennent entrepreneurs et entrepreneuses d’intérêt général. Mais qu’est-ce que cela veut dire, concrètement ?
+Voici tout ce que vous devez savoir sur le statut des EIG et la posture entrepreneuriale qui leur est demandée. Et pour plus de concret, découvrez les retours d’expériences d’anciennes et anciens EIG !</description>
+    </item>
+    
+    <item>
+      <title>Le programme EIG noue un partenariat avec l&#39;association Latitudes</title>
+      <link>/blog/partenariat-eig-latitudes/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/partenariat-eig-latitudes/</guid>
+      <description>Le programme Entrepreneurs d&amp;rsquo;Intérêt Général intègre pendant quelques mois des profils numériques d&amp;rsquo;exception dans les administrations pour relever des défis d&amp;rsquo;amélioration du service public à l&amp;rsquo;aide du numérique et des données.
+Au quotidien, l’équipe de coordination échange avec une multitude d&amp;rsquo;acteurs de la communauté du numérique d&amp;rsquo;intérêt général. Aujourd&amp;rsquo;hui, nous sommes fiers d&amp;rsquo;annoncer un partenariat avec l’un d’entre eux, l&amp;rsquo;association Latitudes.
+Pourquoi nouer un partenariat avec Latitudes ? La mission de Latitudes est de mettre la technologie au service de l&amp;rsquo;intérêt général.</description>
+    </item>
+    
+    <item>
+      <title>Comprendre nos difficultés et partager nos apprentissages</title>
+      <link>/blog/comprendre-nos-difficultes-et-partager-nos-apprentissages/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/comprendre-nos-difficultes-et-partager-nos-apprentissages/</guid>
+      <description>Le programme Entrepreneurs d&amp;rsquo;Intérêt Général ouvre l’administration à des data scientists, designers, développeuses et développeurs recrutés pour relever des défis d&amp;rsquo;amélioration du service public à l&amp;rsquo;aide du numérique et des données. En tant qu’entrepreneur(e)s d’intérêt général nous avons 10 mois pour résoudre un défi avec nos mentors et nos différentes parties prenantes.
+Pour que tous les défis réussissent, le programme a mis en place différents temps de partage et de production.</description>
+    </item>
+    
+    <item>
+      <title>Ouvrir les ressources du programme : notre documentation en ligne</title>
+      <link>/blog/documentation-programme/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/documentation-programme/</guid>
+      <description>Le programme Entrepreneurs d&amp;rsquo;Intérêt Général a pour objectif de faire travailler ensemble des personnes extérieures à l&amp;rsquo;administration aux compétences numériques pointues et des agents publics engagés dans une démarche d&amp;rsquo;innovation. Les entrepreneurs d&amp;rsquo;intérêt général sont répartis en binômes ou trinômes pluridisciplinaires. Ils interviennent dans les domaines du développement, du design et de la datascience. Avec les agents publics de leurs administrations d’accueil, ils ont 10 mois pour relever un défi d&amp;rsquo;amélioration du service public à l&amp;rsquo;aide du numérique et des données.</description>
+    </item>
+    
+    <item>
+      <title>Tour d’horizon des méthodes d’intelligence artificielle utilisées dans les défis EIG 3</title>
+      <link>/blog/tour-horizon-intelligence-artificielle-eig3/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/tour-horizon-intelligence-artificielle-eig3/</guid>
+      <description>Le programme Entrepreneurs d’Intérêt Général fait la part belle à la circulation des données et à leur exploitation. Pour la troisième promotion, 11 défis sur 15, portés par plusieurs administrations et portant sur des thématiques variées, expérimentent des techniques de pointe en intelligence artificielle. Nous vous présentons ici quelques cas d’usage de ces méthodes au sein de l’administration.
+Le programme EIG : une opportunité d&amp;rsquo;expérimentation pour l&amp;rsquo;administration Qu’est-ce que le programme EIG ?</description>
+    </item>
+    
+    <item>
+      <title>Accélérer les défis et fédérer la promotion : retours du premier séminaire « hors-les-murs » de la promotion EIG 3</title>
+      <link>/blog/retour-seminaire-mai-2019/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/retour-seminaire-mai-2019/</guid>
+      <description>Les 16 et 17 mai 2019, les entrepreneurs d&amp;rsquo;intérêt général (EIG) se sont retrouvés pour le premier séminaire « hors-les-murs » de l&amp;rsquo;année. Fort du succès de ce format que nous avons testé l’année dernière, nous avons reconduit l’expérience cette année. Ce premier séminaire à mi-parcours avait pour objectif de donner un coup d&amp;rsquo;accélérateur aux défis et de commencer à réfléchir à leur pérennisation.
+Pourquoi sortir les EIG de leurs administrations pendant deux jours et les réunir au vert ?</description>
+    </item>
+    
+    <item>
+      <title>[Vidéo] Qui sont les 32 entrepreneurs d&#39;intérêt général de la promotion 3 ?</title>
+      <link>/blog/video-presentation-eig-3/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/video-presentation-eig-3/</guid>
+      <description>Dans un précédent article, nous présentions les acteurs de l&amp;rsquo;écosystème de l&amp;rsquo;innovation publique que les EIG peuvent mobiliser pour relever leurs défis.
+Nous vous présentons maintenant les 32 EIG qui vont relever les 15 défis de la promotion 3.
+ </description>
+    </item>
+    
+    <item>
+      <title>Un point technique après deux mois du programme EIG</title>
+      <link>/blog/programme-eig-point-de-vue-technique/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/programme-eig-point-de-vue-technique/</guid>
+      <description>TL;DR: Les 28 « entrepreneur·es d&amp;rsquo;intérêt général » ne sont pas isolés les uns des autres : ils échangent et font progresser la cohérence technique du programme en mettant en place des outils mutualisés et des rituels. Mon défi EIG Link a pour mission d&amp;rsquo;encourager et de pérenniser cette cohésion de groupe et cette cohérence technique. On avance et ça se voit !
+Thérapie de groupe pour les EIG ! On parle de nos expériences tech lors du bootcamp © Zoe Jung.</description>
+    </item>
+    
+    <item>
+      <title>Comment souder un collectif de talents et assurer sa réussite - Retour sur le bootcamp d&#39;intégration de la promotion 2 des entrepreneurs d&#39;intérêt général</title>
+      <link>/blog/bootcamp-comment-souder-un-collectif-de-talents/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/bootcamp-comment-souder-un-collectif-de-talents/</guid>
+      <description>Retour sur le bootcamp d&amp;rsquo;intégration de la promotion 2 des entrepreneurs d&amp;rsquo;intérêt général La promotion 2 des EIG au Liberté Living Lab, qui accompagne la promotion aux côtés d’Etalab et accueille les EIG en tant que résidents-nomades. (© Liberté Living Lab)
+Lundi 5 février 2018, 9h : début de la semaine de bootcamp, pendant laquelle les entrepreneurs s’absentent des administrations d’accueil qu’ils ont intégrées le 15 janvier, pour se retrouver en promotion pour la première fois.</description>
+    </item>
+    
+  </channel>
+</rss>

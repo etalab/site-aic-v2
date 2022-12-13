@@ -1,0 +1,455 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <link href="/dsfr.css" rel="stylesheet">
+  <title>Test Jamstack - Comment prédire les incendies en ville ?</title>
+
+  
+  
+  <link href="/main.9b8d5.css" rel="stylesheet">
+  
+
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <base href="">
+  
+  <meta name="description" content="Guillaume est développeur au Ministère de l&#39;Intérieur pour le défi Prévisecours. Il nous explique comment son équipe a travaillé pour déterminer les facteurs les plus corrélés avec le volume d&#39;incendies urbains dans les différentes communes d&#39;Essonne." />
+  
+
+  
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="manifest" href="/manifest.webmanifest" crossorigin="use-credentials">
+
+  
+  <meta property="og:type" content="business.business">
+  <meta property="og:title" content="Comment prédire les incendies en ville ?">
+  <meta property="og:image"
+    content="img/guillaume-lancrenon.png">
+
+  
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:title" content="Comment prédire les incendies en ville ?">
+  <meta property="twitter:image"
+    content="img/guillaume-lancrenon.png">
+
+  
+</head>
+
+<body class="sans-serif">
+
+  <div class="fr-skiplinks">
+  <nav class="fr-container" role="navigation" aria-label="Accès rapide">
+    <ul class="fr-skiplinks__list">
+      <li>
+        <a class="fr-link" href="#contenu">Contenu</a>
+      </li>
+      <li>
+        <a class="fr-link" href="#navigation-804">Menu</a>
+      </li>
+      <li>
+        <a class="fr-link" href="#footer">Pied de page</a>
+      </li>
+    </ul>
+  </nav>
+</div>
+
+<header role="banner" class="fr-header" id="header-navigation">
+  <div class="fr-header__body">
+    <div class="fr-container">
+      <div class="fr-header__body-row">
+        <div class="fr-header__brand fr-enlarge-link">
+          <div class="fr-header__brand-top">
+            <div class="fr-header__logo">
+              <p class="fr-logo">
+                Ministère
+                <br>de la transformation
+                <br>et de la fonction
+                <br>publiques
+              </p>
+            </div>
+            <div class="fr-header__navbar">
+              <button class="fr-btn--menu fr-btn" data-fr-opened="false" aria-controls="modal-833" aria-haspopup="menu"
+                title="Menu">
+                Menu
+              </button>
+            </div>
+          </div>
+          <div class="fr-header__service">
+            <a href="/" title="Accueil - Test clone Jamstack">
+              <p class="fr-header__service-title">Test clone Jamstack</p>
+            </a>
+          </div>
+        </div>
+        <div class="fr-header__tools">
+          <div class="fr-header__tools-links">
+            <ul class="fr-links-group">
+              <li>
+                <a class="fr-link fr-fi-arrow-right-line" href="/participer/">Participer</a>
+              </li>
+              <li>
+                <a class="fr-link fr-fi-arrow-right-line" href="/blog/">Blog</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="fr-header__menu fr-modal" id="modal-833" role="navigation" aria-label="Menu principal">
+    <div class="fr-container">
+      <button class="fr-link--close fr-link" aria-controls="modal-833">Fermer</button>
+      <div class="fr-header__menu-links"></div>
+      <nav class="fr-nav" id="navigation-804" role="navigation" aria-label="Menu principal">
+        <ul class="fr-nav__list">
+          
+          
+          
+          
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+          
+          <li class="fr-nav__item">
+            <a class="fr-nav__link" href="/programme" target="_self" >Programme</a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+          
+          <li class="fr-nav__item">
+            <a class="fr-nav__link" href="/defis" target="_self" >Défis</a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+          
+          <li class="fr-nav__item">
+            <button class="fr-nav__btn" aria-expanded="false" aria-controls="menu-807" >Participants</button>
+            <div class="fr-collapse fr-menu" id="menu-807">
+              <ul class="fr-menu__list">
+                
+                <li>
+                  <a class="fr-nav__link" href="/talents" target="_self">Talents EIG</a>
+                </li>
+                
+                <li>
+                  <a class="fr-nav__link" href="/agents" target="_self">Agents publics</a>
+                </li>
+                
+              </ul>
+            </div>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+          
+          <li class="fr-nav__item">
+            <a class="fr-nav__link" href="/equipe" target="_self" >Équipe</a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+          
+          <li class="fr-nav__item">
+            <a class="fr-nav__link" href="/participer" target="_self" >Participer</a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+          
+          <li class="fr-nav__item">
+            <a class="fr-nav__link" href="/contact" target="_self" >Contact</a>
+          </li>
+          
+          
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+  <main role="main" id="contenu">
+    
+
+<div class="fr-container">
+  <div class="fr-mb-10v fr-grid-row fr-grid-row--center">
+    <div class="fr-col-12 fr-col-lg-10 fr-col-xl-8">
+      <nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+        <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-192">Voir le fil d’Ariane</button>
+        <div class="fr-collapse" id="breadcrumb-192">
+          <ol class="fr-breadcrumb__list">
+            <li>
+              <a class="fr-breadcrumb__link" href="">Accueil</a>
+            </li>
+            <li>
+              <a class="fr-breadcrumb__link" href="/blog/">Blog</a>
+            </li>
+            <li>
+              <a class="fr-breadcrumb__link" aria-current="page">Comment prédire les incendies en ville ?</a>
+            </li>
+          </ol>
+        </div>
+      </nav>
+      <h1>Comment prédire les incendies en ville ?</h1>
+      <div class="c-metas">
+        <div class="c-metas__author">
+
+18 octobre 2018
+ par Guillaume Lancrenon, EIG Prévisecours</div>
+        <div class="c-metas__line">
+          <ul class="fr-tags-group">
+            
+            <li><a class="fr-tag" href="/categories/temoignage/">Témoignage</a></li>
+            
+            <li><a class="fr-tag" href="/categories/realisation/">Réalisation</a></li>
+            
+            <li><a class="fr-tag" href="/categories/datascience/">Datascience</a></li>
+            
+          </ul>
+          <div class="c-metas__share">
+            Partager <a href="https://twitter.com/share?url=/blog/previsecours-causes-incendies-en-ville/&text=Comment%20pr%c3%a9dire%20les%20incendies%20en%20ville%c2%a0?" class="fr-link" target="_blank"><span class="fr-fi-twitter-fill"></span></a> <a href="mailto:?subject=Comment%20pr%c3%a9dire%20les%20incendies%20en%20ville%c2%a0?&body=%2fblog%2fprevisecours-causes-incendies-en-ville%2f" class="fr-link" target="_blank"><span class="fr-fi-mail-line"></span></a>
+          </div>
+        </div>
+      </div>
+      <div class="c-wysiwyg">
+        <h2 id="incendies-en-ville-quelles-causes-probables">Incendies en ville : quelles causes probables ?</h2>
+<p><img src="/img/communaute/Guillaume-Lancrenon.png" alt="Portrait de Guillaume">
+<em>Guillaume Lancrenon, développeur, Entrepreneur d&rsquo;intérêt général pour le défi Prévisecours</em></p>
+<p>Depuis janvier 2018, je travaille avec Tiphaine Phe-Neau sur le défi
+<a href="https://previsecours.fr">Prévisecours</a>, au service des
+sapeurs-pompiers.  Ce défi fait partie du programme d’Etalab
+« Entrepreneur.e d&rsquo;intérêt général » et il est porté par le ministère
+de l&rsquo;Intérieur.  L’objectif est simple : créer des algorithmes de
+prédictions d’intervention pour aider les pompiers de l’Essonne à
+mieux anticiper les ressources humaines et matérielles à mobiliser au
+quotidien.</p>
+<p>Nous travaillons sur tous les types d’interventions dont les
+principaux sont : le secours aux personnes, les incendies et enfin les
+accidents. Dans cet article, pour plus de concision, nous allons nous
+concentrer sur les <strong>incendies urbains</strong>.</p>
+<h3 id="reconstituer-liceberg-des-facteurs-potentiels">Reconstituer l&rsquo;iceberg des facteurs potentiels</h3>
+<p>Pour faire nos prédictions, nous devions déterminer les facteurs qui
+sont les plus corrélés avec le volume d’intervention des
+pompiers. Bonne nouvelle, nous disposions déjà de leur
+historique. Mauvaise nouvelle : nous n&rsquo;avons rien d’autre. La question
+centrale était donc : <strong>quelles données allions-nous associer à celles
+des pompiers ? Autrement dit, quels facteurs pourraient être corrélés
+avec le nombre d’interventions des sapeurs pompiers ?</strong></p>
+<p>Pour répondre à cette question, nous avions nos intuitions : la pluie,
+la pollution… Mais cela ne touchait que la partie émergée de
+l’iceberg. Ce que j’appelle l’iceberg, c’est l’ensemble des facteurs
+corrélés avec les interventions des pompiers. La partie émergée est
+donc l’ensemble des facteurs intuitifs, ceux qui auxquels on pense
+sans même être pompier.</p>
+<p>La partie <em>immergée</em> de cet iceberg est difficilement accessible, car
+on n&rsquo;y pense pas d&rsquo;emblée. <strong>Pour y accéder, et donc avoir l&rsquo;idée que
+tel ou tel facteur pourrait avoir un impact, nous avons dialogué avec
+des pompiers de certaines casernes de l’Essonne (1)</strong>. Suite à ça,
+nous avions de nombreuses pistes à explorer. Il a fallu trouver des
+sources, ces personnes qui produisent la donnée recherchée (merci !
+(2)). Puis, nous avons intégré, travaillé et préparé ces
+données. Finalement, après des mois de travail, nous avons constitué
+<strong>une base de données d’environ 200 facteurs : notre gros glaçon</strong>.</p>
+<p><strong>L’iceberg est dorénavant composé de données très variées :</strong></p>
+<ul>
+<li>données calendaires (jours féries, fêtes religieuses, vacances,
+soldes, phases de la lune&hellip;) ;</li>
+<li>données de pollution de l’air (NO2, O3, PM10) ;</li>
+<li>données allergènes type pollen (graminées, cumul de taxons, etc.) ;</li>
+<li>données météo (humidité, précipitation, pression atmosphérique,
+température, vent, durée moyenne du jour) ;</li>
+<li>données épidémiques (diarrhée, grippe, varicelle) ;</li>
+<li>données sur les incivilités (certains types d&rsquo;infractions) ;</li>
+<li>données sur la population (tranches d&rsquo;âge, constitution des foyers,
+scolarisation, diplôme, profession, idh2 – indice de développement
+humain, couverture RSA, etc.) ;</li>
+<li>données sur la commune (présence d’établissements sociaux, de soins,
+etc.) ;</li>
+<li>données sur le transport (gares, trafic cumulé, terminus de ligne).</li>
+</ul>
+<h3 id="les-facteurs-en-lien-avec-les-caractéristiques-des-communes-sont-très-corrélés-avec-le-volume-dincendies-urbains">Les facteurs en lien avec les caractéristiques des communes sont très corrélés avec le volume d&rsquo;incendies urbains</h3>
+<p>Nous avons ensuite confronté ces facteurs aux interventions des
+pompiers.  Ceux qui sont les plus corrélés avec nos interventions sont
+présentés ici :</p>
+<p><img src="/img/blog/facteurs-incendies.png" alt="Liste des facteurs corrélés avec les incendies urbains, dans l&rsquo;ordre décroissant : le nombre d&rsquo;opérations des sapeurs-pompiers lors des dernières semaines et années, le nombre de naissances à l&rsquo;année, le nombre d&rsquo;infractions mensuelles, la population, le nombre de décès à l&rsquo;année, la proportion des ménages à bas revenus, le taux de foyers allocataires dont les ressources sont constituées à 50% ou plus des prestations CAF, les gares ferroviaires avec plus de trafic que la médiane du département. Liste des facteurs anti-corrélés avec les incendies urbains, dans l&rsquo;ordre croissant : la proportion de ménages dont la personne de référence est Artisan, Commerçant, Chef d&rsquo;entreprise, la proportion de familles sans enfant, la proportion de la population dans la tranche d&rsquo;âge 55-79 ans, l&rsquo;indicateur idh2">
+<em>À noter : l'<a href="https://www.insee.fr/fr/statistiques/fichier/2114265/lm_ind_02_C-7.pdf">IDH2 (indicateur de développement humain 2)</a> est un indicateur élaboré par l&rsquo;INSEE, qui réunit les trois dimensions de l&rsquo;IDH original (santé, éducation, revenu) et des données spécifiques à la situation française.</em></p>
+<p>La première ligne représente le nombre d’interventions réalisées par
+les pompiers lors des dernières semaines et années. C’est le facteur
+le plus corrélé avec les interventions des pompiers… comme on pouvait
+s’y attendre, l’historique des interventions est prédominant. Les sept
+lignes suivantes représentent les facteurs les plus corrélés, et enfin
+les quatre derniers facteurs représentent les plus anti-corrélés.</p>
+<p>L’objectif ici n’est pas d&rsquo;interpréter les raisons de ces
+corrélations. On peut cependant remarquer que pour le département de
+l’Essonne, les facteurs météorologiques ne sont pas les plus corrélés
+aux incendies urbains. Les facteurs majeurs sont ceux qui décrivent
+les communes et leurs populations, comme la natalité ou les
+revenus. Or, ces facteurs restent relativement stables de semaine en
+semaine. La connaissance d’une commune seule (peu importe la météo)
+permet donc de savoir si c’est un foyer propice aux incendies urbains
+ou non.</p>
+<h3 id="vous-voulez-en-savoir-plus-ou-participer-à-ce-projet">Vous voulez en savoir plus ou participer à ce projet ?</h3>
+<p>Consultez notre site web : <a href="https://previsecours.fr">Prévisecours</a>.
+Et puisque nous sommes toujours en train de travailler sur ce projet,
+si vous avez des idées de données à intégrer, nous serions ravis que
+vous nous en fassiez part à l&rsquo;adresse suivante :
+<a href="mailto:guillaume.lancrenon@interieur.gouv.fr">guillaume.lancrenon@interieur.gouv.fr</a></p>
+<p>Nous espérons vous lire !</p>
+<p><a href="https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/guillaume-lancrenon.html">Guillaume Lancrenon</a>, Développeur au Ministère de l’Intérieur pour le défi Prévisecours, Entrepreneur d’Intérêt Général</p>
+<hr/>
+<p>PS : Pour ceux qui souhaitent aller plus loin, la corrélation
+statistique utilisée est celle de Pearson. La maille temporelle
+utilisée est celle de la semaine. Écrivez-nous pour plus
+d’information.</p>
+<p>(1) Merci aux pompiers des casernes de Viry, Étampes, Corbeil-Essonnes
+et d’Évry pour leur accueil.</p>
+<p>(2) Merci à nos partenaires pour la mise à disposition de leurs
+données : Météo France, Le réseau sentinelle, l’INSEE, La région île
+de France, data.gouv.fr, Air Parif, la FINESS, Le RNSA, La SSMSI, la
+CAF, La SNCF, Le STIFF, et le SDIS91.</p>
+
+      </div>
+    </div>
+  </div>
+  
+  
+</div>
+
+
+  </main>
+
+  <footer class="fr-footer" role="contentinfo" id="footer">
+  <div class="fr-container">
+    <div class="fr-footer__body">
+      <div class="fr-footer__brand fr-enlarge-link">
+        <a href="/" title="Retour à l’accueil">
+          <p class="fr-logo" title="république française">
+            Ministère
+            <br>de la transformation
+            <br>et de la fonction
+            <br>publiques
+          </p>
+        </a>
+      </div>
+      <div class="fr-footer__content">
+        <ul class="fr-footer__content-list">
+          <li class="fr-footer__content-item">
+            <a class="fr-footer__content-link" href="https://legifrance.gouv.fr" target="_blank">legifrance.gouv.fr</a>
+          </li>
+          <li class="fr-footer__content-item">
+            <a class="fr-footer__content-link" href="https://gouvernement.fr" target="_blank">gouvernement.fr</a>
+          </li>
+          <li class="fr-footer__content-item">
+            <a class="fr-footer__content-link" href="https://service-public.fr" target="_blank">service-public.fr</a>
+          </li>
+          <li class="fr-footer__content-item">
+            <a class="fr-footer__content-link" href="https://data.gouv.fr" target="_blank">data.gouv.fr</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="fr-footer__bottom">
+      <ul class="fr-footer__bottom-list">
+        <li class="fr-footer__bottom-item">
+          <a class="fr-footer__bottom-link" href="/cgu/">Conditions générales d'utilisation</a>
+        </li>
+        <li class="fr-footer__bottom-item">
+          <a class="fr-footer__bottom-link" href="/accessibilite/">Accessibilité</a>
+        </li>
+        <li class="fr-footer__bottom-item">
+          <a class="fr-footer__bottom-link" href="/espace-presse/">On parle de nous</a>
+        </li>
+        <li class="fr-footer__bottom-item">
+          <a class="fr-footer__bottom-link" href="/plan-du-site/">Plan du site</a>
+        </li>
+        <li class="fr-footer__bottom-item">
+          <a class="fr-footer__bottom-link" href="/donnees-personnelles/">Données personnelles</a>
+        </li>
+        <li class="fr-footer__bottom-item">
+          <button class="fr-footer__bottom-link js-cookies">Gestion des cookies</button>
+        </li>
+      </ul>
+      <div class="fr-footer__bottom-copy">
+        <p>Sauf mention contraire, tous les textes de ce site sont sous <a
+            href="https://github.com/etalab/licence-ouverte/blob/master/LO.md" target="_blank">licence etalab-2.0</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="/tarteaucitron/tarteaucitron.js"></script>
+  
+  
+  <script src="/main.9b8d5.js"></script>
+  
+</body>
+
+</html>

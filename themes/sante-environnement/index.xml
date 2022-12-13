@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Santé-Environnement on Test Jamstack</title>
+    <link>/themes/sante-environnement/</link>
+    <description>Recent content in Santé-Environnement on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 04 Oct 2021 08:55:52 +0000</lastBuildDate><atom:link href="/themes/sante-environnement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CartoBio</title>
+      <link>/defis/cartobio/</link>
+      <pubDate>Mon, 04 Oct 2021 08:55:52 +0000</pubDate>
+      
+      <guid>/defis/cartobio/</guid>
+      <description>L’Agence française pour le développement et la promotion de l’agriculture biologique (Agence BIO), en lien avec le Ministère de la Transition écologique et solidaire, souhaite associer les données du Registre Parcellaire Graphique et celles des opérateurs bio pour construire une cartographie des parcelles bio afin de simplifier les démarches des agriculteurs, fiabiliser la certification bio et mieux accompagner les politiques territoriales.
+CartoBio : faciliter les démarches des acteurs de l’agriculture biologique en mettant à disposition les données pertinentes La problématique : des données de l’agriculture biologique non diffusées et incomplètes Le label Agriculture biologique est un label de qualité public fondé sur l’interdiction d’utilisation de produits issus de la chimie de synthèse et le bien-être animal.</description>
+    </item>
+    
+    <item>
+      <title>SIANCE</title>
+      <link>/defis/siance/</link>
+      <pubDate>Sun, 26 Sep 2021 12:22:00 +0000</pubDate>
+      
+      <guid>/defis/siance/</guid>
+      <description>SIANCE est une plateforme de collecte et d’analyse de documents publics relatifs à la sûreté nucléaire et à la radioprotection. Elle est dotée d’une interface web adaptée aux activités de contrôle menées par l’Autorité de Sûreté Nucléaire.
+La problématique : des données provenant des inspections difficiles à analyser et à traduire en actions La France possède actuellement 17 centrales en fonctionnement, 87 installations relatives à la vie du combustible mais aussi plus de 50 000 installations exposant à des rayonnements ou des sources radioactives, comme certaines installations médicales (hôpitaux, cliniques, dentistes, vétérinaires) ou industrielles.</description>
+    </item>
+    
+    <item>
+      <title>Green Data for Health</title>
+      <link>/defis/green-data-for-health/</link>
+      <pubDate>Wed, 12 May 2021 15:03:46 +0000</pubDate>
+      
+      <guid>/defis/green-data-for-health/</guid>
+      <description>Le contexte Selon l’Organisation mondiale de la santé, les facteurs environnementaux et comportementaux sont responsables d’au moins 15% des décès en Europe, soit environ 1,4 million de décès par an, pour la plupart évitables. En effet, la pollution de l’air, de l’eau, des sols, les pesticides, les perturbateurs endocriniens, etc. sont à l’origine de multiples pathologies. C’est pourquoi mieux connaître l’effet des facteurs environnementaux sur la santé constitue un enjeu majeur de santé publique.</description>
+    </item>
+    
+    <item>
+      <title>Estim&#39;Action</title>
+      <link>/defis/estim-action/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/estim-action/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse Cerema, l&amp;rsquo;expertise publique pour la transition écologique et la cohésion des territoires Le Cerema est l’établissement de référence dans les domaines de l’expertise et de l’ingénierie publique pour accompagner les territoires dans leurs missions d’adaptation aux changements climatiques. Il assiste l&amp;rsquo;État, les collectivités territoriales et les entreprises pour les conduire vers une stratégie d&amp;rsquo;aménagement durable (bâtiments, infrastructures, environnement …).
+La problématique identifiée La complexité de l&amp;rsquo;analyse de la qualité de l’air rend difficile la mise en place d&amp;rsquo;actions au sein des collectivités Les émissions routières représentent en moyenne 1/3 des émissions de polluants atmosphériques et sonores.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Promotion 3 on Test Jamstack</title>
+    <link>/promos/promotion-3/</link>
+    <description>Recent content in Promotion 3 on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 24 Oct 2021 14:04:27 +0000</lastBuildDate><atom:link href="/promos/promotion-3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EIG3 Link</title>
+      <link>/defis/eig-link/</link>
+      <pubDate>Sun, 24 Oct 2021 14:04:27 +0000</pubDate>
+      
+      <guid>/defis/eig-link/</guid>
+      <description>Au sein de la mission Etalab, deux EIG rejoindront l’équipe en charge du programme EIG pour accompagner la troisième promotion des entrepreneurs et des mentors pendant 10 mois. Plusieurs objectifs : consolider le collectif EIG 3, apporter un soutien technique et méthodologique aux défis, valoriser et ouvrir les réalisations des équipes, et infuser une dynamique entrepreneuriale au sein de la DINUM.
+Comme l’indique le règlement de l’appel à candidatures, une connaissance fine de l’administration et du programme EIG est nécessaire pour relever le défi “EIG LINK”, pour faire le pont entre les équipes lauréates et l’administration et assurer la pérennisation des défis.</description>
+    </item>
+    
+    <item>
+      <title>Polygraphe</title>
+      <link>/defis/polygraphe/</link>
+      <pubDate>Mon, 04 Oct 2021 14:21:41 +0000</pubDate>
+      
+      <guid>/defis/polygraphe/</guid>
+      <description>La Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) développe des nouvelles méthodes de traitement automatique du langage naturel, d’analyse de données et de comportements pour aider ses enquêteurs à mieux détecter et qualifier des faux avis sur les plateformes de consommation en ligne.
+Polygraphe : Détecter les faux avis pour garantir la confiance sur Internet La problématique Les informations disponibles sur Internet orientent considérablement les choix des consommateurs.</description>
+    </item>
+    
+    <item>
+      <title>Plume</title>
+      <link>/defis/plume/</link>
+      <pubDate>Mon, 04 Oct 2021 14:17:10 +0000</pubDate>
+      
+      <guid>/defis/plume/</guid>
+      <description>La Cour des comptes souhaite développer un outil de rédaction collaborative de ses écrits et réaliser des analyses de données sur les textes utilisés et collectés par les juridictions financières. L’objectif sous-jacent : concevoir et présenter des rapports autrement, apporter un nouvel éclairage sur les contrôles à lancer en priorité, et consolider une doctrine de la Cour sur l’ensemble des politiques publiques qu’elle contrôle et évalue depuis sa création.
+Plume : finir de faire entrer les juridictions financières dans le XXIe siècle La problématique L’article 15 de la déclaration des droits de l’Homme et du citoyen dispose que « la société a le droit de demander compte à tout agent public de son administration ».</description>
+    </item>
+    
+    <item>
+      <title>Open Justice</title>
+      <link>/defis/open-justice/</link>
+      <pubDate>Mon, 04 Oct 2021 14:13:49 +0000</pubDate>
+      
+      <guid>/defis/open-justice/</guid>
+      <description>La Cour de cassation, en lien avec le Ministère de la Justice, souhaite développer des techniques d’apprentissage automatique afin d’identifier les données à pseudonymiser dans les décisions de justice avant de les rendre accessibles et réutilisables. Les résultats de ces travaux transformeront en profondeur la diffusion de la jurisprudence, renforceront la cohérence des décisions rendues et la confiance des citoyens en l’autorité judiciaire ; ils pourront largement s’appliquer à d’autres types de données.</description>
+    </item>
+    
+    <item>
+      <title>Open Chronic</title>
+      <link>/defis/open-chronic/</link>
+      <pubDate>Mon, 04 Oct 2021 14:09:48 +0000</pubDate>
+      
+      <guid>/defis/open-chronic/</guid>
+      <description>Code source La Direction de la recherche, des études, de l’évaluation et des statistiques (DREES) du Ministère des Solidarités et de la Santé souhaite construire une base de données des parcours de soin des malades chroniques et faciliter, pour les agences et établissements de santé, le développement d’une variété d’outils, notamment pour mieux comprendre les variabilités de prise en charge des malades et mieux coordonner les différents professionnels de santé (ville/hôpital).</description>
+    </item>
+    
+    <item>
+      <title>LexImpact</title>
+      <link>/defis/leximpact/</link>
+      <pubDate>Mon, 04 Oct 2021 14:02:29 +0000</pubDate>
+      
+      <guid>/defis/leximpact/</guid>
+      <description>La direction interministérielle du numérique (DINUM) souhaite développer, avec la collaboration du Parlement, de la Cour de Comptes, et de la société civile, un outil permettant de simuler l’impact des réformes socio-fiscales sur les citoyens et citoyennes.
+LexImpact : Connaître l’impact des réformes socio-fiscales sur les citoyen·ne·s La problématique Connaissez-vous les effets de la prochaine réforme sur votre situation personnelle ? Probablement pas, et vous n’êtes pas seul·e ! L’Assemblée Nationale, le Sénat et la Cour des Comptes expriment régulièrement le besoin de disposer d’un outil leur permettant de se positionner sur les projets de loi, grâce à une information indépendante sur ses effets.</description>
+    </item>
+    
+    <item>
+      <title>Karfu’R</title>
+      <link>/defis/karfur/</link>
+      <pubDate>Mon, 04 Oct 2021 13:56:16 +0000</pubDate>
+      
+      <guid>/defis/karfur/</guid>
+      <description>La Délégation interministérielle pour l’accueil et l’intégration des réfugiés (DIAIR) souhaite développer une plateforme multilingue afin de diffuser des informations pertinentes pour aider les réfugiés dans leurs démarches. L’enjeu sera de proposer une expérience utilisateur adaptée, du contenu multilingue et des services en lien avec un réseau d’acteurs (associations, administrations, collectivités) déjà engagés sur ces sujets.
+Karfu’R : valoriser les initiatives d’accueil et d’intégration des réfugiés et améliorer les démarches des réfugiés La problématique 230 000 : c’est le nombre de personnes qui ont le statut de réfugié aujourd’hui en France.</description>
+    </item>
+    
+    <item>
+      <title>IA Flash</title>
+      <link>/defis/ia-flash/</link>
+      <pubDate>Mon, 04 Oct 2021 13:45:41 +0000</pubDate>
+      
+      <guid>/defis/ia-flash/</guid>
+      <description>Le Ministère de l’Intérieur au travers de son Agence nationale du traitement automatisé des infractions souhaite développer une intelligence artificielle permettant d’associer des photos de contrôles automatisés aux données des immatriculations des véhicules afin de réduire l’envoi d’avis de contraventions aux usagers n’ayant commis aucune infraction.
+IA Flash : fiabiliser le traitement automatisé des infractions La problématique Chaque année, les radars font 20 000 000 de clichés qu’ils envoient à l’Agence Nationale du Traitement Automatisé des Infractions (ANTAI) et au Centre Automatisé de Constatation des Infractions Routières (CACIR) pour traitement.</description>
+    </item>
+    
+    <item>
+      <title>ExploCode</title>
+      <link>/defis/explocode/</link>
+      <pubDate>Mon, 04 Oct 2021 13:41:53 +0000</pubDate>
+      
+      <guid>/defis/explocode/</guid>
+      <description>La Direction générale du Travail (DGT) souhaite se doter d’un outil qui permette de répondre à toute question concernant le droit du travail grâce à de l’analyse sémantique, l’exploration de solutions d’IA, et le développement de services et API pour une diversité d’utilisateurs concernés par le droit du travail (agents publics, syndicats, associations, entreprises, RH, etc.).
+ExploCode : de l’intelligence artificielle au service de la lisibilité du droit du travail La problématique En 2017, les services de renseignement en droit du travail des Directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l’emploi (DIRECCTE) ont répondu à environ 900 000 demandes concernant le droit du travail, des questions les plus simples aux cas les plus complexes.</description>
+    </item>
+    
+    <item>
+      <title>DataReg</title>
+      <link>/defis/datareg/</link>
+      <pubDate>Mon, 04 Oct 2021 09:08:21 +0000</pubDate>
+      
+      <guid>/defis/datareg/</guid>
+      <description>L’Autorité de régulation des communications électroniques et des postes (ARCEP) souhaite faire passer à l’échelle des outils et des méthodes de régulation par la donnée (outil cartographique, tableaux de bords, API) afin de développer une régulation moderne, en lien avec ses utilisateurs (collectivités locales, services de l’Etat, consommateurs, entreprises régulées, etc.).
+DataReg : Maximiser l’exploitation des données pour permettre aux régulateurs des communications électroniques de gagner en efficacité La problématique Pour réguler les communications électroniques et les postes à l’ère du numérique, l’Arcep a souhaité développer la régulation par la donnée.</description>
+    </item>
+    
+    <item>
+      <title>DataJust</title>
+      <link>/defis/datajust/</link>
+      <pubDate>Mon, 04 Oct 2021 09:03:27 +0000</pubDate>
+      
+      <guid>/defis/datajust/</guid>
+      <description>Le Ministère de la Justice, à travers sa Direction des affaires civiles et du sceau, souhaite analyser les données de la jurisprudence administrative et judiciaire sur l’indemnisation des préjudices corporels afin de mettre à disposition des victimes, des magistrats, des avocats, des assureurs et des fonds d’indemnisation un référentiel indicatif officiel, permettant de mieux évaluer financièrement les préjudices.
+DataJust : garantir un traitement égalitaire et juste des demandes d’indemnisation de préjudices corporels La problématique Evaluer le montant de l’indemnisation d’une victime pour la réparation de son préjudice corporel est complexe à plusieurs égards : il s’agit d’une matière technique, à la frontière du droit et de la médecine légale, les acteurs sont nombreux (victimes, proches de victimes, avocats, magistrats, assureurs, fonds d’indemnisation), et ont des approches différentes.</description>
+    </item>
+    
+    <item>
+      <title>CibNav</title>
+      <link>/defis/cibnav/</link>
+      <pubDate>Mon, 04 Oct 2021 08:59:57 +0000</pubDate>
+      
+      <guid>/defis/cibnav/</guid>
+      <description>La Direction des affaires maritimes (DAM), au sein du Ministère de la Transition écologique et solidaire, souhaite développer un outil de priorisation des contrôles des navires professionnels à partir de données métiers afin d’améliorer le respect des réglementations (sécurité des navires, équipages, conditions d’emploi).
+CibNav : Aider les agents en charge de la sécurité maritime à contrôler des navires professionnels en développant un outil de ciblage La problématique L’exploitation d’un navire professionnel est aujourd’hui soumise à une triple réglementation : sécurité du navire, composition et conditions d’emploi de l’équipage.</description>
+    </item>
+    
+    <item>
+      <title>CartoBio</title>
+      <link>/defis/cartobio/</link>
+      <pubDate>Mon, 04 Oct 2021 08:55:52 +0000</pubDate>
+      
+      <guid>/defis/cartobio/</guid>
+      <description>L’Agence française pour le développement et la promotion de l’agriculture biologique (Agence BIO), en lien avec le Ministère de la Transition écologique et solidaire, souhaite associer les données du Registre Parcellaire Graphique et celles des opérateurs bio pour construire une cartographie des parcelles bio afin de simplifier les démarches des agriculteurs, fiabiliser la certification bio et mieux accompagner les politiques territoriales.
+CartoBio : faciliter les démarches des acteurs de l’agriculture biologique en mettant à disposition les données pertinentes La problématique : des données de l’agriculture biologique non diffusées et incomplètes Le label Agriculture biologique est un label de qualité public fondé sur l’interdiction d’utilisation de produits issus de la chimie de synthèse et le bien-être animal.</description>
+    </item>
+    
+    <item>
+      <title>ADLER</title>
+      <link>/defis/adler/</link>
+      <pubDate>Mon, 04 Oct 2021 08:51:10 +0000</pubDate>
+      
+      <guid>/defis/adler/</guid>
+      <description>Le Ministère de l’Action et des Comptes publics souhaite développer des outils expérimentaux de lutte contre la fraude en s’appuyant sur des méthodes avancées de fouille de données et d’analyse de réseaux afin de rapprocher des sources de données diverses et de détecter des schémas de fraude connus ou nouveaux, dans un cadre réglementé sur la base du droit d’en connaître.
+ADLER : détecter des comportements financiers illicites par l’analyse de réseaux La problématique La criminalité et la fraude financières sont à l’origine de coûts qui se chiffrent en milliards d’euros pour les Etats .</description>
+    </item>
+    
+    <item>
+      <title>ACOSS-Plateforme</title>
+      <link>/defis/acoss-plateforme/</link>
+      <pubDate>Thu, 30 Sep 2021 14:05:02 +0000</pubDate>
+      
+      <guid>/defis/acoss-plateforme/</guid>
+      <description>L’Agence centrale des organismes de sécurité sociale (ACOSS) souhaite améliorer l’expérience utilisateur des démarches du secteur de l’emploi à domicile en capitalisant sur les données de l’Urssaf.
+ACOSS Plateforme : simplifier les démarches des utilisateurs de l’emploi à domicile à l’aide des données de l’Urssaf. La problématique Chaque année, le réseau de l’Union de recouvrement des cotisations de sécurité sociale et d’allocations familiales (Urssaf) recouvre pour le compte de l’Agence centrale des organismes de sécurité sociale (ACOSS) près de 500 milliards d’euros, auprès de 9,7 millions de cotisants au nom d’environ 900 partenaires.</description>
+    </item>
+    
+    <item>
+      <title>Alain Régnier</title>
+      <link>/personnes/alain-regnier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/alain-regnier/</guid>
+      <description>Alain Régnier, mentor de haut niveau du défi Agi’R, est délégué interministériel chargé de l’accueil et de l’intégration des réfugiés (DiAir). Dès sa nomination en janvier 2018, il avait la volonté de se saisir des outils numériques pour apporter des solutions concrètes aux personnes réfugiées. Travailler avec des entrepreneurs d’intérêt général pour créer une plateforme numérique offrant des données fiables aux personnes réfugiés est, pour Alain Régnier, une formidable chance qui allie nouvelles technologies, impact social et défi humain.</description>
+    </item>
+    
+    <item>
+      <title>Alexis Deny</title>
+      <link>/personnes/alexis-deny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/alexis-deny/</guid>
+      <description>Je suis UX Designer depuis un peu plus de deux ans. Venant d’un cursus scientifique par une école d’ingénieur spécialisée dans le traitement de la connaissance, je me passionne pour la conception centrée utilisateur en y mêlant rigueur scientifique et design émotionnel. Entrer en empathie avec l’utilisateur final du produit ou service est un moteur pour moi. Je suis rentré après mes études (à l’ENSC) dans une entreprise de design UX orientée e-commerce (Napoleon Agency) où j’ai pu travailler sur des dispositifs digitaux du quotidien de beaucoup de personnes, notamment dans la grande distribution, les loisirs et le textile.</description>
+    </item>
+    
+    <item>
+      <title>Amaury Fouret </title>
+      <link>/personnes/amaury-fouret/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/amaury-fouret/</guid>
+      <description>“Diplomé d’un Master en génie des procédés, j’ai poursuivi mes études au sein d’une formation dédiée à la science des données à CentraleSupélec &amp;amp; l’ESSEC Business School. ‘J’ai découvert et assimilé la philosophie de l’open data au sein de la société nam.R dans laquelle j’ai travaillé sur de nombreux jeux de données ouvertes en tant que data scientist. ‘Devenir un EIG afin de participer à la diffusion des décisions de justice en données ouvertes est gratifiant tant les applications pour le bien commun rendues possibles par l’open data sont nombreuses.</description>
+    </item>
+    
+    <item>
+      <title>Amélie Medem</title>
+      <link>/personnes/amelie-medem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/amelie-medem/</guid>
+      <description>” Après mon doctorat en informatique, j’ai d’abord travaillé comme full-stack développeur pour une jeune startup parisienne, puis comme data engineer et data scientist. Ayant des visées entrepreneuriales, j’ai voulu vivre l’aventure startup pour savoir les rouages de la création d’entreprise et la construction d’une application, à destination du grand public, du draft jusqu’à sa version finale. Depuis trois ans, je suis revenue à ma passion première qui est la donnée, de sa collecte ou production à son exploitation.</description>
+    </item>
+    
+    <item>
+      <title>Anne-Sophie Hutin</title>
+      <link>/personnes/anne-sophie-hutin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/anne-sophie-hutin/</guid>
+      <description>Anne-Sophie Hutin est magistrate et exerce ses fonctions au sein du bureau du droit des obligations de la Direction des affaires civiles et du sceau depuis janvier 2018. Chargée pendant plusieurs années de l’indemnisation des victimes de dommage corporel au sein de tribunaux de l’ordre judiciaire, elle travaille désormais sur un projet de réforme de la responsabilité civile devant être prochainement débattu au Parlement.
+ « Au-delà des attentats tragiques survenus en France ces dernières années, automobilistes, parents, victimes d’accidents médicaux, sanitaires ou industriels, entreprises : chacun est concerné par le droit de la responsabilité civile et aspire à un droit efficace et juste.</description>
+    </item>
+    
+    <item>
+      <title>Anoureth Pongrattana</title>
+      <link>/personnes/anoureth-pongrattana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/anoureth-pongrattana/</guid>
+      <description>“Développeur indépendant issu du monde du web depuis près de 10 ans et très fortement impliqué dans le langage JavaScript depuis 2 ans. Je mène également plusieurs actions dans le domaine de la santé, à travers une association “Banlieues Santé” qui lutte contre les inégalités de santé partout en France dont je suis le co-fondateur.”</description>
+    </item>
+    
+    <item>
+      <title>Armand Giraud</title>
+      <link>/personnes/armand-giraud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/armand-giraud/</guid>
+      <description>“Après avoir réalisé un Master en Econométrie à l’AMSE, j’ai travaillé dans le DataLab des directions centrales de la Société Générale, principalement sur des problématiques liées à la détection des crimes financiers. Passionné par les problématiques NLP et de Machine Learning je rejoins la promotion 2019 des EIG pour relever le défi Explocode et rendre le Code du travail accessible à tous. Participer à un projet libre et bénéficiant à l’intérêt de tous est une opportunité remarquable.</description>
+    </item>
+    
+    <item>
+      <title>Augustin Wenger</title>
+      <link>/personnes/augustin-wenger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/augustin-wenger/</guid>
+      <description>“Diplomé d’école de commerce et en mathématiques appliquées, je résouds depuis 10 ans des problèmes du monde réel à l’aide d’outils scientifiques. Généraliste naturellement porté sur les solutions ad-hoc, j’ai notamment développé des expertises en algorithmique, modélisation, visualisation et architecture de données. Mon histoire personnelle, entre le monde commercial et le monde scientifique, m’a appris à attacher beaucoup d’importance aux passerelles jetées entre le technique et l’opérationel. Convaincu que l’open source/data (notamment dans ses implémentations par le secteur public) est une clef essentielle sur le chemin de la singularité, je m’engage dans ce défi avec l’envie de contribuer à son développement en France, en particulier autour des enjeux fiscaux, si essentiels.</description>
+    </item>
+    
+    <item>
+      <title>Carine Stolz</title>
+      <link>/personnes/carine-stolz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/carine-stolz/</guid>
+      <description>“Ingénieure agronome de formation et spécialisée en nouvelles technologies, je suis géomaticienne depuis 10 ans. Mon domaine de compétence : la collecte, l’analyse, la centralisation et la diffusion de données géographiques. Parce que les données localisées sont utiles à de nombreux domaines, j’ai eu l’occasion de travailler dans plusieurs secteurs d’activité : le transport maritime, les secours Pompiers, l’extraction de Nickel en Nouvelle-Calédonie et dernièrement la gestion forestière. Je suis très heureuse de rejoindre la promotion 3 des EIG pour le défi DataReg de l’ARCEP, et participer ainsi à la diffusion des données cartographiques des réseaux de communication en open data.</description>
+    </item>
+    
+    <item>
+      <title>Coline Lebaratoux</title>
+      <link>/personnes/coline-lebaratoux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/coline-lebaratoux/</guid>
+      <description>“Diplômée d’un master 2 en Design social et d’un diplôme supérieur d’arts appliqués en design de services « méthodologie centrée utilisateurs », j’ai développé depuis 6 ans une expertise, une sensibilité forte et une passion autour de l’approche dite du Design Thinking. Cette année, j’ai la chance de relever le défi 2019 “ACOSS plateforme” avec deux ambitions clés : 1/ L’amélioration de l’expérience utilisateur des différents publics de l’ACOSS, 2/ La contribution à la transformation de l’ACOSS par l’apport de nouvelles méthodes de travail.</description>
+    </item>
+    
+    <item>
+      <title>Cristian Perez Brokate</title>
+      <link>/personnes/cristian-perez-brokate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/cristian-perez-brokate/</guid>
+      <description>“Diplômé d’un doctorat en chimie physique à l’UPMC, j’ai fait de la programmation en parallèle en utilisant des GPU sur le langage CUDA et j’ai fait mes premiers pas en analyse des données. Ensuite j’ai travaillé en tant que Data Scientist à l’agence Kernix, où j’ai développé de produits autour de la data en utilisant du machine learning et du deep learning pour des différents clients sur des secteurs variés. Dans mon temps libre je fais partie l’association City AI qui fédère une communauté internationale autour de l’IA et je suis bénévole également pour le Global Startup Weekend AI, un hackathon qui souhaite soutenir des startups IA autour du monde.</description>
+    </item>
+    
+    <item>
+      <title>Cédric Malherbe</title>
+      <link>/personnes/cedric-malherbe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/cedric-malherbe/</guid>
+      <description>“Diplômé de l’Ecole Supérieure d’Electricité et titulaire d’un doctorat en intelligence artificielle de l’Ecole Normale Supérieure de Cachan, j’ai commencé à appliquer mes connaissances dans des secteurs d’activité très variés comme l’énergie, la finance ou encore le marketing. J’ai notamment eu l’occasion de participer à la définition et à la mise en place de différents produits d’intelligence artificielle. Plus précisément, je souhaite actuellement explorer le domaine du traitement automatique du langage naturel afin de développer de nouveaux produits dans le cadre d’une mission d’intérêt général, ce que j’aurai l’occasion de faire à travers Défi DataJust.</description>
+    </item>
+    
+    <item>
+      <title>Daniel Ansellem</title>
+      <link>/personnes/daniel-ansellem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/daniel-ansellem/</guid>
+      <description>Daniel Ansellem est Commissaire Divisionnaire. Nommé administrateur ministériel des données le 1er juillet 2016, il dirige la mission de coordination et d’appui à la valorisation des données. A ce titre, il supervise des expérimentations de valorisation de données par la mise en oeuvre d’outils de croisement, d’enrichissement, ou de visualisation. Il a mentoré plusieurs défis EIG : CartAV, MatchID ou encore Prévisecours.
+Entré dans la Police Nationale il y a trente ans, il a dirigé plusieurs services de Sécurité Publique et a alterné ces postes opérationnels avec des postes de soutien en rapport avec la transformation numérique de l’administration : chef du service de gestion opérationnelle de la DDSP du Nord, directeur du Centre National de Traitement Automatisé des Infractions à RENNES, pilote du projet “procès verbal électronique”, adjoint au chef de la division “Stratégie” de la Mission de Gouvernance Ministérielle des SIC.</description>
+    </item>
+    
+    <item>
+      <title>Delphine Lê</title>
+      <link>/personnes/delphine-le/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/delphine-le/</guid>
+      <description>« Suite à un parcours mixte (dans le privé et le public, en recherche et au sein de start-ups), j’ai rejoint les ministères économiques et financiers en tant que data scientist depuis 2015. Au cœur de la transformation numérique de mon service, j’ai participé à la mise en place d’un environnement « Big Data » et à la création d’un pôle Data Science que je dirige. »</description>
+    </item>
+    
+    <item>
+      <title>Dorian Flechet</title>
+      <link>/personnes/dorian-flechet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/dorian-flechet/</guid>
+      <description>Ingénieur agronome de formation, Dorian Fléchet est chargé de l’observatoire national de l’agriculture biologique de l’Agence BIO depuis 2011. Il assure la collecte et l’analyse des données des filières bio de la production à la consommation. En lien permanent avec les partenaires fournisseurs et utilisateurs de données sur le secteur, il met son expertise au service des stratégies et des politiques de développement de l’agriculture biologique et a initié la création d’un système national d’information dédié à l’agriculture biologique.</description>
+    </item>
+    
+    <item>
+      <title>Dorine Lambinet</title>
+      <link>/personnes/dorine-lambinet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/dorine-lambinet/</guid>
+      <description>“Diplômée de l’ENSCI-les Ateliers et cursus entrepreneuriat à l’ESCP, j’ai réalisé plusieurs missions d’expérience utilisateur et de stratégie de marque pour des entreprises et associations. En 2015, je m’interroge sur les alternatives pour une industrie textile durable et éthique. Cette réflexion (un mémoire et un projet entrepreneurial) diversifie mon champ d’action en design autour d’enjeux tels que l’open source, la transition managériale ou la construction de businessmodel propices à l’émergence d’organisations à externalités positives.</description>
+    </item>
+    
+    <item>
+      <title>Edouard Rottier</title>
+      <link>/personnes/edouard-rottier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/edouard-rottier/</guid>
+      <description>Edouard Rottier, auditeur à la Cour de cassation, est en charge du bureau des diffusions numériques au service de documentation, des études et du rapport (SDER) de la Cour de cassation. Celle-ci administre et diffuse les bases de données de jurisprudence Jurinet (plus de 830 000 décisions en stock) et Jurica (plus d’1,8 millions de décisions en stock). Il suit les projets liés à l’open data des décisions de justice, en lien avec les acteurs institutionnels, associatifs et économiques concernés.</description>
+    </item>
+    
+    <item>
+      <title>Erica Marco</title>
+      <link>/personnes/erica-marco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/erica-marco/</guid>
+      <description>“Diplomée ENSEEIHT et autodidacte depuis, j’ai pour objectif de créer des outils informatiques intuitifs et durables au service de l’intérêt général. J’ai dédié les trois dernières années au domaine de la culture et de la recherche en designant et développant l’application de gestion des ressources numériques de l’INIST CNRS. Je suis fière de rejoindre aujourd’hui les EIG et le projet de la Cour des Comptes afin de les accompagner dans la transition vers le numérique de leur methodes de travail.</description>
+    </item>
+    
+    <item>
+      <title>Gabriel Bastard</title>
+      <link>/personnes/gabriel-bastard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/gabriel-bastard/</guid>
+      <description>“Je suis ingénieur spécialisé en Entrepreneuriat et Machine Learning. J’ai travaillé récemment au service de différentes startups et PME, en tant qu’indépendant pour résoudre des problèmes grâce aux données. Je souhaite maintenant participer à la modernisation de l’Etat. C’est pourquoi je participerai au sein d’EIG au défi Polygraphe de la DGCCRF, afin de protéger les consommateurs des pratiques frauduleuses telles que les faux avis sur internet.”</description>
+    </item>
+    
+    <item>
+      <title>Hervé Brulé</title>
+      <link>/personnes/herve-brule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/herve-brule/</guid>
+      <description>Hervé Brulé est adjoint du directeur des affaires maritimes au sein du Ministère de la Transition écologique et solidaire. Il a auparavant occupé diverses fonctions dans l’administration : agriculture dans les services déconcentrés, gestion des risques naturels, aménagement du territoire, eau, biodiversité. Ce parcours lui a permis d’appréhender les équilibres nécessaires entre environnement et économie et son appétence pour l’évaluation des politiques publiques l’ont convaincu de la nécessité de disposer de données de qualité afin de transformer le pilotage des politiques publiques.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Stéphan</title>
+      <link>/personnes/hugo-stephan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/hugo-stephan/</guid>
+      <description>“Diplômé de la Web School Factory, j’ai d’abord été journaliste chez Usbek &amp;amp; Rica et activiste au sein du Mouvement français pour un revenu de base. J’explore donc depuis quelques années les grands enjeux sociétaux avec un angle prospectif et pragmatique. Je crois en la capacité des outils numériques à améliorer le quotidien des Français. Plus particulièrement, je suis convaincu que la dématérialisation du service public peut servir l’intérêt général et les usagers mais seulement si ces derniers sont acteurs et parties prenantes de cette modernisation.</description>
+    </item>
+    
+    <item>
+      <title>Jean-René Duscher</title>
+      <link>/personnes/jean-rene-duscher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/jean-rene-duscher/</guid>
+      <description>Jean-René Duscher est responsable métier du défi Code du travail numérique. Il a rejoint la DGT en mars 2018, au sein de l’incubateur des ministères sociaux l’équipe projet du Code du Travail Numérique en tant que responsable métier.
+ “Les EIG participeront au quotidien dans leurs défis à rendre le droit du travail plus accessible et plus effectif, et à faire aboutir le Code du Travail numérique !”
+ Après des études d’abord techniques dans le domaine du multimédia, puis à dominante plus juridique, il a intégré le ministère du travail en tant que Contrôleur du Travail en 2008, affecté en DIRECCTE (Alsace) au contrôle de la règlementation en section d’inspection du travail, pendant 6 ans.</description>
+    </item>
+    
+    <item>
+      <title>Julien Bouquillon</title>
+      <link>/personnes/julien-bouquillon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/julien-bouquillon/</guid>
+      <description>Julien Bouquillon est responsable technique de l’Incubateur de la DSI des ministères sociaux.
+Après un parcours dans le privé (PME, groupes, startups…), Julien Bouquillon a rejoint la DSI des ministères sociaux en 2017 pour participer au lancement de l’incubateur en tant que responsable technique. Au cœur de la transformation numérique de la DSI, il encourage l’adoption des APIs, promeut l’open-source et l’open-data, et accompagne le parcours des « startups d’état » du ministère.</description>
+    </item>
+    
+    <item>
+      <title>Kim Montalibet</title>
+      <link>/personnes/kim-montalibet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/kim-montalibet/</guid>
+      <description>“Diplômée de l’ENSAE, j’ai commencé à travailler il y a 2 ans en tant que data scientist dans un cabinet de conseil. J’ai eu l’opportunité de découvrir des secteurs très divers (services, aéronautiques, banque, assurance, etc…). J’ai eu l’occasion de travailler sur des sujets de NLP, et c’est dans ce domaine de la data science que je souhaiterais poursuivre, ce que j’aurai l’occasion de faire avec le Défi DataJust. Je suis par ailleurs très enthousiaste à l’idée de démarrer cette nouvelle aventure EIG 2019 au sein d’Etalab, qui est remplie de sujets tous passionnants autour de l’open data.</description>
+    </item>
+    
+    <item>
+      <title>Laurent Toustou</title>
+      <link>/personnes/laurent-toustou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/laurent-toustou/</guid>
+      <description>Laurent Toustou est chef de l’unité régulation par la donnée. De profil économiste, il s’est spécialisé dans la régulation des acteurs numériques et les nouveaux modes de régulation. Il a été rapporteur de la revue stratégique de l’Arcep en 2015 et a ensuite été nommé chef de l’unité régulation par la donnée pour développer cette nouvelle approche de la régulation au sein de l’Arcep. L’unité a pour mission de coordonner les initiatives de régulation par la donnée, de participer au développement d’outils de collecte, traitement et publication de données et d’encourager l’ouverture des données pour augmenter le nombre de données traitées par l’Arcep mais aussi le nombre et la qualité des données publiées en open data.</description>
+    </item>
+    
+    <item>
+      <title>Loïc Duflot</title>
+      <link>/personnes/loic-duflot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/loic-duflot/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Luc Salommez</title>
+      <link>/personnes/luc-salommez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/luc-salommez/</guid>
+      <description>“Développeur informatique issu de 42, je suis passionné par les nouvelles technologies et suis convaincu qu’elle peuvent nous permettre d’améliorer nos modes de vie. En particulier j’ai été le confondateur d’Inspik.ai, une startup qui vise à moderniser les centres d’appels avec de l’intelligence artificielle en réduisant les temps d’attentes et en facilitant le travail des opérateurs. En rejoignant le programme EIG je souhaite mettre à contribution mes compétences et mon expérience entrepreneuriale au service du bien commun, en intervenant notamment sur le défi Polygraphe qui vise à créer une plateforme permettant de détecter les faux avis sur internet, afin de créer une concurrence plus juste.</description>
+    </item>
+    
+    <item>
+      <title>Lucas Bchini</title>
+      <link>/personnes/lucas-bchini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/lucas-bchini/</guid>
+      <description>“Diplômé ENSIMAG, j’ai travaillé sur différents projets web dans des environnements très différents comme l’éducation au sein de l’association Frateli, l’IoT avec Netatmo, ou encore la gestion/supervision de datacenters chez Eaton. Je suis très heureux de rejoindre cette promo EIG, et particulièrement le projet CartoBIO, afin de contribuer au développement de l’agriculture biologique en France, pilier essentiel de la transition écologique.”</description>
+    </item>
+    
+    <item>
+      <title>Marie Feucher</title>
+      <link>/personnes/marie-feucher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/marie-feucher/</guid>
+      <description>Marie Feucher est administrateur des affaires maritimes, chef de projet en charge de la transformation des politiques de contrôles depuis 2016. Elle a occupé différentes fonctions liées au contrôle des activités maritimes : sur le terrain avec les unités de contrôle en direction départemental, en tant que pilote d’un processus novateur de certification sociale des navires impliquant les inspecteurs de la sécurité des navires, puis en tant que chef de projet de la réforme des titres de navigation en administration centrale.</description>
+    </item>
+    
+    <item>
+      <title>Mathieu Havel</title>
+      <link>/personnes/mathieu-havel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/mathieu-havel/</guid>
+      <description>“Astrophysicien (faisant de la modélisation d’exoplanètes), je me suis lancé avec deux collègues dans l’aventure du Machine Learning il y a deux ans, pour le fun. J’ai beaucoup aimé la diversité des problèmes à résoudre et le grand nombre de champs d’application. Avec ExploCode et l’ambition de rendre le Code du Travail plus accessible aux citoyens, c’est pour moi l’opportunité de continuer dans cette voie passionnante, et d’apporter ma petite pierre à l’édifice “Service Public” au sein de la promotion 2019 des EIG.</description>
+    </item>
+    
+    <item>
+      <title>Mauko Quiroga</title>
+      <link>/personnes/mauko-quiroga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/mauko-quiroga/</guid>
+      <description>Mauko Quiroga est un Product Manager spécialisé dans le déploiement de services publics numériques. Depuis 2016, il s’engage dans la construction d’un État au XXIe siècle, en tant que membre permanent de beta.gouv.fr. Aujourd’hui, Mauko travaille avec l’équipe OpenFisca, pour faciliter la collaboration entre le Parlement, le gouvernement et la société civile, lors de la création de la loi. Issu d’une formation à l’entrecroisement des sciences politiques, du génie industriel, et du commerce, Mauko se donne avec abnégation à sa mission, d’après lui, prométhéenne.</description>
+    </item>
+    
+    <item>
+      <title>Nicolas Berkouk</title>
+      <link>/personnes/nicolas-berkouk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/nicolas-berkouk/</guid>
+      <description>“Après avoir quitté les bancs de l’École polytechnique et de l’Imperial College, je suis actuellement en thèse de mathématiques à l’INRIA en analyse de données topologiques. En parallèle, je suis très curieux d’aborder les questions de changements de paradigmes scientifiques et technologiques qu’entraînent la révolution des datas sous l’angle des sciences sociales. Je suis très honoré et excité à l’idée de rejoindre la troisième promotion des EIG au sein du projet Adler au Ministère de l’action et des comptes publics.</description>
+    </item>
+    
+    <item>
+      <title>Nicolas Bizet</title>
+      <link>/personnes/nicolas-bizet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/nicolas-bizet/</guid>
+      <description>“Ingénieur en informatique de formation, je rejoins rapidement l’ACOSS d’abord en tant que prestataire de service puis en tant que collaborateur. Après avoir exercé les fonctions de développeur, responsable technique et chef de projets au sein des Etudes &amp;amp; Développements, je contribue à la création de l’équipe d’Architecture d’Entreprise, transverse à la DSI. Puis, j’y anime notamment la définition du besoin et le suivi du déploiement de la plateforme d’API Management.</description>
+    </item>
+    
+    <item>
+      <title>Nikos Peteinatos</title>
+      <link>/personnes/nikos-peteinatos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/nikos-peteinatos/</guid>
+      <description>Nikos Peteinatos est un Service Designer spécialisé dans le déploiement de services publics numériques. Son parcours l’amène à combiner plusieurs casquettes en tant que designer, product manager et développeur web dans le privé et pour le service public. Aujourd’hui, il rejoint le défi Plume de la Cour des Comptes pour faciliter la transformation des métiers des juridictions financières.
+Issu d’une formation à l’entrecroisement de la psychologie et du génie informatique et poussé par une forte envie de comprendre, expliquer et répondre aux énigmes qu’entourent l’humain et sa nature, il investit son temps libre à la recherche dévouée au sujet qui l’intéresse le plus : comment se changer soi-même et devenir un acteur du changement autour de soi.</description>
+    </item>
+    
+    <item>
+      <title>Olivier Brandouy</title>
+      <link>/personnes/olivier-brandouy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/olivier-brandouy/</guid>
+      <description>Professeur des Universités (finance), Olivier Brandouy est actuellement expert à la Cour des comptes, rattaché au secrétariat général et au centre d’appui métier. Docteur, agrégé d’économie et de gestion, agrégé de sciences de gestion, il a dirigé des équipes de recherche, des diplômes de master et des parcours doctoraux et réalisé une grande partie de ses recherches aux interfaces de l’IA et de la finance (simulations multi-agents notamment).
+Il a publié de nombreux articles de recherche aux interfaces de l’informatique, fondamentale et appliquée, des systèmes complexes et en finance quantitative.</description>
+    </item>
+    
+    <item>
+      <title>Pascal Guy</title>
+      <link>/personnes/pascal-guy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/pascal-guy/</guid>
+      <description>Directeur des systèmes d’information à la Cour des comptes, Pascal GUY est entouré d’une équipe de 32 collaborateurs, dont six développeurs. Après 15 ans d’expérience dans le privé, dans le secteur des médias, il a rejoint le secteur public pour relever le défi de la numérisation naissante, au Conseil supérieur de l’audiovisuel puis à l’Agence nationale des fréquences. Diplômé d’une maîtrise en génie informatique et d’un Master en management des NTIC de l’Ecole centrale-EM Lyon, adepte des méthodes agiles, il continue à ses heures perdues à faire du développement à titre personnel et récréatif.</description>
+    </item>
+    
+    <item>
+      <title>Patricia Poulet-Mathis</title>
+      <link>/personnes/patricia-poulet-mathis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/patricia-poulet-mathis/</guid>
+      <description>“De formation ingénieure informatique je rejoins la CARSAT Rhône Alpes à la fin des années 80’s et suis séduite par les valeurs de solidarité véhiculées par la sécurité sociale où je décide de suivre le parcours de l’Ecole Nationale Supérieure de Sécurité Sociale (EN3S). Cela me permet de rejoindre la direction de l’URSSAF Rhône Alpes en 2004 où j’exerce de nombreuses missions de cheffe de projet autours des thématiques organisationnelles, informatique et qualité en parallèle d’une direction métier.</description>
+    </item>
+    
+    <item>
+      <title>Philéas Condemine</title>
+      <link>/personnes/phileas-condemine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/phileas-condemine/</guid>
+      <description>« J’ai étudié à l’ENSAE la science actuarielle et la science des données. Pendant plus de 3 ans j’ai combiné et enrichi mes compétences au sein du groupe AXA, assureur leader dans le domaine de la data. Des projets personnels complémentaires m’ont amené à travailler sur des sujets d’objets connectés, d’interopérabilité des systèmes d’information, de prototypage de robot 4-roues et de vision par ordinateur (deep learning). Je suis passionné de nouvelles technologies mais aussi d’arts, en particulier d’arts vivants et surtout de danses, à la fois en tant que spectateur et pratiquant régulier.</description>
+    </item>
+    
+    <item>
+      <title>Pierre Dubreuil</title>
+      <link>/personnes/pierre-dubreuil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/pierre-dubreuil/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Pierre-Alain Jachiet </title>
+      <link>/personnes/pierre-alain-jachiet-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/pierre-alain-jachiet-1/</guid>
+      <description>“Je suis data scientist, passionné par ce métier protéiforme, et engagé au service du bien commun. Après un cursus de mathématiques à l’école polytechnique et une thèse de bioinformatique, je suis devenu consultant “data geek” chez OCTO Technology. En mai 2018, j’ai initié le projet associatif EurosForDocs qui simplifie l’accès à la base open-data Transparence-Santé. Enthousiasmé par le programme EIG, j’ai travaillé sur le défi Open Chronic pour améliorer la prise en charge des maladies chroniques pour la promo EIG3.</description>
+    </item>
+    
+    <item>
+      <title>Quentin Loridant</title>
+      <link>/personnes/quentin-loridant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/quentin-loridant/</guid>
+      <description>“Bonjour ! Je suis un diplômé de l’ENSIMAG, très fier d’avoir intégré la promotion des EIG. Après avoir quitté le monde des systèmes embarqués, j’ai décidé de m’orienter vers le machine learning pour découvrir plus de domaines. Ce fut un succès car j’ai travaillé chez meteoswift, start-up fournissant des prévisions de production éolienne. J’ai été passionné par la gestion de l’électricité et la transition qu’elle vit. Je suis très attaché à la démocratisation de l’alimentation saine.</description>
+    </item>
+    
+    <item>
+      <title>Samir Kebli</title>
+      <link>/personnes/samir-kebli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/samir-kebli/</guid>
+      <description>Diplômé d’un Master en informatique décisionnelle, Samir KEBLI a rejoint l’Agence Bio en avril dernier après 8 années d’expérience en gestion de projet. Sa mission : mener à bien la refonte du Système d’Information (SI) de l’agriculture biologique. Parmi les missions qui lui y sont confiées figurent celle de coordonner et de mettre en œuvre les différents services dont celui d’APIser le SI de la bio et de mettre au cœur de ses services l’accès aux données et plus particulièrement celles aux données géolocalisées.</description>
+    </item>
+    
+    <item>
+      <title>Sandra Chakroun</title>
+      <link>/personnes/sandra-chakroun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/sandra-chakroun/</guid>
+      <description>Développeuse informaticienne, Sandra Chakroun est actuellement membre de l’équipeOpenFisca à la DINSIC. Diplômée d’un Master 2 d’Informatique de l’Université Pierre &amp;amp; Marie Curie (Sorbonne Université), elle s’adapte aux différentes technologies de programmation logicielle. Elle assurera un accompagnement technique et humain pour l’intégration des EIG dans la communauté de contributeurs à OpenFisca France.</description>
+    </item>
+    
+    <item>
+      <title>Simon Karleskind</title>
+      <link>/personnes/simon-karleskind/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/simon-karleskind/</guid>
+      <description>Simon Karleskind, mentor opérationnel du défi Agi’R, est conseiller à la DiAir chef du projet Lab’R. Le Lab’R est une mise en réseau des acteurs de l’accueil et de l’intégration des réfugiés et compte Agi’R la plateforme numérique que les entrepreneurs d’intérêt général seront amenés à donner vie.
+Après Polytechnique, Simon a choisi la fonction publique dans le but d’apporter un regard d’ingénieur dans le développement de projets à forts enjeux.</description>
+    </item>
+    
+    <item>
+      <title>Simon Lebastard</title>
+      <link>/personnes/simon-lebastard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/simon-lebastard/</guid>
+      <description>“Jeune ingénieur des Ponts et Chaussées, diplômé en machine-learning de l’ENS Paris-Saclay, je suis passionné par la modélisation mathématique de phénomènes biologiques, économiques et sociétaux. Avant de rejoindre la troisième promotion des EIG, j’étais ingénieur de recherche en neurosciences, travaillant sur un modèle de mémoire à long-terme. Le défi Adler sera l’occasion de mesurer des méthodes mathématiques et statistiques à un défi ambitieux et pragmatique, au service du bien commun. En dehors du défi, je m’intéresse aux enjeux de la transition énergétique et aux bouleversements actuels des paysages médiatique et politique.</description>
+    </item>
+    
+    <item>
+      <title>Simone Nouwop-Tchinda</title>
+      <link>/personnes/simone-nouwop-tchinda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/simone-nouwop-tchinda/</guid>
+      <description>“Je suis titulaire d’un mastère spécialisé en business intelligence et analytics obtenu à l’Ecole Internationale des Sciences du Traitement de l’Information. J’ai eu la chance de faire mes premiers pas en datascience au datalab de la Mission de Gouvernance Ministérielle des Systèmes d’Information et de Communication (MGMSIC) du Ministère de l’intérieur. Auparavant j’étais ingénieure systèmes et infrastructures, principalement dans la banque. J’ai pu de mener divers projets d’implémentation et d’industrialisation d’applications, de mise en place d’infrastructures techniques.</description>
+    </item>
+    
+    <item>
+      <title>Soufiane Lamrissi</title>
+      <link>/personnes/soufiane-lamrissi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/soufiane-lamrissi/</guid>
+      <description>“Je suis ingénieur de formation et entrepreneur de passion. Après des études en mathématiques appliquées à Centrale Lyon, j’ai rejoint le secteur de l’énergie pour modéliser et couvrir les risques marché auprès d’Uniper puis d’Alpiq. Je consacre mon temps libre à la création de start-ups, en développant des projets depuis l’idée initiale à l’application ou site web final(e). Mon dernier projet était à titre bénévole auprès d’Amnesty International, pour coordonner les actions des militants et améliorer les flux d’information à travers une application dédiée.</description>
+    </item>
+    
+    <item>
+      <title>Stéphanie Combes</title>
+      <link>/personnes/stephanie-combes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/stephanie-combes/</guid>
+      <description>« Je travaille la donnée depuis 7 ans, données structurées, données géolocalisées, données textuelles. Python, R, Rshiny sont mes amis. Data-scientist à l’Insee ces dernières années, je suis arrivée à la DREES avec l’envie d’exploiter le potentiel de ces données de santé avec un nouveau regard. »</description>
+    </item>
+    
+    <item>
+      <title>Sébastien Touzé</title>
+      <link>/personnes/sebastien-touze/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/sebastien-touze/</guid>
+      <description>“Ingénieur Centralien de Lyon, j’ai commencé par m’intéresser à la recherche en machine learning et intelligence artificielle, puis ai rapidement changé de direction pour aller dans le conseil en télécoms. J’ai quitté quelques années plus tard le monde salarié pour l’entrepreneuriat en développant la plate-forme collaborative de voyage Itenavi et parallèlement exercé une activité de développeur web Freelance. Linuxien convaincu, je suis secrétaire adjoint au Sunlab, FabLab de l’association Hatlab qui développe des tiers-lieux dans l’Ouest Parisien.</description>
+    </item>
+    
+    <item>
+      <title>Thierry Razanajao</title>
+      <link>/personnes/thierry-razanajao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/thierry-razanajao/</guid>
+      <description>“Bonjour ! Depuis que je suis diplômé de l’ENSG, j’utilise pas mal de technologies liées aux sciences géographiques. Notamment en tant que bénévole pour CartONG qui participe a l’enrichissement et à l‘utilisation d’OpenStreeMap dans les pays du Sud. Mes principales expériences professionnelles concernent les SIG et le développement d’applications cartographique sur internet. Mon dernier poste fut le test et la validation d’un logiciel pour le traitement d’images issues des satellites Spot6 et Spot7 d’Airbus.</description>
+    </item>
+    
+    <item>
+      <title>Valentin Barrière</title>
+      <link>/personnes/valentin-barriere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/valentin-barriere/</guid>
+      <description>“Ingénieur Aérospatial de formation, je me suis tourné à la fin de mon cursus ingé vers l’apprentissage automatique, puis le traitement du langage naturel dans le cadre d’une thèse portant sur l’analyse des opinions dans les interactions orales. Je suis spécialiste en NLP et en modélisation de la communication humaine multimodale : comment se réalisent des phénomènes aussi différents qu’une emission d’émotions ou une tentative de persuasion grâce à nos moyens de communications naturels (visage, voix, corps).</description>
+    </item>
+    
+    <item>
+      <title>Victor Journé</title>
+      <link>/personnes/victor-journe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/victor-journe/</guid>
+      <description>“Centralien de Nantes avec une spécialité en traitement du signal, j’ai découvert l’apprentissage machine en volontariat international chez Engie, autour des marchés de l’électricité. Mordu, j’ai approfondi le sujet avec une alternance à l’ENSAE en Data Science. Après plus d’un an chez Qopius, une startup à la pointe en analyse d’image, je suis très enthousiaste de réduire l’envoi des contraventions radar inappropriées, grâce au défi IA Flash ! Pendant mon temps libre, vous me trouverez j’espère, sur le grès de Fontainebleau ou sur un bateau !</description>
+    </item>
+    
+    <item>
+      <title>Viktor Jarry</title>
+      <link>/personnes/viktor-jarry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/viktor-jarry/</guid>
+      <description>“Data Scientist de formation, cela fait maintenant plus de trois ans que je travaille chez Sopra Steria en tant que Consultant Data. Spécialisé dans le Secteur Public j’ai travaillé principalement au sein d’entreprises/institutions publiques.
+Fort de cette expérience qui m’a permis de travailler dans des écosystèmes du secteur public, j’ai développé un intérêt dans le domaine de la santé. C’est pourquoi je suis très enthousiaste et motivé à travailler sur le projet Open Chronic au sein de la DREES afin de développer une première expertise dans ce domaine.</description>
+    </item>
+    
+    <item>
+      <title>Wojtek Sitarz</title>
+      <link>/personnes/wojtek-sitarz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/wojtek-sitarz/</guid>
+      <description>“Ce qui a motivé mes choix d’études et de carrière jusqu’à présent était le désir de pouvoir travailler sur des projets à fort impact social positif. Ingénieur de l’Ecole polytechnique, je décide ainsi de me spécialiser dans les domaines liés à l’environnement. Je travaille d’abord au sein d’un cabinet conseiller de la Régie des Eaux de Phnom-Penh, je découvre la recherche avec un projet d’étude hydrogéologique aux îles Galapagos, je continue ma formation avec un Master en Génie Environnemental à UC Berkeley et un poste d’ingénieur conseil chez un grand groupe aux Etats-Unis.</description>
+    </item>
+    
+    <item>
+      <title>Éloi Buat-Ménard</title>
+      <link>/personnes/eloi-buat-menard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/eloi-buat-menard/</guid>
+      <description>Eloi Buat-Ménard, conseiller référendaire à la Cour de cassation, est l’adjoint du directeur du service de documentation, des études et du rapport (SDER). Il anime depuis plusieurs années le projet d’open data des décisions de justice dont il a eu la charge d’abord au ministère de la justice, aujourd’hui à la Cour de cassation.</description>
+    </item>
+    
+  </channel>
+</rss>

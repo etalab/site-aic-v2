@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accompagnement on Test Jamstack</title>
+    <link>/themes/accompagnement/</link>
+    <description>Recent content in Accompagnement on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 26 Oct 2021 14:11:01 +0000</lastBuildDate><atom:link href="/themes/accompagnement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EIG2 Link</title>
+      <link>/defis/eig-link-2/</link>
+      <pubDate>Tue, 26 Oct 2021 14:11:01 +0000</pubDate>
+      
+      <guid>/defis/eig-link-2/</guid>
+      <description>Code source Qu’est-ce qu’un logiciel libre ? Comment mettre en place des tests unitaires ? Quel bibliothèque Javascript utiliser ? Comment trouver un référent Open Data dans son administration d’accueil ? Voici quelques unes des questions auxquelles l’EIG link a pour mission de répondre. Un mélange de connaissances techniques et administratives indispensable pour animer une promotion d’Entrepreneurs d’intérêt général aux expertises multiples et pour pérenniser les outils qu’ils auront développés au sein de leurs administrations.</description>
+    </item>
+    
+    <item>
+      <title>EIG4 Link</title>
+      <link>/defis/eig-link-1/</link>
+      <pubDate>Tue, 26 Oct 2021 13:54:11 +0000</pubDate>
+      
+      <guid>/defis/eig-link-1/</guid>
+      <description>Au sein du département Etalab, deux EIG rejoindront l’équipe en charge du programme EIG pour accompagner la quatrième promotion des entrepreneurs et des mentors pendant 10 mois.
+Plusieurs objectifs : être garants de la qualité des outils développés, souder la promotion EIG 4, diffuser les bonnes pratiques tech et design au sein de la promotion (open data, open source, accessibilité, etc.), valoriser les réalisations des équipes, et consolider un collectif du numérique d’intérêt général au sein de l’Etat.</description>
+    </item>
+    
+    <item>
+      <title>EIG3 Link</title>
+      <link>/defis/eig-link/</link>
+      <pubDate>Sun, 24 Oct 2021 14:04:27 +0000</pubDate>
+      
+      <guid>/defis/eig-link/</guid>
+      <description>Au sein de la mission Etalab, deux EIG rejoindront l’équipe en charge du programme EIG pour accompagner la troisième promotion des entrepreneurs et des mentors pendant 10 mois. Plusieurs objectifs : consolider le collectif EIG 3, apporter un soutien technique et méthodologique aux défis, valoriser et ouvrir les réalisations des équipes, et infuser une dynamique entrepreneuriale au sein de la DINUM.
+Comme l’indique le règlement de l’appel à candidatures, une connaissance fine de l’administration et du programme EIG est nécessaire pour relever le défi “EIG LINK”, pour faire le pont entre les équipes lauréates et l’administration et assurer la pérennisation des défis.</description>
+    </item>
+    
+  </channel>
+</rss>

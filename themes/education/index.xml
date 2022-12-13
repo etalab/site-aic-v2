@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on Test Jamstack</title>
+    <link>/themes/education/</link>
+    <description>Recent content in Education on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 26 Oct 2021 09:51:53 +0000</lastBuildDate><atom:link href="/themes/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ProxiRH</title>
+      <link>/defis/proxirh/</link>
+      <pubDate>Tue, 26 Oct 2021 09:51:53 +0000</pubDate>
+      
+      <guid>/defis/proxirh/</guid>
+      <description>La problématique Afin d’accompagner le développement professionnel de ses agents, l’académie de Lyon expérimente une fonction Ressources humaines (RH) de proximité qui repose sur deux volets : des conseillers RH qui interviennent au plus près des agents d’une part, et des outils numériques qui facilitent la prise de contact avec le service de proximité d’autre part. La fonction RH souhaite ainsi développer une plateforme de prise de rendez-vous et d’échanges ou encore un agent conversationnel (chatbot).</description>
+    </item>
+    
+    <item>
+      <title>Vers l&#39;école pour tous</title>
+      <link>/defis/vers-lecole-pour-tous/</link>
+      <pubDate>Tue, 26 Oct 2021 09:33:13 +0000</pubDate>
+      
+      <guid>/defis/vers-lecole-pour-tous/</guid>
+      <description>La problématique À la rentrée 2017, 321 476 élèves en situation de handicap étaient scolarisés dans les écoles et établissements publics et privés relevant du ministère de l’Éducation nationale. Malgré ce nombre important, les informations sur la scolarisation d’enfants en situation de handicap est bien souvent insuffisante ou difficile à trouver pour les parents. Or cela peut nuire à une scolarisation adaptée et de qualité.
+Le défi : concevoir une plateforme numérique dédiée aux parents d’élèves en situation de handicap et/ou à besoins éducatifs particuliers Les deux designers auront pour mission de concevoir une “plateforme Handicap” à l’ergonomie et aux contenus adaptés aux parents pour les accompagner dans le parcours de scolarisation d’enfants à besoins éducatifs particuliers (ou en situation de handicap).</description>
+    </item>
+    
+    <item>
+      <title>Alphabet</title>
+      <link>/defis/alphabet/</link>
+      <pubDate>Sun, 24 Oct 2021 14:34:24 +0000</pubDate>
+      
+      <guid>/defis/alphabet/</guid>
+      <description>Plateforme en ligne L’Éducation nationale rassemble 30 académies, 97 directions départementales, 62 000 établissements et 1,2 million d’agents. Ceux-ci ont des besoins communs : choisir une date de réunion avec des collègues, générer une visioconférence pour une réunion, se concerter pour choisir un manuel scolaire, prendre des notes ensemble… Pourtant, les services numériques sont le plus souvent proposés à l’échelle des académies et ne sont pas partagés à l’ensemble des agents de l’Éducation nationale.</description>
+    </item>
+    
+    <item>
+      <title>CoachÉlèves</title>
+      <link>/defis/coacheleves/</link>
+      <pubDate>Thu, 14 Oct 2021 09:22:17 +0000</pubDate>
+      
+      <guid>/defis/coacheleves/</guid>
+      <description>Aujourd’hui, quelles que soient les difficultés –ou les ambitions !- d’un élève, celui-ci voit s’offrir à lui toute une gamme d’applications pédagogiques, de sites spécialisés et d’exercices en ligne ciblés. De plus, le suivi des élèves s’étant numérisé, notamment grâce aux Espaces numériques de travail (ENT), on ne compte plus le nombre de traces numériques qui pourraient se révéler utiles…
+CoachÉlèves ou comment mettre les données au service de l’accompagnement pédagogique des élèves.</description>
+    </item>
+    
+    <item>
+      <title>DaSES</title>
+      <link>/defis/dases-1/</link>
+      <pubDate>Tue, 20 Jul 2021 16:20:20 +0000</pubDate>
+      
+      <guid>/defis/dases-1/</guid>
+      <description>Le contexte Le Ministère de l’Education nationale, de la jeunesse et des sports place la donnée au cœur de sa stratégie numérique et l’envisage comme un moyen puissant de développer des solutions pour mieux accompagner les élèves et les étudiants.
+La problématique Aujourd’hui, le Ministère et les écosystèmes de l’éducation produisent un très grand nombre de données liées à la vie scolaire, aux évaluations et aux résultats des élèves, aux devoirs réalisés, aux ressources utilisées, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

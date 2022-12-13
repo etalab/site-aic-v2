@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Les défis d’intérêt général on Test Jamstack</title>
+    <link>/defis/</link>
+    <description>Recent content in Les défis d’intérêt général on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 27 Oct 2021 14:10:19 +0000</lastBuildDate><atom:link href="/defis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MI - matchID</title>
+      <link>/defis/mi-matchid/</link>
+      <pubDate>Wed, 27 Oct 2021 14:10:19 +0000</pubDate>
+      
+      <guid>/defis/mi-matchid/</guid>
+      <description>Démonstration De nombreuses personnes décédées continuent à conduire. Du moins du point de vue du Fichier National des Permis de Conduire (SNPC), qui n’invalide pas automatiquement un permis si son possesseur décède. Cela pose à la fois des problèmes de sécurité quand ces permis sont utilisés par des conducteurs vivants et un problème de statistiques routières.
+L’analyse des données participe à l’amélioration de la sécurité sur les routes.
+L’outil développé par Martin, matchID, mêle des techniques d’analyse des données et de concordance partielle (“fuzzy matching”) et pour faire correspondre les noms contenus dans les fichiers du SNPC avec ceux contenus dans les registres de décès.</description>
+    </item>
+    
+    <item>
+      <title>MI - cartAV</title>
+      <link>/defis/mi-cartav/</link>
+      <pubDate>Wed, 27 Oct 2021 14:04:42 +0000</pubDate>
+      
+      <guid>/defis/mi-cartav/</guid>
+      <description>Code source Tous les jours, les forces de l’ordre interviennent sur le terrain. Qu’il s’agisse de verbalisations ou de compte-rendu d’accidents, elles font remonter une quantité impressionnante de données qu’elles ne peuvent pas elles-mêmes exploiter. Pourtant, elles peuvent servir à définir des profils d’accidents et à décider d’actions à mettre en œuvre pour les éviter.
+La mission : augmenter la sécurité sur les routes en exploitant les données de verbalisations et d’accidents.</description>
+    </item>
+    
+    <item>
+      <title>MESRI - La machine à données</title>
+      <link>/defis/mesri-la-machine-a-donnees/</link>
+      <pubDate>Wed, 27 Oct 2021 14:02:12 +0000</pubDate>
+      
+      <guid>/defis/mesri-la-machine-a-donnees/</guid>
+      <description>Code source De nombreuses bases de données sont construites à la main, et les informations saisies ne se conforment pas aux référentiels existants. Par exemple, les noms des établissements scolaires pourront différer d’une base de données à l’autre. Comment nettoyer les données sans faire de la « reprise de données » manuelle ?
+Concevoir un outil générique pour faciliter le nettoyage de base de données.
+C’est à cette question que répond la « Magical Merge Machine », une solution développée par Léo et Laurent au Ministère de l’Enseignement Supérieur, de la Recherche et de l’Innovation (MESRI).</description>
+    </item>
+    
+    <item>
+      <title>MCC - Inventaire des orgues</title>
+      <link>/defis/mcc-inventaire-des-orgues/</link>
+      <pubDate>Wed, 27 Oct 2021 13:56:21 +0000</pubDate>
+      
+      <guid>/defis/mcc-inventaire-des-orgues/</guid>
+      <description>Démonstration Code source Dissimulés dans de petites églises de village, mis en valeur dans de célèbres cathédrales gothiques, exposés dans de petites ou grandes collections… les orgues. Instruments de musique, mais aussi objets d’art, ils fédèrent une communauté de passionnés aux connaissances très vastes et complètes. Organistes, historiens de l’art, membres d’associations des amis des orgues : tous souhaitent valoriser ce patrimoine caché.
+Révéler et valoriser le patrimoine des orgues grâce à une approche collaborative.</description>
+    </item>
+    
+    <item>
+      <title>DGFiP - fraude fiscale</title>
+      <link>/defis/dgfip-fraude-fiscale/</link>
+      <pubDate>Wed, 27 Oct 2021 13:52:59 +0000</pubDate>
+      
+      <guid>/defis/dgfip-fraude-fiscale/</guid>
+      <description>Monsieur Dupont habite en France mais il travaille au Luxembourg. Contrairement aux résidents fiscaux français percevant leurs revenus en France, il doit calculer et déclarer lui-même les revenus qu’il perçoit. Sur l’honneur… Pourtant, depuis l’été 2016, plusieurs pays de l’OCDE ont mis en place un système d’échange automatisé des informations (EAI) pour les revenus des résidents fiscaux d’un pays travaillant à l’étranger (salaires, retraites, etc.).
+Mettre les données au service de la justice fiscale.</description>
+    </item>
+    
+    <item>
+      <title>CC - API rapports</title>
+      <link>/defis/cc-api-rapports/</link>
+      <pubDate>Wed, 27 Oct 2021 13:48:51 +0000</pubDate>
+      
+      <guid>/defis/cc-api-rapports/</guid>
+      <description>Code source C’est à la Cour des comptes que les institutions publiques rendent des comptes sur leur gestion de l’argent public. Qu’elle soit saisie ou qu’elle se saisisse elle-même, la Cour des comptes produit un grand nombre de rapports. Destinés à la fois aux institutions concernées et aux citoyens, ces rapports ne sont pourtant disponibles qu’en PDF, un format peu exploitable par des citoyens curieux.
+Grâce à une approche par les données, les rapports de la Cour des comptes deviennent plus accessibles.</description>
+    </item>
+    
+    <item>
+      <title>BNF - catalogage</title>
+      <link>/defis/bnf-catalogage/</link>
+      <pubDate>Wed, 27 Oct 2021 13:45:53 +0000</pubDate>
+      
+      <guid>/defis/bnf-catalogage/</guid>
+      <description>La Bibliothèque nationale de France, c’est une collection de plus de 15 millions d’ouvrages qui s’accroît de 670 000 nouveaux livres par an. Un trésor pour la France, mais un véritable casse-tête pour les catalogueurs qui doivent régulièrement mettre à jour leurs bases de données et diffuser des ressources difficiles à indexer aux institutions partenaires.
+Utiliser les métadonnées pour mieux cataloguer et mieux valoriser notre patrimoine papier.
+Les métadonnées sont des données qui servent à décrire une ressource : date de création, auteur, thème… L’objectif initial du défi était de développer un outil permettant de traiter les métadonnées massives et complexes de la BnF.</description>
+    </item>
+    
+    <item>
+      <title>ARS - Parcours de soin</title>
+      <link>/defis/ars-parcours-de-soin/</link>
+      <pubDate>Tue, 26 Oct 2021 21:27:13 +0000</pubDate>
+      
+      <guid>/defis/ars-parcours-de-soin/</guid>
+      <description>Un patient atteint d’une maladie cardiovasculaire a besoin d’une prise en charge spécifique : des médecins et des institutions spécialisées, une certaine fréquence de consultation et de soin, des médicaments spéciaux… Ces parcours de soin sont difficiles à appréhender, mais comprendre leurs spécificités est indispensable pour offrir une offre adaptée.
+La solution : exploiter le Système national de données de santé (SNDS) pour visualiser les parcours de soin de patients atteints de maladies chroniques et améliorer les politiques publiques de santé en Occitanie.</description>
+    </item>
+    
+    <item>
+      <title>Social Connect</title>
+      <link>/defis/social-connect/</link>
+      <pubDate>Tue, 26 Oct 2021 21:20:36 +0000</pubDate>
+      
+      <guid>/defis/social-connect/</guid>
+      <description>Démonstration Code source Connaissez-vous Part’âge Village ? Famileo ? Api bus ? Ce ne sont que trois parmi les dizaines de milliers d’initiatives présentes sur les territoires français. Ces innovations sociales répondent à de multiples problématiques allant de la santé, à l’environnement en passant par l’emploi. Pourtant, ces initiatives ne sont pas toutes bien connues du grand public… et souvent ne se connaissent pas entre elles !
+La mission de Social Connect : mettre en avant et en réseau les innovations sociales pour les faire connaître, les faire grandir, les encourager et les pérenniser.</description>
+    </item>
+    
+    <item>
+      <title>Signaux Faibles</title>
+      <link>/defis/signaux-faibles/</link>
+      <pubDate>Tue, 26 Oct 2021 21:15:37 +0000</pubDate>
+      
+      <guid>/defis/signaux-faibles/</guid>
+      <description>Code source En France, chaque année, 60 000 PME et ETI sont en situation de défaillance. Mais si leurs défaillances sont détectées à temps ce n’est pas une fatalité. La DIRECCTE Bourgogne Franche Comté, avec le soutien de la DGE et du ministère de l’Economie, cherche à développer un outil dans ce sens. Il doit croiser les données des administrations publiques sur la situation économique, financière et sociale des entreprises et les traiter statistiquement avec un algorithme qui déterminera une probabilité de défaillance à 12, 18 et 24 mois.</description>
+    </item>
+    
+    <item>
+      <title>Prévisecours</title>
+      <link>/defis/previsecours/</link>
+      <pubDate>Tue, 26 Oct 2021 21:04:27 +0000</pubDate>
+      
+      <guid>/defis/previsecours/</guid>
+      <description>Présentation du défi Code source En 2016, les sapeurs-pompiers ont effectué plus de 4 542 400 interventions. Chacune d’entre elles suppose la mise en œuvre d’une véritable logistique humaine et matérielle. Celle-ci est d’autant plus complexe que le volume d’interventions est volatile, les lieux variables, les horaires fluctuants…
+Comment aider les pompiers dans leurs interventions ? Grâce à la combinaison de données et du machine learning, Prévisecours aide à mieux anticiper les besoins RH et logistiques des interventions.</description>
+    </item>
+    
+    <item>
+      <title>PrédiSauvetage</title>
+      <link>/defis/predisauvetage/</link>
+      <pubDate>Tue, 26 Oct 2021 20:01:46 +0000</pubDate>
+      
+      <guid>/defis/predisauvetage/</guid>
+      <description>En 2016, 10 000 opérations de sauvetage pour 30 000 personnes ont été coordonnées via les Centres Régionaux Opérationnels de Surveillance et de Sauvetage (CROSS). Les CROSS, la Société nationale du sauvetage en mer (SNSM), tout comme de nombreux autres acteurs du sauvetage en mer, produisent des données relatives à leurs interventions et aux types d’accidentsdont le traitement permettrait d’améliorer laconnaissance de l’accidentologie en mer.
+La mission de Prédisauvetage : mettre l’analyse de données et les algorithmes prédictifs au service du sauvetage en mer.</description>
+    </item>
+    
+    <item>
+      <title>Lab Santé</title>
+      <link>/defis/lab-sante/</link>
+      <pubDate>Tue, 26 Oct 2021 19:56:54 +0000</pubDate>
+      
+      <guid>/defis/lab-sante/</guid>
+      <description>Grâce à la spécificité de sa couverture sociale, la France dispose de données de santé quasi-exhaustives, variées et régulièrement mises à jour. Afin d’en faciliter l’utilisation, elles ont été réunies au sein d’une base de données unique au monde : le système national des données de santé(SNDS). Celle-ci reste à exploiter.
+LabSanté, la preuve par l’exemple du potentiel des données de santé.
+Philéas, Julien et Samah ont deux missions. La première, accompagner la Direction de la recherche, des études, de l’évaluation et des statistiques (DRESS) du Ministère des solidarités et de la santé dans l’exploitation de ces données : structurer et harmoniser les données, former les agents à de nouveaux outils… La deuxième, explorer et analyser ces données au prisme de projets-pilotes qui mobilisent des techniques d’analyse statistique avancées comme le traitement naturel du langage, machine learning…</description>
+    </item>
+    
+    <item>
+      <title>Hopkins</title>
+      <link>/defis/hopkins/</link>
+      <pubDate>Tue, 26 Oct 2021 19:40:13 +0000</pubDate>
+      
+      <guid>/defis/hopkins/</guid>
+      <description>En 2015, l’économie souterraine représentait environ 12% du PIB de la France. Parallèlement, le volume de données textuelles et structurées exploitables connaissait –et connaît toujours- une croissance importante. Deux raisons qui ont poussé le Ministère de l’Action et des Comptes Publics à se doter d’outils expérimentaux d’analyse de données pour lutter dontre les circuits financiers clandestins, dans un cadre réglementé sur la base du droit d’en connaître.
+Avec Hopkins, l’État se donne les moyens de ses ambitions pour enrayer l’économie souterraine.</description>
+    </item>
+    
+    <item>
+      <title>Gobelins</title>
+      <link>/defis/gobelins/</link>
+      <pubDate>Tue, 26 Oct 2021 14:17:50 +0000</pubDate>
+      
+      <guid>/defis/gobelins/</guid>
+      <description>Démonstration Code source Le Mobilier national et ses manufactures créent, restaurent et conservent des meubles, tapisseries, œuvres… depuis le XVIIe siècle. Ces pièces exceptionnelles dessinées par Charles-André Boulle, Pierre Paulin ou encore Jean Nouvel sont principalement destinées à meubler des lieux publics. Elles sont donc difficilement consultables par les chercheurs, créateurs, historiens ou passionnés.
+Créer un outil didactique pour rendre accessibles ces objets historiques a été la volonté de l’équipe Gobelins.</description>
+    </item>
+    
+    <item>
+      <title>EIG2 Link</title>
+      <link>/defis/eig-link-2/</link>
+      <pubDate>Tue, 26 Oct 2021 14:11:01 +0000</pubDate>
+      
+      <guid>/defis/eig-link-2/</guid>
+      <description>Code source Qu’est-ce qu’un logiciel libre ? Comment mettre en place des tests unitaires ? Quel bibliothèque Javascript utiliser ? Comment trouver un référent Open Data dans son administration d’accueil ? Voici quelques unes des questions auxquelles l’EIG link a pour mission de répondre. Un mélange de connaissances techniques et administratives indispensable pour animer une promotion d’Entrepreneurs d’intérêt général aux expertises multiples et pour pérenniser les outils qu’ils auront développés au sein de leurs administrations.</description>
+    </item>
+    
+    <item>
+      <title>DataESR</title>
+      <link>/defis/dataesr/</link>
+      <pubDate>Tue, 26 Oct 2021 13:57:09 +0000</pubDate>
+      
+      <guid>/defis/dataesr/</guid>
+      <description>La recherche produit tous les jours des trésors de connaissance… et de données ! Des données, le Ministère de l’Enseignement Supérieur, de la Recherche et de l’Innovation en a donc en grande -très grande- quantité. Cependant, elles sont dispersées et ne partagent pas forcément des référentiels communs ce qui rend leur gestion, leur partage et leur utilisation par les citoyens très complexes.
+Aujourd’hui, la recherche se démocratise !
+Sami, Ambre et Maxime œuvrent à la médiation de ces données à travers une plateforme d’exposition et d’aide d’analyse des données pour l’ensemble des usagers, professionnels et grand public.</description>
+    </item>
+    
+    <item>
+      <title>EIG4 Link</title>
+      <link>/defis/eig-link-1/</link>
+      <pubDate>Tue, 26 Oct 2021 13:54:11 +0000</pubDate>
+      
+      <guid>/defis/eig-link-1/</guid>
+      <description>Au sein du département Etalab, deux EIG rejoindront l’équipe en charge du programme EIG pour accompagner la quatrième promotion des entrepreneurs et des mentors pendant 10 mois.
+Plusieurs objectifs : être garants de la qualité des outils développés, souder la promotion EIG 4, diffuser les bonnes pratiques tech et design au sein de la promotion (open data, open source, accessibilité, etc.), valoriser les réalisations des équipes, et consolider un collectif du numérique d’intérêt général au sein de l’Etat.</description>
+    </item>
+    
+    <item>
+      <title>Vigicr’UX</title>
+      <link>/defis/vigicrux/</link>
+      <pubDate>Tue, 26 Oct 2021 13:19:07 +0000</pubDate>
+      
+      <guid>/defis/vigicrux/</guid>
+      <description>La problématique Le site Vigicrues s’adresse en premier lieu au grand public. Il permet d’informer les citoyens sur l’état des cours d’eau avec des niveaux de vigilance crue. Il est également un outil de référence pour les personnes intervenant dans la gestion de crises à différents niveaux (préfectures, communes, opérateurs, SDIS …) pour suivre l’évolution des crues et coordonner les mesures à prendre en conséquence. Peu utilisé par temps calme, il se trouve très sollicité lorsqu’un événement se produit.</description>
+    </item>
+    
+    <item>
+      <title>Sequoia IGN</title>
+      <link>/defis/sequoia-ign/</link>
+      <pubDate>Tue, 26 Oct 2021 13:14:22 +0000</pubDate>
+      
+      <guid>/defis/sequoia-ign/</guid>
+      <description>La problématique Le commissariat général au développement durable (CGDD) produit de l’information qui a vocation à alimenter le dialogue environnemental entre l’Etat et ses citoyens. Or l’information environnementale peut prendre des formes différentes (études, données chiffrées, données géolocalisées…) et s’adresser à des publics multiples (experts, décideurs publics, grand public). Afin de permettre l’appropriation de cette information par ses différents publics et de favoriser son enrichissement, le CGDD envisage de refondre les dispositifs de diffusion de l’information et de promouvoir une mise à jour des données en mode collaboratif.</description>
+    </item>
+    
+    <item>
+      <title>Sequoia CGDD</title>
+      <link>/defis/sequoia-cgdd/</link>
+      <pubDate>Tue, 26 Oct 2021 12:22:55 +0000</pubDate>
+      
+      <guid>/defis/sequoia-cgdd/</guid>
+      <description>La problématique, rationaliser pour mieux sensibiliser/informer. Actuellement, 65% des français se déclarent intéressés par une information fiable et « officielle » sur les sujets liés à l’environnement et au développement durable (Etude Nov. 2019 Cocedal - CGDD). Or, La présence en ligne des acteurs publics sur ces sujets est éclatée entre des dizaines de sites, pour la plupart méconnus. Le Commissariat Général au Développement Durable (CGDD), qui produit de l’information, a vocation à alimenter le dialogue environnemental entre l’Etat et ses citoyens.</description>
+    </item>
+    
+    <item>
+      <title>Résorption bidonvilles</title>
+      <link>/defis/resorption-bidonvilles/</link>
+      <pubDate>Tue, 26 Oct 2021 12:00:55 +0000</pubDate>
+      
+      <guid>/defis/resorption-bidonvilles/</guid>
+      <description>La Délégation interministérielle à l’hébergement et l’accès au logement (Dihal) souhaite consolider le pilotage de la politique de résorption des bidonvilles aux niveaux national et local afin d’agir plus et mieux grâce un partage de l’information et des solutions qui fonctionnent.
+La problématique Il existe aujourd’hui plus de 500 bidonvilles en France métropolitaine dans lesquels vivent entre 16 000 et 20 000 personnes, dont environ 5 000 mineurs.
+Pour résorber ces bidonvilles, une nouvelle stratégie qui dépasse l’approche centrée sur les évacuations et combine des actions d’accompagnement social et d’insertion a été mise en place.</description>
+    </item>
+    
+    <item>
+      <title>RembourSanté</title>
+      <link>/defis/remboursante/</link>
+      <pubDate>Tue, 26 Oct 2021 09:58:28 +0000</pubDate>
+      
+      <guid>/defis/remboursante/</guid>
+      <description>La problématique Le compte Ameli, créé en 2007 sur le web, comptabilise à ce jour plus de 30 millions d’adhérents. La consultation des paiements de l’assurance maladie est l’un des services phare du compte et constitue le 1er motif de connexion au compte ameli avec plus de 50% des connexions sur la rubrique « Mes Paiements ». Cette rubrique contient de nombreuses informations liées à l’assuré et ses ayants droits. Bien que l’affichage des paiements ait évolué au cours des années, les adhérents remontent des incompréhensions sur le montant des remboursements, les participations forfaitaires…</description>
+    </item>
+    
+    <item>
+      <title>Recrues</title>
+      <link>/defis/recrues/</link>
+      <pubDate>Tue, 26 Oct 2021 09:54:02 +0000</pubDate>
+      
+      <guid>/defis/recrues/</guid>
+      <description>La problématique La gendarmerie recrute 10 000 personnes chaque année. Elle s’appuie pour cela sur le site lagendarmerierecrute.fr qui reçoit 2 millions de visites par an. Or sur les 170 000 démarches qui y sont initiées, seules 70 000 sont finalisées, soit 41%. De plus, l’assistance en ligne dévoile des besoins non satisfaits pourtant essentiels à la finalisation d’une démarche : celui d’être rassuré sur la prise en compte effective de sa démarche et celui d’être informé sur les différentes étapes de la démarche.</description>
+    </item>
+    
+    <item>
+      <title>ProxiRH</title>
+      <link>/defis/proxirh/</link>
+      <pubDate>Tue, 26 Oct 2021 09:51:53 +0000</pubDate>
+      
+      <guid>/defis/proxirh/</guid>
+      <description>La problématique Afin d’accompagner le développement professionnel de ses agents, l’académie de Lyon expérimente une fonction Ressources humaines (RH) de proximité qui repose sur deux volets : des conseillers RH qui interviennent au plus près des agents d’une part, et des outils numériques qui facilitent la prise de contact avec le service de proximité d’autre part. La fonction RH souhaite ainsi développer une plateforme de prise de rendez-vous et d’échanges ou encore un agent conversationnel (chatbot).</description>
+    </item>
+    
+    <item>
+      <title>Vers l&#39;école pour tous</title>
+      <link>/defis/vers-lecole-pour-tous/</link>
+      <pubDate>Tue, 26 Oct 2021 09:33:13 +0000</pubDate>
+      
+      <guid>/defis/vers-lecole-pour-tous/</guid>
+      <description>La problématique À la rentrée 2017, 321 476 élèves en situation de handicap étaient scolarisés dans les écoles et établissements publics et privés relevant du ministère de l’Éducation nationale. Malgré ce nombre important, les informations sur la scolarisation d’enfants en situation de handicap est bien souvent insuffisante ou difficile à trouver pour les parents. Or cela peut nuire à une scolarisation adaptée et de qualité.
+Le défi : concevoir une plateforme numérique dédiée aux parents d’élèves en situation de handicap et/ou à besoins éducatifs particuliers Les deux designers auront pour mission de concevoir une “plateforme Handicap” à l’ergonomie et aux contenus adaptés aux parents pour les accompagner dans le parcours de scolarisation d’enfants à besoins éducatifs particuliers (ou en situation de handicap).</description>
+    </item>
+    
+    <item>
+      <title>PlaniPref</title>
+      <link>/defis/planipref/</link>
+      <pubDate>Tue, 26 Oct 2021 09:20:57 +0000</pubDate>
+      
+      <guid>/defis/planipref/</guid>
+      <description>La problématique Les préfectures sont l’unique point de contact entre les citoyens et l’administration dans le cadre de certaines démarches : l’obtention de titre de séjour, l’accès à la nationalité, l’examen par la commission médicale du permis de conduire… Pour les effectuer, les citoyens doivent se présenter à la préfecture après y avoir pris rendez-vous.
+Or ils ont parfois du mal à comprendre le fonctionnement du module de prise de rendez-vous, ce qui engendre des démarches supplémentaires et pour les usagers et pour les agents de préfectures.</description>
+    </item>
+    
+    <item>
+      <title>Maritux</title>
+      <link>/defis/maritux/</link>
+      <pubDate>Tue, 26 Oct 2021 09:18:47 +0000</pubDate>
+      
+      <guid>/defis/maritux/</guid>
+      <description>La problématique Le Service hydrographique et océanographique de la Marine (Shom) a pour mission de connaître et décrire l’environnement physique marin et de prévoir son évolution. Dans le cadre de cette mission, il propose un certain nombre de produits et de services qu’il diffuse sur trois portails différents : diffusion.shom.fr, data.shom.fr et maree.shom.fr. Or les retours utilisateurs montrent une difficulté à naviguer dans les portails et à comprendre leurs logiques propres.</description>
+    </item>
+    
+    <item>
+      <title>Ma famille ici</title>
+      <link>/defis/ma-famille-ici/</link>
+      <pubDate>Tue, 26 Oct 2021 09:16:12 +0000</pubDate>
+      
+      <guid>/defis/ma-famille-ici/</guid>
+      <description>La problématique La démarche administrative de demande de regroupement familial s’adresse aux personnes étrangères qui disposent d’un titre de séjour : elle leur permet de demander la venue de leur famille sous condition de ressources et de logement. Cette démarche pose des problèmes aussi bien aux demandeurs qu’aux agents :
+ 90% des dossiers sont incomplets et occasionnent de nombreux rejets ; les agents de l’Office Français de l’Immigration et de l’Intégration (OFII) reçoivent 30 000 demandes par an alors qu’ils ne peuvent en traiter que 18 000 ; la transmission des informations entre les services (OFII, mairies, préfectures, consulats) se fait par courrier et prend énormément de temps.</description>
+    </item>
+    
+    <item>
+      <title>INPN Espaces</title>
+      <link>/defis/inpn-espaces/</link>
+      <pubDate>Tue, 26 Oct 2021 09:13:15 +0000</pubDate>
+      
+      <guid>/defis/inpn-espaces/</guid>
+      <description>La problématique Aujourd’hui, près de 25 000 espaces naturels sur tous les territoires français (terre, mer, outre-mer) sont identifiés comme espaces à enjeux pour la biodiversité (statuts de protection, réglementation, conservation…) et documentés sans que le citoyen le sache toujours. Or il y a un enjeu particulier à ce que le citoyen soit au cœur des politiques de conservation et qu’il prenne conscience qu’un espace naturel existe toujours à quelques kilomètres de chez lui.</description>
+    </item>
+    
+    <item>
+      <title>ID numérique</title>
+      <link>/defis/id-numerique/</link>
+      <pubDate>Tue, 26 Oct 2021 08:08:07 +0000</pubDate>
+      
+      <guid>/defis/id-numerique/</guid>
+      <description>La problématique L’identité numérique est considérée comme un axe fondamental de la transformation numérique de la société et recouvre de nombreux enjeux - économiques, sociaux, publics, de souveraineté… C’est pourquoi une direction de programme interministériel a été mis en place en janvier 2018 afin de concevoir et mettre en œuvre un parcours d’identification numérique sécurisé, universel et inclusif pour les citoyens, les étrangers en situation régulière et les personnes morales. Il a été décidé de faire de la future Carte nationale d’identité électronique (CNIe) un support de l’identité numérique.</description>
+    </item>
+    
+    <item>
+      <title>AFD - Geodata</title>
+      <link>/defis/afd-geodata/</link>
+      <pubDate>Sun, 24 Oct 2021 14:41:15 +0000</pubDate>
+      
+      <guid>/defis/afd-geodata/</guid>
+      <description>Quand l’Agence Française de Développement (AFD) cherche à construire une route, il lui faut des informations de base, comme le nombre de personnes qui habitent sur le tracé. Si dans certains pays ces informations ne sont pas disponibles, elles peuvent néanmoins être facilement calculées à partir de données ouvertes.
+Mettre les données ouvertes au service de projets de développement, tel était le défi à relever.
+La solution développée par Étienne : Urban Dashboard, une plateforme web ouverte qui utilise les données cartographiques libres d’OpenStreetMap pour calculer les indicateurs de base d’un projet routier : densité de la population, occupation des sols… Pour permettre au projet d’évoluer après son départ, Étienne a également développé AFDLab4Dev, une bibliothèque de documentation qui explique comment créer des visualisations de données à partir des API ouvertes de l’AFD.</description>
+    </item>
+    
+    <item>
+      <title>FranceCo</title>
+      <link>/defis/franceco/</link>
+      <pubDate>Sun, 24 Oct 2021 14:38:38 +0000</pubDate>
+      
+      <guid>/defis/franceco/</guid>
+      <description>La problématique FranceConnect est un fédérateur d’identités numériques lancé par l’Etat (DINSIC) en 2015. Il permet de se connecter à des services en ligne en utilisant des comptes déjà existants (ameli, impots.gouv.fr, La Poste, MobileConnect et moi). En novembre 2018, FranceConnect s’est ouvert au secteur privé pour toutes les activités nécessitant réglementairement de vérifier l’identité de leurs utilisateurs. Or près de 40% des utilisateurs de FranceConnect ne vont pas jusqu’au terme de la connexion et l’équipe support reçoit de nombreuses remarques sur les difficultés de connexion.</description>
+    </item>
+    
+    <item>
+      <title>Alphabet</title>
+      <link>/defis/alphabet/</link>
+      <pubDate>Sun, 24 Oct 2021 14:34:24 +0000</pubDate>
+      
+      <guid>/defis/alphabet/</guid>
+      <description>Plateforme en ligne L’Éducation nationale rassemble 30 académies, 97 directions départementales, 62 000 établissements et 1,2 million d’agents. Ceux-ci ont des besoins communs : choisir une date de réunion avec des collègues, générer une visioconférence pour une réunion, se concerter pour choisir un manuel scolaire, prendre des notes ensemble… Pourtant, les services numériques sont le plus souvent proposés à l’échelle des académies et ne sont pas partagés à l’ensemble des agents de l’Éducation nationale.</description>
+    </item>
+    
+    <item>
+      <title>EIG3 Link</title>
+      <link>/defis/eig-link/</link>
+      <pubDate>Sun, 24 Oct 2021 14:04:27 +0000</pubDate>
+      
+      <guid>/defis/eig-link/</guid>
+      <description>Au sein de la mission Etalab, deux EIG rejoindront l’équipe en charge du programme EIG pour accompagner la troisième promotion des entrepreneurs et des mentors pendant 10 mois. Plusieurs objectifs : consolider le collectif EIG 3, apporter un soutien technique et méthodologique aux défis, valoriser et ouvrir les réalisations des équipes, et infuser une dynamique entrepreneuriale au sein de la DINUM.
+Comme l’indique le règlement de l’appel à candidatures, une connaissance fine de l’administration et du programme EIG est nécessaire pour relever le défi “EIG LINK”, pour faire le pont entre les équipes lauréates et l’administration et assurer la pérennisation des défis.</description>
+    </item>
+    
+    <item>
+      <title>App 112</title>
+      <link>/defis/app-112/</link>
+      <pubDate>Mon, 18 Oct 2021 08:52:53 +0000</pubDate>
+      
+      <guid>/defis/app-112/</guid>
+      <description>La problématique Aujourd’hui en France, le seul moyen de contacter le 18 (numéro d’urgence des services d’incendie et de secours) et le 112 (numéro d’urgence européen) est l’appel téléphonique. Or on a démontré la possibilité de recevoir des communications d’urgence par d’autres moyens, notamment via une application, tout en améliorant significativement la qualité de traitement de ces alertes. Cependant, il n’existe encore aucune application 18 ou 112 raccordée à un centre de traitement des alertes.</description>
+    </item>
+    
+    <item>
+      <title>AchaDef</title>
+      <link>/defis/achadef/</link>
+      <pubDate>Sun, 17 Oct 2021 09:42:47 +0000</pubDate>
+      
+      <guid>/defis/achadef/</guid>
+      <description>La problématique Mis en service au début des années 2000, le site achats.defense.gouv.fr des achats hors armement du Ministère des Armées (besoins en services, fournitures et travaux), s’est rapidement imposé comme un modèle institutionnel à destination des opérateurs économiques. Cependant, faute d’attention portée aux utilisateurs, le portail ne correspond plus à leurs attentes :
+  les opérateurs économiques, et notamment les PME et ETI, ne connaissent pas bien les besoins du ministère et la manière dont ils peuvent y répondre ; les agents du ministère et les citoyens ont du mal à trouver des informations claires.</description>
+    </item>
+    
+    <item>
+      <title>CoachÉlèves</title>
+      <link>/defis/coacheleves/</link>
+      <pubDate>Thu, 14 Oct 2021 09:22:17 +0000</pubDate>
+      
+      <guid>/defis/coacheleves/</guid>
+      <description>Aujourd’hui, quelles que soient les difficultés –ou les ambitions !- d’un élève, celui-ci voit s’offrir à lui toute une gamme d’applications pédagogiques, de sites spécialisés et d’exercices en ligne ciblés. De plus, le suivi des élèves s’étant numérisé, notamment grâce aux Espaces numériques de travail (ENT), on ne compte plus le nombre de traces numériques qui pourraient se révéler utiles…
+CoachÉlèves ou comment mettre les données au service de l’accompagnement pédagogique des élèves.</description>
+    </item>
+    
+    <item>
+      <title>Brigade Numérique</title>
+      <link>/defis/brigade-numerique/</link>
+      <pubDate>Thu, 14 Oct 2021 08:42:11 +0000</pubDate>
+      
+      <guid>/defis/brigade-numerique/</guid>
+      <description>Code source La mission des gendarmes est complexe : assurer la sécurité dans les zones rurales et périurbaines où ils sont parfois loin des citoyens qu’ils servent. Or l’usage croissant de nouveaux modes de communication (réseaux sociaux et agents conversationnels) rend possible une nouvelle forme de « proximité numérique » avec les citoyens, complémentaire de l’accueil physique en gendarmerie.
+La gendarmerie se rapproche donc des Français et lance sa Brigade Numérique.</description>
+    </item>
+    
+    <item>
+      <title>b@liseNAV</title>
+      <link>/defis/b-lisenav/</link>
+      <pubDate>Thu, 14 Oct 2021 08:35:47 +0000</pubDate>
+      
+      <guid>/defis/b-lisenav/</guid>
+      <description>La mer, une grande étendue bleue capricieuse sur laquelle s’élancent tous les jours de grands navires et de frêles esquifs. Pour aider les capitaines, expérimentés ou pas, le Service hydrographique et océanographique de la Marine (Shom) basé à Brest met à disposition des cartes marines mises à jour avec les informations transmises par les services des phares et balises. Cependant, la transmission et l’intégration des données prennent parfois du temps et les cartes qui en résultent peuvent être difficiles à interpréter.</description>
+    </item>
+    
+    <item>
+      <title>Archifiltre</title>
+      <link>/defis/archifiltre/</link>
+      <pubDate>Thu, 14 Oct 2021 08:29:00 +0000</pubDate>
+      
+      <guid>/defis/archifiltre/</guid>
+      <description>Démonstration Code source Les archives sont comme un arbre : rassemblées en un endroit, elles ont de multiples ramifications qui mènent logiquement aux documents que l’on recherche. Dans ce monde d’arborescences, les archives des ministères sociaux constituent un enjeu de taille : tout (documents officiels, fiches, notes, mails…) doit être trié afin de conserver les documents à opposer en cas de réclamation. Or la multiplication des outils informatiques a contribué à la multiplication à la fois des données et des formats, rendant l’archivage encore plus compliqué.</description>
+    </item>
+    
+    <item>
+      <title>Polygraphe</title>
+      <link>/defis/polygraphe/</link>
+      <pubDate>Mon, 04 Oct 2021 14:21:41 +0000</pubDate>
+      
+      <guid>/defis/polygraphe/</guid>
+      <description>La Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) développe des nouvelles méthodes de traitement automatique du langage naturel, d’analyse de données et de comportements pour aider ses enquêteurs à mieux détecter et qualifier des faux avis sur les plateformes de consommation en ligne.
+Polygraphe : Détecter les faux avis pour garantir la confiance sur Internet La problématique Les informations disponibles sur Internet orientent considérablement les choix des consommateurs.</description>
+    </item>
+    
+    <item>
+      <title>Plume</title>
+      <link>/defis/plume/</link>
+      <pubDate>Mon, 04 Oct 2021 14:17:10 +0000</pubDate>
+      
+      <guid>/defis/plume/</guid>
+      <description>La Cour des comptes souhaite développer un outil de rédaction collaborative de ses écrits et réaliser des analyses de données sur les textes utilisés et collectés par les juridictions financières. L’objectif sous-jacent : concevoir et présenter des rapports autrement, apporter un nouvel éclairage sur les contrôles à lancer en priorité, et consolider une doctrine de la Cour sur l’ensemble des politiques publiques qu’elle contrôle et évalue depuis sa création.
+Plume : finir de faire entrer les juridictions financières dans le XXIe siècle La problématique L’article 15 de la déclaration des droits de l’Homme et du citoyen dispose que « la société a le droit de demander compte à tout agent public de son administration ».</description>
+    </item>
+    
+    <item>
+      <title>Open Justice</title>
+      <link>/defis/open-justice/</link>
+      <pubDate>Mon, 04 Oct 2021 14:13:49 +0000</pubDate>
+      
+      <guid>/defis/open-justice/</guid>
+      <description>La Cour de cassation, en lien avec le Ministère de la Justice, souhaite développer des techniques d’apprentissage automatique afin d’identifier les données à pseudonymiser dans les décisions de justice avant de les rendre accessibles et réutilisables. Les résultats de ces travaux transformeront en profondeur la diffusion de la jurisprudence, renforceront la cohérence des décisions rendues et la confiance des citoyens en l’autorité judiciaire ; ils pourront largement s’appliquer à d’autres types de données.</description>
+    </item>
+    
+    <item>
+      <title>Open Chronic</title>
+      <link>/defis/open-chronic/</link>
+      <pubDate>Mon, 04 Oct 2021 14:09:48 +0000</pubDate>
+      
+      <guid>/defis/open-chronic/</guid>
+      <description>Code source La Direction de la recherche, des études, de l’évaluation et des statistiques (DREES) du Ministère des Solidarités et de la Santé souhaite construire une base de données des parcours de soin des malades chroniques et faciliter, pour les agences et établissements de santé, le développement d’une variété d’outils, notamment pour mieux comprendre les variabilités de prise en charge des malades et mieux coordonner les différents professionnels de santé (ville/hôpital).</description>
+    </item>
+    
+    <item>
+      <title>LexImpact</title>
+      <link>/defis/leximpact/</link>
+      <pubDate>Mon, 04 Oct 2021 14:02:29 +0000</pubDate>
+      
+      <guid>/defis/leximpact/</guid>
+      <description>La direction interministérielle du numérique (DINUM) souhaite développer, avec la collaboration du Parlement, de la Cour de Comptes, et de la société civile, un outil permettant de simuler l’impact des réformes socio-fiscales sur les citoyens et citoyennes.
+LexImpact : Connaître l’impact des réformes socio-fiscales sur les citoyen·ne·s La problématique Connaissez-vous les effets de la prochaine réforme sur votre situation personnelle ? Probablement pas, et vous n’êtes pas seul·e ! L’Assemblée Nationale, le Sénat et la Cour des Comptes expriment régulièrement le besoin de disposer d’un outil leur permettant de se positionner sur les projets de loi, grâce à une information indépendante sur ses effets.</description>
+    </item>
+    
+    <item>
+      <title>Karfu’R</title>
+      <link>/defis/karfur/</link>
+      <pubDate>Mon, 04 Oct 2021 13:56:16 +0000</pubDate>
+      
+      <guid>/defis/karfur/</guid>
+      <description>La Délégation interministérielle pour l’accueil et l’intégration des réfugiés (DIAIR) souhaite développer une plateforme multilingue afin de diffuser des informations pertinentes pour aider les réfugiés dans leurs démarches. L’enjeu sera de proposer une expérience utilisateur adaptée, du contenu multilingue et des services en lien avec un réseau d’acteurs (associations, administrations, collectivités) déjà engagés sur ces sujets.
+Karfu’R : valoriser les initiatives d’accueil et d’intégration des réfugiés et améliorer les démarches des réfugiés La problématique 230 000 : c’est le nombre de personnes qui ont le statut de réfugié aujourd’hui en France.</description>
+    </item>
+    
+    <item>
+      <title>IA Flash</title>
+      <link>/defis/ia-flash/</link>
+      <pubDate>Mon, 04 Oct 2021 13:45:41 +0000</pubDate>
+      
+      <guid>/defis/ia-flash/</guid>
+      <description>Le Ministère de l’Intérieur au travers de son Agence nationale du traitement automatisé des infractions souhaite développer une intelligence artificielle permettant d’associer des photos de contrôles automatisés aux données des immatriculations des véhicules afin de réduire l’envoi d’avis de contraventions aux usagers n’ayant commis aucune infraction.
+IA Flash : fiabiliser le traitement automatisé des infractions La problématique Chaque année, les radars font 20 000 000 de clichés qu’ils envoient à l’Agence Nationale du Traitement Automatisé des Infractions (ANTAI) et au Centre Automatisé de Constatation des Infractions Routières (CACIR) pour traitement.</description>
+    </item>
+    
+    <item>
+      <title>ExploCode</title>
+      <link>/defis/explocode/</link>
+      <pubDate>Mon, 04 Oct 2021 13:41:53 +0000</pubDate>
+      
+      <guid>/defis/explocode/</guid>
+      <description>La Direction générale du Travail (DGT) souhaite se doter d’un outil qui permette de répondre à toute question concernant le droit du travail grâce à de l’analyse sémantique, l’exploration de solutions d’IA, et le développement de services et API pour une diversité d’utilisateurs concernés par le droit du travail (agents publics, syndicats, associations, entreprises, RH, etc.).
+ExploCode : de l’intelligence artificielle au service de la lisibilité du droit du travail La problématique En 2017, les services de renseignement en droit du travail des Directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l’emploi (DIRECCTE) ont répondu à environ 900 000 demandes concernant le droit du travail, des questions les plus simples aux cas les plus complexes.</description>
+    </item>
+    
+    <item>
+      <title>DataReg</title>
+      <link>/defis/datareg/</link>
+      <pubDate>Mon, 04 Oct 2021 09:08:21 +0000</pubDate>
+      
+      <guid>/defis/datareg/</guid>
+      <description>L’Autorité de régulation des communications électroniques et des postes (ARCEP) souhaite faire passer à l’échelle des outils et des méthodes de régulation par la donnée (outil cartographique, tableaux de bords, API) afin de développer une régulation moderne, en lien avec ses utilisateurs (collectivités locales, services de l’Etat, consommateurs, entreprises régulées, etc.).
+DataReg : Maximiser l’exploitation des données pour permettre aux régulateurs des communications électroniques de gagner en efficacité La problématique Pour réguler les communications électroniques et les postes à l’ère du numérique, l’Arcep a souhaité développer la régulation par la donnée.</description>
+    </item>
+    
+    <item>
+      <title>DataJust</title>
+      <link>/defis/datajust/</link>
+      <pubDate>Mon, 04 Oct 2021 09:03:27 +0000</pubDate>
+      
+      <guid>/defis/datajust/</guid>
+      <description>Le Ministère de la Justice, à travers sa Direction des affaires civiles et du sceau, souhaite analyser les données de la jurisprudence administrative et judiciaire sur l’indemnisation des préjudices corporels afin de mettre à disposition des victimes, des magistrats, des avocats, des assureurs et des fonds d’indemnisation un référentiel indicatif officiel, permettant de mieux évaluer financièrement les préjudices.
+DataJust : garantir un traitement égalitaire et juste des demandes d’indemnisation de préjudices corporels La problématique Evaluer le montant de l’indemnisation d’une victime pour la réparation de son préjudice corporel est complexe à plusieurs égards : il s’agit d’une matière technique, à la frontière du droit et de la médecine légale, les acteurs sont nombreux (victimes, proches de victimes, avocats, magistrats, assureurs, fonds d’indemnisation), et ont des approches différentes.</description>
+    </item>
+    
+    <item>
+      <title>CibNav</title>
+      <link>/defis/cibnav/</link>
+      <pubDate>Mon, 04 Oct 2021 08:59:57 +0000</pubDate>
+      
+      <guid>/defis/cibnav/</guid>
+      <description>La Direction des affaires maritimes (DAM), au sein du Ministère de la Transition écologique et solidaire, souhaite développer un outil de priorisation des contrôles des navires professionnels à partir de données métiers afin d’améliorer le respect des réglementations (sécurité des navires, équipages, conditions d’emploi).
+CibNav : Aider les agents en charge de la sécurité maritime à contrôler des navires professionnels en développant un outil de ciblage La problématique L’exploitation d’un navire professionnel est aujourd’hui soumise à une triple réglementation : sécurité du navire, composition et conditions d’emploi de l’équipage.</description>
+    </item>
+    
+    <item>
+      <title>CartoBio</title>
+      <link>/defis/cartobio/</link>
+      <pubDate>Mon, 04 Oct 2021 08:55:52 +0000</pubDate>
+      
+      <guid>/defis/cartobio/</guid>
+      <description>L’Agence française pour le développement et la promotion de l’agriculture biologique (Agence BIO), en lien avec le Ministère de la Transition écologique et solidaire, souhaite associer les données du Registre Parcellaire Graphique et celles des opérateurs bio pour construire une cartographie des parcelles bio afin de simplifier les démarches des agriculteurs, fiabiliser la certification bio et mieux accompagner les politiques territoriales.
+CartoBio : faciliter les démarches des acteurs de l’agriculture biologique en mettant à disposition les données pertinentes La problématique : des données de l’agriculture biologique non diffusées et incomplètes Le label Agriculture biologique est un label de qualité public fondé sur l’interdiction d’utilisation de produits issus de la chimie de synthèse et le bien-être animal.</description>
+    </item>
+    
+    <item>
+      <title>ADLER</title>
+      <link>/defis/adler/</link>
+      <pubDate>Mon, 04 Oct 2021 08:51:10 +0000</pubDate>
+      
+      <guid>/defis/adler/</guid>
+      <description>Le Ministère de l’Action et des Comptes publics souhaite développer des outils expérimentaux de lutte contre la fraude en s’appuyant sur des méthodes avancées de fouille de données et d’analyse de réseaux afin de rapprocher des sources de données diverses et de détecter des schémas de fraude connus ou nouveaux, dans un cadre réglementé sur la base du droit d’en connaître.
+ADLER : détecter des comportements financiers illicites par l’analyse de réseaux La problématique La criminalité et la fraude financières sont à l’origine de coûts qui se chiffrent en milliards d’euros pour les Etats .</description>
+    </item>
+    
+    <item>
+      <title>ACOSS-Plateforme</title>
+      <link>/defis/acoss-plateforme/</link>
+      <pubDate>Thu, 30 Sep 2021 14:05:02 +0000</pubDate>
+      
+      <guid>/defis/acoss-plateforme/</guid>
+      <description>L’Agence centrale des organismes de sécurité sociale (ACOSS) souhaite améliorer l’expérience utilisateur des démarches du secteur de l’emploi à domicile en capitalisant sur les données de l’Urssaf.
+ACOSS Plateforme : simplifier les démarches des utilisateurs de l’emploi à domicile à l’aide des données de l’Urssaf. La problématique Chaque année, le réseau de l’Union de recouvrement des cotisations de sécurité sociale et d’allocations familiales (Urssaf) recouvre pour le compte de l’Agence centrale des organismes de sécurité sociale (ACOSS) près de 500 milliards d’euros, auprès de 9,7 millions de cotisants au nom d’environ 900 partenaires.</description>
+    </item>
+    
+    <item>
+      <title>SSP Datalab</title>
+      <link>/defis/ssp-datalab/</link>
+      <pubDate>Sun, 26 Sep 2021 12:26:34 +0000</pubDate>
+      
+      <guid>/defis/ssp-datalab/</guid>
+      <description>L’Insee en tant que coordinateur du service statistique public (SSP) souhaite développer une plateforme ergonomique de traitement des données statistiques afin de rendre les techniques modernes plus accessibles et de mutualiser les efforts pour répondre aux défis actuels de la statistique publique.
+La problématique : des outils et techniques de traitement de données difficiles d’accès et dépourvus d’environnements de test Le service statistique public est composé de 16 services statistiques ministériels et de l’Insee (Institut national de la statistique et des études économiques) qui en assure la coordination.</description>
+    </item>
+    
+    <item>
+      <title>SIANCE</title>
+      <link>/defis/siance/</link>
+      <pubDate>Sun, 26 Sep 2021 12:22:00 +0000</pubDate>
+      
+      <guid>/defis/siance/</guid>
+      <description>SIANCE est une plateforme de collecte et d’analyse de documents publics relatifs à la sûreté nucléaire et à la radioprotection. Elle est dotée d’une interface web adaptée aux activités de contrôle menées par l’Autorité de Sûreté Nucléaire.
+La problématique : des données provenant des inspections difficiles à analyser et à traduire en actions La France possède actuellement 17 centrales en fonctionnement, 87 installations relatives à la vie du combustible mais aussi plus de 50 000 installations exposant à des rayonnements ou des sources radioactives, comme certaines installations médicales (hôpitaux, cliniques, dentistes, vétérinaires) ou industrielles.</description>
+    </item>
+    
+    <item>
+      <title>SEDAccord</title>
+      <link>/defis/sedaccord/</link>
+      <pubDate>Thu, 23 Sep 2021 09:14:01 +0000</pubDate>
+      
+      <guid>/defis/sedaccord/</guid>
+      <description>Plusieurs ministères réunis afin de disposer d’un système d’archivage électronique souhaitent développer un outil de traitement des archives numériques à destination de l’ensemble des agents de l’administration. Il doit simplifier l’archivage et la mise en conformité des documents, et ainsi accélérer la transformation numérique de l’Etat.
+La problématique : un processus d’archivage numérique complexe qui repose sur des outils difficiles à prendre en main Des milliards d’objets numériques sont créés et échangés chaque jour par les administrations françaises : documents bureautiques, mails, comptes rendus de réunions, notes, plans…</description>
+    </item>
+    
+    <item>
+      <title>Opérations 18</title>
+      <link>/defis/operations-18/</link>
+      <pubDate>Thu, 23 Sep 2021 08:15:51 +0000</pubDate>
+      
+      <guid>/defis/operations-18/</guid>
+      <description>Le défi EIG a permis à la Brigade de Sapeurs-Pompiers de Paris de développer un outil lui permettant d’avoir accès en temps réel aux informations de terrain sur les ressources humaines et matérielles engagées lors d’opérations.
+La problématique : des données opérationnelles d’interventions existantes mais mal exploitées En 2019, la Brigade de Sapeurs-Pompiers de Paris (BSPP) est intervenue plus de 506 000 fois sur le terrain, soit une intervention toutes les 3 secondes.</description>
+    </item>
+    
+    <item>
+      <title>Open Collectivités</title>
+      <link>/defis/open-collectivites/</link>
+      <pubDate>Thu, 23 Sep 2021 08:05:04 +0000</pubDate>
+      
+      <guid>/defis/open-collectivites/</guid>
+      <description>La problématique : des informations disséminées sur différents canaux En octobre 2019, le Conseil National de l’Information Statistique (CNIS) publie une note dans laquelle il recommande de mettre largement à disposition les données et publications statistiques sur les collectivités locales. Cela « afin d’augmenter la notoriété et la visibilité des statistiques existantes […]. Cette mise à disposition peut prendre a minima la forme d’une publication, mais pourrait aussi faire l’objet d’un portail dédié ».</description>
+    </item>
+    
+    <item>
+      <title>NEOTac</title>
+      <link>/defis/neotac/</link>
+      <pubDate>Thu, 23 Sep 2021 07:49:54 +0000</pubDate>
+      
+      <guid>/defis/neotac/</guid>
+      <description>La Direction Générale de la Gendarmerie Nationale (DGGN) souhaite développer un outil permettant d’automatiser les plans d’intervention des unités de sécurité publique pour gagner en efficacité et en réactivité lors de situations d’urgence.
+La problématique : des situations d’urgence nombreuses qui demandent la mise en place rapide et efficace de dispositifs d’intervention Chaque jour, les unités de sécurité publique sont confrontées à des situations d’urgence nécessitant de mettre en place des plans d’intervention.</description>
+    </item>
+    
+    <item>
+      <title>MonitorFish</title>
+      <link>/defis/monitorfish/</link>
+      <pubDate>Thu, 23 Sep 2021 07:42:21 +0000</pubDate>
+      
+      <guid>/defis/monitorfish/</guid>
+      <description>Problématique : des zones de pêche à surveiller très étendues, des données des navires à analyser nombreuses et complexes Le Centre National de Surveillance des Pêches (CNSP) est chargé de surveiller l’activité des navires de pêche français dans le monde, ainsi que de tous les navires de pêche dans les zones maritimes françaises. La mission des agents du CNSP est d’orienter les contrôleurs des pêches sur le terrain vers les navires les plus à risque, et ce 24h/24, 7j/7.</description>
+    </item>
+    
+    <item>
+      <title>LABEL</title>
+      <link>/defis/label/</link>
+      <pubDate>Thu, 23 Sep 2021 07:39:02 +0000</pubDate>
+      
+      <guid>/defis/label/</guid>
+      <description>La Cour de cassation souhaite mettre en place un outil d’annotation open source lui permettant d’accélérer et fiabiliser le processus de pseudonymisation des décisions de justice et leur mise en open data.
+La problématique : une interface d’annotation inadaptée La Cour de cassation est chargée de la diffusion des décisions de justice. Avant de les rendre accessibles et réutilisables, elle fait un travail de pseudonymisation pour éviter l’identification des personnes physiques et assurer la protection de la vie privée.</description>
+    </item>
+    
+    <item>
+      <title>France Transition</title>
+      <link>/defis/france-transition/</link>
+      <pubDate>Thu, 23 Sep 2021 07:35:30 +0000</pubDate>
+      
+      <guid>/defis/france-transition/</guid>
+      <description>La problématique : les aides publiques liées à la transition écologie des entreprises restent difficiles d’accès. Selon l’étude « Les Dirigeants de PME-ETI face à l’urgence climatique » de Bpifrance, 80% des dirigeants de PME et ETI ont conscience de l’urgence climatique mais seulement 13% déclarent pouvoir réduire « de manière importante » leurs émissions carbone dans les 5 prochaines années.
+Notre investigation a permis de distinguer deux catégories de dirigeants qui rencontrent, chacune, des freins propres :</description>
+    </item>
+    
+    <item>
+      <title>Envinorma</title>
+      <link>/defis/envinorma/</link>
+      <pubDate>Wed, 22 Sep 2021 15:47:33 +0000</pubDate>
+      
+      <guid>/defis/envinorma/</guid>
+      <description>Vidéo de présentation Contexte et présentation de l&amp;rsquo;outil
+ La problématique : une réglementation des sites industriels multiple et disséminée En raison des nuisances, des risques de pollutions ou encore des risques d’accidents, les sites industriels sont des installations classées pour la protection de l’environnement, ou ICPE. Ils sont donc soumis à une réglementation spécifique et sont contrôlés par des inspecteurs habilités. Au total, 1 619 inspections ont été réalisées en Île-de-France en 2020.</description>
+    </item>
+    
+    <item>
+      <title>Enki</title>
+      <link>/defis/enki/</link>
+      <pubDate>Wed, 22 Sep 2021 15:38:47 +0000</pubDate>
+      
+      <guid>/defis/enki/</guid>
+      <description>L’Agence du Numérique de la Sécurité Civile souhaite mettre en place une interface permettant de centraliser, organiser et communiquer les informations provenant des services d’urgence et de leurs partenaires, nécessaires aux autorités pour gérer les crises au mieux.
+La problématique : des données de terrain mal exploitées et non partagées avec les autorités en période de crise L’Agence du Numérique de la Sécurité Civile est en charge de la conception et du déploiement du système d’information NexSIS destiné à tous les services d’incendie et de secours.</description>
+    </item>
+    
+    <item>
+      <title>DataMed</title>
+      <link>/defis/datamed/</link>
+      <pubDate>Wed, 22 Sep 2021 15:29:30 +0000</pubDate>
+      
+      <guid>/defis/datamed/</guid>
+      <description>L’Agence nationale de sécurité des médicaments et des produits de santé (ANSM) souhaite mettre en place des outils lui permettant de rendre plus accessibles aux patients, professionnels de santé et plus largement au grand public ses données sur les médicaments.
+S’inscrire dans une politique de partage des données de santé L’Agence nationale de sécurité du médicament et des produits de santé est l’acteur public qui permet, au nom de l’État, l’accès aux produits de santé en France et qui assure leur sécurité tout au long de leur cycle de vie.</description>
+    </item>
+    
+    <item>
+      <title>Datalympics</title>
+      <link>/defis/datalympics/</link>
+      <pubDate>Wed, 22 Sep 2021 15:13:13 +0000</pubDate>
+      
+      <guid>/defis/datalympics/</guid>
+      <description>La Direction du Budget souhaite développer une base de données ouvertes autour du financement des Jeux olympiques et paralympiques de Paris 2024 afin de répondre aux enjeux de transparence et de bon emploi des fonds publics.
+La problématique : des données budgétaires et financières peu lisibles et inexploitées L’argent public représente 25% du budget des JOP 2024 soit 1,5 milliards d’euros d’investissement public. L’enjeu de la maîtrise du budget est donc au cœur des préoccupations des pouvoirs publics.</description>
+    </item>
+    
+    <item>
+      <title>CapQualif</title>
+      <link>/defis/capqualif/</link>
+      <pubDate>Wed, 22 Sep 2021 14:47:58 +0000</pubDate>
+      
+      <guid>/defis/capqualif/</guid>
+      <description>La sous-direction des gens de mer assure le suivi des marins (réglementation du travail, conditions de travail, protection sociale, emploi…) et est responsable des formations professionnelles maritimes. Afin de simplifier les démarches, elle souhaite développer un outil pour moderniser et automatiser la délivrance des titres des marins professionnels.
+La problématique : des services multiples qui compliquent et rallongent la délivrance des brevets et certificats La profession de marin est une profession réglementée par des conventions internationales et des directives européennes.</description>
+    </item>
+    
+    <item>
+      <title>Atlas Culture</title>
+      <link>/defis/atlas-culture/</link>
+      <pubDate>Wed, 22 Sep 2021 14:40:18 +0000</pubDate>
+      
+      <guid>/defis/atlas-culture/</guid>
+      <description>L’Atlas Culture, c’est depuis 2017 une publication de 250 pages réalisée par le Département des études, de la prospective, des statistiques (Deps) du ministère de la Culture afin d’offrir une vision globale des dynamiques culturelles à l’échelle régionale.
+L’initiative de développer un atlas numérique interactif répond à plusieurs objectifs :
+  Enrichir le jeu de données présentées, disponibles de l&amp;rsquo;échelon national à l&amp;rsquo;ensemble des échelons territoriaux pour permettre la comparabilité Améliorer la lisibilité des données grâce à la visualisation (carte, graphiques, tableaux) et aux éléments de définition et d’analyse Permettre le croisement et l&amp;rsquo;articulation d&amp;rsquo;un plus grand nombre de données pour enrichir l&amp;rsquo;analyse des dynamiques territoriales   Destinée en priorité aux responsables d’affaires culturelles en administration déconcentrée et en collectivités territoriales pour éclairer la stratégie territoriale d’aménagement culturel, cette ressource sera également utile aux chargés d’étude en agences culturelles ainsi qu’aux professionnels et acteurs de la culture.</description>
+    </item>
+    
+    <item>
+      <title>ADEX</title>
+      <link>/defis/adex/</link>
+      <pubDate>Wed, 22 Sep 2021 14:30:53 +0000</pubDate>
+      
+      <guid>/defis/adex/</guid>
+      <description>Déontologie et rigueur de l’expertise étant au centre de son activité, la Haute Autorité de Santé a besoin d’analyser les liens d’intérêts financiers des experts experts avec qui elle collabore afin d’éviter de potentiels conflits d’intérêts.
+La problématique : une analyse des liens d’intérêt complexe et pas toujours de bonne qualité Autorité publique indépendante à caractère scientifique, la Haute Autorité de santé (HAS) travaille à garantir la qualité dans le champ sanitaire, social et médico-social, au bénéfice des personnes.</description>
+    </item>
+    
+    <item>
+      <title>DaSES</title>
+      <link>/defis/dases-1/</link>
+      <pubDate>Tue, 20 Jul 2021 16:20:20 +0000</pubDate>
+      
+      <guid>/defis/dases-1/</guid>
+      <description>Le contexte Le Ministère de l’Education nationale, de la jeunesse et des sports place la donnée au cœur de sa stratégie numérique et l’envisage comme un moyen puissant de développer des solutions pour mieux accompagner les élèves et les étudiants.
+La problématique Aujourd’hui, le Ministère et les écosystèmes de l’éducation produisent un très grand nombre de données liées à la vie scolaire, aux évaluations et aux résultats des élèves, aux devoirs réalisés, aux ressources utilisées, etc.</description>
+    </item>
+    
+    <item>
+      <title>Décos</title>
+      <link>/defis/decos/</link>
+      <pubDate>Sat, 22 May 2021 10:56:14 +0000</pubDate>
+      
+      <guid>/defis/decos/</guid>
+      <description>Le contexte Chaque année, entre 2 000 et 3 000 candidatures sont étudiées par le Ministère de l’Intérieur dans le cadre de l’attribution des ordres nationaux (Légion d’Honneur, Ordre National du Mérite) et de distinctions ministérielles propres.
+La problématique Aujourd’hui, la gestion des distinctions honorifiques est assurée à partir d’outils mêlant instruction papier et logiciels devenus obsolètes. Ces derniers ne permettent pas de sécuriser les procédures, sont lourds en termes de gestion administrative et peu économes.</description>
+    </item>
+    
+    <item>
+      <title>DataRH</title>
+      <link>/defis/datarh/</link>
+      <pubDate>Thu, 20 May 2021 14:24:33 +0000</pubDate>
+      
+      <guid>/defis/datarh/</guid>
+      <description>Le contexte Depuis plusieurs années, la Direction des ressources humaines de l’Agence régionale de santé Auvergne-Rhône-Alpes (ARS ARA) envisage une transformation numérique sous le prisme de la donnée. Un changement législatif, qui prescrit la mise à disposition d’une base de données sociales (parcours professionnels, formation, rémunération, etc.) pour les partenaires internes (agents, managers, organisations syndicales) vient accélérer cette démarche.
+La problématique Le capital humain de l’ARS ARA est actuellement suivi à l’aide de différentes applications non connectées (solutions de paie, outils de gestion du temps et des activités, etc.</description>
+    </item>
+    
+    <item>
+      <title>Prev-AC-Tion</title>
+      <link>/defis/prev-ac-tion/</link>
+      <pubDate>Thu, 20 May 2021 14:22:09 +0000</pubDate>
+      
+      <guid>/defis/prev-ac-tion/</guid>
+      <description>Le contexte En matière d’accidentologie, le secteur maritime affiche aujourd’hui le plus fort taux d’incidence par rapport aux autres secteurs d’activité, avec 1 598 accidents du travail et 14 décès en 2019 (sur 38 368 marins recensés).
+La problématique Cependant, ces souffrances humaines restent encore mal connues : il n’existe pas de données consolidées sur les accidents du travail maritime et les maladies professionnelles qui y sont liées, qui permettraient d’en faire une description fine.</description>
+    </item>
+    
+    <item>
+      <title>Basegun</title>
+      <link>/defis/basegun/</link>
+      <pubDate>Wed, 12 May 2021 15:54:33 +0000</pubDate>
+      
+      <guid>/defis/basegun/</guid>
+      <description>Le contexte Aujourd’hui, les forces de l’ordre (gendarmes, policiers et policières) saisissent 6 à 7 000 armes par an. Pour chaque catégorie d’armes identifiées, les agents mettent en place la procédure et envisagent les poursuites légales adaptées.
+La problématique Cependant, la méthode actuelle d’identification des armes sur le terrain est chronophage, soumise à interprétation et génératrice d’erreurs. En effet, les agents procèdent de trois façons souvent combinées :
+ Ils et elles tentent des rapprochements visuels à partir de recherches internet/intranet autonomes Ils et elles interrogent leurs collègues ou un armurier privé Ils et elles consultent des experts au sein du Ministère de l’Intérieur (SCAE)  La police judiciaire estime que 15 à 20% des armes saisies sont mal ou non identifiées, ce qui conduit à des absences de poursuites ou des poursuites pénales injustifiées.</description>
+    </item>
+    
+    <item>
+      <title>UrssafassuR</title>
+      <link>/defis/urssafassur/</link>
+      <pubDate>Wed, 12 May 2021 15:51:27 +0000</pubDate>
+      
+      <guid>/defis/urssafassur/</guid>
+      <description>Le contexte Nombreux sont les particuliers qui font appel à des entrepreneurs (en particulier des autoentrepreneurs) pour réaliser des travaux chez eux : en 2019, on comptait 1,7 millions d’autoentrepreneurs en France, pour un chiffre d’affaires de 13,5 milliards d’euros.
+La problématique Malgré ce volume, peu de particuliers pensent à vérifier la « régularité » des entrepreneurs sollicités, et beaucoup ignorent les risques potentiels en cas d’irrégularité du prestataire (responsabilité en cas d’accident, pas d’assurance en cas de malfaçons ou de sinistre, sanctions en cas de contrôle, etc.</description>
+    </item>
+    
+    <item>
+      <title>TRISTAN</title>
+      <link>/defis/tristan/</link>
+      <pubDate>Wed, 12 May 2021 15:49:55 +0000</pubDate>
+      
+      <guid>/defis/tristan/</guid>
+      <description>Le contexte En 2019, 812 249 décisions ont été prises en matière pénale. Avant chaque audience, les magistrats préparent leur audition en examinant l’ensemble des pièces constitutives d’une affaire. La qualité de cette préparation conditionne l’impartialité et l’équité des décisions rendues.
+La problématique Cependant, la quantité d’affaires et les modalités de certaines procédures n’accordent pas aux magistrats le temps nécessaire pour bien appréhender toutes les pièces. Ainsi, des procédures comme les comparutions immédiates sont soumises à de vives critiques, qualifiées de « justice d’abattage »*.</description>
+    </item>
+    
+    <item>
+      <title>Mes services Greentech</title>
+      <link>/defis/mes-services-greentech/</link>
+      <pubDate>Wed, 12 May 2021 15:48:32 +0000</pubDate>
+      
+      <guid>/defis/mes-services-greentech/</guid>
+      <description>Le contexte Aujourd’hui, la France dispose d’un écosystème Greentech particulièrement riche, peuplé de 9 000 startups et d’une centaine d’incubateurs/accélérateurs.
+Depuis 2016, l’initiative Greentech Innovation labellise 215 entreprises et leur propose un accompagnement structuré en 5 « boosters » (visibilité, commercial, ressources digitales, commande publique et appui « premium »). Plus récemment, un réseau national de 27 incubateurs Greentech a été déployé et un Living Lab Greentech a été créé pour lever les freins d’accès à la commande publique et mener des expérimentations territoriales.</description>
+    </item>
+    
+    <item>
+      <title>BatID</title>
+      <link>/defis/batid/</link>
+      <pubDate>Wed, 12 May 2021 15:41:48 +0000</pubDate>
+      
+      <guid>/defis/batid/</guid>
+      <description>Le contexte En France, le secteur du bâtiment représente près de 45% de la consommation d’énergie finale et 27% des émissions de gaz à effet de serre.
+Face à ce constat, l’Etat a lancé un plan de rénovation énergétique des bâtiments, qui vise à atteindre la neutralité carbone d’ici à 2050, tout en poursuivant un objectif de lutte contre la précarité énergétique.
+La problématique Malheureusement, le croisement difficile entre les différentes bases de données pertinentes empêche une description fine des bâtiments, et donc le suivi des rénovations effectuées.</description>
+    </item>
+    
+    <item>
+      <title>GDR Santé</title>
+      <link>/defis/gdr-sante/</link>
+      <pubDate>Wed, 12 May 2021 15:38:22 +0000</pubDate>
+      
+      <guid>/defis/gdr-sante/</guid>
+      <description>Le contexte Chaque année, l’Agence nationale de sécurité du médicament et des produits de santé (ANSM) reçoit, pour le médicament, environ 1 000 demandes d’autorisation de mise sur le marché, 1 000 d’autorisations d’essais cliniques ou encore 115 000 signalements de pharmacovigilance. Leur traitement fait appel à différents profils d’agents et les profondeurs d’analyse dépendent de facteurs tels que la complexité scientifique, le profil des patients ou encore la sensibilité sociétale.</description>
+    </item>
+    
+    <item>
+      <title>Green Data for Health</title>
+      <link>/defis/green-data-for-health/</link>
+      <pubDate>Wed, 12 May 2021 15:03:46 +0000</pubDate>
+      
+      <guid>/defis/green-data-for-health/</guid>
+      <description>Le contexte Selon l’Organisation mondiale de la santé, les facteurs environnementaux et comportementaux sont responsables d’au moins 15% des décès en Europe, soit environ 1,4 million de décès par an, pour la plupart évitables. En effet, la pollution de l’air, de l’eau, des sols, les pesticides, les perturbateurs endocriniens, etc. sont à l’origine de multiples pathologies. C’est pourquoi mieux connaître l’effet des facteurs environnementaux sur la santé constitue un enjeu majeur de santé publique.</description>
+    </item>
+    
+    <item>
+      <title>Fabrique Numérique</title>
+      <link>/defis/fabrique-numerique/</link>
+      <pubDate>Wed, 12 May 2021 15:02:33 +0000</pubDate>
+      
+      <guid>/defis/fabrique-numerique/</guid>
+      <description>Le contexte Avec 100 000 agents, la Direction générale des finances publiques (DGFiP) est présente sur l’ensemble du territoire français pour mener des missions très variées : gestion des recettes et dépenses de l’Etat et des collectivités territoriales, tenue des comptes publics, lutte contre la fraude fiscale, etc. Elle s’est engagée depuis plusieurs années dans de nombreux chantiers de modernisation pour être au plus près de ses usagers et de leurs besoins.</description>
+    </item>
+    
+    <item>
+      <title>ePSHAD</title>
+      <link>/defis/e-pshad/</link>
+      <pubDate>Wed, 12 May 2021 14:59:52 +0000</pubDate>
+      
+      <guid>/defis/e-pshad/</guid>
+      <description>Le contexte Les personnes en situation de handicap représentent aujourd’hui une population fragile sur le marché du travail, confrontées à un taux de chômage deux fois plus élevé que la population générale. Les établissements et services médicosociaux de réadaptation professionnelle ont pour mission de favoriser leur insertion professionnelle.
+La problématique Jusqu’alors, les personnes en situation de handicap devaient se déplacer, parfois très loin de leur domicile, pour bénéficier des services de ces établissements.</description>
+    </item>
+    
+    <item>
+      <title>CyberImpact</title>
+      <link>/defis/cyberimp-ct/</link>
+      <pubDate>Wed, 12 May 2021 14:54:41 +0000</pubDate>
+      
+      <guid>/defis/cyberimp-ct/</guid>
+      <description>Le contexte La Gendarmerie nationale, c’est 130 000 femmes et hommes au service de la population sur 95% du territoire physique. Mais c’est aussi une présence dans l’espace numérique, à travers plusieurs services et interfaces (Je donne mon avis, Percev@l, ServicesPublics+, les réseaux sociaux, cybermalveillance.gouv.fr, etc.).
+La problématique Malheureusement, ces interfaces ne sont pas corrélées, créant un éparpillement des données qui empêche la constitution d’une vision consolidée, ainsi qu’un pilotage simple des actions en ligne.</description>
+    </item>
+    
+    <item>
+      <title>SMASH</title>
+      <link>/defis/smash/</link>
+      <pubDate>Wed, 12 May 2021 14:35:06 +0000</pubDate>
+      
+      <guid>/defis/smash/</guid>
+      <description>Le contexte L’hôpital public compte aujourd’hui 1,04 million de salariés, pour des dépenses de personnel qui s’élèvent à 46,9 milliards d’euros (en 2018). Il s’agit du premier poste de dépense des établissements de santé.
+En juillet 2020 ont été signés les accords du Ségur de la santé, qui visent entre autres à revaloriser l’ensemble des carrières du soin. Cette réforme d’envergure fera très certainement évoluer les comportements des salariés des établissements de santé, impliquant une incertitude forte sur l’évolution des masses salariales et donc des dépenses de santé.</description>
+    </item>
+    
+    <item>
+      <title>ArtificIA</title>
+      <link>/defis/artificia/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/artificia/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse L&amp;rsquo;IGN, le facilitateur de la création de « géocommuns » L’Institut national de l’information géographique et forestière (IGN) est un établissement public à caractère administratif placé sous la tutelle des ministères chargés de l’écologie et de la forêt. Sa vocation est de produire et diffuser des données (open data) et des représentations (cartes en ligne et papier, géovisualisation) de référence relatives à la connaissance du territoire national et des forêts françaises ainsi qu&amp;rsquo;à leur évolution.</description>
+    </item>
+    
+    <item>
+      <title>Champollion</title>
+      <link>/defis/champollion/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/champollion/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse Le MTEI, le numérique au service de l&amp;rsquo;action publique Le ministère du travail, de l’emploi et de l’insertion (MTEI) s&amp;rsquo;est doté d’une stratégie autour de la donnée, des algorithmes et des codes sources en appui de ses politiques publiques. Cette stratégie répond à la nécessité d’une nouvelle ambition pour exploiter et maîtriser toutes les potentialités d’un numérique ouvert et au service de l’humain. Elle passe par la création de nouveaux usages de la donnée à toutes les échelles de l’action publique étendue.</description>
+    </item>
+    
+    <item>
+      <title>Ecosphère(s)</title>
+      <link>/defis/ecospheres/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/ecospheres/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse Le CGDD, la promotion du développement durable dans les politiques publiques Le Commissariat général au développement durable (CGDD) éclaire et alimente, par la production de données et de connaissances, l’action du ministère de la Transition écologique. Il pilote notamment le dialogue environnemental à travers le conseil national de la transition écologique. Il s’appuie sur six structures et un « laboratoire d&amp;rsquo;idées », s’inscrivant dans un contexte d’action marqué notamment par la transition numérique, l’ouverture des données et le rôle croissant de la société civile.</description>
+    </item>
+    
+    <item>
+      <title>Estim&#39;Action</title>
+      <link>/defis/estim-action/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/estim-action/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse Cerema, l&amp;rsquo;expertise publique pour la transition écologique et la cohésion des territoires Le Cerema est l’établissement de référence dans les domaines de l’expertise et de l’ingénierie publique pour accompagner les territoires dans leurs missions d’adaptation aux changements climatiques. Il assiste l&amp;rsquo;État, les collectivités territoriales et les entreprises pour les conduire vers une stratégie d&amp;rsquo;aménagement durable (bâtiments, infrastructures, environnement …).
+La problématique identifiée La complexité de l&amp;rsquo;analyse de la qualité de l’air rend difficile la mise en place d&amp;rsquo;actions au sein des collectivités Les émissions routières représentent en moyenne 1/3 des émissions de polluants atmosphériques et sonores.</description>
+    </item>
+    
+    <item>
+      <title>Etat bas carbone</title>
+      <link>/defis/etat-bas-carbone/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/etat-bas-carbone/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse Le CGDD, la promotion du développement durable dans les politiques publiques Rattaché au Ministère de la Transition Ecologique, le CGDD pilote le dialogue environnemental sur les choix et priorités politiques du ministère et assure la trajectoire globale de l&amp;rsquo;Etat sur les questions de développement durable. Il est notamment en charge de la mise en œuvre et de la coordination du dispositif « Services publics écoresponsables » qui est un socle de 20 mesures incarnant la trajectoire écologique au quotidien pour les services publics et les agents.</description>
+    </item>
+    
+    <item>
+      <title>Géocommuns</title>
+      <link>/defis/geocommuns/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/geocommuns/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse L&amp;rsquo;IGN, le facilitateur de la création de « géocommuns » L’Institut national de l’information géographique et forestière (IGN) est un établissement public à caractère administratif placé sous la tutelle des ministères chargés de l’écologie et de la forêt. Sa vocation est de produire et diffuser des données (open data) et des représentations (cartes en ligne et papier, géovisualisation) de référence relatives à la connaissance du territoire national et des forêts françaises ainsi qu&amp;rsquo;à leur évolution.</description>
+    </item>
+    
+    <item>
+      <title>Magellan</title>
+      <link>/defis/magellan/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/magellan/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse La DINUM, le service de public de demain avec le numérique La Direction interministérielle du numérique (DINUM) accompagne les ministères dans leur transformation numérique, conseille le gouvernement et développe des services et ressources partagées. Elle pilote, avec l’appui des ministères, le programme Tech.gouv d’accélération de la transformation numérique du service public. Créée en 2019, la DINUM a pris la suite de la Direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC).</description>
+    </item>
+    
+    <item>
+      <title>Nubonyxia</title>
+      <link>/defis/nubonyxia/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/nubonyxia/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse Bercy Hub, l&amp;rsquo;incubateur des startups d&amp;rsquo;État issues des directions de Bercy Rattaché aux services du numérique des ministères de l&amp;rsquo;Économie, des Finances et de la Relance, Bercy Hub est responsable de l&amp;rsquo;administration ministérielle des données et de l&amp;rsquo;incubation des startups d&amp;rsquo;État issues de Bercy. Sa feuille de route distingue trois axes : développer le capital humain, œuvrer pour la mise à disposition d&amp;rsquo;un catalogue de données techniques partagé au sein des directions de Bercy et valoriser la donnée.</description>
+    </item>
+    
+    <item>
+      <title>OptiFlex</title>
+      <link>/defis/optiflex/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/optiflex/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse Le Service du commissariat des Armées : soutenir les forces en tout temps, tout lieu, toutes circonstances La vocation du Service du commissariat des armées (SCA) est d’assurer le soutien commun et l’administration générale des armées. Il est sous-tendu par deux forces qui se complètent : la première est celle de la culture opérationnelle, comme en témoigne sa présence dans la totalité des engagements opérationnels, sur les théâtres d’opérations extérieures et dans le cadre de l’opération Sentinelle.</description>
+    </item>
+    
+    <item>
+      <title>Pilote Intelligence</title>
+      <link>/defis/pilote-intelligence/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/pilote-intelligence/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse La DITP, pilote de la transformation publique La DITP a pour mission de piloter et coordonner le programme de transformation publique en assurant le suivi des réformes prioritaires du gouvernement et leur territorialisation. Plus de 80 experts et consultants suivent ces réformes et accompagnent les acteurs publics dans l’accélération de leurs projets de transformation. Elle s’inscrit dans une approche de transformation par l’innovation, en testant l’apport de nouvelles disciplines au service d’une meilleure conception de l’action publique.</description>
+    </item>
+    
+    <item>
+      <title>Recens&#39;smart</title>
+      <link>/defis/recens-smart/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/recens-smart/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse L&amp;rsquo;INSEE, un institut au service des informations sur l’économie et la société françaises L&amp;rsquo;Institut national de la statistique et des études économiques (INSEE) est une direction générale du ministère de l&amp;rsquo;Économie et des Finances. Il a pour mission de collecter, analyser et diffuser des informations sur l&amp;rsquo;économie et la société française sur l&amp;rsquo;ensemble de son territoire. Il est notamment en charge du recensement de la population qui, depuis 2004, repose sur des enquêtes annuelles auxquelles il est possible de répondre par internet ou sur papier.</description>
+    </item>
+    
+    <item>
+      <title>SIRANo</title>
+      <link>/defis/sirano/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/sirano/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse La DGOS, le garant de la conformité de l&amp;rsquo;offre de soins au regard des politiques de santé Le bureau « innovation et recherche clinique » de la Direction Générale de l’Offre de Soins (DGOS) - rattachée au Ministère des Solidarités et de la Santé - pilote la politique du ministère portant sur la recherche appliquée en santé, sur l’offre de soins et sur l’innovation.</description>
+    </item>
+    
+    <item>
+      <title>SOS Ponts</title>
+      <link>/defis/sos-ponts/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/sos-ponts/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse Cerema, l&amp;rsquo;expertise publique pour la transition écologique et la cohésion des territoires Le Cerema est l’établissement de référence dans les domaines de l’expertise et de l’ingénierie publique pour accompagner les territoires dans leurs missions d’adaptation aux changements climatiques. Il assiste l&amp;rsquo;État, les collectivités territoriales et les entreprises pour les conduire vers une stratégie d&amp;rsquo;aménagement durable (bâtiments, infrastructures, environnement …).
+La problématique identifiée Les maires ne disposent pas d&amp;rsquo;informations suffisamment accessibles et complètes pour mener à bien des politiques d&amp;rsquo;entretien et de réparation des ponts de leurs communes Entretenir et réparer les ponts relève du casse-tête pour les maires des communes en déficit d’ingénierie : comment s’y prendre ?</description>
+    </item>
+    
+    <item>
+      <title>TwinCity</title>
+      <link>/defis/twincity/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/twincity/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse La SDITN, au laboratoire de valorisation des données La Sous-direction de l’innovation et de la transformation numérique (SDITN) du ministère de l&amp;rsquo;Intérieur (MININT) fabrique des outils numériques à destination de ses agents ou des citoyens, dans une logique de transparence des méthodes et d&amp;rsquo;ouverture des données.
+La problématique identifiée Les données du MININT sont toujours plus volumineuses, notamment grâce à la vidéoprotection mais difficilement exploitables pour des raisons juridiques Le respect des données à caractère personnel constitue un garde-fou nécessaire dans nos sociétés, ce qui empêche en même temps l&amp;rsquo;élaboration de systèmes intelligents qui visent à améliorer la sécurité dans l&amp;rsquo;espace public.</description>
+    </item>
+    
+  </channel>
+</rss>

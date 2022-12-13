@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sport on Test Jamstack</title>
+    <link>/themes/sport/</link>
+    <description>Recent content in Sport on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 22 Sep 2021 15:13:13 +0000</lastBuildDate><atom:link href="/themes/sport/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datalympics</title>
+      <link>/defis/datalympics/</link>
+      <pubDate>Wed, 22 Sep 2021 15:13:13 +0000</pubDate>
+      
+      <guid>/defis/datalympics/</guid>
+      <description>La Direction du Budget souhaite développer une base de données ouvertes autour du financement des Jeux olympiques et paralympiques de Paris 2024 afin de répondre aux enjeux de transparence et de bon emploi des fonds publics.
+La problématique : des données budgétaires et financières peu lisibles et inexploitées L’argent public représente 25% du budget des JOP 2024 soit 1,5 milliards d’euros d’investissement public. L’enjeu de la maîtrise du budget est donc au cœur des préoccupations des pouvoirs publics.</description>
+    </item>
+    
+  </channel>
+</rss>

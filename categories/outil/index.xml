@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Outil on Test Jamstack</title>
+    <link>/categories/outil/</link>
+    <description>Recent content in Outil on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/outil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Organiser un jury en ligne - notre expérience avec la quatrième promotion EIG</title>
+      <link>/blog/retour-experience-jury-en-ligne/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/retour-experience-jury-en-ligne/</guid>
+      <description>Chaque année, le programme Entrepreneurs d&amp;rsquo;Intérêt Général (EIG) part à la recherche de défis d&amp;rsquo;amélioration du service public à l&amp;rsquo;aide du numérique, portés par des administrations. Une fois les défis sélectionnés, le programme aide les administrations à recruter des spécialistes en data science, développement ou design pour les relever. Ces spécialistes constituent alors une nouvelle promotion EIG.
+La sélection des défis se fait en deux étapes :
+ la pré-sélection des défis sur la base des dossiers de candidature déposés par les administrations, interne à la direction interministérielle du numérique (DINUM).</description>
+    </item>
+    
+    <item>
+      <title>Ouvrir les ressources du programme : notre documentation en ligne</title>
+      <link>/blog/documentation-programme/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/documentation-programme/</guid>
+      <description>Le programme Entrepreneurs d&amp;rsquo;Intérêt Général a pour objectif de faire travailler ensemble des personnes extérieures à l&amp;rsquo;administration aux compétences numériques pointues et des agents publics engagés dans une démarche d&amp;rsquo;innovation. Les entrepreneurs d&amp;rsquo;intérêt général sont répartis en binômes ou trinômes pluridisciplinaires. Ils interviennent dans les domaines du développement, du design et de la datascience. Avec les agents publics de leurs administrations d’accueil, ils ont 10 mois pour relever un défi d&amp;rsquo;amélioration du service public à l&amp;rsquo;aide du numérique et des données.</description>
+    </item>
+    
+    <item>
+      <title>Et le logiciel libre dans tout ça ?</title>
+      <link>/blog/administrations-eig-et-logiciel-libre/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/administrations-eig-et-logiciel-libre/</guid>
+      <description>Le logiciel libre et l&amp;rsquo;administration publique Un logiciel libre est un logiciel qui garantit à chacun quatre libertés : celle d&amp;rsquo;exécuter le logiciel comme bon lui semble ; celle d&amp;rsquo;étudier le fonctionnement du programme (notamment en accédant à son code source) et de l&amp;rsquo;adapter à ses besoins (en modifiant ce même code source) ; celle de redistribuer des copies du programme ; celle d&amp;rsquo;améliorer le programme et de redistribuer des copies des versions améliorées.</description>
+    </item>
+    
+    <item>
+      <title>Un point technique après deux mois du programme EIG</title>
+      <link>/blog/programme-eig-point-de-vue-technique/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/programme-eig-point-de-vue-technique/</guid>
+      <description>TL;DR: Les 28 « entrepreneur·es d&amp;rsquo;intérêt général » ne sont pas isolés les uns des autres : ils échangent et font progresser la cohérence technique du programme en mettant en place des outils mutualisés et des rituels. Mon défi EIG Link a pour mission d&amp;rsquo;encourager et de pérenniser cette cohésion de groupe et cette cohérence technique. On avance et ça se voit !
+Thérapie de groupe pour les EIG ! On parle de nos expériences tech lors du bootcamp © Zoe Jung.</description>
+    </item>
+    
+  </channel>
+</rss>

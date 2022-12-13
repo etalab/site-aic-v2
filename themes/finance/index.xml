@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finance on Test Jamstack</title>
+    <link>/themes/finance/</link>
+    <description>Recent content in Finance on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 27 Oct 2021 13:52:59 +0000</lastBuildDate><atom:link href="/themes/finance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DGFiP - fraude fiscale</title>
+      <link>/defis/dgfip-fraude-fiscale/</link>
+      <pubDate>Wed, 27 Oct 2021 13:52:59 +0000</pubDate>
+      
+      <guid>/defis/dgfip-fraude-fiscale/</guid>
+      <description>Monsieur Dupont habite en France mais il travaille au Luxembourg. Contrairement aux résidents fiscaux français percevant leurs revenus en France, il doit calculer et déclarer lui-même les revenus qu’il perçoit. Sur l’honneur… Pourtant, depuis l’été 2016, plusieurs pays de l’OCDE ont mis en place un système d’échange automatisé des informations (EAI) pour les revenus des résidents fiscaux d’un pays travaillant à l’étranger (salaires, retraites, etc.).
+Mettre les données au service de la justice fiscale.</description>
+    </item>
+    
+    <item>
+      <title>CC - API rapports</title>
+      <link>/defis/cc-api-rapports/</link>
+      <pubDate>Wed, 27 Oct 2021 13:48:51 +0000</pubDate>
+      
+      <guid>/defis/cc-api-rapports/</guid>
+      <description>Code source C’est à la Cour des comptes que les institutions publiques rendent des comptes sur leur gestion de l’argent public. Qu’elle soit saisie ou qu’elle se saisisse elle-même, la Cour des comptes produit un grand nombre de rapports. Destinés à la fois aux institutions concernées et aux citoyens, ces rapports ne sont pourtant disponibles qu’en PDF, un format peu exploitable par des citoyens curieux.
+Grâce à une approche par les données, les rapports de la Cour des comptes deviennent plus accessibles.</description>
+    </item>
+    
+    <item>
+      <title>Signaux Faibles</title>
+      <link>/defis/signaux-faibles/</link>
+      <pubDate>Tue, 26 Oct 2021 21:15:37 +0000</pubDate>
+      
+      <guid>/defis/signaux-faibles/</guid>
+      <description>Code source En France, chaque année, 60 000 PME et ETI sont en situation de défaillance. Mais si leurs défaillances sont détectées à temps ce n’est pas une fatalité. La DIRECCTE Bourgogne Franche Comté, avec le soutien de la DGE et du ministère de l’Economie, cherche à développer un outil dans ce sens. Il doit croiser les données des administrations publiques sur la situation économique, financière et sociale des entreprises et les traiter statistiquement avec un algorithme qui déterminera une probabilité de défaillance à 12, 18 et 24 mois.</description>
+    </item>
+    
+    <item>
+      <title>Hopkins</title>
+      <link>/defis/hopkins/</link>
+      <pubDate>Tue, 26 Oct 2021 19:40:13 +0000</pubDate>
+      
+      <guid>/defis/hopkins/</guid>
+      <description>En 2015, l’économie souterraine représentait environ 12% du PIB de la France. Parallèlement, le volume de données textuelles et structurées exploitables connaissait –et connaît toujours- une croissance importante. Deux raisons qui ont poussé le Ministère de l’Action et des Comptes Publics à se doter d’outils expérimentaux d’analyse de données pour lutter dontre les circuits financiers clandestins, dans un cadre réglementé sur la base du droit d’en connaître.
+Avec Hopkins, l’État se donne les moyens de ses ambitions pour enrayer l’économie souterraine.</description>
+    </item>
+    
+    <item>
+      <title>Plume</title>
+      <link>/defis/plume/</link>
+      <pubDate>Mon, 04 Oct 2021 14:17:10 +0000</pubDate>
+      
+      <guid>/defis/plume/</guid>
+      <description>La Cour des comptes souhaite développer un outil de rédaction collaborative de ses écrits et réaliser des analyses de données sur les textes utilisés et collectés par les juridictions financières. L’objectif sous-jacent : concevoir et présenter des rapports autrement, apporter un nouvel éclairage sur les contrôles à lancer en priorité, et consolider une doctrine de la Cour sur l’ensemble des politiques publiques qu’elle contrôle et évalue depuis sa création.
+Plume : finir de faire entrer les juridictions financières dans le XXIe siècle La problématique L’article 15 de la déclaration des droits de l’Homme et du citoyen dispose que « la société a le droit de demander compte à tout agent public de son administration ».</description>
+    </item>
+    
+    <item>
+      <title>Nubonyxia</title>
+      <link>/defis/nubonyxia/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/nubonyxia/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse Bercy Hub, l&amp;rsquo;incubateur des startups d&amp;rsquo;État issues des directions de Bercy Rattaché aux services du numérique des ministères de l&amp;rsquo;Économie, des Finances et de la Relance, Bercy Hub est responsable de l&amp;rsquo;administration ministérielle des données et de l&amp;rsquo;incubation des startups d&amp;rsquo;État issues de Bercy. Sa feuille de route distingue trois axes : développer le capital humain, œuvrer pour la mise à disposition d&amp;rsquo;un catalogue de données techniques partagé au sein des directions de Bercy et valoriser la donnée.</description>
+    </item>
+    
+  </channel>
+</rss>

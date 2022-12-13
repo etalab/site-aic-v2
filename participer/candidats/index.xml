@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Candidates et candidats EIG on Test Jamstack</title>
+    <link>/participer/candidats/</link>
+    <description>Recent content in Candidates et candidats EIG on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="/participer/candidats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Foire aux questions Candidats EIG</title>
+      <link>/participer/candidats/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/participer/candidats/faq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postuler à la 6e promotion</title>
+      <link>/participer/candidats/postuler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/participer/candidats/postuler/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

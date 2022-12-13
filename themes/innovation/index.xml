@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Innovation on Test Jamstack</title>
+    <link>/themes/innovation/</link>
+    <description>Recent content in Innovation on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 01 Jan 1970 00:33:42 +0000</lastBuildDate><atom:link href="/themes/innovation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Magellan</title>
+      <link>/defis/magellan/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/magellan/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse La DINUM, le service de public de demain avec le numérique La Direction interministérielle du numérique (DINUM) accompagne les ministères dans leur transformation numérique, conseille le gouvernement et développe des services et ressources partagées. Elle pilote, avec l’appui des ministères, le programme Tech.gouv d’accélération de la transformation numérique du service public. Créée en 2019, la DINUM a pris la suite de la Direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC).</description>
+    </item>
+    
+    <item>
+      <title>TwinCity</title>
+      <link>/defis/twincity/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/twincity/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse La SDITN, au laboratoire de valorisation des données La Sous-direction de l’innovation et de la transformation numérique (SDITN) du ministère de l&amp;rsquo;Intérieur (MININT) fabrique des outils numériques à destination de ses agents ou des citoyens, dans une logique de transparence des méthodes et d&amp;rsquo;ouverture des données.
+La problématique identifiée Les données du MININT sont toujours plus volumineuses, notamment grâce à la vidéoprotection mais difficilement exploitables pour des raisons juridiques Le respect des données à caractère personnel constitue un garde-fou nécessaire dans nos sociétés, ce qui empêche en même temps l&amp;rsquo;élaboration de systèmes intelligents qui visent à améliorer la sécurité dans l&amp;rsquo;espace public.</description>
+    </item>
+    
+  </channel>
+</rss>

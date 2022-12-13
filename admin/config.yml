@@ -1,0 +1,775 @@
+backend:
+  name: github
+  branch: master
+  repo: Pierre-Guichard/Pierre-Guichard.github.io
+  site_domain: magenta-flan-e6cf49.netlify.app
+
+media_folder: "site/static/img" # Folder where user uploaded files should go
+public_folder: "img"
+publish_mode: editorial_workflow
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "defis" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Défis" # Used in the UI, ie.: "New Post"
+    label_singular: "Défi"
+    folder: "site/content/defis" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    filter: { field: "visible", value: true }
+    fields: # The fields each document in this collection have
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Administration", name: "who", widget: "string" }
+      - {
+          label: "Établissement",
+          name: "place",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Thématiques",
+          name: "themes",
+          widget: "relation",
+          collection: "themes",
+          multiple: true,
+          value_field: "title",
+          search_fields: ["title"],
+        }
+      - {
+          label: "Promotions",
+          name: "promos",
+          widget: "relation",
+          collection: "promos",
+          multiple: true,
+          value_field: "title",
+          search_fields: ["title"],
+        }
+      - { label: "Lieu", name: "town", widget: "string" }
+      - { label: "Date de publication", name: "date", widget: "datetime" }
+      - {
+          label: "Expertises",
+          name: "expertises",
+          widget: "relation",
+          collection: "expertises",
+          multiple: true,
+          value_field: "title",
+          search_fields: ["title"],
+        }
+      - { label: "Image", name: "image", widget: "image" }
+      - {
+          label: "Image partage (1200x627)",
+          name: "ogImage",
+          widget: "image",
+          required: false,
+        }
+      - { label: "Contenu", name: "body", widget: "markdown" }
+      - { label: "Visible", name: "visible", widget: hidden, default: true }
+  - name: "articles" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Articles" # Used in the UI, ie.: "New Post"
+    label_singular: "Article"
+    folder: "site/content/blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    filter: { field: "visible", value: true }
+    fields: # The fields each document in this collection have
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Auteur", name: "author", widget: "string" }
+      - { label: "Date de publication", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Image", name: "image", widget: "image" }
+      - {
+          label: "Catégories",
+          name: "categories",
+          widget: "relation",
+          collection: "categories",
+          multiple: true,
+          value_field: "title",
+          search_fields: ["title"],
+        }
+      - label: "Lire aussi"
+        name: "related"
+        widget: "relation"
+        multiple: true
+        max: 2
+        collection: "articles"
+        value_field: "title"
+        search_fields: ["title"]
+      - { label: "Contenu", name: "body", widget: "markdown" }
+      - { label: "Visible", name: "visible", widget: hidden, default: true }
+  - name: "personnes" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Personnes" # Used in the UI, ie.: "New Post"
+    label_singular: "Personne"
+    folder: "site/content/personnes" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: "Nom", name: "title", widget: "string" }
+      - { label: "Poste", name: "job", widget: "string" }
+      - { label: Description, name: desc, widget: text, required: false }
+      - {
+          label: "Promotion",
+          name: "promos",
+          widget: "relation",
+          collection: "promos",
+          multiple: true,
+          value_field: "title",
+          search_fields: ["title"],
+          required: false,
+        }
+      - {
+          label: "Rôle",
+          name: "role",
+          widget: "select",
+          options:
+            [
+              { label: "Talent", value: "participant" },
+              { label: "Equipe du programme", value: "agent-programme" },
+              { label: "Membre de l’écosystème", value: "agent-ecosysteme" },
+              { label: "Agent public", value: "agent-public" },
+            ],
+        }
+      - {
+          label: "Défis",
+          name: "defis",
+          widget: "relation",
+          multiple: true,
+          collection: "defis",
+          value_field: "title",
+          search_fields: ["title"],
+          required: false,
+        }
+      - {
+          label: "Expertises",
+          name: "expertises",
+          widget: "relation",
+          collection: "expertises",
+          multiple: true,
+          value_field: "title",
+          search_fields: ["title"],
+        }
+      - { label: "Image", name: "image", widget: "image" }
+      - {
+          label: "Linkedin",
+          name: "linkedin",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Github", name: "github", widget: "string", required: false }
+      - { label: "Contenu", name: "body", widget: "markdown" }
+      - {
+          label: "Poids (Menu)",
+          name: "weight",
+          widget: "number",
+          value_type: "int",
+          required: false,
+        }
+  - name: "themes" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Thématiques" # Used in the UI, ie.: "New Post"
+    label_singular: "Thématique"
+    folder: "site/content/themes" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: "Titre", name: "title", widget: "string" }
+  - name: "expertises" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Expertises" # Used in the UI, ie.: "New Post"
+    label_singular: "Expertise"
+    folder: "site/content/expertises" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: "Titre", name: "title", widget: "string" }
+  - name: "promos" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Promotions" # Used in the UI, ie.: "New Post"
+    label_singular: "Promotion"
+    folder: "site/content/promos" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: "Titre", name: "title", widget: "string" }
+  - name: "categories" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Catégories" # Used in the UI, ie.: "New Post"
+    label_singular: "Catégorie"
+    folder: "site/content/categories" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: "Titre", name: "title", widget: "string" }
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "site/content/_index.md"
+        label: "Homepage"
+        name: "home"
+        fields:
+          - {
+              label: "Hero",
+              name: "hero",
+              widget: "object",
+              fields:
+                [
+                  { label: Title, name: title, widget: text },
+                  {
+                    label: Bouton,
+                    name: btn,
+                    widget: object,
+                    required: false,
+                    fields:
+                      [
+                        {
+                          label: Title,
+                          name: title,
+                          widget: string,
+                          required: false,
+                        },
+                        {
+                          label: URL,
+                          name: url,
+                          widget: string,
+                          required: false,
+                        },
+                      ],
+                  },
+                ],
+            }
+          - {
+              label: Introduction,
+              name: intro,
+              widget: object,
+              fields:
+                [
+                  { label: Titre, name: title, widget: string },
+                  { label: Description, name: desc, widget: text },
+                ],
+            }
+          - {
+              label: Défis,
+              name: defis,
+              widget: object,
+              fields:
+                [
+                  { label: Sous-titre, name: sub, widget: string },
+                  { label: Description, name: desc, widget: text },
+                ],
+            }
+          - {
+              label: Talents,
+              name: talents,
+              widget: object,
+              fields:
+                [
+                  { label: Sous-titre, name: sub, widget: string },
+                  { label: Description, name: desc, widget: text },
+                  {
+                    label: "Talents",
+                    name: "list",
+                    widget: "relation",
+                    multiple: true,
+                    max: 3,
+                    collection: "personnes",
+                    value_field: "title",
+                    search_fields: ["title"],
+                  },
+                ],
+            }
+          - {
+              label: Agents,
+              name: agents,
+              widget: object,
+              fields:
+                [
+                  { label: Sous-titre, name: sub, widget: string },
+                  { label: Description, name: desc, widget: text },
+                  {
+                    label: "Agents",
+                    name: "list",
+                    widget: "relation",
+                    multiple: true,
+                    max: 2,
+                    collection: "personnes",
+                    value_field: "title",
+                    search_fields: ["title"],
+                  },
+                ],
+            }
+          - {
+              label: Rejoindre,
+              name: join,
+              widget: object,
+              fields:
+                [
+                  { label: Image, name: image, widget: image, required: false },
+                  {
+                    label: Titre,
+                    name: title,
+                    widget: string,
+                    required: false,
+                  },
+                  {
+                    label: Sous-titre,
+                    name: sub,
+                    widget: string,
+                    required: false,
+                  },
+                  {
+                    label: Bouton,
+                    name: btn,
+                    widget: object,
+                    required: false,
+                    fields:
+                      [
+                        {
+                          label: Title,
+                          name: title,
+                          widget: string,
+                          required: false,
+                        },
+                        {
+                          label: URL,
+                          name: url,
+                          widget: string,
+                          required: false,
+                        },
+                        {
+                          label: Externe,
+                          name: external,
+                          widget: boolean,
+                          required: false,
+                        },
+                      ],
+                  },
+                ],
+            }
+          - {
+              label: Médias,
+              name: medias,
+              widget: object,
+              fields:
+                [
+                  { label: Description, name: desc, widget: text },
+                  {
+                    label: Tuiles,
+                    name: tiles,
+                    widget: list,
+                    fields:
+                      [
+                        { label: Title, name: title, widget: string },
+                        { label: Image, name: image, widget: image },
+                        {
+                          label: Lien,
+                          name: link,
+                          widget: string,
+                          required: false,
+                        },
+                      ],
+                  },
+                ],
+            }
+      - file: "site/content/personal-data.md"
+        label: "Données personnelles"
+        name: "personal-data"
+        fields:
+          - { label: "Titre", name: title, widget: string }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+      - file: "site/content/accessibilite.md"
+        label: "Accessibilité"
+        name: "accessibility"
+        fields:
+          - { label: "Titre", name: title, widget: string }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+      - file: "site/content/cgu.md"
+        label: "CGU"
+        name: "cgu"
+        fields:
+          - { label: "Titre", name: title, widget: string }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+      - file: "site/content/presse.md"
+        label: "Espace presse"
+        name: "press"
+        fields:
+          - { label: "Titre", name: title, widget: string }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+      - file: "site/content/plan.md"
+        label: "Plan du site"
+        name: "sitemap"
+        fields:
+          - { label: "Titre", name: title, widget: string }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+      - file: "site/content/cookies.md"
+        label: "Gestion des cookies"
+        name: "cookies"
+        fields:
+          - { label: "Titre", name: title, widget: string }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+      - file: "site/content/contact.md"
+        label: "Contact"
+        name: "contact"
+        fields:
+          - { label: "Titre", name: title, widget: string }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+      - file: "site/content/defis/_index.md"
+        label: "Défis"
+        name: "impact"
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - { label: Description, name: desc, widget: text }
+      - file: "site/content/team.md"
+        label: "Equipe"
+        name: "team"
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - { label: Description, name: desc, widget: text }
+          - { label: Intro programme, name: introProg, widget: text }
+          - { label: Intro écosystème, name: introEco, widget: text }
+          - label: "Rejoindre"
+            name: join
+            widget: object
+            fields:
+              - { label: Image, name: image, widget: image }
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: text }
+              - { label: Lien, name: link, widget: string }
+
+      - file: "site/content/talents.md"
+        label: "Talents"
+        name: "talents"
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - { label: Description, name: desc, widget: text }
+
+      - file: "site/content/agents.md"
+        label: "Agents"
+        name: "agents"
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - { label: Description, name: desc, widget: text }
+
+      - file: "site/content/program.md"
+        label: "Programme"
+        name: "program"
+        fields:
+          - { label: Cover, name: image, widget: image }
+          - { label: Titre, name: title, widget: text }
+          - { label: Description, name: desc, widget: markdown }
+          - label: "Chiffres clés"
+            name: numbers
+            max: 3
+            widget: list
+            fields:
+              - { label: Nombre, name: num, widget: string }
+              - { label: Titre, name: title, widget: string }
+              - {
+                  label: "Bouton - Titre",
+                  name: btnTitle,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: "Bouton - URL",
+                  name: btnUrl,
+                  widget: string,
+                  required: false,
+                }
+
+          - label: "Comment ça marche"
+            name: how
+            widget: object
+            fields:
+              - { label: Description, name: desc, widget: markdown }
+
+          - label: Phases
+            name: steps
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: text }
+              - label: Liste
+                name: list
+                widget: list
+                fields:
+                  - { label: Picto, name: icon, widget: image }
+                  - { label: Phase, name: step, widget: string }
+                  - { label: Durée, name: duration, widget: string }
+                  - { label: Titre, name: title, widget: string }
+                  - { label: Dates, name: dates, widget: string }
+                  - { label: Description, name: desc, widget: text }
+
+          - label: "Et après"
+            name: then
+            widget: object
+            fields:
+              - { label: Description, name: desc, widget: markdown }
+
+          - label: "Citation"
+            name: quote
+            widget: object
+            fields:
+              - { label: Photo, name: photo, widget: image }
+              - { label: Citation, name: quote, widget: string }
+              - { label: Nom, name: name, widget: string }
+              - { label: Description, name: desc, widget: string }
+
+      - file: "site/content/participer/_index.md"
+        label: "Participer"
+        name: "participate"
+        fields:
+          - { label: Titre, name: title, widget: text }
+
+      - file: "site/content/participer/candidats/_index.md"
+        label: "Candidats"
+        name: "candidates"
+        fields:
+          - { label: "Candidatures ouvertes", name: open, widget: boolean }
+          - { label: Titre, name: title, widget: string }
+          - label: "Haut de page"
+            name: head
+            widget: object
+            fields:
+              - label: "Questions"
+                name: questions
+                widget: list
+                fields:
+                  - { label: Question, name: question, widget: string }
+
+              - { label: "Sous-titre", name: sub, widget: string }
+              - label: "Bouton postuler"
+                name: apply
+                widget: object
+                fields:
+                  - {
+                      label: Titre,
+                      name: title,
+                      widget: string,
+                      required: false,
+                    }
+                  - { label: URL, name: url, widget: string, required: false }
+
+              - label: "Bouton appel"
+                name: call
+                widget: object
+                fields:
+                  - {
+                      label: Titre,
+                      name: title,
+                      widget: string,
+                      required: false,
+                    }
+                  - { label: URL, name: url, widget: file, required: false }
+
+          - label: "Définition"
+            name: def
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - label: "Infos"
+                name: info
+                widget: object
+                fields:
+                  - { label: Titre, name: title, widget: string }
+                  - { label: Description, name: desc, widget: markdown }
+
+          - label: "C'est quoi"
+            name: what
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - label: "Définitions"
+                name: defs
+                widget: list
+                fields:
+                  - { label: Définition, name: def, widget: string }
+
+          - label: "Profils"
+            name: profiles
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+              - { label: "Sous-titre", name: sub, widget: string }
+              - label: "Talents"
+                name: "list"
+                widget: "relation"
+                multiple: true
+                max: 3
+                collection: "personnes"
+                value_field: "title"
+                search_fields: ["title"]
+
+          - label: "Conditions"
+            name: conditions
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+
+          - label: "Devenir EIG"
+            name: how
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+
+          - label: "Prochaine promotion"
+            name: wait
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: text, required: false }
+              - {
+                  label: Description,
+                  name: desc,
+                  widget: markdown,
+                  required: false,
+                }
+
+      - file: "site/content/participer/candidats/postuler.md"
+        label: "Postuler"
+        name: "postuler"
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - label: "Callout"
+            name: callout
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+
+          - label: "Postuler"
+            name: how
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+
+          - label: "Étapes"
+            name: steps
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - label: "Dates"
+                name: dates
+                widget: list
+                fields:
+                  - { label: Date, name: date, widget: string }
+                  - { label: Description, name: desc, widget: markdown }
+
+          - { label: Questions, name: questions, widget: markdown }
+          - label: "Rejoindre"
+            name: join
+            widget: object
+            fields:
+              - { label: Image, name: image, widget: image }
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: text }
+              - { label: Lien, name: link, widget: string }
+
+      - file: "site/content/participer/candidats/faq.md"
+        label: "FAQ - Candidats"
+        name: "candidats-faq"
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - label: "Questions"
+            name: questions
+            widget: list
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+
+          - { label: Contact, name: contact, widget: markdown }
+
+      - file: "site/content/participer/administrations/_index.md"
+        label: "Administrations"
+        name: "admins"
+        fields:
+          - { label: "Candidatures ouvertes", name: open, widget: boolean }
+          - label: "Haut de page"
+            name: head
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+              - label: "Bouton postuler"
+                name: apply
+                widget: object
+                fields:
+                  - {
+                      label: Titre,
+                      name: title,
+                      widget: string,
+                      required: false,
+                    }
+                  - { label: URL, name: url, widget: string, required: false }
+
+              - label: "Bouton appel"
+                name: call
+                widget: object
+                fields:
+                  - {
+                      label: Titre,
+                      name: title,
+                      widget: string,
+                      required: false,
+                    }
+                  - { label: URL, name: url, widget: file, required: false }
+
+          - { label: Programme, name: program, widget: markdown }
+          - label: "Critères"
+            name: criteria
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+              - label: "Liste"
+                name: list
+                widget: list
+                fields:
+                  - { label: Numéro, name: num, widget: string }
+                  - { label: Nom, name: name, widget: string }
+                  - { label: Description, name: desc, widget: text }
+
+          - { label: Étapes, name: steps, widget: markdown }
+          - label: "Prochaine promotion"
+            name: wait
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: text }
+              - { label: Description, name: desc, widget: markdown }
+
+      - file: "site/content/participer/administrations/proposer.md"
+        label: "Proposer"
+        name: "proposer"
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - label: "Callout"
+            name: callout
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+
+          - label: "Postuler"
+            name: how
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+
+          - label: "Étapes"
+            name: steps
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - label: "Dates"
+                name: dates
+                widget: list
+                fields:
+                  - { label: Date, name: date, widget: string }
+                  - { label: Description, name: desc, widget: markdown }
+
+          - { label: Questions, name: questions, widget: markdown }
+          - { label: Communication, name: com, widget: markdown }
+
+      - file: "site/content/participer/administrations/faq.md"
+        label: "FAQ - Administrations"
+        name: "admins-faq"
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - label: "Questions"
+            name: questions
+            widget: list
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+
+          - { label: Contact, name: contact, widget: markdown }

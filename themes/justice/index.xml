@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justice on Test Jamstack</title>
+    <link>/themes/justice/</link>
+    <description>Recent content in Justice on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 04 Oct 2021 14:13:49 +0000</lastBuildDate><atom:link href="/themes/justice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Justice</title>
+      <link>/defis/open-justice/</link>
+      <pubDate>Mon, 04 Oct 2021 14:13:49 +0000</pubDate>
+      
+      <guid>/defis/open-justice/</guid>
+      <description>La Cour de cassation, en lien avec le Ministère de la Justice, souhaite développer des techniques d’apprentissage automatique afin d’identifier les données à pseudonymiser dans les décisions de justice avant de les rendre accessibles et réutilisables. Les résultats de ces travaux transformeront en profondeur la diffusion de la jurisprudence, renforceront la cohérence des décisions rendues et la confiance des citoyens en l’autorité judiciaire ; ils pourront largement s’appliquer à d’autres types de données.</description>
+    </item>
+    
+    <item>
+      <title>IA Flash</title>
+      <link>/defis/ia-flash/</link>
+      <pubDate>Mon, 04 Oct 2021 13:45:41 +0000</pubDate>
+      
+      <guid>/defis/ia-flash/</guid>
+      <description>Le Ministère de l’Intérieur au travers de son Agence nationale du traitement automatisé des infractions souhaite développer une intelligence artificielle permettant d’associer des photos de contrôles automatisés aux données des immatriculations des véhicules afin de réduire l’envoi d’avis de contraventions aux usagers n’ayant commis aucune infraction.
+IA Flash : fiabiliser le traitement automatisé des infractions La problématique Chaque année, les radars font 20 000 000 de clichés qu’ils envoient à l’Agence Nationale du Traitement Automatisé des Infractions (ANTAI) et au Centre Automatisé de Constatation des Infractions Routières (CACIR) pour traitement.</description>
+    </item>
+    
+    <item>
+      <title>ExploCode</title>
+      <link>/defis/explocode/</link>
+      <pubDate>Mon, 04 Oct 2021 13:41:53 +0000</pubDate>
+      
+      <guid>/defis/explocode/</guid>
+      <description>La Direction générale du Travail (DGT) souhaite se doter d’un outil qui permette de répondre à toute question concernant le droit du travail grâce à de l’analyse sémantique, l’exploration de solutions d’IA, et le développement de services et API pour une diversité d’utilisateurs concernés par le droit du travail (agents publics, syndicats, associations, entreprises, RH, etc.).
+ExploCode : de l’intelligence artificielle au service de la lisibilité du droit du travail La problématique En 2017, les services de renseignement en droit du travail des Directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l’emploi (DIRECCTE) ont répondu à environ 900 000 demandes concernant le droit du travail, des questions les plus simples aux cas les plus complexes.</description>
+    </item>
+    
+    <item>
+      <title>DataJust</title>
+      <link>/defis/datajust/</link>
+      <pubDate>Mon, 04 Oct 2021 09:03:27 +0000</pubDate>
+      
+      <guid>/defis/datajust/</guid>
+      <description>Le Ministère de la Justice, à travers sa Direction des affaires civiles et du sceau, souhaite analyser les données de la jurisprudence administrative et judiciaire sur l’indemnisation des préjudices corporels afin de mettre à disposition des victimes, des magistrats, des avocats, des assureurs et des fonds d’indemnisation un référentiel indicatif officiel, permettant de mieux évaluer financièrement les préjudices.
+DataJust : garantir un traitement égalitaire et juste des demandes d’indemnisation de préjudices corporels La problématique Evaluer le montant de l’indemnisation d’une victime pour la réparation de son préjudice corporel est complexe à plusieurs égards : il s’agit d’une matière technique, à la frontière du droit et de la médecine légale, les acteurs sont nombreux (victimes, proches de victimes, avocats, magistrats, assureurs, fonds d’indemnisation), et ont des approches différentes.</description>
+    </item>
+    
+    <item>
+      <title>LABEL</title>
+      <link>/defis/label/</link>
+      <pubDate>Thu, 23 Sep 2021 07:39:02 +0000</pubDate>
+      
+      <guid>/defis/label/</guid>
+      <description>La Cour de cassation souhaite mettre en place un outil d’annotation open source lui permettant d’accélérer et fiabiliser le processus de pseudonymisation des décisions de justice et leur mise en open data.
+La problématique : une interface d’annotation inadaptée La Cour de cassation est chargée de la diffusion des décisions de justice. Avant de les rendre accessibles et réutilisables, elle fait un travail de pseudonymisation pour éviter l’identification des personnes physiques et assurer la protection de la vie privée.</description>
+    </item>
+    
+    <item>
+      <title>TRISTAN</title>
+      <link>/defis/tristan/</link>
+      <pubDate>Wed, 12 May 2021 15:49:55 +0000</pubDate>
+      
+      <guid>/defis/tristan/</guid>
+      <description>Le contexte En 2019, 812 249 décisions ont été prises en matière pénale. Avant chaque audience, les magistrats préparent leur audition en examinant l’ensemble des pièces constitutives d’une affaire. La qualité de cette préparation conditionne l’impartialité et l’équité des décisions rendues.
+La problématique Cependant, la quantité d’affaires et les modalités de certaines procédures n’accordent pas aux magistrats le temps nécessaire pour bien appréhender toutes les pièces. Ainsi, des procédures comme les comparutions immédiates sont soumises à de vives critiques, qualifiées de « justice d’abattage »*.</description>
+    </item>
+    
+  </channel>
+</rss>

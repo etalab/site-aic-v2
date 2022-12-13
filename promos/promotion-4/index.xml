@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Promotion 4 on Test Jamstack</title>
+    <link>/promos/promotion-4/</link>
+    <description>Recent content in Promotion 4 on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 26 Oct 2021 13:54:11 +0000</lastBuildDate><atom:link href="/promos/promotion-4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EIG4 Link</title>
+      <link>/defis/eig-link-1/</link>
+      <pubDate>Tue, 26 Oct 2021 13:54:11 +0000</pubDate>
+      
+      <guid>/defis/eig-link-1/</guid>
+      <description>Au sein du département Etalab, deux EIG rejoindront l’équipe en charge du programme EIG pour accompagner la quatrième promotion des entrepreneurs et des mentors pendant 10 mois.
+Plusieurs objectifs : être garants de la qualité des outils développés, souder la promotion EIG 4, diffuser les bonnes pratiques tech et design au sein de la promotion (open data, open source, accessibilité, etc.), valoriser les réalisations des équipes, et consolider un collectif du numérique d’intérêt général au sein de l’Etat.</description>
+    </item>
+    
+    <item>
+      <title>SSP Datalab</title>
+      <link>/defis/ssp-datalab/</link>
+      <pubDate>Sun, 26 Sep 2021 12:26:34 +0000</pubDate>
+      
+      <guid>/defis/ssp-datalab/</guid>
+      <description>L’Insee en tant que coordinateur du service statistique public (SSP) souhaite développer une plateforme ergonomique de traitement des données statistiques afin de rendre les techniques modernes plus accessibles et de mutualiser les efforts pour répondre aux défis actuels de la statistique publique.
+La problématique : des outils et techniques de traitement de données difficiles d’accès et dépourvus d’environnements de test Le service statistique public est composé de 16 services statistiques ministériels et de l’Insee (Institut national de la statistique et des études économiques) qui en assure la coordination.</description>
+    </item>
+    
+    <item>
+      <title>SIANCE</title>
+      <link>/defis/siance/</link>
+      <pubDate>Sun, 26 Sep 2021 12:22:00 +0000</pubDate>
+      
+      <guid>/defis/siance/</guid>
+      <description>SIANCE est une plateforme de collecte et d’analyse de documents publics relatifs à la sûreté nucléaire et à la radioprotection. Elle est dotée d’une interface web adaptée aux activités de contrôle menées par l’Autorité de Sûreté Nucléaire.
+La problématique : des données provenant des inspections difficiles à analyser et à traduire en actions La France possède actuellement 17 centrales en fonctionnement, 87 installations relatives à la vie du combustible mais aussi plus de 50 000 installations exposant à des rayonnements ou des sources radioactives, comme certaines installations médicales (hôpitaux, cliniques, dentistes, vétérinaires) ou industrielles.</description>
+    </item>
+    
+    <item>
+      <title>SEDAccord</title>
+      <link>/defis/sedaccord/</link>
+      <pubDate>Thu, 23 Sep 2021 09:14:01 +0000</pubDate>
+      
+      <guid>/defis/sedaccord/</guid>
+      <description>Plusieurs ministères réunis afin de disposer d’un système d’archivage électronique souhaitent développer un outil de traitement des archives numériques à destination de l’ensemble des agents de l’administration. Il doit simplifier l’archivage et la mise en conformité des documents, et ainsi accélérer la transformation numérique de l’Etat.
+La problématique : un processus d’archivage numérique complexe qui repose sur des outils difficiles à prendre en main Des milliards d’objets numériques sont créés et échangés chaque jour par les administrations françaises : documents bureautiques, mails, comptes rendus de réunions, notes, plans…</description>
+    </item>
+    
+    <item>
+      <title>Opérations 18</title>
+      <link>/defis/operations-18/</link>
+      <pubDate>Thu, 23 Sep 2021 08:15:51 +0000</pubDate>
+      
+      <guid>/defis/operations-18/</guid>
+      <description>Le défi EIG a permis à la Brigade de Sapeurs-Pompiers de Paris de développer un outil lui permettant d’avoir accès en temps réel aux informations de terrain sur les ressources humaines et matérielles engagées lors d’opérations.
+La problématique : des données opérationnelles d’interventions existantes mais mal exploitées En 2019, la Brigade de Sapeurs-Pompiers de Paris (BSPP) est intervenue plus de 506 000 fois sur le terrain, soit une intervention toutes les 3 secondes.</description>
+    </item>
+    
+    <item>
+      <title>Open Collectivités</title>
+      <link>/defis/open-collectivites/</link>
+      <pubDate>Thu, 23 Sep 2021 08:05:04 +0000</pubDate>
+      
+      <guid>/defis/open-collectivites/</guid>
+      <description>La problématique : des informations disséminées sur différents canaux En octobre 2019, le Conseil National de l’Information Statistique (CNIS) publie une note dans laquelle il recommande de mettre largement à disposition les données et publications statistiques sur les collectivités locales. Cela « afin d’augmenter la notoriété et la visibilité des statistiques existantes […]. Cette mise à disposition peut prendre a minima la forme d’une publication, mais pourrait aussi faire l’objet d’un portail dédié ».</description>
+    </item>
+    
+    <item>
+      <title>NEOTac</title>
+      <link>/defis/neotac/</link>
+      <pubDate>Thu, 23 Sep 2021 07:49:54 +0000</pubDate>
+      
+      <guid>/defis/neotac/</guid>
+      <description>La Direction Générale de la Gendarmerie Nationale (DGGN) souhaite développer un outil permettant d’automatiser les plans d’intervention des unités de sécurité publique pour gagner en efficacité et en réactivité lors de situations d’urgence.
+La problématique : des situations d’urgence nombreuses qui demandent la mise en place rapide et efficace de dispositifs d’intervention Chaque jour, les unités de sécurité publique sont confrontées à des situations d’urgence nécessitant de mettre en place des plans d’intervention.</description>
+    </item>
+    
+    <item>
+      <title>MonitorFish</title>
+      <link>/defis/monitorfish/</link>
+      <pubDate>Thu, 23 Sep 2021 07:42:21 +0000</pubDate>
+      
+      <guid>/defis/monitorfish/</guid>
+      <description>Problématique : des zones de pêche à surveiller très étendues, des données des navires à analyser nombreuses et complexes Le Centre National de Surveillance des Pêches (CNSP) est chargé de surveiller l’activité des navires de pêche français dans le monde, ainsi que de tous les navires de pêche dans les zones maritimes françaises. La mission des agents du CNSP est d’orienter les contrôleurs des pêches sur le terrain vers les navires les plus à risque, et ce 24h/24, 7j/7.</description>
+    </item>
+    
+    <item>
+      <title>LABEL</title>
+      <link>/defis/label/</link>
+      <pubDate>Thu, 23 Sep 2021 07:39:02 +0000</pubDate>
+      
+      <guid>/defis/label/</guid>
+      <description>La Cour de cassation souhaite mettre en place un outil d’annotation open source lui permettant d’accélérer et fiabiliser le processus de pseudonymisation des décisions de justice et leur mise en open data.
+La problématique : une interface d’annotation inadaptée La Cour de cassation est chargée de la diffusion des décisions de justice. Avant de les rendre accessibles et réutilisables, elle fait un travail de pseudonymisation pour éviter l’identification des personnes physiques et assurer la protection de la vie privée.</description>
+    </item>
+    
+    <item>
+      <title>France Transition</title>
+      <link>/defis/france-transition/</link>
+      <pubDate>Thu, 23 Sep 2021 07:35:30 +0000</pubDate>
+      
+      <guid>/defis/france-transition/</guid>
+      <description>La problématique : les aides publiques liées à la transition écologie des entreprises restent difficiles d’accès. Selon l’étude « Les Dirigeants de PME-ETI face à l’urgence climatique » de Bpifrance, 80% des dirigeants de PME et ETI ont conscience de l’urgence climatique mais seulement 13% déclarent pouvoir réduire « de manière importante » leurs émissions carbone dans les 5 prochaines années.
+Notre investigation a permis de distinguer deux catégories de dirigeants qui rencontrent, chacune, des freins propres :</description>
+    </item>
+    
+    <item>
+      <title>Envinorma</title>
+      <link>/defis/envinorma/</link>
+      <pubDate>Wed, 22 Sep 2021 15:47:33 +0000</pubDate>
+      
+      <guid>/defis/envinorma/</guid>
+      <description>Vidéo de présentation Contexte et présentation de l&amp;rsquo;outil
+ La problématique : une réglementation des sites industriels multiple et disséminée En raison des nuisances, des risques de pollutions ou encore des risques d’accidents, les sites industriels sont des installations classées pour la protection de l’environnement, ou ICPE. Ils sont donc soumis à une réglementation spécifique et sont contrôlés par des inspecteurs habilités. Au total, 1 619 inspections ont été réalisées en Île-de-France en 2020.</description>
+    </item>
+    
+    <item>
+      <title>Enki</title>
+      <link>/defis/enki/</link>
+      <pubDate>Wed, 22 Sep 2021 15:38:47 +0000</pubDate>
+      
+      <guid>/defis/enki/</guid>
+      <description>L’Agence du Numérique de la Sécurité Civile souhaite mettre en place une interface permettant de centraliser, organiser et communiquer les informations provenant des services d’urgence et de leurs partenaires, nécessaires aux autorités pour gérer les crises au mieux.
+La problématique : des données de terrain mal exploitées et non partagées avec les autorités en période de crise L’Agence du Numérique de la Sécurité Civile est en charge de la conception et du déploiement du système d’information NexSIS destiné à tous les services d’incendie et de secours.</description>
+    </item>
+    
+    <item>
+      <title>DataMed</title>
+      <link>/defis/datamed/</link>
+      <pubDate>Wed, 22 Sep 2021 15:29:30 +0000</pubDate>
+      
+      <guid>/defis/datamed/</guid>
+      <description>L’Agence nationale de sécurité des médicaments et des produits de santé (ANSM) souhaite mettre en place des outils lui permettant de rendre plus accessibles aux patients, professionnels de santé et plus largement au grand public ses données sur les médicaments.
+S’inscrire dans une politique de partage des données de santé L’Agence nationale de sécurité du médicament et des produits de santé est l’acteur public qui permet, au nom de l’État, l’accès aux produits de santé en France et qui assure leur sécurité tout au long de leur cycle de vie.</description>
+    </item>
+    
+    <item>
+      <title>Datalympics</title>
+      <link>/defis/datalympics/</link>
+      <pubDate>Wed, 22 Sep 2021 15:13:13 +0000</pubDate>
+      
+      <guid>/defis/datalympics/</guid>
+      <description>La Direction du Budget souhaite développer une base de données ouvertes autour du financement des Jeux olympiques et paralympiques de Paris 2024 afin de répondre aux enjeux de transparence et de bon emploi des fonds publics.
+La problématique : des données budgétaires et financières peu lisibles et inexploitées L’argent public représente 25% du budget des JOP 2024 soit 1,5 milliards d’euros d’investissement public. L’enjeu de la maîtrise du budget est donc au cœur des préoccupations des pouvoirs publics.</description>
+    </item>
+    
+    <item>
+      <title>CapQualif</title>
+      <link>/defis/capqualif/</link>
+      <pubDate>Wed, 22 Sep 2021 14:47:58 +0000</pubDate>
+      
+      <guid>/defis/capqualif/</guid>
+      <description>La sous-direction des gens de mer assure le suivi des marins (réglementation du travail, conditions de travail, protection sociale, emploi…) et est responsable des formations professionnelles maritimes. Afin de simplifier les démarches, elle souhaite développer un outil pour moderniser et automatiser la délivrance des titres des marins professionnels.
+La problématique : des services multiples qui compliquent et rallongent la délivrance des brevets et certificats La profession de marin est une profession réglementée par des conventions internationales et des directives européennes.</description>
+    </item>
+    
+    <item>
+      <title>Atlas Culture</title>
+      <link>/defis/atlas-culture/</link>
+      <pubDate>Wed, 22 Sep 2021 14:40:18 +0000</pubDate>
+      
+      <guid>/defis/atlas-culture/</guid>
+      <description>L’Atlas Culture, c’est depuis 2017 une publication de 250 pages réalisée par le Département des études, de la prospective, des statistiques (Deps) du ministère de la Culture afin d’offrir une vision globale des dynamiques culturelles à l’échelle régionale.
+L’initiative de développer un atlas numérique interactif répond à plusieurs objectifs :
+  Enrichir le jeu de données présentées, disponibles de l&amp;rsquo;échelon national à l&amp;rsquo;ensemble des échelons territoriaux pour permettre la comparabilité Améliorer la lisibilité des données grâce à la visualisation (carte, graphiques, tableaux) et aux éléments de définition et d’analyse Permettre le croisement et l&amp;rsquo;articulation d&amp;rsquo;un plus grand nombre de données pour enrichir l&amp;rsquo;analyse des dynamiques territoriales   Destinée en priorité aux responsables d’affaires culturelles en administration déconcentrée et en collectivités territoriales pour éclairer la stratégie territoriale d’aménagement culturel, cette ressource sera également utile aux chargés d’étude en agences culturelles ainsi qu’aux professionnels et acteurs de la culture.</description>
+    </item>
+    
+    <item>
+      <title>ADEX</title>
+      <link>/defis/adex/</link>
+      <pubDate>Wed, 22 Sep 2021 14:30:53 +0000</pubDate>
+      
+      <guid>/defis/adex/</guid>
+      <description>Déontologie et rigueur de l’expertise étant au centre de son activité, la Haute Autorité de Santé a besoin d’analyser les liens d’intérêts financiers des experts experts avec qui elle collabore afin d’éviter de potentiels conflits d’intérêts.
+La problématique : une analyse des liens d’intérêt complexe et pas toujours de bonne qualité Autorité publique indépendante à caractère scientifique, la Haute Autorité de santé (HAS) travaille à garantir la qualité dans le champ sanitaire, social et médico-social, au bénéfice des personnes.</description>
+    </item>
+    
+    <item>
+      <title>Adeline Celier</title>
+      <link>/personnes/adeline-celier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/adeline-celier/</guid>
+      <description>« Diplômée de l’ENSCI-Les Ateliers, j’ai d’abord travaillé en tant que designer dans différents contextes (agence, start-up, grande entreprise), avant de relever le défi EIG. Aux appellations “designer de service” ou “designer “UX/UI”, je préfère celle de “designer global”, car elle ouvre le champ des possibles et invite à penser le tout et la partie, l’ensemble et le détail. Elle est pour moi la promesse d’une approche transversale et ouverte. Je m’attache à penser à la personne derrière l’écran, à la réalité du terrain derrière le parcours utilisateur, aux coulisses derrière la vitrine des services et outils que je conçois.</description>
+    </item>
+    
+    <item>
+      <title>Alexandra Leschi</title>
+      <link>/personnes/alexandra-leschi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/alexandra-leschi/</guid>
+      <description>« Ingénieure issue de l’école Centrale Lyon, je me suis spécialisée dans le développement informatique à la suite de mon master à l’Imperial College. Passionnée par ce métier, j’ai développé en 2019 la plateforme de cours Teechy. Aujourd’hui, j’ai le plaisir d’intégrer le défi Datalympics qui a pour objectif de faciliter le suivi et la maîtrise du budget des Jeux Olympics et Paralympics de Paris 2024. Je suis très heureuse de pouvoir rejoindre ce programme EIG et de mettre mes compétences au sein d’une cause et d’un service publics !</description>
+    </item>
+    
+    <item>
+      <title>Alexandre Leonardi</title>
+      <link>/personnes/alexandre-leonardi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/alexandre-leonardi/</guid>
+      <description>« Je suis responsable du service prévention des risques à la DRIEE Ile-de-France, qui organise le contrôle des industries à risques et la prévention des risques naturels en Ile-de-France. Notre rôle est notamment de fournir des outils pratiques aux inspecteurs pour leur permettre de se concentrer sur l’essentiel : l’inspection sur le terrain.
+On a candidaté à ce défi pour développer étroitement avec les inspecteurs un outil qui sera central pour eux, tout en réfléchissant à ses (ré)utilisations possibles par les exploitants et les citoyens.</description>
+    </item>
+    
+    <item>
+      <title>Aliaume Lopez</title>
+      <link>/personnes/aliaume-lopez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/aliaume-lopez/</guid>
+      <description>« Diplômé de l’École Normale Supérieure Paris-Saclay en informatique/mathématique et agrégé de mathématiques depuis 2018, j’effectue un doctorat au Laboratoire de Spécification et Vérification à l’ENS Paris-Saclay sur la théorie des bases de données. Passionné d’informatique et sensible aux problématiques du logiciel libre depuis toujours, je suis profondément convaincu de l’utilité du service public et enthousiaste à l’idée de participer au programme EIG. Je relève avec joie le défi SIANCE de l’Autorité de Sûreté Nucléaire qui vise à créer un outil permettant de renforcer le contrôle des activités et des installations nucléaires.</description>
+    </item>
+    
+    <item>
+      <title>Anne Catel</title>
+      <link>/personnes/anne-catel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/anne-catel/</guid>
+      <description>« Designer depuis maintenant 10 ans, j’ai toujours souhaité travailler pour des projets qui bénéficient au plus grand nombre et s’attaquent à des problématiques concrètes. C’est dans ce sens que j’ai rejoint plusieurs projets liés au secteur de la EdTech, l’éducation étant un sujet de première importance pour moi. Par ce biais, je me suis intéressée de près aux problématiques d’accessibilité liées aux troubles dys. Après avoir travaillé pendant 6 mois sur une solution open-source visant à faciliter la prise en compte de l’accessibilité dans les projets web, je suis heureuse de rejoindre en septembre 2020 le projet ADEX et de participer à la réalisation d’un produit à fort impact pour garantir l’indépendance du secteur de la santé.</description>
+    </item>
+    
+    <item>
+      <title>Anthony Blondel</title>
+      <link>/personnes/anthony-blondel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/anthony-blondel/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Antoine Biard</title>
+      <link>/personnes/antoine-biard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/antoine-biard/</guid>
+      <description>« Après une formation en informatique / intelligence artificielle / mathématiques appliquées à l’École polytechnique puis l’ENS Cachan, j’ai fondé la startup Reminiz dont j’ai été le CTO pendant 3 ans. Grâce à cette expérience, je me suis constitué une boite à outils transverse allant de la reflexion produit, à la recherche, l’intégration, le devops, le déployement de modèles… J’ai ensuite pu contribuer à différentes startups au Kenya et à Paris dans le domaine de l’inclusion financière.</description>
+    </item>
+    
+    <item>
+      <title>Arnaud Degorre</title>
+      <link>/personnes/arnaud-degorre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/arnaud-degorre/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Benjamin Perney</title>
+      <link>/personnes/benjamin-perney/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/benjamin-perney/</guid>
+      <description>« Développeur depuis plus de 7 ans, je suis diplômé de l’école d’ingénieur IMAC alliant arts et sciences. Après avoir parcouru différentes tailles d’entreprises, de la petite entreprise de communication aux grands groupes de l’habillement, j’ai voulu mettre à contribution mes compétences au sein de l’administration française. Ainsi, je rejoins le défi Enki, au cours duquel je vais mettre en place une interface permettant de mieux informer les autorités et les services d’urgence lors d’une crise.</description>
+    </item>
+    
+    <item>
+      <title>Benoit Serrano</title>
+      <link>/personnes/benoit-serrano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/benoit-serrano/</guid>
+      <description>« Diplômé de l’Ecole Centrale de Lyon avec une spécialité en mathématiques appliquées, j’ai profité d’une année de césure pour m’initier au développement web chez Relief Applications, une start-up de développement de produits numériques à destination des humanitaires. J’ai ensuite complété ma formation en travaillant chez BAM en tant que développeur full-stack. Je relève en 2020 le défi LABEL à la Cour de cassation permettant l’accélération de l’ouverture des décisions de justice au grand public, afin d’y apporter mes compétences et expériences, et d’en retirer une meilleure connaissance du fonctionnement de nos administrations juridiques.</description>
+    </item>
+    
+    <item>
+      <title>Briac Piriou</title>
+      <link>/personnes/briac-piriou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/briac-piriou/</guid>
+      <description>Chef de bureau - Ingénieur des mines à la Direction générale des Finances publiques</description>
+    </item>
+    
+    <item>
+      <title>Camille Canaple </title>
+      <link>/personnes/camille-canaple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/camille-canaple/</guid>
+      <description>« Diplômée de Sciences Po Lille, j’ai co-fondé l’équipe de production numérique de Simplon.co avant de devenir designer indépendante. Convaincue par la conception centrée utilisateur pour la pratiquer depuis plus de 5 ans, c’est avec beaucoup d’enthousiasme que je rejoins le défi Atlas Culture pour contribuer à réaliser une cartographie dynamique des politiques culturelles et à faire vivre la culture design dans l’administration. Mes activités parallèles incluent de la pédagogie à plusieurs dimensions pour “manger malin” (bonamo.</description>
+    </item>
+    
+    <item>
+      <title>Claire Herbin</title>
+      <link>/personnes/claire-herbin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/claire-herbin/</guid>
+      <description>Claire Herbin, directrice des services de greffe judicaire à la Cour de cassation, est en charge de la cellule de l’anonymisation au service de documentation, des études et du rapport (SDER) de la Cour de cassation, qui administre et diffuse les bases de données de jurisprudence Jurinet (principalement les décisions de la Cour de cassation - plus de 830 000 décisions en stock) et Jurica (décisions des cours d’appel - plus d’1,8 millions de décisions en stock).</description>
+    </item>
+    
+    <item>
+      <title>Clément Bultheel</title>
+      <link>/personnes/clement-bultheel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/clement-bultheel/</guid>
+      <description>« Après un Master en Économie et Finance Carbone à l’Université Paris-Dauphine, et de premières expériences au sein des think tanks I4CE - Institute for Climate Economics et The Shift Project entre 2015 et 2018, je rejoins le Ministère de la transition écologique et solidaire en septembre 2018 pour y travailler sur les questions de finance durable. J’y ai en charge plusieurs dossiers relatifs à la réglementation des acteurs financiers en matière de finance durable (exigences de reporting extra-financier, travaux du plan d’action de la Commission sur la finance durable, engagements volontaires, etc.</description>
+    </item>
+    
+    <item>
+      <title>Coline Malivel </title>
+      <link>/personnes/coline-malivel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/coline-malivel/</guid>
+      <description>« Pratiquant tour à tour le design graphique, l’UX, le design de services, puis de stratégie, j’exerce depuis une dizaine d’années ces différentes facettes du design avec une visée d’acculturation et de diffusion du design. Depuis 2015, j’accompagne la transformation et la modernisation des administrations, à la fois dans la mise en place de méthodes et d’outils de design, la formation d’agents publics, la refonte ou conception de services et de dispositifs numériques, jusque dans des démarches de prospective en politiques publiques.</description>
+    </item>
+    
+    <item>
+      <title>Cédric Bourillet</title>
+      <link>/personnes/cedric-bourillet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/cedric-bourillet/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Cédric Merouani </title>
+      <link>/personnes/cedric-merouani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/cedric-merouani/</guid>
+      <description>« Diplômé d’Epitech, je démarre ma carrière dans une startup parisienne afin de poursuivre une passion; le développement informatique. Durant mes 6 années d’expérience professionnelle, j’ai eu la chance de travailler dans différentes structures et sur des projets de tailles variées. Constamment en veille, je me forme sur les nouveautés technologiques et ce, sans mettre de côté les compétences interpersonnelles qui sont toutes aussi importantes à mes yeux. Je rejoins aujourd’hui le projet France Transition pour une aventure riche et complexe dans le domaine de la transition écologique.</description>
+    </item>
+    
+    <item>
+      <title>Célia d&#39;Hervé</title>
+      <link>/personnes/celia-dherve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/celia-dherve/</guid>
+      <description>Célia d’Hervé est administrateur des affaires maritimes depuis 2014. Elle a occupé différentes fonctions liées au contrôle des activités maritimes : sur le terrain avec les unités de contrôle en direction départementale, puis depuis 2019 en tant que chef de pôle au bureau du contrôle des activités maritimes de la Direction des affaires maritimes (Ministère de la transition écologique et solidaire).
+ « Le contrôle des pêches maritimes est une politique publique en constante évolution.</description>
+    </item>
+    
+    <item>
+      <title>Céline Guillou</title>
+      <link>/personnes/celine-guillou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/celine-guillou/</guid>
+      <description>Céline Guillou est administrateur des affaires maritimes depuis 2004. Elle a occupé des postes de terrain, en Atlantique et en Méditerranée, dans le domaine du développement durable des activités maritimes et littorales comme dans le domaine du sauvetage en mer. Elle est à la tête du Centre National de Surveillance des Pêches depuis mars 2019 : un service de 26 agents et 4 cadres qui fonctionne 24h sur 24 et 7 jours sur 7.</description>
+    </item>
+    
+    <item>
+      <title>Damien Clément</title>
+      <link>/personnes/damien-clement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/damien-clement/</guid>
+      <description>« Je travaille à l’ASN depuis 7 ans en tant que chef de projet applicatif à l’ASN, au sein du Bureau informatique et des usages numériques. Mon rôle est de piloter les différents projets IT afin de s’assurer de leur bon déroulement, aussi bien en terme d’objectif fonctionnel que de planning ou de budget. Cela consiste notamment à coordonner les différents interlocuteurs (métiers, prestataires, etc.) et à s’assurer de la cohérence globale des travaux avec le schéma directeur du Système d’Information de l’ASN.</description>
+    </item>
+    
+    <item>
+      <title>Daniel Delalande</title>
+      <link>/personnes/daniel-delalande/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/daniel-delalande/</guid>
+      <description>« Docteur en sciences économiques, j’ai débuté ma carrière en tant qu’enseignant de sciences économiques et sociales puis exercé le métier de rédacteur en chef d’une revue consacrée aux questions économiques, Problèmes économiques, à destination des enseignants, étudiants, chercheurs. J’ai ensuite occupé différents postes au service de la préparation et de la mise en œuvre de la décision publique. D’abord, au sein de la direction des études économiques et de l’évaluation environnementale du ministère en charge de l’écologie concernant les questions d’intégration de l’environnement dans les politiques énergétiques et agricoles, puis au sein de la direction générale de l’énergie et du climat en charge des questions de lutte contre le changement climatique.</description>
+    </item>
+    
+    <item>
+      <title>Denis Daviau</title>
+      <link>/personnes/denis-daviau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/denis-daviau/</guid>
+      <description>« Après mes études, j’ai intégré la Brigade de Sapeurs-Pompiers de Paris (BSPP) en qualité de sapeur, puis après avoir gravi de nombreux échelons, j’ai accédé à la fonction de chef de centre de secours à Nanterre. Suite à cela, j’ai intégré le corps des officiers de carrière dans le domaine opérationnel et j’ai commandé la 37ème compagnie. Appelée Compagnie de commandement et de transmission, elle a pour mission principale d’assurer la gestion des chefs de salle et opérateurs du centre opérationnel de la BSPP.</description>
+    </item>
+    
+    <item>
+      <title>Dominique Boina</title>
+      <link>/personnes/dominique-boina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/dominique-boina/</guid>
+      <description>« Après plusieurs années dans le secteur privé - j’ai été responsable de production, responsable qualité et chef de projet (Black Belt) - je travaille depuis 12 ans à l’ASN, où j’ai occupé un poste d’inspectrice à la direction des centrales nucléaires puis à la division de Paris de l’ASN et aujourd’hui à la mission de soutien au contrôle. Ces différentes positions m’ont permis de bien connaître le métier d’inspecteur et les problématiques de l’ASN.</description>
+    </item>
+    
+    <item>
+      <title>Edwige Millery</title>
+      <link>/personnes/edwige-millery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/edwige-millery/</guid>
+      <description>Edwige Millery est responsable des éditions du département des études, de la prospective et des statistiques du ministère de la Culture. Elle contribue ainsi depuis plusieurs années à la connaissance des activités du champ de la culture, à l’identification des enjeux pour une meilleure définition des politiques publiques, et participe activement à l’information du citoyen.</description>
+    </item>
+    
+    <item>
+      <title>Estelle Jond-Necand</title>
+      <link>/personnes/estelle-jond-necand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/estelle-jond-necand/</guid>
+      <description>« Précédemment j’étais conseillère chargée du secrétariat général de la première présidence de la cour d’appel de Versailles. Depuis janvier 2020, je suis conseillère référendaire à la Cour de cassation et y dirige le projet « Open data » au service de documentation, des études et du rapport.
+Le projet « Open data » des décisions de justice est structurant pour la Justice. Il vise à multiplier par 260 le nombre des décisions diffusées.</description>
+    </item>
+    
+    <item>
+      <title>Fabrice Blanc</title>
+      <link>/personnes/fabrice-blanc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/fabrice-blanc/</guid>
+      <description>« Titulaire d’un DESS de défense et intelligence économique, ainsi que d’un Mastère spécialisé en Management d’une Unité Stratégique d’HEC, j’ai principalement exercé des fonctions dans le domaine des achats et de l’innovation au sein de la Gendarmerie Nationale.
+Chargé du projet de la sécurité des mobilités au sein de la Sous-direction de la sécurité publique et de la sécurité routière, je dirige depuis août 2018, le Centre National de la Sécurité des Mobilités de la Gendarmerie Nationale.</description>
+    </item>
+    
+    <item>
+      <title>Florent Robic</title>
+      <link>/personnes/florent-robic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/florent-robic/</guid>
+      <description>Florent Robic est chef de du pôle défauts qualité et ruptures de stock. Informaticien de formation, il a commencé sa carrière dans la fonction publique à l’Arcep dans l’unité en charge de l’attribution des fréquences mobiles. Il a rejoint l’ANSM en 2019. Le pôle DQRS a pour mission d’une part de traiter les signalements des défauts qualités de médicaments susceptibles d’avoir des conséquences pour la santé ou la sécurité des patients, d’autre part d’analyser les déclarations de ruptures ou de risques de ruptures de médicaments d’intérêt thérapeutique majeur afin de proposer des mesures permettant de pallier ou limiter l’impact de ces ruptures pour les patients.</description>
+    </item>
+    
+    <item>
+      <title>Franck Jolivaldt</title>
+      <link>/personnes/franck-jolivaldt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/franck-jolivaldt/</guid>
+      <description>« Après avoir mené une grande partie de ma carrière dans les hôpitaux publics de Versailles et de Saint Denis, j’ai rejoint les équipes de McKesson France (aujourd’hui Maincare solutions), avec ce même esprit de faire bouger les lignes et d’innover.
+J’ai ensuite intégré la Direction Générale de l’Offre de Soins au sein du bureau des systèmes d’information des acteurs de l’offre de soins en tant qu’adjoint à la cheffe de bureau puis chef du bureau.</description>
+    </item>
+    
+    <item>
+      <title>Frédéric Comte</title>
+      <link>/personnes/frederic-comte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/frederic-comte/</guid>
+      <description>« Diplômé de l’école nationale de la statistique et de l’analyse de l’information, titulaire de la certification ESSI (expert en sécurité des systèmes d’information), je profite de cette double compétence datascience et cybersécurité pour mener un projet ambitieux sur la mise à disposition d’environnement cloud propice aux traitements de données. Souvent, par manque d’alternative sans doute, les datascientists de l’administration que je croise lors des conférences racontent leur relation intime avec leur pc portable qu’ils ont pu dénicher en forçant quelques portes : largement insuffisant pour appréhender des pipelines de données dans toute leur complexité.</description>
+    </item>
+    
+    <item>
+      <title>Grégory Grellet</title>
+      <link>/personnes/gregory-grellet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/gregory-grellet/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Guillaume Barreau </title>
+      <link>/personnes/guillaume-barreau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/guillaume-barreau/</guid>
+      <description>« De formation ingénieur, j’ai travaillé dans les télécoms puis j’ai fait un doctorat sur la dynamique de l’évolution darwinienne et son potentiel à trouver des solutions aux problèmes complexes. J’ai ensuite travaillé dans divers domaines centrés sur les data: la bioinformatique, la géomatique, les transports et la qualité de l’air. J’ai vécu dans divers pays notamment au Brésil, au Canada au Royaume-Uni et en Italie. Dès que je l’ai découvert, le programme EIG m’a captivé par sa finalité et ses valeurs de transparence et de collaboration.</description>
+    </item>
+    
+    <item>
+      <title>Hélène Jonin</title>
+      <link>/personnes/helene-jonin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/helene-jonin/</guid>
+      <description>« Ayant découvert le code en écrivant mes premiers programmes pour ma TI-82 au lycée, je me suis ensuite naturellement dirigée vers des études dans l’informatique. Après un master, j’ai intégré la startup OpenAirlines et l’équipe de développement du logiciel d’éco-pilotage SkyBreathe® qui permet aux compagnies aériennes de réduire la consommation de carburant et donc les émissions de CO2 de leur flotte. C’est aussi cette entreprise que je quitte pour rejoindre l’aventure EIG, en ayant entre temps effectué un VIE à New York.</description>
+    </item>
+    
+    <item>
+      <title>Jean-Michel Sommer</title>
+      <link>/personnes/jean-michel-sommer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/jean-michel-sommer/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Joseph Garrone</title>
+      <link>/personnes/joseph-garrone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/joseph-garrone/</guid>
+      <description>« Diplômé de l’ESIMAG et de l’université polytechnique de Turin, fondateur de Semasim, je me lance maintenant dans l’aventure EIG au sein de l’INSEE en tant que développeur pour contribuer à faire en sorte que les statisticiens des ministères ait plus facilement accès aux outils numériques à l’état de l’art. Je suis intimement convaincu que la réduction des frictions de l’interface avec le logiciel est un enjeu majeur dans le domaine des mathématiques.</description>
+    </item>
+    
+    <item>
+      <title>Joëlle Chong </title>
+      <link>/personnes/joelle-chong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/joelle-chong/</guid>
+      <description>Après des études en Design à l’ESAAB et l’Université Paris I Panthéon-Sorbonne, j’ai débuté en tant qu’UX/UI Designer puis Designer de Services - d’abord au sein de l’agence Axance, ensuite en freelance.
+Les valeurs de la bienveillance, l’entraide et le partage me sont chères, c’est pourquoi j’ai choisi de m’engager à La Croix Rouge et être facilitatrice pour le 2e Coopérathon en France (compétition d’innovation sociale).
+En septembre 2020, j’ai eu le plaisir de travailler pour l’ANSM en rejoignant le défi Datamed et hacker la problématique d’ouverture de données complexes et sensibles autour du médicament.</description>
+    </item>
+    
+    <item>
+      <title>Julie Dugardin</title>
+      <link>/personnes/julie-dugardin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/julie-dugardin/</guid>
+      <description>« Depuis plus de 5 ans, je consacre mon travail à l’expérience utilisateur et humaine en m’engageant à créer de la valeur dans le quotidien des personnes. Dans un premier temps, ma mission consiste à comprendre les motivations et rôles des personnes autour d’un système, d’un service ou d’une expérience digitale et physique afin d’identifier la bonne problématique. En complément d’échanges et d’observations sur le terrain, les données scientifiques, la sociologie, la psychologie et les sciences cognitives alimentent mes recherches.</description>
+    </item>
+    
+    <item>
+      <title>Jérôme Burkard</title>
+      <link>/personnes/jerome-burkard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/jerome-burkard/</guid>
+      <description>« Ingénieur des Arts et Métiers, j’ai commencé par travailler dans l’industrie pétrolière, sur plateformes au large de l’Afrique de l’Ouest. Fin 2016, je me suis reconverti dans le développement web qui m’a passionné. Je suis devenu freelance et j’ai pu travailler dans des secteurs divers tel que l’énergie chez Engie, l’immobilier chez Foncia, l’assurance chez Axa. Je suis heureux de rejoindre la promo EIG 4 et le défi “Opération 18”.</description>
+    </item>
+    
+    <item>
+      <title>Laurence Denis</title>
+      <link>/personnes/laurence-denis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/laurence-denis/</guid>
+      <description>Laurence Denis est administrateur des affaires maritimes. Au sein du bureau de l’emploi et de la formation maritimes, elle est en charge de la délivrance des titres professionnels des marins, qui exercent une profession réglementée. Cette matière, fortement encadrée par le droit international, comporte un volet règlementaire et un volet informatique, avec une application dédiée. L’enjeu à venir est la mise en place de la dématérialisation des demandes et de la délivrance des titres, dans la continuité de leur numérisation en cours de mise en œuvre.</description>
+    </item>
+    
+    <item>
+      <title>Line Rahal</title>
+      <link>/personnes/line-rahal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/line-rahal/</guid>
+      <description>« Après trois ans d’école d’ingénieur à l’IMT Atlantique et un doctorat de Neurosciences mêlant informatique et neurobiologie au sein de l’ESPCI, j’ai rejoint une start-up de la tech française, dans le but de monter en compétences sur les domaines de l’analyse de données et de la data science.
+Intéressée depuis toujours par le domaine médical, EIG est arrivé à point nommé avec le projet DataMed. L’esprit « promo EIG », la découverte en profondeur d’une institution, et l’opportunité de mettre à profit mes compétences scientifiques afin d’agir pour le bien commun ont été les principaux moteurs de mon engagement.</description>
+    </item>
+    
+    <item>
+      <title>Lisa Durand</title>
+      <link>/personnes/lisa-durand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/lisa-durand/</guid>
+      <description>« Développeuse Ruby on Rails à Enercoop, ex-designeuse d’interface et footballeuse aux dégommeuses. Je rejoins le projet Envinorma pour cette promo EIG 4. »</description>
+    </item>
+    
+    <item>
+      <title>Lou Vettier</title>
+      <link>/personnes/lou-vettier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/lou-vettier/</guid>
+      <description>« Depuis plusieurs années, j’explore la manière dont le design peut aider à dévoiler des aspects obscurs des technologies et développer des système de collecte de données afin de visualiser des informations. Ma démarche consiste à rendre accessibles des sujets complexes dans différents domaines, comme l’intelligence artificielle ou l’informatique quantique. Depuis un diplôme en design produit à l’école Boulle en 2016, je travaille avec différents acteurs pour fabriquer des objets de médiation et des outils à dimension pédagogique.</description>
+    </item>
+    
+    <item>
+      <title>Loup Theron</title>
+      <link>/personnes/loup-theron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/loup-theron/</guid>
+      <description>« Je suis développeur full-stack passionné par les réseaux décentralisés, l’open-source et de manière générale par les projets qui œuvrent pour le commun. Après 3 ans de développement dans l’univers des blockchain chez OCTO Technology, je rejoins le programme EIG 4 pour travailler sur le défi Monitor Fish et ainsi aider le Centre national de surveillance des pêches (CNSP) à protéger les ressources aquatiques en contrôlant notamment la surpêche. »</description>
+    </item>
+    
+    <item>
+      <title>Loup Wolff</title>
+      <link>/personnes/loup-wolff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/loup-wolff/</guid>
+      <description>Loup Wolff est administrateur de l’Insee, chef du département des études, de la prospective et des statistiques. Passionné par la question de l’usage des chiffres dans le débat public, il travaille à l’élaboration et à la diffusion des nombreuses études et recherches menées tous les ans par son département.</description>
+    </item>
+    
+    <item>
+      <title>Luc Brière</title>
+      <link>/personnes/luc-briere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/luc-briere/</guid>
+      <description>« Economiste de formation, j’ai intégré l’Insee où j’ai développé mes compétences dans le domaine des statistiques et données localisées. A ce titre, j’ai participé à plusieurs projets visant à enrichir les données localisées produites par l’Insee (sur les revenus, sur l’emploi notamment). Depuis 2018, je suis responsable du service statistique ministériel de la direction générale des collectivités locales (DGCL) au sein du ministère en charge des collectivités locales. J’y assure l’animation et la coordination des travaux de production et d’études statistiques portant sur les finances, la fiscalité, l’emploi, et les structures des collectivités locales.</description>
+    </item>
+    
+    <item>
+      <title>Lívia Ribeiro</title>
+      <link>/personnes/livia-ribeiro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/livia-ribeiro/</guid>
+      <description>« Ingénieure informatique, passionnée par la culture et avec une envie de travailler sur des projets qui ont du sens. Après un master à l’École Polytechnique et trois ans de travail dans une startup, j’ai suivi une formation en production audiovisuelle à la Sorbonne. Par la suite, j’ai lié mes compétences en informatique avec ma passion par le cinéma et j’ai créé Zooma, une plateforme de mise en relation des cinéastes indépendants.</description>
+    </item>
+    
+    <item>
+      <title>Marc Hufschmitt</title>
+      <link>/personnes/marc-hufschmitt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/marc-hufschmitt/</guid>
+      <description>« Issu d’une formation en école d’art et de design à l’Esad d’Amiens, j’ai eu l’occasion de travailler sur plusieurs projets de design de service. C’est à ce moment que j’ai pris conscience de l’importance d’une démarche design dans le développement de projets publics. J’ai par la suite décidé de compléter mon profil artistique et expérimental avec un double cursus à l’Université Technologique de Compiègne, qui croise des compétences issues du domaine du design, de l’informatique et des sciences humaines.</description>
+    </item>
+    
+    <item>
+      <title>Marie Simon</title>
+      <link>/personnes/marie-simon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/marie-simon/</guid>
+      <description>« Médecin de Santé Publique et Médecine Sociale, j’ai souhaité intégrer la HAS car c’est une institution à l’interface entre la science et les politiques de santé et dont les travaux ont un réel impact sur l’évolution du système de santé. La problématique des données de santé et leur exploitation pour enrichir les travaux de la HAS est également un sujet qui m’intéressait. J’occupe un poste de chef de projet scientifique au service de l’évaluation des actes professionnels (SEAP-DEMESP) de la HAS.</description>
+    </item>
+    
+    <item>
+      <title>Marion Ville</title>
+      <link>/personnes/marion-ville/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/marion-ville/</guid>
+      <description>« Depuis 2017, je suis experte fonctionnelle au sein du programme interministériel VITAM qui vise à développer une solution libre d’archivage électronique réutilisable par le plus grand nombre.
+Auparavant, j’ai occupé deux postes de chef de projet en charge de l’informatisation de services d’archives départementales et de leur projet d’archivage électronique, d’abord dans l’Aisne, puis en Seine-Saint-Denis.
+Ces expériences m’ont permis et me permettent encore :
+  de travailler sur mes domaines de prédilection que sont la gestion et la modélisation de la donnée, ainsi que la préservation numérique ; d’accompagner des services dans leur transformation numérique.</description>
+    </item>
+    
+    <item>
+      <title>Marjory Canonne</title>
+      <link>/personnes/marjory-canonne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/marjory-canonne/</guid>
+      <description>« Officier de gendarmerie depuis 2011, j’ai rejoint la Direction Générale de la Gendarmerie Nationale en 2015 après avoir occupé un premier poste de commandement à la tête de la brigade territoriale de Grimaud dans le Var. Diplômée de l’Ecole de l’Air et du mastère spécialisé « Ingénierie du Logiciel » de Telecom Paristech, j’ai été en charge du projet de statistiques opérationnelles de la Gendarmerie et dirige actuellement le Datalab au sein du Service des Technologies et des Systèmes d’Information de la Sécurité Intérieure.</description>
+    </item>
+    
+    <item>
+      <title>Matthieu Tirelli</title>
+      <link>/personnes/matthieu-tirelli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/matthieu-tirelli/</guid>
+      <description>« Je suis développeur full-stack pour le projet NEOTac de la Gendarmerie Nationale. J’ai depuis mon plus jeune âge développé des applications pour répondre a mes besoins personnels ou des besoins de la communauté. Très engagé au niveau associatif, j’ai pu avoir la chance de réaliser des applications métiers pour la Croix-Rouge française, et des réseaux associatifs d’intérêt général. J’ai ensuite poursuivi mes études entre Strasbourg et Paris à l’école 42.</description>
+    </item>
+    
+    <item>
+      <title>Mehdi Benkebil</title>
+      <link>/personnes/mehdi-benkebil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/mehdi-benkebil/</guid>
+      <description>Diplômé de l’École Normale Supérieure de Paris en Physique, j’ai fait un doctorat en Physique des particules puis une formation en Management stratégique. Après un début de carrière aux États-Unis en tant qu’informaticien physicien, j’ai poursuivi ma carrière en France en qualité de chef de projets, notamment dans le domaine médical (imagerie médicale, radiothérapie et médecine nucléaire). En 2013, j’ai rejoint l’ANSM en qualité de chef de pôle au sein de la Direction de la Surveillance.</description>
+    </item>
+    
+    <item>
+      <title>Michel Monneret</title>
+      <link>/personnes/michel-monneret/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/michel-monneret/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Méline Cournil</title>
+      <link>/personnes/meline-cournil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/meline-cournil/</guid>
+      <description>« Diplômée de l’université Lille 3, je suis archiviste depuis 2013 : d’abord aux archives départementales des Hauts-de-Seine puis à la mission archives des ministères sociaux depuis 2018. Mes missions se sont toujours articulées autour de la relation avec les directions métiers, les services producteurs de documents et données, et de leur accompagnement vers une meilleure gestion et conservation de leurs données et documents. Ce défi me permet donc de continuer à faciliter le travail des directions métiers sur leurs données en concevant un outil qui saura répondre aussi bien à leurs attentes qu’à celles des archivistes.</description>
+    </item>
+    
+    <item>
+      <title>Nadim Bel Lallahom </title>
+      <link>/personnes/nadim-bel-lallahom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/nadim-bel-lallahom/</guid>
+      <description>« Mes pérégrinations universitaires et professionnelles m’ont amené sur des routes très variées, d’un bachelor en sciences sociales à un master de recherche en communication et nouveaux médias, de Sciences Po à l’université de Fudan à Shanghai, du monde de la création publicitaire au design d’expérience. Pourtant, chacune de ces expériences m’a conforté dans l’idée que pour concevoir des services physiques / des outils numériques simples et pertinents, la recherche constitue un levier de choix trop souvent négligé ou oublié.</description>
+    </item>
+    
+    <item>
+      <title>Nathan Delavictoire</title>
+      <link>/personnes/nathan-delavictoire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/nathan-delavictoire/</guid>
+      <description>« J’ai eu la chance au cours de mes 5 ans d’expériences professionnelles de pouvoir expérimenter de nombreuses approches dans la conception et la construction de nouveaux services numériques. Au cours de ces années, je me suis éloigné graduellement de mes compétences de développeur pour me concentrer sur le design d’interface et le design de service. Je suis très heureux de rejoindre les équipes de la direction des affaires maritimes pour relever avec eux le défis CapQualif.</description>
+    </item>
+    
+    <item>
+      <title>Nicolas Assouad</title>
+      <link>/personnes/nicolas-assouad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/nicolas-assouad/</guid>
+      <description>« Diplômé de l’Ecole Normale Supérieure de Paris en informatique ayant fait de nombreux stage de recherche sur des questions de génie logiciel, de typage et de programmation concurrente, dont un stage au OCaml Labs de l’université de Cambridge, j’ai travaillé par la suite en tant que développeur full stack pendant un an et demi chez 360Learning, startup développant une plateforme d’apprentissage collaboratif, où j’ai pu mener des projets tels que l’intégration de plusieurs milliers de cours en ligne issus de Coursera, LinkedIn Learning, etc dans la plateforme.</description>
+    </item>
+    
+    <item>
+      <title>Nicolas Singellos</title>
+      <link>/personnes/nicolas-singellos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/nicolas-singellos/</guid>
+      <description>« Administrateur des affaires maritimes, j’occupe aujourd’hui le poste de chef du bureau de la formation et de l’emploi maritimes au sein de la direction des affaires maritimes. A ce poste, on est garant à la fois du respect par l’Etat de nos engagements internationaux et européens, mais également vis-à-vis de nos agents et de nos usagers pour faciliter leur travail et rendre un service rapide, efficace et facile. C’est tout l’enjeu de ce défi : rendre à l’administration qui encadre les gens de mer et les marins sa modernité et sa capacité d’innovation qui avait été sa force lorsqu’elle avait été créée… au XVIIe siècle !</description>
+    </item>
+    
+    <item>
+      <title>Pengfei Liu</title>
+      <link>/personnes/pengfei-liu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/pengfei-liu/</guid>
+      <description>« Je suis un data engineer, passionné par ce métier et la data science. Après un cursus d’informatique à UPEC et une thèse d’informatique à INRIA, j’ai intégré le centre de calcul in2p3. J’ai travaillé sur un projet européen pour construire un cloud based platform qui peut héberger, partager et analyser les données biomédicales. En 2019, j’ai participé au projet Hypothèse pour construire un data lake qui peut réunir les données archéologiques de plusieurs instituts, rendre les données trouvables via un ou plusieurs thésaurus et directement analysables via interface web.</description>
+    </item>
+    
+    <item>
+      <title>Pierre-Alain Jachiet</title>
+      <link>/personnes/pierre-alain-jachiet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/pierre-alain-jachiet/</guid>
+      <description>« Je suis data scientist, passionné par ce métier protéiforme, et engagé au service du bien commun. Après un cursus de mathématiques à l’école polytechnique et une thèse de bioinformatique, je suis devenu consultant “data geek” chez OCTO Technology. En mai 2018, j’ai initié le projet associatif EurosForDocs qui simplifie l’accès à la base open-data Transparence-Santé. Enthousiasmé par le programme EIG, j’ai travaillé sur le défi Open Chronic pour améliorer la prise en charge des maladies chroniques pour la promo EIG3.</description>
+    </item>
+    
+    <item>
+      <title>Pierre-Étienne Devineau</title>
+      <link>/personnes/pierre-etienne-devineau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/pierre-etienne-devineau/</guid>
+      <description>« Ingénieur de l’École des Mines de Paris et diplômé en machine learning de l’ENS Paris-Saclay, je suis ravi et impatient de m’engager sur le projet SIANCE à l’Autorité de Sûreté du Nucléaire. Après de premières expériences dans le secteur de l’énergie et un premier passage dans l’informatique public, j’étais récemment ingénieur-conseil en machine learning. Je m’intéresse à la manière dont les changements technologiques et culturels, à commencer par le machine learning, font évoluer nos discours et nos paradigmes de travail.</description>
+    </item>
+    
+    <item>
+      <title>Raphaël Bévenot</title>
+      <link>/personnes/raphael-bevenot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/raphael-bevenot/</guid>
+      <description>Raphaël est ingénieur en informatique décisionnel.
+Après une expérience à la DINUM, il décida de rejoindre un service informatique pour faire évoluer sa palette de compétences. A la Direction Générale des Collectivités Locales, son rôle est entre autre de sensibiliser sa direction générale à l’identification et à la valorisation de ses données. Pour le défi, Raphaël assurera un rôle de facilitateur sur les aspects techniques et accompagnera les EIG pour les aider à se familiariser avec l’administration.</description>
+    </item>
+    
+    <item>
+      <title>Raphaël Courivaud</title>
+      <link>/personnes/raphael-courivaud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/raphael-courivaud/</guid>
+      <description>« Je suis data scientist de formation ayant eu plusieurs expériences professionnelles dans des startups comme Qwant, Lydia et Leboncoin, où j’ai pu jongler entre les métiers de Data et Machine Learning Engineer. En parallèle je garde une activé de freelance qui me permet de monter en compétence très rapidement sur différents aspects et d’aider quelques projets d’entrepreneurs à voir le jour. Je dédie une partie de mon temps libre à ma passion pour le sport et la nutrition, ainsi qu’aux voyages en France ou à l’étranger.</description>
+    </item>
+    
+    <item>
+      <title>Raphaëlle Bertrand-Lalo </title>
+      <link>/personnes/raphaelle-bertrand-lalo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/raphaelle-bertrand-lalo/</guid>
+      <description>« Après mon diplôme d’ingénieur de l’Ecole Centrale Nantes avec spécialisation en traitement de données, je poursuis avec un master en Sciences Cognitives à l’ENS. J’ai travaillé 3 ans dans une start-up de neuro-technologies, qui place la donnée au service de l’humain. Dans ce contexte, j’ai co-développé Timeflux, un framework open-source d’acquisition et de traitement de séries temporelles en temps réel. Je suis honorée d’avoir été sélectionnée au programme d’EIG afin d’aider la Brigade des Sapeurs de Pompiers de Paris à mettre en place un système de gestion des ressources opérationnelles en temps réel et d’aide à la décision.</description>
+    </item>
+    
+    <item>
+      <title>Raphaëlle Roffo</title>
+      <link>/personnes/raphaelle-roffo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/raphaelle-roffo/</guid>
+      <description>« Je suis géomaticienne et data scientist, et très engagée dans la communauté anglo-saxonne de la « Data for Good ». Après un parcours à Sciences Po et quelques années dans le domaine du développement urbain durable, je me suis tournée vers le traitement et l’analyse des données localisée. J’ai travaillé pendant deux ans en tant que Geospatial Data Scientist auprès d’Arup, un bureau d’études en ingénierie à Londres, et en parallèle je suis devenue bénévole auprès de DataKind.</description>
+    </item>
+    
+    <item>
+      <title>René Carlet</title>
+      <link>/personnes/rene-carlet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/rene-carlet/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Romain Delassus</title>
+      <link>/personnes/romain-delassus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/romain-delassus/</guid>
+      <description>Romain Delassus est sous-directeur des systèmes d’information du ministère de la Culture. Il était auparavant responsable produit du pass Culture. Formé aux méthodes agiles et à la conduite de projet orienté usagers, il est par ailleurs en charge de préfigurer la création du nouveau service numérique transverse du ministère. Celui-ci inclura un laboratoire d’innovation numérique qui accueillera et accompagnera l’équipe projet constituée autour des EIG.</description>
+    </item>
+    
+    <item>
+      <title>Romain Glé</title>
+      <link>/personnes/romain-gle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/romain-gle/</guid>
+      <description>« Je conçois et réalise des produits numériques qui répondent à un besoin utilisateur en appliquant la méthodologie du Design Thinking. Après des études informatiques je me suis orienté vers le graphisme en agence de communication et puis le métier de product designer pour être plus proche de l’utilisateur final et donner plus de sens à mon travail. »</description>
+    </item>
+    
+    <item>
+      <title>Rémi Delbouys</title>
+      <link>/personnes/remi-delbouys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/remi-delbouys/</guid>
+      <description>« À l’issue de ma formation en machine learning à l’Ecole polytechnique et à l’ENS Paris Saclay, j’ai contribué à plusieurs projets mobilisant la data science dans des domaines variés - assurance, streaming musical et recrutement. J’y ai développé un goût pour les systèmes de recommandation, moteurs de recherche et système industrialisé reposant sur le machine learning. Attentif à l’intérêt général, c’est avec grand enthousiasme que je rejoins la quatrième promotion du programme EIG à travers le défi Envinorma, au sein de la DRIEE Île-de-France.</description>
+    </item>
+    
+    <item>
+      <title>Salim Atmani</title>
+      <link>/personnes/salim-atmani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/salim-atmani/</guid>
+      <description>« Je suis Designer de services/UX, je pense les interfaces afin de les rendre faciles à utiliser, accessibles agréable dans les interactions, en appliquant une démarche centrée sur l’utilisateur. Depuis plusieurs années maintenant, je m’emploie à toujours privilégier l’éthique et l’accessibilité au sein de mes travaux et projets. C’est cette éthique du design qui m’a donné l’envie de rejoindre le programme EIG, je vais travailler sur le défi SEDAcord pour co-concevoir un outil numérique intuitif simplifiant l’archivage des données pour les services de l’administration.</description>
+    </item>
+    
+    <item>
+      <title>Soizic Pénicaud</title>
+      <link>/personnes/soizic-penicaud-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/soizic-penicaud-1/</guid>
+      <description>Diplômée en science politique de l’Université Paris 1 et titulaire d’un master interdisciplinaire en éducation et technologie du CRI Paris, je m’intéresse particulièrement aux liens entre numérique, action publique et inclusion. Depuis septembre 2017, j’ai rejoint Etalab et participe au pilotage du programme Entrepreneurs d’Intérêt Général. Je m’occupe notamment du programme d’accompagnement des EIG et des mentors, où j’essaye de trouver différentes manières de faire dialoguer des personnes aux compétences et expériences différentes.</description>
+    </item>
+    
+    <item>
+      <title>Soizic Pénicaud </title>
+      <link>/personnes/soizic-penicaud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/soizic-penicaud/</guid>
+      <description>« Diplômée en science politique de l’Université Paris 1 et titulaire d’un master interdisciplinaire en éducation et technologie du CRI Paris, je m’intéresse particulièrement aux liens entre numérique, action publique et inclusion. Depuis septembre 2017, j’ai rejoint Etalab et participe au pilotage du programme Entrepreneurs d’Intérêt Général. Je m’occupe notamment du programme d’accompagnement des EIG et des mentors, où j’essaye de trouver différentes manières de faire dialoguer des personnes aux compétences et expériences différentes.</description>
+    </item>
+    
+    <item>
+      <title>Sophie Jobez</title>
+      <link>/personnes/sophie-jobez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/sophie-jobez/</guid>
+      <description>«Je suis développeuse et data engineer. J’ai commencé ma vie professionnelle comme entrepreneuse en créant une agence web, avant de travailler pour des agences media dans les domaines de la data et de la data visualisation. Je suis engagée dans plusieurs démarches associatives, notamment dans l’éducation populaire, et je porte également les Rendez-Vous de l’Imaginaire, un projet associatif que j’ai initié en 2013 et dont le but est, au travers d’événements mensuels, l’entraide et la création d’un réseau d’entrepreneurs des cultures de l’imaginaire.</description>
+    </item>
+    
+    <item>
+      <title>Stéphane Brunot</title>
+      <link>/personnes/stephane-brunot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/stephane-brunot/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Stéphane Tollemer</title>
+      <link>/personnes/stephane-tollemer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/stephane-tollemer/</guid>
+      <description>« Ingénieur et officier de carrière, alternant les postes de commandement opérationnel et les postes d’état-major au sein de l’armée de Terre et de la Brigade de sapeurs-pompiers de Paris (BSPP), j’ai actuellement la responsabilité, au sein de l’état-major de la BSPP, de l’ensemble de l’environnement de soutien, dont notamment les systèmes d’information et de communication. A ce titre, je suis chargé de conduire la transformation numérique de la Brigade qui s’articule autour de trois axes : le développement de la mobilité, l’amélioration de l’utilisation des données et la consolidation de l’interopérabilité avec nos partenaires.</description>
+    </item>
+    
+    <item>
+      <title>Stéphanie Huynh</title>
+      <link>/personnes/stephanie-huynh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/stephanie-huynh/</guid>
+      <description>« Designer depuis 10 ans et freelance depuis 6 ans, j’ai fait évoluer mes compétences tout au long de mes diverses expériences pour apporter à chaque projet la meilleure approche créative. Spécialisée dans le secteur de la presse, j’ai travaillé avec plusieurs titres tels que Le Monde, L’Équipe, Mind Media et Le Figaro. Mon expérience de 5 ans au Monde en tant que Design produit, m’a permis d’apprendre auprès des différentes équipes.</description>
+    </item>
+    
+    <item>
+      <title>Sylvain Boissel</title>
+      <link>/personnes/sylvain-boissel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/sylvain-boissel/</guid>
+      <description>« Je suis administrateur réseaux et développeur web. Pendant neuf ans, j’ai travaillé chez Wikimédia France, où j’ai participé à créer « un monde dans lequel chaque personne partout sur la planète peut avoir libre accès à la somme de toutes les connaissances humaines », suivant la devise du mouvement Wikimedia, auquel je participe également sur mon temps libre. Étant passionné par l’ouverture des données et le fait de faciliter leur accès et leur utilisation, je suis fier de pouvoir participer à l’aventure EIG en mettant à profit mes connaissances en traitement de données et en développement front et back-end pour relever le défi Open Collectivités.</description>
+    </item>
+    
+    <item>
+      <title>Thibaud Weinachter</title>
+      <link>/personnes/thibaud-weinachter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/thibaud-weinachter/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Thierry Coquil</title>
+      <link>/personnes/thierry-coquil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/thierry-coquil/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Thomas Brosset</title>
+      <link>/personnes/thomas-brosset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/thomas-brosset/</guid>
+      <description>« Urbaniste, je me suis formé très rapidement à la géomatique et au développement web pour aider les collectivités locales à mobiliser l’open data pour construire de meilleures politiques publiques. J’ai travaillé sur la modélisation des documents d’urbanisme en 3D, l’identification des risques de pollution à partir des données Basias/Basol et ICPE, le repérage des friches urbaines, et l’observation des prix fonciers. J’ai développé la plateforme de travail collaboratif spreadsheep.io pour permettre aux petites équipes de mieux s’organiser et de créer leurs propres outils métiers.</description>
+    </item>
+    
+    <item>
+      <title>Vincent Barbey</title>
+      <link>/personnes/vincent-barbey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/vincent-barbey/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Vincent Chéry</title>
+      <link>/personnes/vincent-chery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/vincent-chery/</guid>
+      <description>« Je suis physicien devenu data scientist, passionné par les possibilités offertes par la technologie et la data pour comprendre le monde et le rendre meilleur. Physicien de formation, j’ai travaillé pendant 8 ans pour Saint-Gobain sur le développement et la production de verres de pointe pour le bâtiment et l’automobile. Le ‘smart manufacturing’ a alors débarqué en usine et je suis tombé sous le charme. J’ai donc appris la data science en autodidacte et ai rejoint MyTraffic en 2019, où j’ai encadré une équipe de consultants data.</description>
+    </item>
+    
+    <item>
+      <title>Xavier Michelet</title>
+      <link>/personnes/xavier-michelet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/xavier-michelet/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Yves Le Nozahic</title>
+      <link>/personnes/yves-le-nozahic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/yves-le-nozahic/</guid>
+      <description>Yves Le Nozahic est administrateur civil, actuellement sous-directeur des gens de mer à la direction des affaires maritimes. Le projet CapQualif permettra l’automatisation et la dématérialisation des titres de formation maritime nécessaires aux marins professionnels pour exercer leur métier dans le respect des normes internationales de qualification maritime. L’enjeu de CapQualif est de simplifier, accélérer et sécuriser le service rendu aux marins. Il permettra des gains de temps importants aussi bien pour le marin professionnel (usager) que pour l’administration déconcentrée.</description>
+    </item>
+    
+    <item>
+      <title>Élodie Delaisement</title>
+      <link>/personnes/elodie-delaisement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/elodie-delaisement/</guid>
+      <description>« Actuellement designer de services, je design depuis 12 ans des produits digitaux, la plupart du temps au sein d’équipes Agiles pluridisciplinaires. Avec un background généraliste de webdesigner, je m’intéresse plutôt aujourd’hui à toute la partie recherche et conception en amont du projet (UX research, facilitation d’ateliers de conception). »</description>
+    </item>
+    
+  </channel>
+</rss>

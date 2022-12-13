@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sécurité on Test Jamstack</title>
+    <link>/themes/securite/</link>
+    <description>Recent content in Sécurité on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 27 Oct 2021 14:10:19 +0000</lastBuildDate><atom:link href="/themes/securite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MI - matchID</title>
+      <link>/defis/mi-matchid/</link>
+      <pubDate>Wed, 27 Oct 2021 14:10:19 +0000</pubDate>
+      
+      <guid>/defis/mi-matchid/</guid>
+      <description>Démonstration De nombreuses personnes décédées continuent à conduire. Du moins du point de vue du Fichier National des Permis de Conduire (SNPC), qui n’invalide pas automatiquement un permis si son possesseur décède. Cela pose à la fois des problèmes de sécurité quand ces permis sont utilisés par des conducteurs vivants et un problème de statistiques routières.
+L’analyse des données participe à l’amélioration de la sécurité sur les routes.
+L’outil développé par Martin, matchID, mêle des techniques d’analyse des données et de concordance partielle (“fuzzy matching”) et pour faire correspondre les noms contenus dans les fichiers du SNPC avec ceux contenus dans les registres de décès.</description>
+    </item>
+    
+    <item>
+      <title>MI - cartAV</title>
+      <link>/defis/mi-cartav/</link>
+      <pubDate>Wed, 27 Oct 2021 14:04:42 +0000</pubDate>
+      
+      <guid>/defis/mi-cartav/</guid>
+      <description>Code source Tous les jours, les forces de l’ordre interviennent sur le terrain. Qu’il s’agisse de verbalisations ou de compte-rendu d’accidents, elles font remonter une quantité impressionnante de données qu’elles ne peuvent pas elles-mêmes exploiter. Pourtant, elles peuvent servir à définir des profils d’accidents et à décider d’actions à mettre en œuvre pour les éviter.
+La mission : augmenter la sécurité sur les routes en exploitant les données de verbalisations et d’accidents.</description>
+    </item>
+    
+    <item>
+      <title>Prévisecours</title>
+      <link>/defis/previsecours/</link>
+      <pubDate>Tue, 26 Oct 2021 21:04:27 +0000</pubDate>
+      
+      <guid>/defis/previsecours/</guid>
+      <description>Présentation du défi Code source En 2016, les sapeurs-pompiers ont effectué plus de 4 542 400 interventions. Chacune d’entre elles suppose la mise en œuvre d’une véritable logistique humaine et matérielle. Celle-ci est d’autant plus complexe que le volume d’interventions est volatile, les lieux variables, les horaires fluctuants…
+Comment aider les pompiers dans leurs interventions ? Grâce à la combinaison de données et du machine learning, Prévisecours aide à mieux anticiper les besoins RH et logistiques des interventions.</description>
+    </item>
+    
+    <item>
+      <title>PrédiSauvetage</title>
+      <link>/defis/predisauvetage/</link>
+      <pubDate>Tue, 26 Oct 2021 20:01:46 +0000</pubDate>
+      
+      <guid>/defis/predisauvetage/</guid>
+      <description>En 2016, 10 000 opérations de sauvetage pour 30 000 personnes ont été coordonnées via les Centres Régionaux Opérationnels de Surveillance et de Sauvetage (CROSS). Les CROSS, la Société nationale du sauvetage en mer (SNSM), tout comme de nombreux autres acteurs du sauvetage en mer, produisent des données relatives à leurs interventions et aux types d’accidentsdont le traitement permettrait d’améliorer laconnaissance de l’accidentologie en mer.
+La mission de Prédisauvetage : mettre l’analyse de données et les algorithmes prédictifs au service du sauvetage en mer.</description>
+    </item>
+    
+    <item>
+      <title>Vigicr’UX</title>
+      <link>/defis/vigicrux/</link>
+      <pubDate>Tue, 26 Oct 2021 13:19:07 +0000</pubDate>
+      
+      <guid>/defis/vigicrux/</guid>
+      <description>La problématique Le site Vigicrues s’adresse en premier lieu au grand public. Il permet d’informer les citoyens sur l’état des cours d’eau avec des niveaux de vigilance crue. Il est également un outil de référence pour les personnes intervenant dans la gestion de crises à différents niveaux (préfectures, communes, opérateurs, SDIS …) pour suivre l’évolution des crues et coordonner les mesures à prendre en conséquence. Peu utilisé par temps calme, il se trouve très sollicité lorsqu’un événement se produit.</description>
+    </item>
+    
+    <item>
+      <title>Recrues</title>
+      <link>/defis/recrues/</link>
+      <pubDate>Tue, 26 Oct 2021 09:54:02 +0000</pubDate>
+      
+      <guid>/defis/recrues/</guid>
+      <description>La problématique La gendarmerie recrute 10 000 personnes chaque année. Elle s’appuie pour cela sur le site lagendarmerierecrute.fr qui reçoit 2 millions de visites par an. Or sur les 170 000 démarches qui y sont initiées, seules 70 000 sont finalisées, soit 41%. De plus, l’assistance en ligne dévoile des besoins non satisfaits pourtant essentiels à la finalisation d’une démarche : celui d’être rassuré sur la prise en compte effective de sa démarche et celui d’être informé sur les différentes étapes de la démarche.</description>
+    </item>
+    
+    <item>
+      <title>App 112</title>
+      <link>/defis/app-112/</link>
+      <pubDate>Mon, 18 Oct 2021 08:52:53 +0000</pubDate>
+      
+      <guid>/defis/app-112/</guid>
+      <description>La problématique Aujourd’hui en France, le seul moyen de contacter le 18 (numéro d’urgence des services d’incendie et de secours) et le 112 (numéro d’urgence européen) est l’appel téléphonique. Or on a démontré la possibilité de recevoir des communications d’urgence par d’autres moyens, notamment via une application, tout en améliorant significativement la qualité de traitement de ces alertes. Cependant, il n’existe encore aucune application 18 ou 112 raccordée à un centre de traitement des alertes.</description>
+    </item>
+    
+    <item>
+      <title>AchaDef</title>
+      <link>/defis/achadef/</link>
+      <pubDate>Sun, 17 Oct 2021 09:42:47 +0000</pubDate>
+      
+      <guid>/defis/achadef/</guid>
+      <description>La problématique Mis en service au début des années 2000, le site achats.defense.gouv.fr des achats hors armement du Ministère des Armées (besoins en services, fournitures et travaux), s’est rapidement imposé comme un modèle institutionnel à destination des opérateurs économiques. Cependant, faute d’attention portée aux utilisateurs, le portail ne correspond plus à leurs attentes :
+  les opérateurs économiques, et notamment les PME et ETI, ne connaissent pas bien les besoins du ministère et la manière dont ils peuvent y répondre ; les agents du ministère et les citoyens ont du mal à trouver des informations claires.</description>
+    </item>
+    
+    <item>
+      <title>Brigade Numérique</title>
+      <link>/defis/brigade-numerique/</link>
+      <pubDate>Thu, 14 Oct 2021 08:42:11 +0000</pubDate>
+      
+      <guid>/defis/brigade-numerique/</guid>
+      <description>Code source La mission des gendarmes est complexe : assurer la sécurité dans les zones rurales et périurbaines où ils sont parfois loin des citoyens qu’ils servent. Or l’usage croissant de nouveaux modes de communication (réseaux sociaux et agents conversationnels) rend possible une nouvelle forme de « proximité numérique » avec les citoyens, complémentaire de l’accueil physique en gendarmerie.
+La gendarmerie se rapproche donc des Français et lance sa Brigade Numérique.</description>
+    </item>
+    
+    <item>
+      <title>b@liseNAV</title>
+      <link>/defis/b-lisenav/</link>
+      <pubDate>Thu, 14 Oct 2021 08:35:47 +0000</pubDate>
+      
+      <guid>/defis/b-lisenav/</guid>
+      <description>La mer, une grande étendue bleue capricieuse sur laquelle s’élancent tous les jours de grands navires et de frêles esquifs. Pour aider les capitaines, expérimentés ou pas, le Service hydrographique et océanographique de la Marine (Shom) basé à Brest met à disposition des cartes marines mises à jour avec les informations transmises par les services des phares et balises. Cependant, la transmission et l’intégration des données prennent parfois du temps et les cartes qui en résultent peuvent être difficiles à interpréter.</description>
+    </item>
+    
+    <item>
+      <title>IA Flash</title>
+      <link>/defis/ia-flash/</link>
+      <pubDate>Mon, 04 Oct 2021 13:45:41 +0000</pubDate>
+      
+      <guid>/defis/ia-flash/</guid>
+      <description>Le Ministère de l’Intérieur au travers de son Agence nationale du traitement automatisé des infractions souhaite développer une intelligence artificielle permettant d’associer des photos de contrôles automatisés aux données des immatriculations des véhicules afin de réduire l’envoi d’avis de contraventions aux usagers n’ayant commis aucune infraction.
+IA Flash : fiabiliser le traitement automatisé des infractions La problématique Chaque année, les radars font 20 000 000 de clichés qu’ils envoient à l’Agence Nationale du Traitement Automatisé des Infractions (ANTAI) et au Centre Automatisé de Constatation des Infractions Routières (CACIR) pour traitement.</description>
+    </item>
+    
+    <item>
+      <title>CibNav</title>
+      <link>/defis/cibnav/</link>
+      <pubDate>Mon, 04 Oct 2021 08:59:57 +0000</pubDate>
+      
+      <guid>/defis/cibnav/</guid>
+      <description>La Direction des affaires maritimes (DAM), au sein du Ministère de la Transition écologique et solidaire, souhaite développer un outil de priorisation des contrôles des navires professionnels à partir de données métiers afin d’améliorer le respect des réglementations (sécurité des navires, équipages, conditions d’emploi).
+CibNav : Aider les agents en charge de la sécurité maritime à contrôler des navires professionnels en développant un outil de ciblage La problématique L’exploitation d’un navire professionnel est aujourd’hui soumise à une triple réglementation : sécurité du navire, composition et conditions d’emploi de l’équipage.</description>
+    </item>
+    
+    <item>
+      <title>SIANCE</title>
+      <link>/defis/siance/</link>
+      <pubDate>Sun, 26 Sep 2021 12:22:00 +0000</pubDate>
+      
+      <guid>/defis/siance/</guid>
+      <description>SIANCE est une plateforme de collecte et d’analyse de documents publics relatifs à la sûreté nucléaire et à la radioprotection. Elle est dotée d’une interface web adaptée aux activités de contrôle menées par l’Autorité de Sûreté Nucléaire.
+La problématique : des données provenant des inspections difficiles à analyser et à traduire en actions La France possède actuellement 17 centrales en fonctionnement, 87 installations relatives à la vie du combustible mais aussi plus de 50 000 installations exposant à des rayonnements ou des sources radioactives, comme certaines installations médicales (hôpitaux, cliniques, dentistes, vétérinaires) ou industrielles.</description>
+    </item>
+    
+    <item>
+      <title>Opérations 18</title>
+      <link>/defis/operations-18/</link>
+      <pubDate>Thu, 23 Sep 2021 08:15:51 +0000</pubDate>
+      
+      <guid>/defis/operations-18/</guid>
+      <description>Le défi EIG a permis à la Brigade de Sapeurs-Pompiers de Paris de développer un outil lui permettant d’avoir accès en temps réel aux informations de terrain sur les ressources humaines et matérielles engagées lors d’opérations.
+La problématique : des données opérationnelles d’interventions existantes mais mal exploitées En 2019, la Brigade de Sapeurs-Pompiers de Paris (BSPP) est intervenue plus de 506 000 fois sur le terrain, soit une intervention toutes les 3 secondes.</description>
+    </item>
+    
+    <item>
+      <title>NEOTac</title>
+      <link>/defis/neotac/</link>
+      <pubDate>Thu, 23 Sep 2021 07:49:54 +0000</pubDate>
+      
+      <guid>/defis/neotac/</guid>
+      <description>La Direction Générale de la Gendarmerie Nationale (DGGN) souhaite développer un outil permettant d’automatiser les plans d’intervention des unités de sécurité publique pour gagner en efficacité et en réactivité lors de situations d’urgence.
+La problématique : des situations d’urgence nombreuses qui demandent la mise en place rapide et efficace de dispositifs d’intervention Chaque jour, les unités de sécurité publique sont confrontées à des situations d’urgence nécessitant de mettre en place des plans d’intervention.</description>
+    </item>
+    
+    <item>
+      <title>Enki</title>
+      <link>/defis/enki/</link>
+      <pubDate>Wed, 22 Sep 2021 15:38:47 +0000</pubDate>
+      
+      <guid>/defis/enki/</guid>
+      <description>L’Agence du Numérique de la Sécurité Civile souhaite mettre en place une interface permettant de centraliser, organiser et communiquer les informations provenant des services d’urgence et de leurs partenaires, nécessaires aux autorités pour gérer les crises au mieux.
+La problématique : des données de terrain mal exploitées et non partagées avec les autorités en période de crise L’Agence du Numérique de la Sécurité Civile est en charge de la conception et du déploiement du système d’information NexSIS destiné à tous les services d’incendie et de secours.</description>
+    </item>
+    
+    <item>
+      <title>Basegun</title>
+      <link>/defis/basegun/</link>
+      <pubDate>Wed, 12 May 2021 15:54:33 +0000</pubDate>
+      
+      <guid>/defis/basegun/</guid>
+      <description>Le contexte Aujourd’hui, les forces de l’ordre (gendarmes, policiers et policières) saisissent 6 à 7 000 armes par an. Pour chaque catégorie d’armes identifiées, les agents mettent en place la procédure et envisagent les poursuites légales adaptées.
+La problématique Cependant, la méthode actuelle d’identification des armes sur le terrain est chronophage, soumise à interprétation et génératrice d’erreurs. En effet, les agents procèdent de trois façons souvent combinées :
+ Ils et elles tentent des rapprochements visuels à partir de recherches internet/intranet autonomes Ils et elles interrogent leurs collègues ou un armurier privé Ils et elles consultent des experts au sein du Ministère de l’Intérieur (SCAE)  La police judiciaire estime que 15 à 20% des armes saisies sont mal ou non identifiées, ce qui conduit à des absences de poursuites ou des poursuites pénales injustifiées.</description>
+    </item>
+    
+    <item>
+      <title>CyberImpact</title>
+      <link>/defis/cyberimp-ct/</link>
+      <pubDate>Wed, 12 May 2021 14:54:41 +0000</pubDate>
+      
+      <guid>/defis/cyberimp-ct/</guid>
+      <description>Le contexte La Gendarmerie nationale, c’est 130 000 femmes et hommes au service de la population sur 95% du territoire physique. Mais c’est aussi une présence dans l’espace numérique, à travers plusieurs services et interfaces (Je donne mon avis, Percev@l, ServicesPublics+, les réseaux sociaux, cybermalveillance.gouv.fr, etc.).
+La problématique Malheureusement, ces interfaces ne sont pas corrélées, créant un éparpillement des données qui empêche la constitution d’une vision consolidée, ainsi qu’un pilotage simple des actions en ligne.</description>
+    </item>
+    
+  </channel>
+</rss>

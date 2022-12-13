@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cartographie on Test Jamstack</title>
+    <link>/themes/cartographie/</link>
+    <description>Recent content in Cartographie on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 01 Jan 1970 00:33:42 +0000</lastBuildDate><atom:link href="/themes/cartographie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Géocommuns</title>
+      <link>/defis/geocommuns/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/geocommuns/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse L&amp;rsquo;IGN, le facilitateur de la création de « géocommuns » L’Institut national de l’information géographique et forestière (IGN) est un établissement public à caractère administratif placé sous la tutelle des ministères chargés de l’écologie et de la forêt. Sa vocation est de produire et diffuser des données (open data) et des représentations (cartes en ligne et papier, géovisualisation) de référence relatives à la connaissance du territoire national et des forêts françaises ainsi qu&amp;rsquo;à leur évolution.</description>
+    </item>
+    
+  </channel>
+</rss>

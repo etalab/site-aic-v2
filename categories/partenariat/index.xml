@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Partenariat on Test Jamstack</title>
+    <link>/categories/partenariat/</link>
+    <description>Recent content in Partenariat on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/partenariat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le programme EIG noue un partenariat avec l&#39;association Latitudes</title>
+      <link>/blog/partenariat-eig-latitudes/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/partenariat-eig-latitudes/</guid>
+      <description>Le programme Entrepreneurs d&amp;rsquo;Intérêt Général intègre pendant quelques mois des profils numériques d&amp;rsquo;exception dans les administrations pour relever des défis d&amp;rsquo;amélioration du service public à l&amp;rsquo;aide du numérique et des données.
+Au quotidien, l’équipe de coordination échange avec une multitude d&amp;rsquo;acteurs de la communauté du numérique d&amp;rsquo;intérêt général. Aujourd&amp;rsquo;hui, nous sommes fiers d&amp;rsquo;annoncer un partenariat avec l’un d’entre eux, l&amp;rsquo;association Latitudes.
+Pourquoi nouer un partenariat avec Latitudes ? La mission de Latitudes est de mettre la technologie au service de l&amp;rsquo;intérêt général.</description>
+    </item>
+    
+    <item>
+      <title>Construire des algorithmes publics exemplaires, la mission Fing-Etalab est lancée avec la Promotion 2 des EIG !</title>
+      <link>/blog/fing-algo/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/fing-algo/</guid>
+      <description>Cet article a été rédigé par l&amp;rsquo;équipe Nos Systèmes de la Fing : Hubert Guillaud et Thierry Marcou. Merci à la Fing, Simon Chignard et Loup Cellard pour l&amp;rsquo;animation de cet atelier !
+La Fing animait le 26 septembre dernier son premier atelier NosSystèmes, organisé dans le cadre de sa mission avec Etalab, avec comme sujet la question de l’exemplarité et de la responsabilité sociale des algorithmes publics. Ce sujet d&amp;rsquo;exploration fait écho aux dispositions de la loi pour une République numérique sur la transparence et l&amp;rsquo;explicabilité des algorithmes et à des chantiers de médiation autour des algorithmes réalisés au sein d&#39;Etalab (taxe d&amp;rsquo;habitation, calculette impôt, APB).</description>
+    </item>
+    
+    <item>
+      <title>Retour sur l&#39;atelier Wikipédia organisé au Mobilier national</title>
+      <link>/blog/retour-sur-atelier-wikipedia-au-mobilier-national/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/retour-sur-atelier-wikipedia-au-mobilier-national/</guid>
+      <description>L&amp;rsquo;idée : une journée d&amp;rsquo;atelier pour contribuer aux projets Wikimédia Laurie et Ned, les deux EIG du défi Gobelins, travaillent avec Hélène Cavalié, leur mentor, à la réalisation d&amp;rsquo;un site web dédié à la diffusion des collections et savoir-faire du Mobilier national.
+Au printemps 2018, lors d&amp;rsquo;une discussion portant sur les publics potentiels de ce futur site, Bastien, EIG Link 2018, évoque les réutilisations que pourront faire les wikipédiens des contenus qui seront publiés sous licence Ouverte.</description>
+    </item>
+    
+  </channel>
+</rss>

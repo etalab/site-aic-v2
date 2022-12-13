@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Test Jamstack</title>
+    <link>/categories/design/</link>
+    <description>Recent content in Design on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Vidéo] Retour sur 4 défis de la promotion Designers d’Intérêt Général</title>
+      <link>/blog/restitution-dig-environnement-biodiversite/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/restitution-dig-environnement-biodiversite/</guid>
+      <description>En juin 2019 a été lancé Designers d&amp;rsquo;Intérêt Général, un programme expérimental inspiré du programme Entrepreneurs d&amp;rsquo;Intérêt Général mais uniquement composé de designers (les deux programmes ont fusionné à la fin de la première promotion « DIG »). Quelques mois après la fin de leurs défis, quatre designers de la promotion nous livrent un retour d&amp;rsquo;expérience riche en apprentissages des défis portant sur l&amp;rsquo;environnement et la biodiversité. La restitution s&amp;rsquo;est faite à l&amp;rsquo;occasion du Meetup Design Public #5, qui s&amp;rsquo;est tenu le 26 novembre 2020 pendant le mois de l’innovation publique.</description>
+    </item>
+    
+    <item>
+      <title>Démonstrations : comment un aveugle navigue sur le web ?</title>
+      <link>/blog/demonstrations-accessibilite-numerique/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/demonstrations-accessibilite-numerique/</guid>
+      <description>Qu&amp;rsquo;est-ce que l&amp;rsquo;accessibilité ? L&amp;rsquo;accessibilité est un droit, défini par la possibilité pour un citoyen d&amp;rsquo;avoir accès à ce dont il a besoin. Cette notion d&amp;rsquo;accessibilité est généralement utilisée pour les personnes en situation de handicap et concerne de nombreux domaines, comme par exemple l&amp;rsquo;accessibilité physique ou l&amp;rsquo;accessibilité éducative&amp;hellip; L&amp;rsquo;accessibilité numérique est l&amp;rsquo;adaptation des systèmes numériques, notamment des sites web, aux différents types de handicap et aux outils utilisés par les personnes en situation de handicap tels que le lecteur d&amp;rsquo;écran et l&amp;rsquo;afficheur braille.</description>
+    </item>
+    
+    <item>
+      <title>Comment faire du design de services dans l&#39;administration ? L&#39;exemple du projet ACOSS-plateforme</title>
+      <link>/blog/le-design-de-services-dans-une-administration/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/le-design-de-services-dans-une-administration/</guid>
+      <description>Coline Lebaratoux a un diplôme supérieur d’arts appliqués en design de services et un master 2 en innovation sociale par le design. Après 4 années passées en agence en tant que designer de services, elle a intégré la promotion EIG 3 pour relever le défi ACOSS-plateforme. En binôme avec Anoureth Pongrattana, développeur full stack, ils ont pour mission de simplifier les démarches administratives liées au secteur de l’emploi à domicile.</description>
+    </item>
+    
+    <item>
+      <title>Le site des collections du Mobilier national : un outil, sept usages</title>
+      <link>/blog/site-mobilier-national-temoignages-utilisateurs/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/site-mobilier-national-temoignages-utilisateurs/</guid>
+      <description>En avril 2019 le Mobilier national rendait accessibles 65 000 meubles, œuvres et textiles sur son nouveau site collection.mobiliernational.culture.gouv.fr. Ces pièces d’une valeur historique et esthétique exceptionnelle étaient difficilement accessible jusque-là…
+Pour les révéler au public, les entrepreneurs d&amp;rsquo;intérêt général (EIG) Ned Baldessin et Laurie Chapotte ont choisi de concevoir un site en utilisant une démarche design, centrée utilisateur : afin de définir et prioriser leur travail, ils ont rencontré et questionné en amont les futurs utilisateurs.</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un bon designer ?</title>
+      <link>/blog/un-bon-designer-selon-hugo-stephan/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/un-bon-designer-selon-hugo-stephan/</guid>
+      <description>La session d&amp;rsquo;accompagnement mensuelle d&amp;rsquo;avril de la promotion EIG 3 était axée sur le thème du design. À cette occasion, on a demandé aux 5 designers de la promotion de définir ce qui, selon eux, caractérise un bon designer. Hugo Stéphan, du défi Karfu’R, a choisi une approche un peu taquine.
+« Être un bon designer ça veut dire :
+ être à l’écoute du bon sens de l’autre, de son histoire et de son savoir faire ; être un sacré gros flemmard et écouter les « tendances de flemme » des autres ; faire mieux avec moins d’étapes, moins de boutons, moins de formulaires, mais pas moins d’argent ou moins d’humains ; être snob et assumer de posséder seul la connaissance de ce qui est beau et de ce qui ne l’est pas : même les artistes ne peuvent pas test ; être effronté pour faire réagir, mais sans jamais violenter ; être humble, parce que par moment on n&amp;rsquo;est pas loin de l’escroquerie et parce qu’un designer ne résout rien seul ; être capable d’un esprit de synthèse et de rebond, tel le lapin moyen ; être pointilleux et se soucier des détails, surtout dans les interactions ; être capable de parler d’émotions, de ressentis et d’empathie ; savoir mobiliser une panoplie d’outils et de méthodes dans toutes les phases d’un projet et dans toutes les situations, même les plus désespérées ; demander 5 fois à son collègue développeur de modifier en CSS le radius d’un bouton pour finalement le laisser comme avant, car les premières intuitions des designers sont toujours bonnes.</description>
+    </item>
+    
+    <item>
+      <title>Retour sur l&#39;atelier Wikipédia organisé au Mobilier national</title>
+      <link>/blog/retour-sur-atelier-wikipedia-au-mobilier-national/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/retour-sur-atelier-wikipedia-au-mobilier-national/</guid>
+      <description>L&amp;rsquo;idée : une journée d&amp;rsquo;atelier pour contribuer aux projets Wikimédia Laurie et Ned, les deux EIG du défi Gobelins, travaillent avec Hélène Cavalié, leur mentor, à la réalisation d&amp;rsquo;un site web dédié à la diffusion des collections et savoir-faire du Mobilier national.
+Au printemps 2018, lors d&amp;rsquo;une discussion portant sur les publics potentiels de ce futur site, Bastien, EIG Link 2018, évoque les réutilisations que pourront faire les wikipédiens des contenus qui seront publiés sous licence Ouverte.</description>
+    </item>
+    
+    <item>
+      <title>Comment mettre son utilisateur au centre du design de son site ou de son outil ?  Retour sur les ateliers du 22 mars (3/3)</title>
+      <link>/blog/atelier-product-design/</link>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/atelier-product-design/</guid>
+      <description>Comment concevoir un produit qui corresponde aux besoins de ses utilisateurs et qui améliore vraiment leur quotidien en 10 mois ? Penser « user, user, user ». Retour sur l’atelier « product design », animé par Laurie Chapotte du défi Gobelins et Jean-Baptiste Le Dévéhat du défi Brigade Numérique - un grand merci à eux deux d&amp;rsquo;avoir relu et amélioré cette entrée de blog !
+Un exemple de site scandaleusement illisible</description>
+    </item>
+    
+    <item>
+      <title>« You are not (always) your user » : partir des utilisateurs pour construire un produit.  Retour sur les ateliers du 22 mars (1/3)</title>
+      <link>/blog/atelier-product-research/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/atelier-product-research/</guid>
+      <description>L’un des enjeux du programme : concevoir en 10 mois un produit et/ou délivrer un projet qui corresponde aux besoins de ses utilisateurs et qui améliore vraiment leur quotidien. Retour sur l&amp;rsquo;atelier User and Product Research, animé par Quentin Decock et Elise Lalique.
+Finalement, pour qui développons-nous ce produit ? 10 mois pour changer le service public, c’est ambitieux. Et pourtant, c’est dans cet esprit que les mentors du programme EIG ont imaginé 13 défis de transformation numérique.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Promos on Test Jamstack</title>
+    <link>/promos/</link>
+    <description>Recent content in Promos on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 27 Oct 2021 14:10:19 +0000</lastBuildDate><atom:link href="/promos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Promotion 1</title>
+      <link>/promos/promotion-1/</link>
+      <pubDate>Wed, 27 Oct 2021 14:10:19 +0000</pubDate>
+      
+      <guid>/promos/promotion-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promotion 2</title>
+      <link>/promos/promotion-2/</link>
+      <pubDate>Tue, 26 Oct 2021 21:20:36 +0000</pubDate>
+      
+      <guid>/promos/promotion-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promotion 4</title>
+      <link>/promos/promotion-4/</link>
+      <pubDate>Tue, 26 Oct 2021 13:54:11 +0000</pubDate>
+      
+      <guid>/promos/promotion-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promotion 3 - DIG</title>
+      <link>/promos/promotion-3-dig/</link>
+      <pubDate>Tue, 26 Oct 2021 13:19:07 +0000</pubDate>
+      
+      <guid>/promos/promotion-3-dig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promotion 3</title>
+      <link>/promos/promotion-3/</link>
+      <pubDate>Sun, 24 Oct 2021 14:04:27 +0000</pubDate>
+      
+      <guid>/promos/promotion-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promotion 5</title>
+      <link>/promos/promotion-5/</link>
+      <pubDate>Tue, 20 Jul 2021 16:20:20 +0000</pubDate>
+      
+      <guid>/promos/promotion-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promotion 6</title>
+      <link>/promos/promotion-6/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/promos/promotion-6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

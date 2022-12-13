@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Démographie on Test Jamstack</title>
+    <link>/themes/demographie/</link>
+    <description>Recent content in Démographie on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 01 Jan 1970 00:33:42 +0000</lastBuildDate><atom:link href="/themes/demographie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recens&#39;smart</title>
+      <link>/defis/recens-smart/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/recens-smart/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse L&amp;rsquo;INSEE, un institut au service des informations sur l’économie et la société françaises L&amp;rsquo;Institut national de la statistique et des études économiques (INSEE) est une direction générale du ministère de l&amp;rsquo;Économie et des Finances. Il a pour mission de collecter, analyser et diffuser des informations sur l&amp;rsquo;économie et la société française sur l&amp;rsquo;ensemble de son territoire. Il est notamment en charge du recensement de la population qui, depuis 2004, repose sur des enquêtes annuelles auxquelles il est possible de répondre par internet ou sur papier.</description>
+    </item>
+    
+  </channel>
+</rss>

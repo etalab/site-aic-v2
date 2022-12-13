@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Développement on Test Jamstack</title>
+    <link>/categories/developpement/</link>
+    <description>Recent content in Développement on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 15 Nov 2018 00:00:00 +0000</lastBuildDate><atom:link href="/categories/developpement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retour d&#39;expérience : le défi Brigade numérique</title>
+      <link>/blog/retour-experience-defi-brigade-numerique/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/retour-experience-defi-brigade-numerique/</guid>
+      <description>En janvier 2018, j&amp;rsquo;ai rejoint la deuxième promotion du programme Entrepreneur·e d&amp;rsquo;intérêt général sur le défi de la gendarmerie nationale, « Brigade numérique ». Actuellement la prise de rendez-vous avec un gendarme peut s&amp;rsquo;effectuer uniquement durant les horaires d&amp;rsquo;ouverture de la brigade soit en s&amp;rsquo;y présentant directement, soit par téléphone. Le défi est de mettre en place un service en ligne ouvert 24/7 de prise de rendez-vous dans l&amp;rsquo;unité choisie par les usagers.</description>
+    </item>
+    
+  </channel>
+</rss>

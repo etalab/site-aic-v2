@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecologie on Test Jamstack</title>
+    <link>/themes/ecologie/</link>
+    <description>Recent content in Ecologie on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 26 Oct 2021 13:14:22 +0000</lastBuildDate><atom:link href="/themes/ecologie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sequoia IGN</title>
+      <link>/defis/sequoia-ign/</link>
+      <pubDate>Tue, 26 Oct 2021 13:14:22 +0000</pubDate>
+      
+      <guid>/defis/sequoia-ign/</guid>
+      <description>La problématique Le commissariat général au développement durable (CGDD) produit de l’information qui a vocation à alimenter le dialogue environnemental entre l’Etat et ses citoyens. Or l’information environnementale peut prendre des formes différentes (études, données chiffrées, données géolocalisées…) et s’adresser à des publics multiples (experts, décideurs publics, grand public). Afin de permettre l’appropriation de cette information par ses différents publics et de favoriser son enrichissement, le CGDD envisage de refondre les dispositifs de diffusion de l’information et de promouvoir une mise à jour des données en mode collaboratif.</description>
+    </item>
+    
+    <item>
+      <title>Sequoia CGDD</title>
+      <link>/defis/sequoia-cgdd/</link>
+      <pubDate>Tue, 26 Oct 2021 12:22:55 +0000</pubDate>
+      
+      <guid>/defis/sequoia-cgdd/</guid>
+      <description>La problématique, rationaliser pour mieux sensibiliser/informer. Actuellement, 65% des français se déclarent intéressés par une information fiable et « officielle » sur les sujets liés à l’environnement et au développement durable (Etude Nov. 2019 Cocedal - CGDD). Or, La présence en ligne des acteurs publics sur ces sujets est éclatée entre des dizaines de sites, pour la plupart méconnus. Le Commissariat Général au Développement Durable (CGDD), qui produit de l’information, a vocation à alimenter le dialogue environnemental entre l’Etat et ses citoyens.</description>
+    </item>
+    
+    <item>
+      <title>CartoBio</title>
+      <link>/defis/cartobio/</link>
+      <pubDate>Mon, 04 Oct 2021 08:55:52 +0000</pubDate>
+      
+      <guid>/defis/cartobio/</guid>
+      <description>L’Agence française pour le développement et la promotion de l’agriculture biologique (Agence BIO), en lien avec le Ministère de la Transition écologique et solidaire, souhaite associer les données du Registre Parcellaire Graphique et celles des opérateurs bio pour construire une cartographie des parcelles bio afin de simplifier les démarches des agriculteurs, fiabiliser la certification bio et mieux accompagner les politiques territoriales.
+CartoBio : faciliter les démarches des acteurs de l’agriculture biologique en mettant à disposition les données pertinentes La problématique : des données de l’agriculture biologique non diffusées et incomplètes Le label Agriculture biologique est un label de qualité public fondé sur l’interdiction d’utilisation de produits issus de la chimie de synthèse et le bien-être animal.</description>
+    </item>
+    
+    <item>
+      <title>France Transition</title>
+      <link>/defis/france-transition/</link>
+      <pubDate>Thu, 23 Sep 2021 07:35:30 +0000</pubDate>
+      
+      <guid>/defis/france-transition/</guid>
+      <description>La problématique : les aides publiques liées à la transition écologie des entreprises restent difficiles d’accès. Selon l’étude « Les Dirigeants de PME-ETI face à l’urgence climatique » de Bpifrance, 80% des dirigeants de PME et ETI ont conscience de l’urgence climatique mais seulement 13% déclarent pouvoir réduire « de manière importante » leurs émissions carbone dans les 5 prochaines années.
+Notre investigation a permis de distinguer deux catégories de dirigeants qui rencontrent, chacune, des freins propres :</description>
+    </item>
+    
+    <item>
+      <title>Envinorma</title>
+      <link>/defis/envinorma/</link>
+      <pubDate>Wed, 22 Sep 2021 15:47:33 +0000</pubDate>
+      
+      <guid>/defis/envinorma/</guid>
+      <description>Vidéo de présentation Contexte et présentation de l&amp;rsquo;outil
+ La problématique : une réglementation des sites industriels multiple et disséminée En raison des nuisances, des risques de pollutions ou encore des risques d’accidents, les sites industriels sont des installations classées pour la protection de l’environnement, ou ICPE. Ils sont donc soumis à une réglementation spécifique et sont contrôlés par des inspecteurs habilités. Au total, 1 619 inspections ont été réalisées en Île-de-France en 2020.</description>
+    </item>
+    
+    <item>
+      <title>Mes services Greentech</title>
+      <link>/defis/mes-services-greentech/</link>
+      <pubDate>Wed, 12 May 2021 15:48:32 +0000</pubDate>
+      
+      <guid>/defis/mes-services-greentech/</guid>
+      <description>Le contexte Aujourd’hui, la France dispose d’un écosystème Greentech particulièrement riche, peuplé de 9 000 startups et d’une centaine d’incubateurs/accélérateurs.
+Depuis 2016, l’initiative Greentech Innovation labellise 215 entreprises et leur propose un accompagnement structuré en 5 « boosters » (visibilité, commercial, ressources digitales, commande publique et appui « premium »). Plus récemment, un réseau national de 27 incubateurs Greentech a été déployé et un Living Lab Greentech a été créé pour lever les freins d’accès à la commande publique et mener des expérimentations territoriales.</description>
+    </item>
+    
+    <item>
+      <title>BatID</title>
+      <link>/defis/batid/</link>
+      <pubDate>Wed, 12 May 2021 15:41:48 +0000</pubDate>
+      
+      <guid>/defis/batid/</guid>
+      <description>Le contexte En France, le secteur du bâtiment représente près de 45% de la consommation d’énergie finale et 27% des émissions de gaz à effet de serre.
+Face à ce constat, l’Etat a lancé un plan de rénovation énergétique des bâtiments, qui vise à atteindre la neutralité carbone d’ici à 2050, tout en poursuivant un objectif de lutte contre la précarité énergétique.
+La problématique Malheureusement, le croisement difficile entre les différentes bases de données pertinentes empêche une description fine des bâtiments, et donc le suivi des rénovations effectuées.</description>
+    </item>
+    
+  </channel>
+</rss>

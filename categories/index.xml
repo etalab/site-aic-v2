@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Test Jamstack</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 12 Oct 2022 12:05:59 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accompagnement</title>
+      <link>/categories/accompagnement/</link>
+      <pubDate>Wed, 12 Oct 2022 12:05:59 +0000</pubDate>
+      
+      <guid>/categories/accompagnement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Méthode</title>
+      <link>/categories/methode/</link>
+      <pubDate>Wed, 12 Oct 2022 12:05:59 +0000</pubDate>
+      
+      <guid>/categories/methode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Témoignage</title>
+      <link>/categories/temoignage/</link>
+      <pubDate>Fri, 02 Sep 2022 13:56:29 +0000</pubDate>
+      
+      <guid>/categories/temoignage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collectif</title>
+      <link>/categories/collectif/</link>
+      <pubDate>Thu, 01 Sep 2022 11:18:38 +0000</pubDate>
+      
+      <guid>/categories/collectif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recrutement</title>
+      <link>/categories/recrutement/</link>
+      <pubDate>Thu, 01 Sep 2022 11:18:38 +0000</pubDate>
+      
+      <guid>/categories/recrutement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Écosystème</title>
+      <link>/categories/ecosysteme/</link>
+      <pubDate>Thu, 01 Sep 2022 11:18:38 +0000</pubDate>
+      
+      <guid>/categories/ecosysteme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open</title>
+      <link>/categories/open/</link>
+      <pubDate>Mon, 19 Jul 2021 14:11:00 +0000</pubDate>
+      
+      <guid>/categories/open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Évaluation</title>
+      <link>/categories/evaluation/</link>
+      <pubDate>Mon, 19 Jul 2021 14:11:00 +0000</pubDate>
+      
+      <guid>/categories/evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Réalisation</title>
+      <link>/categories/realisation/</link>
+      <pubDate>Thu, 01 Apr 2021 15:26:54 +0000</pubDate>
+      
+      <guid>/categories/realisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>/categories/design/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pérennisation</title>
+      <link>/categories/perennisation/</link>
+      <pubDate>Tue, 05 Jan 2021 09:23:09 +0000</pubDate>
+      
+      <guid>/categories/perennisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interdisciplinarité</title>
+      <link>/categories/interdisciplinarite/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/interdisciplinarite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outil</title>
+      <link>/categories/outil/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/outil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partenariat</title>
+      <link>/categories/partenariat/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/partenariat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datascience</title>
+      <link>/categories/datascience/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/datascience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International</title>
+      <link>/categories/international/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/international/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Développement</title>
+      <link>/categories/developpement/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/developpement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithme</title>
+      <link>/categories/algorithme/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/algorithme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

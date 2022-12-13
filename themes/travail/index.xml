@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travail on Test Jamstack</title>
+    <link>/themes/travail/</link>
+    <description>Recent content in Travail on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 01 Jan 1970 00:33:42 +0000</lastBuildDate><atom:link href="/themes/travail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OptiFlex</title>
+      <link>/defis/optiflex/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/optiflex/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse Le Service du commissariat des Armées : soutenir les forces en tout temps, tout lieu, toutes circonstances La vocation du Service du commissariat des armées (SCA) est d’assurer le soutien commun et l’administration générale des armées. Il est sous-tendu par deux forces qui se complètent : la première est celle de la culture opérationnelle, comme en témoigne sa présence dans la totalité des engagements opérationnels, sur les théâtres d’opérations extérieures et dans le cadre de l’opération Sentinelle.</description>
+    </item>
+    
+  </channel>
+</rss>

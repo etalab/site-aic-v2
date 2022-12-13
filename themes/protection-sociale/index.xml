@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protection sociale on Test Jamstack</title>
+    <link>/themes/protection-sociale/</link>
+    <description>Recent content in Protection sociale on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 26 Oct 2021 12:00:55 +0000</lastBuildDate><atom:link href="/themes/protection-sociale/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Résorption bidonvilles</title>
+      <link>/defis/resorption-bidonvilles/</link>
+      <pubDate>Tue, 26 Oct 2021 12:00:55 +0000</pubDate>
+      
+      <guid>/defis/resorption-bidonvilles/</guid>
+      <description>La Délégation interministérielle à l’hébergement et l’accès au logement (Dihal) souhaite consolider le pilotage de la politique de résorption des bidonvilles aux niveaux national et local afin d’agir plus et mieux grâce un partage de l’information et des solutions qui fonctionnent.
+La problématique Il existe aujourd’hui plus de 500 bidonvilles en France métropolitaine dans lesquels vivent entre 16 000 et 20 000 personnes, dont environ 5 000 mineurs.
+Pour résorber ces bidonvilles, une nouvelle stratégie qui dépasse l’approche centrée sur les évacuations et combine des actions d’accompagnement social et d’insertion a été mise en place.</description>
+    </item>
+    
+    <item>
+      <title>Ma famille ici</title>
+      <link>/defis/ma-famille-ici/</link>
+      <pubDate>Tue, 26 Oct 2021 09:16:12 +0000</pubDate>
+      
+      <guid>/defis/ma-famille-ici/</guid>
+      <description>La problématique La démarche administrative de demande de regroupement familial s’adresse aux personnes étrangères qui disposent d’un titre de séjour : elle leur permet de demander la venue de leur famille sous condition de ressources et de logement. Cette démarche pose des problèmes aussi bien aux demandeurs qu’aux agents :
+ 90% des dossiers sont incomplets et occasionnent de nombreux rejets ; les agents de l’Office Français de l’Immigration et de l’Intégration (OFII) reçoivent 30 000 demandes par an alors qu’ils ne peuvent en traiter que 18 000 ; la transmission des informations entre les services (OFII, mairies, préfectures, consulats) se fait par courrier et prend énormément de temps.</description>
+    </item>
+    
+    <item>
+      <title>Archifiltre</title>
+      <link>/defis/archifiltre/</link>
+      <pubDate>Thu, 14 Oct 2021 08:29:00 +0000</pubDate>
+      
+      <guid>/defis/archifiltre/</guid>
+      <description>Démonstration Code source Les archives sont comme un arbre : rassemblées en un endroit, elles ont de multiples ramifications qui mènent logiquement aux documents que l’on recherche. Dans ce monde d’arborescences, les archives des ministères sociaux constituent un enjeu de taille : tout (documents officiels, fiches, notes, mails…) doit être trié afin de conserver les documents à opposer en cas de réclamation. Or la multiplication des outils informatiques a contribué à la multiplication à la fois des données et des formats, rendant l’archivage encore plus compliqué.</description>
+    </item>
+    
+    <item>
+      <title>Karfu’R</title>
+      <link>/defis/karfur/</link>
+      <pubDate>Mon, 04 Oct 2021 13:56:16 +0000</pubDate>
+      
+      <guid>/defis/karfur/</guid>
+      <description>La Délégation interministérielle pour l’accueil et l’intégration des réfugiés (DIAIR) souhaite développer une plateforme multilingue afin de diffuser des informations pertinentes pour aider les réfugiés dans leurs démarches. L’enjeu sera de proposer une expérience utilisateur adaptée, du contenu multilingue et des services en lien avec un réseau d’acteurs (associations, administrations, collectivités) déjà engagés sur ces sujets.
+Karfu’R : valoriser les initiatives d’accueil et d’intégration des réfugiés et améliorer les démarches des réfugiés La problématique 230 000 : c’est le nombre de personnes qui ont le statut de réfugié aujourd’hui en France.</description>
+    </item>
+    
+    <item>
+      <title>UrssafassuR</title>
+      <link>/defis/urssafassur/</link>
+      <pubDate>Wed, 12 May 2021 15:51:27 +0000</pubDate>
+      
+      <guid>/defis/urssafassur/</guid>
+      <description>Le contexte Nombreux sont les particuliers qui font appel à des entrepreneurs (en particulier des autoentrepreneurs) pour réaliser des travaux chez eux : en 2019, on comptait 1,7 millions d’autoentrepreneurs en France, pour un chiffre d’affaires de 13,5 milliards d’euros.
+La problématique Malgré ce volume, peu de particuliers pensent à vérifier la « régularité » des entrepreneurs sollicités, et beaucoup ignorent les risques potentiels en cas d’irrégularité du prestataire (responsabilité en cas d’accident, pas d’assurance en cas de malfaçons ou de sinistre, sanctions en cas de contrôle, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

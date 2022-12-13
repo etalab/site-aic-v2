@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Écosystème on Test Jamstack</title>
+    <link>/categories/ecosysteme/</link>
+    <description>Recent content in Écosystème on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 01 Sep 2022 11:18:38 +0000</lastBuildDate><atom:link href="/categories/ecosysteme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entrepreneurs d’intérêt général : découvrez la 6ème promotion du programme !</title>
+      <link>/blog/entrepreneurs-dinteret-general-decouvrez-la-6eme-promotion-du-programme/</link>
+      <pubDate>Thu, 01 Sep 2022 11:18:38 +0000</pubDate>
+      
+      <guid>/blog/entrepreneurs-dinteret-general-decouvrez-la-6eme-promotion-du-programme/</guid>
+      <description>Développeuses, développeurs, data scientists, data engineers et designers… ils et elles seront 34 à rejoindre les rangs de l’administration française en septembre prochain. 34 « Entrepreneurs d’intérêt général », issus des secteurs public ou privé, jeunes et moins jeunes, aux expertises diverses dans la tech et le design. Derrière ces horizons pluriels, un désir commun de s’engager pour l’intérêt général et d’œuvrer pour la transformation numérique des administrations.
+Pendant 10 mois, les EIG vont concevoir et déployer des outils numériques en réponse à des défis identifiés par des agents publics, sur des thèmes aussi variés que la santé, l’environnement ou les affaires sociales.</description>
+    </item>
+    
+    <item>
+      <title>Le programme EIG noue un partenariat avec l&#39;association Latitudes</title>
+      <link>/blog/partenariat-eig-latitudes/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/partenariat-eig-latitudes/</guid>
+      <description>Le programme Entrepreneurs d&amp;rsquo;Intérêt Général intègre pendant quelques mois des profils numériques d&amp;rsquo;exception dans les administrations pour relever des défis d&amp;rsquo;amélioration du service public à l&amp;rsquo;aide du numérique et des données.
+Au quotidien, l’équipe de coordination échange avec une multitude d&amp;rsquo;acteurs de la communauté du numérique d&amp;rsquo;intérêt général. Aujourd&amp;rsquo;hui, nous sommes fiers d&amp;rsquo;annoncer un partenariat avec l’un d’entre eux, l&amp;rsquo;association Latitudes.
+Pourquoi nouer un partenariat avec Latitudes ? La mission de Latitudes est de mettre la technologie au service de l&amp;rsquo;intérêt général.</description>
+    </item>
+    
+    <item>
+      <title>Démonstrations : comment un aveugle navigue sur le web ?</title>
+      <link>/blog/demonstrations-accessibilite-numerique/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/demonstrations-accessibilite-numerique/</guid>
+      <description>Qu&amp;rsquo;est-ce que l&amp;rsquo;accessibilité ? L&amp;rsquo;accessibilité est un droit, défini par la possibilité pour un citoyen d&amp;rsquo;avoir accès à ce dont il a besoin. Cette notion d&amp;rsquo;accessibilité est généralement utilisée pour les personnes en situation de handicap et concerne de nombreux domaines, comme par exemple l&amp;rsquo;accessibilité physique ou l&amp;rsquo;accessibilité éducative&amp;hellip; L&amp;rsquo;accessibilité numérique est l&amp;rsquo;adaptation des systèmes numériques, notamment des sites web, aux différents types de handicap et aux outils utilisés par les personnes en situation de handicap tels que le lecteur d&amp;rsquo;écran et l&amp;rsquo;afficheur braille.</description>
+    </item>
+    
+    <item>
+      <title>Mobiliser des compétences numériques dans l&#39;administration : quelles initiatives à l&#39;étranger ?</title>
+      <link>/blog/benchmark-eig/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/benchmark-eig/</guid>
+      <description>Tour d&amp;rsquo;horizon international d&amp;rsquo;initiatives similaires au programme Entrepreneurs d&amp;rsquo;Intérêt Général Qu&amp;rsquo;est-ce que le programme Entrepreneurs d&amp;rsquo;Intérêt Général ?
+Le programme Entrepreneurs d&amp;rsquo;Intérêt Général permet d&amp;rsquo;intégrer pour 10 mois des profils numériques d&amp;rsquo;exception dans les administrations pour relever des défis d&amp;rsquo;amélioration du service public à l&amp;rsquo;aide du numérique et des données. Ces entrepreneurs sont épaulés par des mentors qui participent à leur bonne intégration au sein des administrations, et forment une promotion accompagnée toute l&amp;rsquo;année par une équipe d&#39;Etalab, au sein de la direction interministérielle du numérique.</description>
+    </item>
+    
+    <item>
+      <title>Quelles ressources mobiliser pour mener à bien un projet numérique autour des données ? - Retour sur la semaine d&#39;intégration de la promotion 3 des entrepreneurs d&#39;intérêt général</title>
+      <link>/blog/bootcamp-eig3/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/bootcamp-eig3/</guid>
+      <description>Retour sur le bootcamp d&amp;rsquo;intégration de la promotion 3 des entrepreneurs d&amp;rsquo;intérêt général
+Les EIG travaillent avec leurs mentors et des membres de betagouv au BercyLab.
+Cela fait 3 ans que le programme EIG existe. 3 ans qu’il mène des projets numériques en lien avec les données dans le but de mieux outiller les administrations et de mieux servir les citoyens. 3 ans qui nous ont permis de créer une communauté d’experts autour d’EIG et de consolider une méthode de gestion de projets numériques au sein de l’Etat.</description>
+    </item>
+    
+  </channel>
+</rss>

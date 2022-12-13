@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data engineering on Test Jamstack</title>
+    <link>/expertises/data-engineering/</link>
+    <description>Recent content in Data engineering on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 26 Sep 2021 12:26:34 +0000</lastBuildDate><atom:link href="/expertises/data-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSP Datalab</title>
+      <link>/defis/ssp-datalab/</link>
+      <pubDate>Sun, 26 Sep 2021 12:26:34 +0000</pubDate>
+      
+      <guid>/defis/ssp-datalab/</guid>
+      <description>L’Insee en tant que coordinateur du service statistique public (SSP) souhaite développer une plateforme ergonomique de traitement des données statistiques afin de rendre les techniques modernes plus accessibles et de mutualiser les efforts pour répondre aux défis actuels de la statistique publique.
+La problématique : des outils et techniques de traitement de données difficiles d’accès et dépourvus d’environnements de test Le service statistique public est composé de 16 services statistiques ministériels et de l’Insee (Institut national de la statistique et des études économiques) qui en assure la coordination.</description>
+    </item>
+    
+    <item>
+      <title>DaSES</title>
+      <link>/defis/dases-1/</link>
+      <pubDate>Tue, 20 Jul 2021 16:20:20 +0000</pubDate>
+      
+      <guid>/defis/dases-1/</guid>
+      <description>Le contexte Le Ministère de l’Education nationale, de la jeunesse et des sports place la donnée au cœur de sa stratégie numérique et l’envisage comme un moyen puissant de développer des solutions pour mieux accompagner les élèves et les étudiants.
+La problématique Aujourd’hui, le Ministère et les écosystèmes de l’éducation produisent un très grand nombre de données liées à la vie scolaire, aux évaluations et aux résultats des élèves, aux devoirs réalisés, aux ressources utilisées, etc.</description>
+    </item>
+    
+    <item>
+      <title>DataRH</title>
+      <link>/defis/datarh/</link>
+      <pubDate>Thu, 20 May 2021 14:24:33 +0000</pubDate>
+      
+      <guid>/defis/datarh/</guid>
+      <description>Le contexte Depuis plusieurs années, la Direction des ressources humaines de l’Agence régionale de santé Auvergne-Rhône-Alpes (ARS ARA) envisage une transformation numérique sous le prisme de la donnée. Un changement législatif, qui prescrit la mise à disposition d’une base de données sociales (parcours professionnels, formation, rémunération, etc.) pour les partenaires internes (agents, managers, organisations syndicales) vient accélérer cette démarche.
+La problématique Le capital humain de l’ARS ARA est actuellement suivi à l’aide de différentes applications non connectées (solutions de paie, outils de gestion du temps et des activités, etc.</description>
+    </item>
+    
+    <item>
+      <title>Prev-AC-Tion</title>
+      <link>/defis/prev-ac-tion/</link>
+      <pubDate>Thu, 20 May 2021 14:22:09 +0000</pubDate>
+      
+      <guid>/defis/prev-ac-tion/</guid>
+      <description>Le contexte En matière d’accidentologie, le secteur maritime affiche aujourd’hui le plus fort taux d’incidence par rapport aux autres secteurs d’activité, avec 1 598 accidents du travail et 14 décès en 2019 (sur 38 368 marins recensés).
+La problématique Cependant, ces souffrances humaines restent encore mal connues : il n’existe pas de données consolidées sur les accidents du travail maritime et les maladies professionnelles qui y sont liées, qui permettraient d’en faire une description fine.</description>
+    </item>
+    
+    <item>
+      <title>TRISTAN</title>
+      <link>/defis/tristan/</link>
+      <pubDate>Wed, 12 May 2021 15:49:55 +0000</pubDate>
+      
+      <guid>/defis/tristan/</guid>
+      <description>Le contexte En 2019, 812 249 décisions ont été prises en matière pénale. Avant chaque audience, les magistrats préparent leur audition en examinant l’ensemble des pièces constitutives d’une affaire. La qualité de cette préparation conditionne l’impartialité et l’équité des décisions rendues.
+La problématique Cependant, la quantité d’affaires et les modalités de certaines procédures n’accordent pas aux magistrats le temps nécessaire pour bien appréhender toutes les pièces. Ainsi, des procédures comme les comparutions immédiates sont soumises à de vives critiques, qualifiées de « justice d’abattage »*.</description>
+    </item>
+    
+    <item>
+      <title>BatID</title>
+      <link>/defis/batid/</link>
+      <pubDate>Wed, 12 May 2021 15:41:48 +0000</pubDate>
+      
+      <guid>/defis/batid/</guid>
+      <description>Le contexte En France, le secteur du bâtiment représente près de 45% de la consommation d’énergie finale et 27% des émissions de gaz à effet de serre.
+Face à ce constat, l’Etat a lancé un plan de rénovation énergétique des bâtiments, qui vise à atteindre la neutralité carbone d’ici à 2050, tout en poursuivant un objectif de lutte contre la précarité énergétique.
+La problématique Malheureusement, le croisement difficile entre les différentes bases de données pertinentes empêche une description fine des bâtiments, et donc le suivi des rénovations effectuées.</description>
+    </item>
+    
+    <item>
+      <title>Green Data for Health</title>
+      <link>/defis/green-data-for-health/</link>
+      <pubDate>Wed, 12 May 2021 15:03:46 +0000</pubDate>
+      
+      <guid>/defis/green-data-for-health/</guid>
+      <description>Le contexte Selon l’Organisation mondiale de la santé, les facteurs environnementaux et comportementaux sont responsables d’au moins 15% des décès en Europe, soit environ 1,4 million de décès par an, pour la plupart évitables. En effet, la pollution de l’air, de l’eau, des sols, les pesticides, les perturbateurs endocriniens, etc. sont à l’origine de multiples pathologies. C’est pourquoi mieux connaître l’effet des facteurs environnementaux sur la santé constitue un enjeu majeur de santé publique.</description>
+    </item>
+    
+    <item>
+      <title>CyberImpact</title>
+      <link>/defis/cyberimp-ct/</link>
+      <pubDate>Wed, 12 May 2021 14:54:41 +0000</pubDate>
+      
+      <guid>/defis/cyberimp-ct/</guid>
+      <description>Le contexte La Gendarmerie nationale, c’est 130 000 femmes et hommes au service de la population sur 95% du territoire physique. Mais c’est aussi une présence dans l’espace numérique, à travers plusieurs services et interfaces (Je donne mon avis, Percev@l, ServicesPublics+, les réseaux sociaux, cybermalveillance.gouv.fr, etc.).
+La problématique Malheureusement, ces interfaces ne sont pas corrélées, créant un éparpillement des données qui empêche la constitution d’une vision consolidée, ainsi qu’un pilotage simple des actions en ligne.</description>
+    </item>
+    
+    <item>
+      <title>Champollion</title>
+      <link>/defis/champollion/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/champollion/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse Le MTEI, le numérique au service de l&amp;rsquo;action publique Le ministère du travail, de l’emploi et de l’insertion (MTEI) s&amp;rsquo;est doté d’une stratégie autour de la donnée, des algorithmes et des codes sources en appui de ses politiques publiques. Cette stratégie répond à la nécessité d’une nouvelle ambition pour exploiter et maîtriser toutes les potentialités d’un numérique ouvert et au service de l’humain. Elle passe par la création de nouveaux usages de la donnée à toutes les échelles de l’action publique étendue.</description>
+    </item>
+    
+    <item>
+      <title>Estim&#39;Action</title>
+      <link>/defis/estim-action/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/estim-action/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse Cerema, l&amp;rsquo;expertise publique pour la transition écologique et la cohésion des territoires Le Cerema est l’établissement de référence dans les domaines de l’expertise et de l’ingénierie publique pour accompagner les territoires dans leurs missions d’adaptation aux changements climatiques. Il assiste l&amp;rsquo;État, les collectivités territoriales et les entreprises pour les conduire vers une stratégie d&amp;rsquo;aménagement durable (bâtiments, infrastructures, environnement …).
+La problématique identifiée La complexité de l&amp;rsquo;analyse de la qualité de l’air rend difficile la mise en place d&amp;rsquo;actions au sein des collectivités Les émissions routières représentent en moyenne 1/3 des émissions de polluants atmosphériques et sonores.</description>
+    </item>
+    
+    <item>
+      <title>Nubonyxia</title>
+      <link>/defis/nubonyxia/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/nubonyxia/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse Bercy Hub, l&amp;rsquo;incubateur des startups d&amp;rsquo;État issues des directions de Bercy Rattaché aux services du numérique des ministères de l&amp;rsquo;Économie, des Finances et de la Relance, Bercy Hub est responsable de l&amp;rsquo;administration ministérielle des données et de l&amp;rsquo;incubation des startups d&amp;rsquo;État issues de Bercy. Sa feuille de route distingue trois axes : développer le capital humain, œuvrer pour la mise à disposition d&amp;rsquo;un catalogue de données techniques partagé au sein des directions de Bercy et valoriser la donnée.</description>
+    </item>
+    
+    <item>
+      <title>OptiFlex</title>
+      <link>/defis/optiflex/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/optiflex/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse Le Service du commissariat des Armées : soutenir les forces en tout temps, tout lieu, toutes circonstances La vocation du Service du commissariat des armées (SCA) est d’assurer le soutien commun et l’administration générale des armées. Il est sous-tendu par deux forces qui se complètent : la première est celle de la culture opérationnelle, comme en témoigne sa présence dans la totalité des engagements opérationnels, sur les théâtres d’opérations extérieures et dans le cadre de l’opération Sentinelle.</description>
+    </item>
+    
+    <item>
+      <title>SIRANo</title>
+      <link>/defis/sirano/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/sirano/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse La DGOS, le garant de la conformité de l&amp;rsquo;offre de soins au regard des politiques de santé Le bureau « innovation et recherche clinique » de la Direction Générale de l’Offre de Soins (DGOS) - rattachée au Ministère des Solidarités et de la Santé - pilote la politique du ministère portant sur la recherche appliquée en santé, sur l’offre de soins et sur l’innovation.</description>
+    </item>
+    
+    <item>
+      <title>Alexandre Thomas</title>
+      <link>/personnes/alexandre-thomas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/alexandre-thomas/</guid>
+      <description>« Jeune ingénieur diplômé de l&amp;rsquo;École des Mines de Paris et de Sorbonne Université, j&amp;rsquo;ai pu explorer certains domaines de mathématiques appliquées à travers des expériences de R&amp;amp;D et de recherche (NLP &amp;amp; deep learning, modèles de variables latentes, time series modelling, RL). J&amp;rsquo;aime également beaucoup coder, parfois à mes heures perdues. Très intéressé à la fois par le service public et par le côté entreprenariat, je suis très heureux de rejoindre la 5è promotion EIG, et de pouvoir travailler sur le défi Cyberimpact.</description>
+    </item>
+    
+    <item>
+      <title>Anthony Taing</title>
+      <link>/personnes/anthony-taing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/anthony-taing/</guid>
+      <description>Passionné de nouvelles technologies, j’ai pu m’impliquer dans de nombreux projets en Data et Intelligence Artificielle dans des domaines très variés: transport, gestion de l’eau, chimie, finance et média.
+Soucieux des enjeux d’aujourd’hui et de demain, les circonstances actuelles comme la crise sanitaire, la guerre aux portes de l’Union Européenne ou le réchauffement climatique ont fait émerger de nouvelles méthodes de fonctionnement, en repensant l’utilisation des ressources à la fois humaines et matérielles.</description>
+    </item>
+    
+    <item>
+      <title>Bénédicte Pachod</title>
+      <link>/personnes/benedicte-pachod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/benedicte-pachod/</guid>
+      <description>“Engagée dans l’exploration de réponses collectives pour le bien-être des habitants et un développement local durable, j’ai travaillé 4 ans au Ministère de la Transition écologique et solidaire suivant deux missions complémentaires : conduire des expérimentations relatives aux enjeux de gouvernance et de résilience et coordonner le re-design d’une politique publique nationale. J’ai par ailleurs été consultante free-lance et animatrice d’un réseau de collectivités et de partenaires en Ile-de-France. Arrivée en début d’année en tant que chargée de projet innovation publique au sein de la mission Animation scientifique et innovation du Commissariat général à l’égalité des territoires, je me suis concentrée sur des projets de soutien à l’essaimage d’innovations sociales, au service des territoires et d’une action publique optimisée.</description>
+    </item>
+    
+    <item>
+      <title>Claudio Cimelli</title>
+      <link>/personnes/claudio-cimelli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/claudio-cimelli/</guid>
+      <description>« Je suis chef de la mission d’incubation des projets numérique (Numéri’lab) depuis 2014. Auparavant, j’ai été coordinateur de la concertation nationale sur le numérique (de novembre 2014 à mai 2015). Je pilote des programmes et des actions d’étude/recherche de la Direction du numérique pour l’éducation :
+ 10 programmes de réflexion nationaux (dont, analyse de données (adaptative learning), travail collaboratif, immersion numérique) ; Encadrement des partenariats avec les entreprises et éditeurs du web ; Encadrement des programmes d’expérimentations de la DNE, portant sur les technologies nouvelles (Big data, IA,…).</description>
+    </item>
+    
+    <item>
+      <title>Constance de Quatrebarbes</title>
+      <link>/personnes/constance-de-quatrebarbes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/constance-de-quatrebarbes/</guid>
+      <description>« Programmeuse indépendante, je suis militante libriste et data-artisan depuis une dizaine d&amp;rsquo;année. Après des études de littérature puis un Master en WebSciences, je me suis passionnée pour les systèmes de classification de l&amp;rsquo;information et par voie de conséquence pour la valorisation des données. Pythonniste enthousiaste et programmeuse autodidacte, j&amp;rsquo;ai formé plusieurs générations d&amp;rsquo;étudiants et de chercheurs au traitement des données avec Python, à la gestion de projet de recherche et à l&amp;rsquo;OpenScience.</description>
+    </item>
+    
+    <item>
+      <title>Coraline Gillard</title>
+      <link>/personnes/coraline-gillard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/coraline-gillard/</guid>
+      <description>« Diplômée en économie politique de l&amp;rsquo;Union Européenne et en politiques publiques, passionnée par l&amp;rsquo;économie des nouvelles technologies, je suis enchantée de rejoindre la direction interministérielle du numérique. Au Programme EIG, j&amp;rsquo;espère apporter mes compétences en évaluation des politiques publiques, ma connaissance des enjeux de la transformation numérique ainsi que les expériences humaines que j&amp;rsquo;ai acquises en Europe et en Asie. »</description>
+    </item>
+    
+    <item>
+      <title>Daouda Diallo</title>
+      <link>/personnes/daouda-diallo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/daouda-diallo/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Félix Veith</title>
+      <link>/personnes/felix-veith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/felix-veith/</guid>
+      <description>« Je suis ingénieur civil des Mines de Nancy engagé dans la lutte contre le dérèglement climatique et impliqué concrètement sur ces enjeux dans le monde professionnel et associatif. Je suis ravi de rejoindre la 5ème promotion d’EIG pour collaborer avec l’ADEME et le CSTB. Auparavant, j’étais data scientist chez Greenflex, majoritairement sur des problématiques d&amp;rsquo;efficacité énergétique et de décarbonation !
+Sur mon temps libre, j&amp;rsquo;anime bénévolement la Fresque du Climat pour sensibliser le plus grand nombre à ce sujet qui touche nos sociétés de façon systémique.</description>
+    </item>
+    
+    <item>
+      <title>Jérémie Letonnelier</title>
+      <link>/personnes/jeremie-letonnelier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/jeremie-letonnelier/</guid>
+      <description>Ingénieur de l&amp;rsquo;École des Mines de Nancy, j&amp;rsquo;ai eu une première expérience en start-up dans un environnement extrêmement stimulant avant d&amp;rsquo;aller travailler dans le conseil en Data Science, pour travailler sur des sujets de récupération, centralisation, et mise à disposition de la donnée.
+Sur mon temps libre, je me forme sur les sujets environnementaux pour mieux comprendre les enjeux et contraintes auxquels nous sommes confrontés, et quelles doivent être les décisions à prendre pour aller dans la bonne direction dès aujourd&amp;rsquo;hui.</description>
+    </item>
+    
+    <item>
+      <title>Léo Guillaume</title>
+      <link>/personnes/leo-guillaume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/leo-guillaume/</guid>
+      <description>Data engineer, je porte un intérêt particulier pour les sujets d’open data et de numérisation du service public. Au cours d’un cursus universitaire pluridisciplinaire alliant Data Science, Économie et Droit, et à travers mes experiences professionnelles en start-up et au sein d’institutions publiques, j’ai acquis une appétence tant pour l’action publique que pour l’entrepreneuriat. C’est fort de ce parcours et de l’envie de prendre part à la modernisation de l’administration française que j’ai décidé de mettre à profit mes compétences dans le cadre du défi Champollion porté par le Secrétariat général des ministères chargés des Affaires sociales.</description>
+    </item>
+    
+    <item>
+      <title>Maxime Pasquier</title>
+      <link>/personnes/maxime-pasquier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/maxime-pasquier/</guid>
+      <description>Maxime Pasquier est chef du service Bâtiment de l’ADEME. Il a été auparavant en charge de l’électromobilité au sein du service Transports et Mobilité de l’ADEME, ainsi qu’adjoint de ce service. Son poste précédent au pôle de compétitivité MTA puis MOVEO consistait à participer aux efforts de développement de la filière de l’éco-mobilité. Maxime Pasquier a également travaillé pour Argonne National Laboratory en tant que chef de la section en charge des évaluations véhicules et pour PSA Peugeot-Citroën sur la R&amp;amp;D du véhicule hybride.</description>
+    </item>
+    
+    <item>
+      <title>Paul Moysan</title>
+      <link>/personnes/paul-moysan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/paul-moysan/</guid>
+      <description>Après une formation en philosophie et en géopolitique, un séjour initiatique de trois ans dans le monde chinois et un petit détour par la didactique des langues, je suis entré dans celui de la lutte contre le cybercrime comme analyste dans un CERT privé.
+L’ecosystème du web se complexifiant, la donnée à traiter augmentant, j’ai appris à écrire, livrer, et déployer du code pour répondre à des besoins métier, puis, de fil en aiguille, suis devenu un développeur passionné à temps plein.</description>
+    </item>
+    
+    <item>
+      <title>Pengfei Liu</title>
+      <link>/personnes/pengfei-liu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/pengfei-liu/</guid>
+      <description>« Je suis un data engineer, passionné par ce métier et la data science. Après un cursus d’informatique à UPEC et une thèse d’informatique à INRIA, j’ai intégré le centre de calcul in2p3. J’ai travaillé sur un projet européen pour construire un cloud based platform qui peut héberger, partager et analyser les données biomédicales. En 2019, j’ai participé au projet Hypothèse pour construire un data lake qui peut réunir les données archéologiques de plusieurs instituts, rendre les données trouvables via un ou plusieurs thésaurus et directement analysables via interface web.</description>
+    </item>
+    
+    <item>
+      <title>Perrin Grandne</title>
+      <link>/personnes/perrin-grandne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/perrin-grandne/</guid>
+      <description>« Ingénieur de données depuis 8 ans pour le service public et dans le domaine de l&amp;rsquo;environnement. »</description>
+    </item>
+    
+    <item>
+      <title>Perrine Cribier-Delande</title>
+      <link>/personnes/perrin-grandne-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/perrin-grandne-1/</guid>
+      <description>« Après avoir mon obtenu mon doctorat en informatique à Sorbonne Université, j&amp;rsquo;ai décidé de quitter la recherche. Je suis heureuse de pouvoir aujourd&amp;rsquo;hui mettre mes compétences en apprentissage profond au service de l&amp;rsquo;intérêt général au sein du programme EIG. »</description>
+    </item>
+    
+    <item>
+      <title>Philippe Galvan</title>
+      <link>/personnes/philippe-galvan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/philippe-galvan/</guid>
+      <description>« Diplomé des Mines de Saint Etienne avec une spécialité en informatique et supply chain, je suis aujourd’hui spécialisé dans le développement backend (WEB et DATA) avec comme langage principal Python. Ayant eu la chance de commencer ma carrière par des expériences fonctionnelles telles que consultant AMOA, Chef de projet Logistique, Ingénieur bureau d’études, graduate programme sur site logisitique&amp;amp;transport ou consultant interne en innovation, j’aborde le développement de façon globale en commençant toujours par la question du “pourquoi” avant le “comment” dans un esprit UX.</description>
+    </item>
+    
+    <item>
+      <title>Romain Delassus</title>
+      <link>/personnes/romain-delassus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/romain-delassus/</guid>
+      <description>Romain Delassus est sous-directeur des systèmes d’information du ministère de la Culture. Il était auparavant responsable produit du pass Culture. Formé aux méthodes agiles et à la conduite de projet orienté usagers, il est par ailleurs en charge de préfigurer la création du nouveau service numérique transverse du ministère. Celui-ci inclura un laboratoire d’innovation numérique qui accueillera et accompagnera l’équipe projet constituée autour des EIG.</description>
+    </item>
+    
+    <item>
+      <title>Romuald Caumont</title>
+      <link>/personnes/romuald-caumont/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/romuald-caumont/</guid>
+      <description>Romuald Caumont, chef de projet au sein du service bâtiment de l’ADEME. Il a en charge les questions d’observation dans le bâtiment et plus particulièrement la gestion de l’observatoire des DPE. Il participe au pilotage du programme SARE, pour développer sur tout le territoire un service de conseil et d’accompagnement des particuliers et du petit tertiaire privé, pour les travaux de rénovation performante des bâtiments. Il a été auparavant, en direction régionale Centre-Val de Loire, en charge de l’accompagnement des collectivités sur les questions de transition énergétique et écologique, ainsi qu’en charge de l’animation du réseau régional FAIRE et du centre de ressources ENVIROBAT.</description>
+    </item>
+    
+    <item>
+      <title>Zhanna Santybayeva</title>
+      <link>/personnes/zhanna-santybayeva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/zhanna-santybayeva/</guid>
+      <description>Biophysicienne de formation, j’ai toujours été fascinée par l’impact que les données peuvent avoir. Je suis spécialisée en analyse et gestion de données avec différents langages de programmation et outils que j&amp;rsquo;ai appris de manière autodidacte. Après avoir travaillé au centre de recherche de Jülich en Allemagne et au CNRS, j’ai exploré le domaine géospatial en tant que développeuse fullstack.
+Je suis engagée bénévolement dans les associations Femmes &amp;amp; Sciences (la communication et les activités, notamment auprès des enfants) et Data For Good (projet Pyronear).</description>
+    </item>
+    
+  </channel>
+</rss>

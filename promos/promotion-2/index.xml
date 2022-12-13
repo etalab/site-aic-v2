@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Promotion 2 on Test Jamstack</title>
+    <link>/promos/promotion-2/</link>
+    <description>Recent content in Promotion 2 on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 26 Oct 2021 21:20:36 +0000</lastBuildDate><atom:link href="/promos/promotion-2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social Connect</title>
+      <link>/defis/social-connect/</link>
+      <pubDate>Tue, 26 Oct 2021 21:20:36 +0000</pubDate>
+      
+      <guid>/defis/social-connect/</guid>
+      <description>Démonstration Code source Connaissez-vous Part’âge Village ? Famileo ? Api bus ? Ce ne sont que trois parmi les dizaines de milliers d’initiatives présentes sur les territoires français. Ces innovations sociales répondent à de multiples problématiques allant de la santé, à l’environnement en passant par l’emploi. Pourtant, ces initiatives ne sont pas toutes bien connues du grand public… et souvent ne se connaissent pas entre elles !
+La mission de Social Connect : mettre en avant et en réseau les innovations sociales pour les faire connaître, les faire grandir, les encourager et les pérenniser.</description>
+    </item>
+    
+    <item>
+      <title>Signaux Faibles</title>
+      <link>/defis/signaux-faibles/</link>
+      <pubDate>Tue, 26 Oct 2021 21:15:37 +0000</pubDate>
+      
+      <guid>/defis/signaux-faibles/</guid>
+      <description>Code source En France, chaque année, 60 000 PME et ETI sont en situation de défaillance. Mais si leurs défaillances sont détectées à temps ce n’est pas une fatalité. La DIRECCTE Bourgogne Franche Comté, avec le soutien de la DGE et du ministère de l’Economie, cherche à développer un outil dans ce sens. Il doit croiser les données des administrations publiques sur la situation économique, financière et sociale des entreprises et les traiter statistiquement avec un algorithme qui déterminera une probabilité de défaillance à 12, 18 et 24 mois.</description>
+    </item>
+    
+    <item>
+      <title>Prévisecours</title>
+      <link>/defis/previsecours/</link>
+      <pubDate>Tue, 26 Oct 2021 21:04:27 +0000</pubDate>
+      
+      <guid>/defis/previsecours/</guid>
+      <description>Présentation du défi Code source En 2016, les sapeurs-pompiers ont effectué plus de 4 542 400 interventions. Chacune d’entre elles suppose la mise en œuvre d’une véritable logistique humaine et matérielle. Celle-ci est d’autant plus complexe que le volume d’interventions est volatile, les lieux variables, les horaires fluctuants…
+Comment aider les pompiers dans leurs interventions ? Grâce à la combinaison de données et du machine learning, Prévisecours aide à mieux anticiper les besoins RH et logistiques des interventions.</description>
+    </item>
+    
+    <item>
+      <title>PrédiSauvetage</title>
+      <link>/defis/predisauvetage/</link>
+      <pubDate>Tue, 26 Oct 2021 20:01:46 +0000</pubDate>
+      
+      <guid>/defis/predisauvetage/</guid>
+      <description>En 2016, 10 000 opérations de sauvetage pour 30 000 personnes ont été coordonnées via les Centres Régionaux Opérationnels de Surveillance et de Sauvetage (CROSS). Les CROSS, la Société nationale du sauvetage en mer (SNSM), tout comme de nombreux autres acteurs du sauvetage en mer, produisent des données relatives à leurs interventions et aux types d’accidentsdont le traitement permettrait d’améliorer laconnaissance de l’accidentologie en mer.
+La mission de Prédisauvetage : mettre l’analyse de données et les algorithmes prédictifs au service du sauvetage en mer.</description>
+    </item>
+    
+    <item>
+      <title>Lab Santé</title>
+      <link>/defis/lab-sante/</link>
+      <pubDate>Tue, 26 Oct 2021 19:56:54 +0000</pubDate>
+      
+      <guid>/defis/lab-sante/</guid>
+      <description>Grâce à la spécificité de sa couverture sociale, la France dispose de données de santé quasi-exhaustives, variées et régulièrement mises à jour. Afin d’en faciliter l’utilisation, elles ont été réunies au sein d’une base de données unique au monde : le système national des données de santé(SNDS). Celle-ci reste à exploiter.
+LabSanté, la preuve par l’exemple du potentiel des données de santé.
+Philéas, Julien et Samah ont deux missions. La première, accompagner la Direction de la recherche, des études, de l’évaluation et des statistiques (DRESS) du Ministère des solidarités et de la santé dans l’exploitation de ces données : structurer et harmoniser les données, former les agents à de nouveaux outils… La deuxième, explorer et analyser ces données au prisme de projets-pilotes qui mobilisent des techniques d’analyse statistique avancées comme le traitement naturel du langage, machine learning…</description>
+    </item>
+    
+    <item>
+      <title>Hopkins</title>
+      <link>/defis/hopkins/</link>
+      <pubDate>Tue, 26 Oct 2021 19:40:13 +0000</pubDate>
+      
+      <guid>/defis/hopkins/</guid>
+      <description>En 2015, l’économie souterraine représentait environ 12% du PIB de la France. Parallèlement, le volume de données textuelles et structurées exploitables connaissait –et connaît toujours- une croissance importante. Deux raisons qui ont poussé le Ministère de l’Action et des Comptes Publics à se doter d’outils expérimentaux d’analyse de données pour lutter dontre les circuits financiers clandestins, dans un cadre réglementé sur la base du droit d’en connaître.
+Avec Hopkins, l’État se donne les moyens de ses ambitions pour enrayer l’économie souterraine.</description>
+    </item>
+    
+    <item>
+      <title>Gobelins</title>
+      <link>/defis/gobelins/</link>
+      <pubDate>Tue, 26 Oct 2021 14:17:50 +0000</pubDate>
+      
+      <guid>/defis/gobelins/</guid>
+      <description>Démonstration Code source Le Mobilier national et ses manufactures créent, restaurent et conservent des meubles, tapisseries, œuvres… depuis le XVIIe siècle. Ces pièces exceptionnelles dessinées par Charles-André Boulle, Pierre Paulin ou encore Jean Nouvel sont principalement destinées à meubler des lieux publics. Elles sont donc difficilement consultables par les chercheurs, créateurs, historiens ou passionnés.
+Créer un outil didactique pour rendre accessibles ces objets historiques a été la volonté de l’équipe Gobelins.</description>
+    </item>
+    
+    <item>
+      <title>EIG2 Link</title>
+      <link>/defis/eig-link-2/</link>
+      <pubDate>Tue, 26 Oct 2021 14:11:01 +0000</pubDate>
+      
+      <guid>/defis/eig-link-2/</guid>
+      <description>Code source Qu’est-ce qu’un logiciel libre ? Comment mettre en place des tests unitaires ? Quel bibliothèque Javascript utiliser ? Comment trouver un référent Open Data dans son administration d’accueil ? Voici quelques unes des questions auxquelles l’EIG link a pour mission de répondre. Un mélange de connaissances techniques et administratives indispensable pour animer une promotion d’Entrepreneurs d’intérêt général aux expertises multiples et pour pérenniser les outils qu’ils auront développés au sein de leurs administrations.</description>
+    </item>
+    
+    <item>
+      <title>DataESR</title>
+      <link>/defis/dataesr/</link>
+      <pubDate>Tue, 26 Oct 2021 13:57:09 +0000</pubDate>
+      
+      <guid>/defis/dataesr/</guid>
+      <description>La recherche produit tous les jours des trésors de connaissance… et de données ! Des données, le Ministère de l’Enseignement Supérieur, de la Recherche et de l’Innovation en a donc en grande -très grande- quantité. Cependant, elles sont dispersées et ne partagent pas forcément des référentiels communs ce qui rend leur gestion, leur partage et leur utilisation par les citoyens très complexes.
+Aujourd’hui, la recherche se démocratise !
+Sami, Ambre et Maxime œuvrent à la médiation de ces données à travers une plateforme d’exposition et d’aide d’analyse des données pour l’ensemble des usagers, professionnels et grand public.</description>
+    </item>
+    
+    <item>
+      <title>CoachÉlèves</title>
+      <link>/defis/coacheleves/</link>
+      <pubDate>Thu, 14 Oct 2021 09:22:17 +0000</pubDate>
+      
+      <guid>/defis/coacheleves/</guid>
+      <description>Aujourd’hui, quelles que soient les difficultés –ou les ambitions !- d’un élève, celui-ci voit s’offrir à lui toute une gamme d’applications pédagogiques, de sites spécialisés et d’exercices en ligne ciblés. De plus, le suivi des élèves s’étant numérisé, notamment grâce aux Espaces numériques de travail (ENT), on ne compte plus le nombre de traces numériques qui pourraient se révéler utiles…
+CoachÉlèves ou comment mettre les données au service de l’accompagnement pédagogique des élèves.</description>
+    </item>
+    
+    <item>
+      <title>Brigade Numérique</title>
+      <link>/defis/brigade-numerique/</link>
+      <pubDate>Thu, 14 Oct 2021 08:42:11 +0000</pubDate>
+      
+      <guid>/defis/brigade-numerique/</guid>
+      <description>Code source La mission des gendarmes est complexe : assurer la sécurité dans les zones rurales et périurbaines où ils sont parfois loin des citoyens qu’ils servent. Or l’usage croissant de nouveaux modes de communication (réseaux sociaux et agents conversationnels) rend possible une nouvelle forme de « proximité numérique » avec les citoyens, complémentaire de l’accueil physique en gendarmerie.
+La gendarmerie se rapproche donc des Français et lance sa Brigade Numérique.</description>
+    </item>
+    
+    <item>
+      <title>b@liseNAV</title>
+      <link>/defis/b-lisenav/</link>
+      <pubDate>Thu, 14 Oct 2021 08:35:47 +0000</pubDate>
+      
+      <guid>/defis/b-lisenav/</guid>
+      <description>La mer, une grande étendue bleue capricieuse sur laquelle s’élancent tous les jours de grands navires et de frêles esquifs. Pour aider les capitaines, expérimentés ou pas, le Service hydrographique et océanographique de la Marine (Shom) basé à Brest met à disposition des cartes marines mises à jour avec les informations transmises par les services des phares et balises. Cependant, la transmission et l’intégration des données prennent parfois du temps et les cartes qui en résultent peuvent être difficiles à interpréter.</description>
+    </item>
+    
+    <item>
+      <title>Archifiltre</title>
+      <link>/defis/archifiltre/</link>
+      <pubDate>Thu, 14 Oct 2021 08:29:00 +0000</pubDate>
+      
+      <guid>/defis/archifiltre/</guid>
+      <description>Démonstration Code source Les archives sont comme un arbre : rassemblées en un endroit, elles ont de multiples ramifications qui mènent logiquement aux documents que l’on recherche. Dans ce monde d’arborescences, les archives des ministères sociaux constituent un enjeu de taille : tout (documents officiels, fiches, notes, mails…) doit être trié afin de conserver les documents à opposer en cas de réclamation. Or la multiplication des outils informatiques a contribué à la multiplication à la fois des données et des formats, rendant l’archivage encore plus compliqué.</description>
+    </item>
+    
+    <item>
+      <title>Adrien Signorino</title>
+      <link>/personnes/adrien-signorino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/adrien-signorino/</guid>
+      <description>“Je suis passionné depuis toujours par l’entrepreneuriat, les nouvelles technologies et la cartographie. C’est ce qui m’a conduit à étudier à l’école 42 et à HEC. Je suis également le co-fondateur de la start-up MonWagon, le GPS communautaire des transports en commun.”</description>
+    </item>
+    
+    <item>
+      <title>Ambre Arnaud</title>
+      <link>/personnes/ambre-arnaud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/ambre-arnaud/</guid>
+      <description>“Diplômée de l’Ecole Centrale Paris, avec une spécialité en informatique et systèmes embarqués, j’ai terminé ma formation en effectuant mon stage de fin d’études chez Theodo en tant que développeuse web. J’ai également profité d’une année de césure au cours de mes études pour gagner en expérience professionnelle en travaillant dans un grand groupe et dans une start-up à Hong-Kong et Londres. Intéressée par les problématiques de modernisation du secteur public, et notamment l’ouverture et l’exploitation des données, je relève le défi DataESR pour mettre mon expérience et mes connaissances mais aussi ma nature curieuse et combative au service d’une cause utile à la société.</description>
+    </item>
+    
+    <item>
+      <title>Anne Lambert</title>
+      <link>/personnes/anne-lambert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/anne-lambert/</guid>
+      <description>“J’ai rejoint le secrétariat général des ministères sociaux en juillet 2015. J’y pilote la politique d’archivage des ministères en charge du travail, de la santé et des sports. À ce titre, j’exerce également des missions de contrôle au nom des Archives de France (Ministère de la culture).”</description>
+    </item>
+    
+    <item>
+      <title>Antoine Augusti </title>
+      <link>/personnes/antoine-augusti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/antoine-augusti/</guid>
+      <description>« Je suis titulaire d’un diplôme d’ingénieur en architecture des systèmes d’information de l’INSA Rouen et d’un Master en machine learning de l’université de Rouen. J’ai participé lors de mes études à la création d’un opérateur et fournisseur d’accès à Internet, Quantic Télécom. Je contribue à des projets open source web ou data sur GitHub et j’interviens en tant qu’enseignant ou mentor technique. J’ai travaillé à Drivy (location de voitures entre particuliers) en qualité de Data Engineer où j’ai créé la plateforme data pour une place de marché leader en Europe comptant plusieurs millions d’utilisateurs.</description>
+    </item>
+    
+    <item>
+      <title>Arnaud Ménard</title>
+      <link>/personnes/arnaud-menard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/arnaud-menard/</guid>
+      <description>“Arnaud, 48 ans, entre Paris et Lorient, une fille de 22 ans.Rêvant design, diplômé en informatique, je travaille dans le secteur des serveurs connectés depuis 1993, avec suffisamment de voile pour avoir eu la chance de vivre un cap Horn. Depuis 2 ans, je porte un projet de promotion du nautisme et du tourisme via le cloud et l’IoT, swail.io, une startup basée à Lorient. Et donc aujourd’hui les EIG, un programme Etalab pour travailler sur un défi passionnant; dont j’ai cru comprendre que j’étais le doyen, quelle fierté!</description>
+    </item>
+    
+    <item>
+      <title>Arnaud Rachez</title>
+      <link>/personnes/arnaud-rachez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/arnaud-rachez/</guid>
+      <description>“J’ai débuté comme ingénieur spécialisé dans le traitement des langues sur le projet IBM Watson en 2013, puis j’ai rejoint Google en tant qu’analyste. Passionné par l’éducation et les langues, j’ai décidé ensuite d’aller étudier le japonais à Tokyo et fondé Linalgo, une startup utilisant le traitement des langues pour en faciliter l’apprentissage. Après un passage par la Corée et une incubation à Singapour, je suis revenu en France pour intégrer la promotion EIG2 et relever le défi lancé par l’Éducation nationale.</description>
+    </item>
+    
+    <item>
+      <title>Benoît Guigal</title>
+      <link>/personnes/benoit-guigal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/benoit-guigal/</guid>
+      <description>« Diplômé de l’école des Mines de Paris, j’effectue mon stage de fin d’étude en R&amp;amp;D au Ministère de la Défense puis je rejoins Captain Dash, une startup spécialisée en Business Intelligence en tant que data engineer. Je me lance ensuite dans une aventure entrepreneuriale et co-fonde Figure, un service de location de cabines photographiques connectées à une plateforme web communautaire. Enthousiasmé par le programme EIG, je travaille sur le défi Hopkins pour lutter contre la fraude financière et enrayer l’économie souterraine.</description>
+    </item>
+    
+    <item>
+      <title>Bénédicte Pachod</title>
+      <link>/personnes/benedicte-pachod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/benedicte-pachod/</guid>
+      <description>“Engagée dans l’exploration de réponses collectives pour le bien-être des habitants et un développement local durable, j’ai travaillé 4 ans au Ministère de la Transition écologique et solidaire suivant deux missions complémentaires : conduire des expérimentations relatives aux enjeux de gouvernance et de résilience et coordonner le re-design d’une politique publique nationale. J’ai par ailleurs été consultante free-lance et animatrice d’un réseau de collectivités et de partenaires en Ile-de-France. Arrivée en début d’année en tant que chargée de projet innovation publique au sein de la mission Animation scientifique et innovation du Commissariat général à l’égalité des territoires, je me suis concentrée sur des projets de soutien à l’essaimage d’innovations sociales, au service des territoires et d’une action publique optimisée.</description>
+    </item>
+    
+    <item>
+      <title>Chloé Moser</title>
+      <link>/personnes/chloe-moser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/chloe-moser/</guid>
+      <description>« J’ai rejoint le secrétariat général des ministères sociaux en novembre 2013 en tant qu’adjointe à la cheffe de la Mission des Archives de France auprès de ces ministères. Depuis 2016, je suis plus spécifiquement en charge des projets de gestion des données, documents et de l’archivage électronique. »</description>
+    </item>
+    
+    <item>
+      <title>Christophe Ninucci</title>
+      <link>/personnes/christophe-ninucci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/christophe-ninucci/</guid>
+      <description>« J’ai débuté ma carrière dans le domaine de l’industrie agroalimentaire comme administrateur système et réseau. Au cours de cette expérience marquée par la forte croissance du groupe et le développement de nouveaux outils informatiques, j’ai acquis des compétences en programmation et en base de données qui m’ont permis par la suite de développer des applications métiers centrées sur le calcul et le croisement de données dans le domaine de l’éclairage industriel et de l’assurance.</description>
+    </item>
+    
+    <item>
+      <title>Célia Deyzac</title>
+      <link>/personnes/celia-deyzac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/celia-deyzac/</guid>
+      <description>« Au cours de mes études en architecture et en design graphique à l’ESADHaR, j’ai tissé ma relation aux IHM en développant un intérêt spécifique pour le design comme medium de prospective, de discussion et de compréhension des effets sociaux des technologies. Je me suis passionnée alors pour la conception centrée utilisateur et l’innovation des usages en entrant au master Design d’Interactions du Pôle Supérieur de Design de Villefontaine. Motivée par l’intérêt général et les possibilités créatives des collaborations, j’ai rejoint la collectivité publique de la Métropole de Lyon pour concevoir des services numériques à destination des habitants, participé à des hackathons et poursuivis mon expérience en agence dans le secteur de la santé.</description>
+    </item>
+    
+    <item>
+      <title>David Panou</title>
+      <link>/personnes/david-panou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/david-panou/</guid>
+      <description>« Suite à des études d’ingénieur en apprentissage automatique (Arts et Métiers ParisTech - UPMC), j’ai travaillé au sein de laboratoires de recherche spécialisés en traitement du langage. Mes expériences au sein de starts-up aussi bien en France qu’aux États-Unis m’ont donné le sens de l’entreprenariat. J’ai décidé alors de mettre mes compétences au profit de l’intérêt général sur le défi du ministère de l’Éducation nationale. »</description>
+    </item>
+    
+    <item>
+      <title>Dora Crisan</title>
+      <link>/personnes/dora-crisan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/dora-crisan/</guid>
+      <description>« Je suis une techno-optimiste, convaincue que les nouvelles technologies peuvent avoir un fort impact positif sur l’individu comme sur la société. Passionnée par les transformations technologiques, je souhaite contribuer au développement et à la mise en œuvre de solutions digitales afin de rendre la vie des gens plus facile et plus fluide. Après un doctorat de physique dans le domaine des nanotechnologies, avec un travail de recherche portant sur des cellules solaires et des cellules de mémoire pour les disques durs (publication dans Nature Communications), j’ai mis en place une plateforme digitale et un système de gestion de portefeuilles de projets de R&amp;amp;D au sein d’une multinationale de l’énergie.</description>
+    </item>
+    
+    <item>
+      <title>Elsa Luneville</title>
+      <link>/personnes/elsa-luneville/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/elsa-luneville/</guid>
+      <description>« Je suis diplômée de l’IESEG d’un master en économie et je me suis spécialisée par la suite en data science en réalisant un master au sein du DataScienceTech Institute. Ma passion pour la valorisation des données et l’innovation m’ont conduite à évoluer dans des univers variés (start-up israélienne, conseil technologique, études marketing) sur des problématiques d’amélioration des processus ou de la stratégie grâce aux données. J’ai également contribué à sensibiliser mes collaborateurs aux bénéfices de la data science et souhaite aujourd’hui mettre au service du bien commun mes compétences et mes idées.</description>
+    </item>
+    
+    <item>
+      <title>Emmanuel Gautier</title>
+      <link>/personnes/emmanuel-gautier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/emmanuel-gautier/</guid>
+      <description>« Je suis né en France avec les ordinateurs personnels, les débuts du web et ses moteurs de recherche. J’ai grandi à Istanbul, La Haye puis Berne, avec les premiers ADSL, réseaux sociaux, Wikipédia et les smartphones. J’ai mûri, de nouveau en France, avec les objets connectés, l’explosion de la donnée et de l’intelligence artificielle.
+À 23 ans, maintenant ingénieur et data scientist, je suis convaincu que le numérique, utilisé à bon escient, peut créer du bien commun.</description>
+    </item>
+    
+    <item>
+      <title>Emmanuel Weisenburger </title>
+      <link>/personnes/emmanuel-weisenburger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/emmanuel-weisenburger/</guid>
+      <description>« Avec Yann Caradec je co-anime le département des outils d’aide à la décision au ministère de l’Enseignement Supérieur, de la Recherche et de l’Innovation. Cette structure d’une dizaine de personnes est en charge de l’ouverture des données. Elle conduit des projets data-centrés comme scanR, moteur de la recherche et de l’innovation (prix Opendata Territorial 2016 de la Gazette des Communes) ou encore la Magical Laundry (projet EIG 2017). »</description>
+    </item>
+    
+    <item>
+      <title>François Bocquet </title>
+      <link>/personnes/francois-bocquet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/francois-bocquet/</guid>
+      <description>« Je travaille depuis 4 ans à la Direction du numérique pour l’éducation du Ministère de l’Éducation nationale. Auparavant, j’ai été pendant 9 ans ingénieur de recherche projet e-learning (Grenoble Universités et Lyon 1) et pendant 6 ans professeur des universités associé en sciences de l’éducation (Lyon 2). Je dispose d’une expérience de consultant auprès de collectivités, de groupements universitaires et d’entreprises. J’accompagne des projets numériques d’envergure dans le système scolaire depuis 1993.</description>
+    </item>
+    
+    <item>
+      <title>Guillaume Lancrenon</title>
+      <link>/personnes/guillaume-lancrenon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/guillaume-lancrenon/</guid>
+      <description>« J’ai débuté comme ingénieur d’exploration sismique chez Westerngeco. Un passage par l’entreprenariat m’a permis de réaliser (et de vendre 3 ans plus tard) CommoPrices, startup spécialisée dans le suivi du cours des matières premières.
+Ensuite, j’ai rejoint le programme EIG pour mettre mes compétences au service des pompiers et approfondir ma connaissance de l’intelligence artificielle. Depuis 2019, je développe Piaf - une plateforme de datasets en français pour entraîner des IA francophones - au sein d’Etalab.</description>
+    </item>
+    
+    <item>
+      <title>Hélène Cavalié</title>
+      <link>/personnes/helene-cavalie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/helene-cavalie/</guid>
+      <description>« Je suis chartiste et conservateur du Patrimoine. Depuis 2015, je suis responsable du service des Archives, bibliothèque, documentation et photos du Mobilier national. Impliquée dans la mise en ligne des données (en masse pour l’ouverture du portail européen des Archives, ciblée dans des éditions collaboratives de manuscrits sur Wikisource), je suis le mentor opérationnel des entrepreneurs d’intérêt général du déif Gobelins. »</description>
+    </item>
+    
+    <item>
+      <title>Jean-Baptiste Assouad </title>
+      <link>/personnes/jean-baptiste-assouad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/jean-baptiste-assouad/</guid>
+      <description>« Après avoir obtenu mon diplôme d’ingénieur en robotique de l’École Polytechnique Universitaire de la Sorbonne, j’ai travaillé pendant 1 an et demi pour une jeune startup belge, Quimesis. Je suis ensuite parti travailler sur mon propre projet entrepreneurial, une application web de conception assistée par ordinateur, pendant 1 an. J’ai rejoint le projet ArchiFiltre pour apporter toutes mes compétences et expériences. »</description>
+    </item>
+    
+    <item>
+      <title>Jean-Baptiste Le Dévéhat</title>
+      <link>/personnes/jean-baptiste-le-devehat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/jean-baptiste-le-devehat/</guid>
+      <description>« À l’image de mon expertise en progiciel, je suis un couteau-suisse et un entrepreneur de la transformation numérique. Après 7 années de gestion de projets web, pour l’industrie, le service et la distribution, j’ai créé la marque Transitionum en transition numérique. Aujourd’hui, je propose des méthodes et des outils durables, où les utilisateurs sont en capacité d’élaborer leurs solutions, offrant ainsi un cadre à l’innovation sociale et l’intérêt général. Permaculteur et engagé dans les villes en transition, je m’engage dans de nombreux réseaux civiques, associatifs, locaux et des “communs”.</description>
+    </item>
+    
+    <item>
+      <title>Julien Naour</title>
+      <link>/personnes/julien-naour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/julien-naour/</guid>
+      <description>« Je suis data scientist spécialisé en Big Data et couteau suisse touche-à-tout avant tout. J’ai d’abord travaillé dans un laboratoire de recherche à Thales en touchant à des sujets autour de la donnée comme la cybersécurité, les réseaux de transport urbain ou les réseaux sociaux. Je suis ensuite allé chez Influans, une startup spécialisée dans le marketing digital. Après cela, j’ai fait un voyage de plusieurs mois, essentiellement au Népal et en Inde.</description>
+    </item>
+    
+    <item>
+      <title>Julien Paris</title>
+      <link>/personnes/julien-paris/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/julien-paris/</guid>
+      <description>« Après une formation d’architecte DPLG (Lyon puis Paris-La Villette), un Master pro « gestion de projets culturels dans l’espace public » à Paris 1, j’ai travaillé pour le service culturel de l’Ambassade d’Espagne au Mexique, de l’Ambassade de France en Égypte, et en tant que chercheur en sciences sociales en Turquie. Je me suis découvert en autodidacte et sur le tard une passion pour le code, et me suis alors reconverti comme développeur indépendant.</description>
+    </item>
+    
+    <item>
+      <title>Jérôme Poulain</title>
+      <link>/personnes/jerome-poulain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/jerome-poulain/</guid>
+      <description>Jérôme Poulain est diplômé à la fois d’une maîtrise de droit public, d’une maîtrise d’histoire de l’art et de l’Ecole nationale supérieur de l’administration. En 2010, il intègre le Ministère de la Culture en tant que chef du bureau des enseignements de l’Architecture. Depuis octobre 2013, il est secrétaire général du Mobilier National et des manufactures nationales des Gobelins, de Beauvais et de la Savonnerie. A ce titre, il a joué le rôle de mentor de haut niveau pour le défi Gobelins.</description>
+    </item>
+    
+    <item>
+      <title>Laurence Matringe</title>
+      <link>/personnes/laurence-matringe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/laurence-matringe/</guid>
+      <description>« Je suis chargée de mission transformation numérique et adjointe à la sous-directrice « activités maritimes » au sein de la direction des affaires maritimes du Ministère de la Transition écologique et solidaire.
+J’ai participé en équipe à plusieurs hackathons publics (Cour des Comptes, Ministère des affaires étrangères) et remporté celui sur la biodiversité organisé par le ministère de la Transition écologique avec le projet Invasiv’alerte. À ce titre je participe au réseau Greentech des start-up dont les projets innovants concourent à la transition écologique.</description>
+    </item>
+    
+    <item>
+      <title>Laurie Chapotte</title>
+      <link>/personnes/laurie-chapotte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/laurie-chapotte/</guid>
+      <description>« Designer de service, je travaille avec les institutions publiques afin d’imaginer leurs services et futurs outils. J’ai commencé dans le laboratoire de recherche « identités complexes » afin de rendre plus compréhensible et lisible les institutions, en 2018 j’intègre le programme Entrepreneurs d’Intérêt Général pour le Mobilier national et rejoins ensuite l’Atelier numérique ; incubateur du ministère de la Culture. J’utilise mes formations de designer pour identifier les besoins, imaginer l’expérience utilisateur et concrétiser ces outils avec les contraintes du terrain.</description>
+    </item>
+    
+    <item>
+      <title>Marielle Chrisment</title>
+      <link>/personnes/marielle-chrisment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/marielle-chrisment/</guid>
+      <description>« Officier de gendarmerie, ingénieure et titulaire d’un executive MBA HEC, j’ai rejoint la Mission numérique de la gendarmerie nationale au printemps 2017 après avoir servi notamment en compagnie de gendarmerie départementale et au service d’informations et de relations publiques des armées - gendarmerie. »</description>
+    </item>
+    
+    <item>
+      <title>Maxime Pierrot </title>
+      <link>/personnes/maxime-pierrot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/maxime-pierrot/</guid>
+      <description>« Entrepreneur et développeur, j’adore les nouveaux challenges. J’ai créé Gastronomiz, la première food box en France en 2012. Nous avons envoyé 50 000 box en 2 ans. La société a été revendue en 2015. J’ai été développeur backend-end, spécialisé en API, pour différentes startups en France et en Australie. »</description>
+    </item>
+    
+    <item>
+      <title>Ned Baldessin </title>
+      <link>/personnes/ned-baldessin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/ned-baldessin/</guid>
+      <description>« Je suis développeur web depuis une quinzaine d’années. J’aime travailler à tous les niveaux du stack : l’architecture système, le développement d’applications ou encore le développement d’interface. Parmi mes principaux clients se trouvent Madame Figaro, Paris Photo, Hyper Island, La Martinière Groupe, UNESCO, Virgin Mobile, Doha Film Institute, Facebook, Google, Style.com et l’Opéra national de Paris.
+Ayant grandi avec le web du milieu des années 90, je suis totalement autodidacte.</description>
+    </item>
+    
+    <item>
+      <title>Paul Boosz</title>
+      <link>/personnes/paul-boosz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/paul-boosz/</guid>
+      <description>« Je suis ingénieur des Ponts et Chaussées et diplômé d’un master d’apprentissage automatique de l’université Paris-Saclay. J’ai été parmi les premiers data scientists de Shift Technology, une startup spécialisée dans la détection de fraude à l’assurance. »</description>
+    </item>
+    
+    <item>
+      <title>Pierre Camilleri</title>
+      <link>/personnes/pierre-camilleri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/pierre-camilleri/</guid>
+      <description>« Après avoir obtenu un diplôme de l’École polytechnique, j’ai effectué une année à l’École nationale des Ponts et chaussées en spécialité Transport, en parallèle du Master Recherche « Transport et Mobilité » de l’Université Paris-Est. J’ai intégré le département Recherche de Renault pour mon stage de fin d’études, où j’ai poursuivi avec une thèse CIFRE, dans laquelle j’ai mené une analyse prospective du marché du véhicule utilitaire électrique. »</description>
+    </item>
+    
+    <item>
+      <title>Renaud Périn</title>
+      <link>/personnes/renaud-perin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/renaud-perin/</guid>
+      <description>« Je suis chargé de mission sécurité des navires et analyse accident à la mission de la navigation de plaisance de la direction des affaires maritimes. Je suis spécialisé en prévention des risques pour la filière du nautisme. J’anime l’observatoire du SNOSAN qui regroupe en interministériel les administrations en charge du sauvetage maritime. »</description>
+    </item>
+    
+    <item>
+      <title>Rémy Nollet</title>
+      <link>/personnes/remy-nollet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/remy-nollet/</guid>
+      <description>« Ingénieur issu de l’école Polytechnique et après avoir effectué un stage de recherche à l’université de Berkeley, j’ai choisi de devenir officier de gendarmerie en 2005. Optant pour une dominante de carrière en sécurité publique générale, j’ai commandé durant 3 ans la brigade territoriale de Blanquefort (compagnie de Bordeaux). Pour mon premier passage en état-major, j’ai servi à la sous-direction administrative et financière de la DGGN, chargée des réponses aux contrôles de la Cour des comptes.</description>
+    </item>
+    
+    <item>
+      <title>Samah Ghalloussi</title>
+      <link>/personnes/samah-ghalloussi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/samah-ghalloussi/</guid>
+      <description>« Je suis ingénieure spécialisée en Technologies de l’information pour la Santé. J’ai d’abord travaillé pendant 3 ans en tant qu’ingénieur-chercheur au Commissariat à l’Energie Atomique (CEA) dans le Laboratoire de Vision et d’Ingénierie des Contenus (LVIC). J’y ai contribué à plusieurs projets concernant l’apprentissage automatique supervisé et non-supervisé ainsi que la création d’agents conversationnels (chatbots).
+J’ai ensuite rejoint la start-up Stryng Messaging Inc en Juin 2017 afin d’ajouter de l’intelligence artificielle à cette nouvelle application de messagerie dédiée aux professionnels</description>
+    </item>
+    
+    <item>
+      <title>Sami Moustachir </title>
+      <link>/personnes/sami-moustachir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/sami-moustachir/</guid>
+      <description>« J’ai découvert le monde de l’entrepreneuriat en 2015 où j’ai aidé des entrepreneurs dans le lancement de leur produit dans le cadre du programme d’un accélérateur américain. Ingénieur civil de l’école des mines de Nancy, je me suis spécialisé dans la science des données et ai terminé mes études en explorant les techniques de traitement automatique du langage naturel pour une startup parisienne. »</description>
+    </item>
+    
+    <item>
+      <title>Stéphanie Schaer</title>
+      <link>/personnes/stephanie-schaer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/stephanie-schaer/</guid>
+      <description>« Ingénieure de formation, j’ai été nommée en avril 2014 Commissaire au redressement productif. J’accompagne au quotidien sur les territoires de la région Bourgogne Franche-Comté les entreprises en difficulté. Avec l’appui des partenaires locaux tant publics que privés, j’aide ainsi les entreprises à rebondir et à préserver leurs emplois. »</description>
+    </item>
+    
+    <item>
+      <title>Tiphaine Phe-Neau</title>
+      <link>/personnes/tiphaine-phe-neau-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/tiphaine-phe-neau-1/</guid>
+      <description>« Je suis titulaire d’un doctorat en informatique de l’Université Pierre et Marie Curie. Après mes études, j’ai voulu utiliser mes capacités d’abstraction, d’observation et de réalisation pour m’attaquer à de nouvelles problématiques en tant que data scientist. J’ai travaillé dans des entreprises telles que Dailymotion, Clustree ou des entreprises de conseil sur une grande variété de sujets. En tant que data scientist, j’apprécie combiner les connaissances métiers avec les aspects techniques pour obtenir des solutions efficaces et réalistes.</description>
+    </item>
+    
+    <item>
+      <title>Victor Schmidt</title>
+      <link>/personnes/victor-schmidt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/victor-schmidt/</guid>
+      <description>«Récemment diplômé de l’École polytechnique et du University College London en Machine Learning, j’ai travaillé auparavant 1 an dans une entreprise de l’IoT. Je suis curieux, voyageur (j’ai voyagé en Asie pendant 6 mois notamment) et je m’intéresse particulièrement aux médias (metada.org). Entrepreneurs d’Intérêt Général a pour moi été une opportunité aussi unique et extraordinaire qu’enrichissante. C’est l’occasion de travailler au sein d’administrations volontaires et motivées, encadrés par une équipe d’Etalab aux petits soins et compétente.</description>
+    </item>
+    
+    <item>
+      <title>Yann Caradec</title>
+      <link>/personnes/yann-caradec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/yann-caradec/</guid>
+      <description>« Avec Emmanuel Weisenburger je co-anime le département des outils d’aide à la décision au ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation. Cette structure d’une dizaine de personnes est en charge de l’ouverture des données. Elle conduit des projets data-centrés comme scanR, moteur de la recherche et de l’innovation (prix Opendata Territorial 2016 de la Gazette des Communes) ou encore la Machine à données (projet EIG 2017). »</description>
+    </item>
+    
+    <item>
+      <title>Élise Lalique</title>
+      <link>/personnes/elise-lalique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/elise-lalique/</guid>
+      <description>« Diplômée d’un Master en Design, Innovation, Société à l’université de Nîmes, je me suis beaucoup intéressée aux problématiques du vieillissement et de la santé. J’ai travaillé un an avec Erasme, laboratoire d’innovation ouverte de la Métropole de Lyon, sur le projet Host/Idolink, un réseau social de proximité pour les personnes âgées. J’ai ensuite rejoint en 2016 l’équipe de PwC Experience Center en tant qu’UX designer. »</description>
+    </item>
+    
+    <item>
+      <title>Éric Le Guen</title>
+      <link>/personnes/eric-le-guen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/eric-le-guen/</guid>
+      <description>« Depuis 2015, je suis le référent de l’infrastructure de données géographiques du Shom au sein du département de géomatique que je dirige depuis 2017. Auparavant, j’ai passé de nombreuses années en tant qu’ingénieur au département de cartographie où j’ai occupé différents postes tant en conception, production et mise à jour de cartes marines – papier et électronique (ENC) – qu’en expertise sur les systèmes de production. »</description>
+    </item>
+    
+  </channel>
+</rss>

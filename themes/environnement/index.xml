@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environnement on Test Jamstack</title>
+    <link>/themes/environnement/</link>
+    <description>Recent content in Environnement on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 26 Oct 2021 21:04:27 +0000</lastBuildDate><atom:link href="/themes/environnement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prévisecours</title>
+      <link>/defis/previsecours/</link>
+      <pubDate>Tue, 26 Oct 2021 21:04:27 +0000</pubDate>
+      
+      <guid>/defis/previsecours/</guid>
+      <description>Présentation du défi Code source En 2016, les sapeurs-pompiers ont effectué plus de 4 542 400 interventions. Chacune d’entre elles suppose la mise en œuvre d’une véritable logistique humaine et matérielle. Celle-ci est d’autant plus complexe que le volume d’interventions est volatile, les lieux variables, les horaires fluctuants…
+Comment aider les pompiers dans leurs interventions ? Grâce à la combinaison de données et du machine learning, Prévisecours aide à mieux anticiper les besoins RH et logistiques des interventions.</description>
+    </item>
+    
+    <item>
+      <title>Vigicr’UX</title>
+      <link>/defis/vigicrux/</link>
+      <pubDate>Tue, 26 Oct 2021 13:19:07 +0000</pubDate>
+      
+      <guid>/defis/vigicrux/</guid>
+      <description>La problématique Le site Vigicrues s’adresse en premier lieu au grand public. Il permet d’informer les citoyens sur l’état des cours d’eau avec des niveaux de vigilance crue. Il est également un outil de référence pour les personnes intervenant dans la gestion de crises à différents niveaux (préfectures, communes, opérateurs, SDIS …) pour suivre l’évolution des crues et coordonner les mesures à prendre en conséquence. Peu utilisé par temps calme, il se trouve très sollicité lorsqu’un événement se produit.</description>
+    </item>
+    
+    <item>
+      <title>Sequoia CGDD</title>
+      <link>/defis/sequoia-cgdd/</link>
+      <pubDate>Tue, 26 Oct 2021 12:22:55 +0000</pubDate>
+      
+      <guid>/defis/sequoia-cgdd/</guid>
+      <description>La problématique, rationaliser pour mieux sensibiliser/informer. Actuellement, 65% des français se déclarent intéressés par une information fiable et « officielle » sur les sujets liés à l’environnement et au développement durable (Etude Nov. 2019 Cocedal - CGDD). Or, La présence en ligne des acteurs publics sur ces sujets est éclatée entre des dizaines de sites, pour la plupart méconnus. Le Commissariat Général au Développement Durable (CGDD), qui produit de l’information, a vocation à alimenter le dialogue environnemental entre l’Etat et ses citoyens.</description>
+    </item>
+    
+    <item>
+      <title>Maritux</title>
+      <link>/defis/maritux/</link>
+      <pubDate>Tue, 26 Oct 2021 09:18:47 +0000</pubDate>
+      
+      <guid>/defis/maritux/</guid>
+      <description>La problématique Le Service hydrographique et océanographique de la Marine (Shom) a pour mission de connaître et décrire l’environnement physique marin et de prévoir son évolution. Dans le cadre de cette mission, il propose un certain nombre de produits et de services qu’il diffuse sur trois portails différents : diffusion.shom.fr, data.shom.fr et maree.shom.fr. Or les retours utilisateurs montrent une difficulté à naviguer dans les portails et à comprendre leurs logiques propres.</description>
+    </item>
+    
+    <item>
+      <title>INPN Espaces</title>
+      <link>/defis/inpn-espaces/</link>
+      <pubDate>Tue, 26 Oct 2021 09:13:15 +0000</pubDate>
+      
+      <guid>/defis/inpn-espaces/</guid>
+      <description>La problématique Aujourd’hui, près de 25 000 espaces naturels sur tous les territoires français (terre, mer, outre-mer) sont identifiés comme espaces à enjeux pour la biodiversité (statuts de protection, réglementation, conservation…) et documentés sans que le citoyen le sache toujours. Or il y a un enjeu particulier à ce que le citoyen soit au cœur des politiques de conservation et qu’il prenne conscience qu’un espace naturel existe toujours à quelques kilomètres de chez lui.</description>
+    </item>
+    
+    <item>
+      <title>ArtificIA</title>
+      <link>/defis/artificia/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/artificia/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse L&amp;rsquo;IGN, le facilitateur de la création de « géocommuns » L’Institut national de l’information géographique et forestière (IGN) est un établissement public à caractère administratif placé sous la tutelle des ministères chargés de l’écologie et de la forêt. Sa vocation est de produire et diffuser des données (open data) et des représentations (cartes en ligne et papier, géovisualisation) de référence relatives à la connaissance du territoire national et des forêts françaises ainsi qu&amp;rsquo;à leur évolution.</description>
+    </item>
+    
+    <item>
+      <title>Ecosphère(s)</title>
+      <link>/defis/ecospheres/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/ecospheres/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse Le CGDD, la promotion du développement durable dans les politiques publiques Le Commissariat général au développement durable (CGDD) éclaire et alimente, par la production de données et de connaissances, l’action du ministère de la Transition écologique. Il pilote notamment le dialogue environnemental à travers le conseil national de la transition écologique. Il s’appuie sur six structures et un « laboratoire d&amp;rsquo;idées », s’inscrivant dans un contexte d’action marqué notamment par la transition numérique, l’ouverture des données et le rôle croissant de la société civile.</description>
+    </item>
+    
+    <item>
+      <title>Etat bas carbone</title>
+      <link>/defis/etat-bas-carbone/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/etat-bas-carbone/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse Le CGDD, la promotion du développement durable dans les politiques publiques Rattaché au Ministère de la Transition Ecologique, le CGDD pilote le dialogue environnemental sur les choix et priorités politiques du ministère et assure la trajectoire globale de l&amp;rsquo;Etat sur les questions de développement durable. Il est notamment en charge de la mise en œuvre et de la coordination du dispositif « Services publics écoresponsables » qui est un socle de 20 mesures incarnant la trajectoire écologique au quotidien pour les services publics et les agents.</description>
+    </item>
+    
+  </channel>
+</rss>

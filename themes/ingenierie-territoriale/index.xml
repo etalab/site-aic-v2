@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ingénierie territoriale on Test Jamstack</title>
+    <link>/themes/ingenierie-territoriale/</link>
+    <description>Recent content in Ingénierie territoriale on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 01 Jan 1970 00:33:42 +0000</lastBuildDate><atom:link href="/themes/ingenierie-territoriale/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SOS Ponts</title>
+      <link>/defis/sos-ponts/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/sos-ponts/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse Cerema, l&amp;rsquo;expertise publique pour la transition écologique et la cohésion des territoires Le Cerema est l’établissement de référence dans les domaines de l’expertise et de l’ingénierie publique pour accompagner les territoires dans leurs missions d’adaptation aux changements climatiques. Il assiste l&amp;rsquo;État, les collectivités territoriales et les entreprises pour les conduire vers une stratégie d&amp;rsquo;aménagement durable (bâtiments, infrastructures, environnement …).
+La problématique identifiée Les maires ne disposent pas d&amp;rsquo;informations suffisamment accessibles et complètes pour mener à bien des politiques d&amp;rsquo;entretien et de réparation des ponts de leurs communes Entretenir et réparer les ponts relève du casse-tête pour les maires des communes en déficit d’ingénierie : comment s’y prendre ?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recrutement on Test Jamstack</title>
+    <link>/categories/recrutement/</link>
+    <description>Recent content in Recrutement on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 01 Sep 2022 11:18:38 +0000</lastBuildDate><atom:link href="/categories/recrutement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entrepreneurs d’intérêt général : découvrez la 6ème promotion du programme !</title>
+      <link>/blog/entrepreneurs-dinteret-general-decouvrez-la-6eme-promotion-du-programme/</link>
+      <pubDate>Thu, 01 Sep 2022 11:18:38 +0000</pubDate>
+      
+      <guid>/blog/entrepreneurs-dinteret-general-decouvrez-la-6eme-promotion-du-programme/</guid>
+      <description>Développeuses, développeurs, data scientists, data engineers et designers… ils et elles seront 34 à rejoindre les rangs de l’administration française en septembre prochain. 34 « Entrepreneurs d’intérêt général », issus des secteurs public ou privé, jeunes et moins jeunes, aux expertises diverses dans la tech et le design. Derrière ces horizons pluriels, un désir commun de s’engager pour l’intérêt général et d’œuvrer pour la transformation numérique des administrations.
+Pendant 10 mois, les EIG vont concevoir et déployer des outils numériques en réponse à des défis identifiés par des agents publics, sur des thèmes aussi variés que la santé, l’environnement ou les affaires sociales.</description>
+    </item>
+    
+    <item>
+      <title> Qui sont et que font les « entrepreneurs d’intérêt général » ?</title>
+      <link>/blog/etre-eig/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/etre-eig/</guid>
+      <description>Chaque année, le programme Entrepreneurs d’Intérêt Général lance un appel à candidatures pour recruter des spécialistes du numérique qui améliorent le service public à l’aide du numérique et des données. Une fois sélectionnés, ces spécialistes deviennent entrepreneurs et entrepreneuses d’intérêt général. Mais qu’est-ce que cela veut dire, concrètement ?
+Voici tout ce que vous devez savoir sur le statut des EIG et la posture entrepreneuriale qui leur est demandée. Et pour plus de concret, découvrez les retours d’expériences d’anciennes et anciens EIG !</description>
+    </item>
+    
+    <item>
+      <title>[OFFRE POURVUE] Rejoignez l&#39;équipe Entrepreneurs d&#39;Intérêt Général à Etalab : offre d&#39;emploi « Chargé de mission coordination et accompagnement du programme EIG (F/H) »</title>
+      <link>/blog/offre-emploi-charge-mission-coordination-accompagnement-eig/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/offre-emploi-charge-mission-coordination-accompagnement-eig/</guid>
+      <description>Offre d’emploi “Chargé de mission coordination et accompagnement du programme Entrepreneurs d’Intérêt Général (F/H)” Cette offre a été pourvue.
+Le principe du programme EIG : intégrer pour 10 mois des professionnel·les du numérique (data science, développement, design) dans l’administration, pour travailler en équipe et avec des agents des administrations d’accueil sur des projets en lien avec le numérique et les données. Les projets de la 4e promotion, qui commencera en septembre 2020, touchent à des domaines variés : la transition écologique, la gestion de crise, la santé, la culture, etc.</description>
+    </item>
+    
+    <item>
+      <title>Rejoins l&#39;équipe Entrepreneurs d&#39;Intérêt Général à Etalab : offre de stage « Chargé(e) de mission pour le programme EIG »</title>
+      <link>/blog/offre-stage-2019/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/offre-stage-2019/</guid>
+      <description>Offre de stage « Chargé(e) de mission pour le programme Entrepreneurs d’Intérêt Général» Qu’est-ce qu&#39;Entrepreneurs d’Intérêt Général (EIG) ? C’est un programme qui permet à des spécialistes en data science, développement ou design d’intégrer l’administration pour 10 mois. Par équipes de 2 ou 3, ces spécialistes travaillent avec des agents des administrations d’accueil sur des projets d’amélioration du service public à l’aide du numérique et des données. A titre d’exemple, les défis de la 3ème promotion touchaient à des sujets aussi variés que l’intégration des réfugiés, la promotion de l’agriculture biologique, le contrôle des navires, la simplification de l’accès au droit, etc.</description>
+    </item>
+    
+    <item>
+      <title>Rejoins l&#39;équipe Entrepreneur·e d&#39;Intérêt Général à Etalab : offre de stage « Appui à la coordination du programme EIG »</title>
+      <link>/blog/offre-stage-2018/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/offre-stage-2018/</guid>
+      <description>Offre de stage « Appui à la coordination du programme EIG » Le principe du programme EIG ? Intégrer pour 10 mois des professionnel·les du numérique (datascience, développement, design) dans l’administration, pour travailler en équipe et avec des agents des administrations d’accueil sur des projets en lien avec le numérique et les données. Les projets de la 3e promotion, qui commencera en janvier 2019, touchent à des domaines aussi variés que les réfugiés, l’agriculture biologique, le contrôle des navires, la simplification de l’accès au droit, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

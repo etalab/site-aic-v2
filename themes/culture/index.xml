@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Culture on Test Jamstack</title>
+    <link>/themes/culture/</link>
+    <description>Recent content in Culture on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 27 Oct 2021 13:56:21 +0000</lastBuildDate><atom:link href="/themes/culture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MCC - Inventaire des orgues</title>
+      <link>/defis/mcc-inventaire-des-orgues/</link>
+      <pubDate>Wed, 27 Oct 2021 13:56:21 +0000</pubDate>
+      
+      <guid>/defis/mcc-inventaire-des-orgues/</guid>
+      <description>Démonstration Code source Dissimulés dans de petites églises de village, mis en valeur dans de célèbres cathédrales gothiques, exposés dans de petites ou grandes collections… les orgues. Instruments de musique, mais aussi objets d’art, ils fédèrent une communauté de passionnés aux connaissances très vastes et complètes. Organistes, historiens de l’art, membres d’associations des amis des orgues : tous souhaitent valoriser ce patrimoine caché.
+Révéler et valoriser le patrimoine des orgues grâce à une approche collaborative.</description>
+    </item>
+    
+    <item>
+      <title>BNF - catalogage</title>
+      <link>/defis/bnf-catalogage/</link>
+      <pubDate>Wed, 27 Oct 2021 13:45:53 +0000</pubDate>
+      
+      <guid>/defis/bnf-catalogage/</guid>
+      <description>La Bibliothèque nationale de France, c’est une collection de plus de 15 millions d’ouvrages qui s’accroît de 670 000 nouveaux livres par an. Un trésor pour la France, mais un véritable casse-tête pour les catalogueurs qui doivent régulièrement mettre à jour leurs bases de données et diffuser des ressources difficiles à indexer aux institutions partenaires.
+Utiliser les métadonnées pour mieux cataloguer et mieux valoriser notre patrimoine papier.
+Les métadonnées sont des données qui servent à décrire une ressource : date de création, auteur, thème… L’objectif initial du défi était de développer un outil permettant de traiter les métadonnées massives et complexes de la BnF.</description>
+    </item>
+    
+    <item>
+      <title>Gobelins</title>
+      <link>/defis/gobelins/</link>
+      <pubDate>Tue, 26 Oct 2021 14:17:50 +0000</pubDate>
+      
+      <guid>/defis/gobelins/</guid>
+      <description>Démonstration Code source Le Mobilier national et ses manufactures créent, restaurent et conservent des meubles, tapisseries, œuvres… depuis le XVIIe siècle. Ces pièces exceptionnelles dessinées par Charles-André Boulle, Pierre Paulin ou encore Jean Nouvel sont principalement destinées à meubler des lieux publics. Elles sont donc difficilement consultables par les chercheurs, créateurs, historiens ou passionnés.
+Créer un outil didactique pour rendre accessibles ces objets historiques a été la volonté de l’équipe Gobelins.</description>
+    </item>
+    
+    <item>
+      <title>Atlas Culture</title>
+      <link>/defis/atlas-culture/</link>
+      <pubDate>Wed, 22 Sep 2021 14:40:18 +0000</pubDate>
+      
+      <guid>/defis/atlas-culture/</guid>
+      <description>L’Atlas Culture, c’est depuis 2017 une publication de 250 pages réalisée par le Département des études, de la prospective, des statistiques (Deps) du ministère de la Culture afin d’offrir une vision globale des dynamiques culturelles à l’échelle régionale.
+L’initiative de développer un atlas numérique interactif répond à plusieurs objectifs :
+  Enrichir le jeu de données présentées, disponibles de l&amp;rsquo;échelon national à l&amp;rsquo;ensemble des échelons territoriaux pour permettre la comparabilité Améliorer la lisibilité des données grâce à la visualisation (carte, graphiques, tableaux) et aux éléments de définition et d’analyse Permettre le croisement et l&amp;rsquo;articulation d&amp;rsquo;un plus grand nombre de données pour enrichir l&amp;rsquo;analyse des dynamiques territoriales   Destinée en priorité aux responsables d’affaires culturelles en administration déconcentrée et en collectivités territoriales pour éclairer la stratégie territoriale d’aménagement culturel, cette ressource sera également utile aux chargés d’étude en agences culturelles ainsi qu’aux professionnels et acteurs de la culture.</description>
+    </item>
+    
+  </channel>
+</rss>

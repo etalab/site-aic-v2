@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service public on Test Jamstack</title>
+    <link>/themes/service-public/</link>
+    <description>Recent content in Service public on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 26 Oct 2021 21:27:13 +0000</lastBuildDate><atom:link href="/themes/service-public/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARS - Parcours de soin</title>
+      <link>/defis/ars-parcours-de-soin/</link>
+      <pubDate>Tue, 26 Oct 2021 21:27:13 +0000</pubDate>
+      
+      <guid>/defis/ars-parcours-de-soin/</guid>
+      <description>Un patient atteint d’une maladie cardiovasculaire a besoin d’une prise en charge spécifique : des médecins et des institutions spécialisées, une certaine fréquence de consultation et de soin, des médicaments spéciaux… Ces parcours de soin sont difficiles à appréhender, mais comprendre leurs spécificités est indispensable pour offrir une offre adaptée.
+La solution : exploiter le Système national de données de santé (SNDS) pour visualiser les parcours de soin de patients atteints de maladies chroniques et améliorer les politiques publiques de santé en Occitanie.</description>
+    </item>
+    
+    <item>
+      <title>Social Connect</title>
+      <link>/defis/social-connect/</link>
+      <pubDate>Tue, 26 Oct 2021 21:20:36 +0000</pubDate>
+      
+      <guid>/defis/social-connect/</guid>
+      <description>Démonstration Code source Connaissez-vous Part’âge Village ? Famileo ? Api bus ? Ce ne sont que trois parmi les dizaines de milliers d’initiatives présentes sur les territoires français. Ces innovations sociales répondent à de multiples problématiques allant de la santé, à l’environnement en passant par l’emploi. Pourtant, ces initiatives ne sont pas toutes bien connues du grand public… et souvent ne se connaissent pas entre elles !
+La mission de Social Connect : mettre en avant et en réseau les innovations sociales pour les faire connaître, les faire grandir, les encourager et les pérenniser.</description>
+    </item>
+    
+    <item>
+      <title>Signaux Faibles</title>
+      <link>/defis/signaux-faibles/</link>
+      <pubDate>Tue, 26 Oct 2021 21:15:37 +0000</pubDate>
+      
+      <guid>/defis/signaux-faibles/</guid>
+      <description>Code source En France, chaque année, 60 000 PME et ETI sont en situation de défaillance. Mais si leurs défaillances sont détectées à temps ce n’est pas une fatalité. La DIRECCTE Bourgogne Franche Comté, avec le soutien de la DGE et du ministère de l’Economie, cherche à développer un outil dans ce sens. Il doit croiser les données des administrations publiques sur la situation économique, financière et sociale des entreprises et les traiter statistiquement avec un algorithme qui déterminera une probabilité de défaillance à 12, 18 et 24 mois.</description>
+    </item>
+    
+    <item>
+      <title>RembourSanté</title>
+      <link>/defis/remboursante/</link>
+      <pubDate>Tue, 26 Oct 2021 09:58:28 +0000</pubDate>
+      
+      <guid>/defis/remboursante/</guid>
+      <description>La problématique Le compte Ameli, créé en 2007 sur le web, comptabilise à ce jour plus de 30 millions d’adhérents. La consultation des paiements de l’assurance maladie est l’un des services phare du compte et constitue le 1er motif de connexion au compte ameli avec plus de 50% des connexions sur la rubrique « Mes Paiements ». Cette rubrique contient de nombreuses informations liées à l’assuré et ses ayants droits. Bien que l’affichage des paiements ait évolué au cours des années, les adhérents remontent des incompréhensions sur le montant des remboursements, les participations forfaitaires…</description>
+    </item>
+    
+    <item>
+      <title>PlaniPref</title>
+      <link>/defis/planipref/</link>
+      <pubDate>Tue, 26 Oct 2021 09:20:57 +0000</pubDate>
+      
+      <guid>/defis/planipref/</guid>
+      <description>La problématique Les préfectures sont l’unique point de contact entre les citoyens et l’administration dans le cadre de certaines démarches : l’obtention de titre de séjour, l’accès à la nationalité, l’examen par la commission médicale du permis de conduire… Pour les effectuer, les citoyens doivent se présenter à la préfecture après y avoir pris rendez-vous.
+Or ils ont parfois du mal à comprendre le fonctionnement du module de prise de rendez-vous, ce qui engendre des démarches supplémentaires et pour les usagers et pour les agents de préfectures.</description>
+    </item>
+    
+    <item>
+      <title>AFD - Geodata</title>
+      <link>/defis/afd-geodata/</link>
+      <pubDate>Sun, 24 Oct 2021 14:41:15 +0000</pubDate>
+      
+      <guid>/defis/afd-geodata/</guid>
+      <description>Quand l’Agence Française de Développement (AFD) cherche à construire une route, il lui faut des informations de base, comme le nombre de personnes qui habitent sur le tracé. Si dans certains pays ces informations ne sont pas disponibles, elles peuvent néanmoins être facilement calculées à partir de données ouvertes.
+Mettre les données ouvertes au service de projets de développement, tel était le défi à relever.
+La solution développée par Étienne : Urban Dashboard, une plateforme web ouverte qui utilise les données cartographiques libres d’OpenStreetMap pour calculer les indicateurs de base d’un projet routier : densité de la population, occupation des sols… Pour permettre au projet d’évoluer après son départ, Étienne a également développé AFDLab4Dev, une bibliothèque de documentation qui explique comment créer des visualisations de données à partir des API ouvertes de l’AFD.</description>
+    </item>
+    
+    <item>
+      <title>b@liseNAV</title>
+      <link>/defis/b-lisenav/</link>
+      <pubDate>Thu, 14 Oct 2021 08:35:47 +0000</pubDate>
+      
+      <guid>/defis/b-lisenav/</guid>
+      <description>La mer, une grande étendue bleue capricieuse sur laquelle s’élancent tous les jours de grands navires et de frêles esquifs. Pour aider les capitaines, expérimentés ou pas, le Service hydrographique et océanographique de la Marine (Shom) basé à Brest met à disposition des cartes marines mises à jour avec les informations transmises par les services des phares et balises. Cependant, la transmission et l’intégration des données prennent parfois du temps et les cartes qui en résultent peuvent être difficiles à interpréter.</description>
+    </item>
+    
+    <item>
+      <title>Polygraphe</title>
+      <link>/defis/polygraphe/</link>
+      <pubDate>Mon, 04 Oct 2021 14:21:41 +0000</pubDate>
+      
+      <guid>/defis/polygraphe/</guid>
+      <description>La Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) développe des nouvelles méthodes de traitement automatique du langage naturel, d’analyse de données et de comportements pour aider ses enquêteurs à mieux détecter et qualifier des faux avis sur les plateformes de consommation en ligne.
+Polygraphe : Détecter les faux avis pour garantir la confiance sur Internet La problématique Les informations disponibles sur Internet orientent considérablement les choix des consommateurs.</description>
+    </item>
+    
+    <item>
+      <title>LexImpact</title>
+      <link>/defis/leximpact/</link>
+      <pubDate>Mon, 04 Oct 2021 14:02:29 +0000</pubDate>
+      
+      <guid>/defis/leximpact/</guid>
+      <description>La direction interministérielle du numérique (DINUM) souhaite développer, avec la collaboration du Parlement, de la Cour de Comptes, et de la société civile, un outil permettant de simuler l’impact des réformes socio-fiscales sur les citoyens et citoyennes.
+LexImpact : Connaître l’impact des réformes socio-fiscales sur les citoyen·ne·s La problématique Connaissez-vous les effets de la prochaine réforme sur votre situation personnelle ? Probablement pas, et vous n’êtes pas seul·e ! L’Assemblée Nationale, le Sénat et la Cour des Comptes expriment régulièrement le besoin de disposer d’un outil leur permettant de se positionner sur les projets de loi, grâce à une information indépendante sur ses effets.</description>
+    </item>
+    
+    <item>
+      <title>Karfu’R</title>
+      <link>/defis/karfur/</link>
+      <pubDate>Mon, 04 Oct 2021 13:56:16 +0000</pubDate>
+      
+      <guid>/defis/karfur/</guid>
+      <description>La Délégation interministérielle pour l’accueil et l’intégration des réfugiés (DIAIR) souhaite développer une plateforme multilingue afin de diffuser des informations pertinentes pour aider les réfugiés dans leurs démarches. L’enjeu sera de proposer une expérience utilisateur adaptée, du contenu multilingue et des services en lien avec un réseau d’acteurs (associations, administrations, collectivités) déjà engagés sur ces sujets.
+Karfu’R : valoriser les initiatives d’accueil et d’intégration des réfugiés et améliorer les démarches des réfugiés La problématique 230 000 : c’est le nombre de personnes qui ont le statut de réfugié aujourd’hui en France.</description>
+    </item>
+    
+    <item>
+      <title>ExploCode</title>
+      <link>/defis/explocode/</link>
+      <pubDate>Mon, 04 Oct 2021 13:41:53 +0000</pubDate>
+      
+      <guid>/defis/explocode/</guid>
+      <description>La Direction générale du Travail (DGT) souhaite se doter d’un outil qui permette de répondre à toute question concernant le droit du travail grâce à de l’analyse sémantique, l’exploration de solutions d’IA, et le développement de services et API pour une diversité d’utilisateurs concernés par le droit du travail (agents publics, syndicats, associations, entreprises, RH, etc.).
+ExploCode : de l’intelligence artificielle au service de la lisibilité du droit du travail La problématique En 2017, les services de renseignement en droit du travail des Directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l’emploi (DIRECCTE) ont répondu à environ 900 000 demandes concernant le droit du travail, des questions les plus simples aux cas les plus complexes.</description>
+    </item>
+    
+    <item>
+      <title>ADLER</title>
+      <link>/defis/adler/</link>
+      <pubDate>Mon, 04 Oct 2021 08:51:10 +0000</pubDate>
+      
+      <guid>/defis/adler/</guid>
+      <description>Le Ministère de l’Action et des Comptes publics souhaite développer des outils expérimentaux de lutte contre la fraude en s’appuyant sur des méthodes avancées de fouille de données et d’analyse de réseaux afin de rapprocher des sources de données diverses et de détecter des schémas de fraude connus ou nouveaux, dans un cadre réglementé sur la base du droit d’en connaître.
+ADLER : détecter des comportements financiers illicites par l’analyse de réseaux La problématique La criminalité et la fraude financières sont à l’origine de coûts qui se chiffrent en milliards d’euros pour les Etats .</description>
+    </item>
+    
+    <item>
+      <title>ACOSS-Plateforme</title>
+      <link>/defis/acoss-plateforme/</link>
+      <pubDate>Thu, 30 Sep 2021 14:05:02 +0000</pubDate>
+      
+      <guid>/defis/acoss-plateforme/</guid>
+      <description>L’Agence centrale des organismes de sécurité sociale (ACOSS) souhaite améliorer l’expérience utilisateur des démarches du secteur de l’emploi à domicile en capitalisant sur les données de l’Urssaf.
+ACOSS Plateforme : simplifier les démarches des utilisateurs de l’emploi à domicile à l’aide des données de l’Urssaf. La problématique Chaque année, le réseau de l’Union de recouvrement des cotisations de sécurité sociale et d’allocations familiales (Urssaf) recouvre pour le compte de l’Agence centrale des organismes de sécurité sociale (ACOSS) près de 500 milliards d’euros, auprès de 9,7 millions de cotisants au nom d’environ 900 partenaires.</description>
+    </item>
+    
+    <item>
+      <title>Opérations 18</title>
+      <link>/defis/operations-18/</link>
+      <pubDate>Thu, 23 Sep 2021 08:15:51 +0000</pubDate>
+      
+      <guid>/defis/operations-18/</guid>
+      <description>Le défi EIG a permis à la Brigade de Sapeurs-Pompiers de Paris de développer un outil lui permettant d’avoir accès en temps réel aux informations de terrain sur les ressources humaines et matérielles engagées lors d’opérations.
+La problématique : des données opérationnelles d’interventions existantes mais mal exploitées En 2019, la Brigade de Sapeurs-Pompiers de Paris (BSPP) est intervenue plus de 506 000 fois sur le terrain, soit une intervention toutes les 3 secondes.</description>
+    </item>
+    
+    <item>
+      <title>Open Collectivités</title>
+      <link>/defis/open-collectivites/</link>
+      <pubDate>Thu, 23 Sep 2021 08:05:04 +0000</pubDate>
+      
+      <guid>/defis/open-collectivites/</guid>
+      <description>La problématique : des informations disséminées sur différents canaux En octobre 2019, le Conseil National de l’Information Statistique (CNIS) publie une note dans laquelle il recommande de mettre largement à disposition les données et publications statistiques sur les collectivités locales. Cela « afin d’augmenter la notoriété et la visibilité des statistiques existantes […]. Cette mise à disposition peut prendre a minima la forme d’une publication, mais pourrait aussi faire l’objet d’un portail dédié ».</description>
+    </item>
+    
+    <item>
+      <title>MonitorFish</title>
+      <link>/defis/monitorfish/</link>
+      <pubDate>Thu, 23 Sep 2021 07:42:21 +0000</pubDate>
+      
+      <guid>/defis/monitorfish/</guid>
+      <description>Problématique : des zones de pêche à surveiller très étendues, des données des navires à analyser nombreuses et complexes Le Centre National de Surveillance des Pêches (CNSP) est chargé de surveiller l’activité des navires de pêche français dans le monde, ainsi que de tous les navires de pêche dans les zones maritimes françaises. La mission des agents du CNSP est d’orienter les contrôleurs des pêches sur le terrain vers les navires les plus à risque, et ce 24h/24, 7j/7.</description>
+    </item>
+    
+    <item>
+      <title>Fabrique Numérique</title>
+      <link>/defis/fabrique-numerique/</link>
+      <pubDate>Wed, 12 May 2021 15:02:33 +0000</pubDate>
+      
+      <guid>/defis/fabrique-numerique/</guid>
+      <description>Le contexte Avec 100 000 agents, la Direction générale des finances publiques (DGFiP) est présente sur l’ensemble du territoire français pour mener des missions très variées : gestion des recettes et dépenses de l’Etat et des collectivités territoriales, tenue des comptes publics, lutte contre la fraude fiscale, etc. Elle s’est engagée depuis plusieurs années dans de nombreux chantiers de modernisation pour être au plus près de ses usagers et de leurs besoins.</description>
+    </item>
+    
+    <item>
+      <title>Pilote Intelligence</title>
+      <link>/defis/pilote-intelligence/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/pilote-intelligence/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse La DITP, pilote de la transformation publique La DITP a pour mission de piloter et coordonner le programme de transformation publique en assurant le suivi des réformes prioritaires du gouvernement et leur territorialisation. Plus de 80 experts et consultants suivent ces réformes et accompagnent les acteurs publics dans l’accélération de leurs projets de transformation. Elle s’inscrit dans une approche de transformation par l’innovation, en testant l’apport de nouvelles disciplines au service d’une meilleure conception de l’action publique.</description>
+    </item>
+    
+  </channel>
+</rss>

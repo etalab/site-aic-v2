@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social on Test Jamstack</title>
+    <link>/themes/social/</link>
+    <description>Recent content in Social on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 01 Jan 1970 00:33:42 +0000</lastBuildDate><atom:link href="/themes/social/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Champollion</title>
+      <link>/defis/champollion/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/champollion/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse Le MTEI, le numérique au service de l&amp;rsquo;action publique Le ministère du travail, de l’emploi et de l’insertion (MTEI) s&amp;rsquo;est doté d’une stratégie autour de la donnée, des algorithmes et des codes sources en appui de ses politiques publiques. Cette stratégie répond à la nécessité d’une nouvelle ambition pour exploiter et maîtriser toutes les potentialités d’un numérique ouvert et au service de l’humain. Elle passe par la création de nouveaux usages de la donnée à toutes les échelles de l’action publique étendue.</description>
+    </item>
+    
+  </channel>
+</rss>

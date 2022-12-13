@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Santé on Test Jamstack</title>
+    <link>/themes/sante/</link>
+    <description>Recent content in Santé on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 26 Oct 2021 19:56:54 +0000</lastBuildDate><atom:link href="/themes/sante/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lab Santé</title>
+      <link>/defis/lab-sante/</link>
+      <pubDate>Tue, 26 Oct 2021 19:56:54 +0000</pubDate>
+      
+      <guid>/defis/lab-sante/</guid>
+      <description>Grâce à la spécificité de sa couverture sociale, la France dispose de données de santé quasi-exhaustives, variées et régulièrement mises à jour. Afin d’en faciliter l’utilisation, elles ont été réunies au sein d’une base de données unique au monde : le système national des données de santé(SNDS). Celle-ci reste à exploiter.
+LabSanté, la preuve par l’exemple du potentiel des données de santé.
+Philéas, Julien et Samah ont deux missions. La première, accompagner la Direction de la recherche, des études, de l’évaluation et des statistiques (DRESS) du Ministère des solidarités et de la santé dans l’exploitation de ces données : structurer et harmoniser les données, former les agents à de nouveaux outils… La deuxième, explorer et analyser ces données au prisme de projets-pilotes qui mobilisent des techniques d’analyse statistique avancées comme le traitement naturel du langage, machine learning…</description>
+    </item>
+    
+    <item>
+      <title>RembourSanté</title>
+      <link>/defis/remboursante/</link>
+      <pubDate>Tue, 26 Oct 2021 09:58:28 +0000</pubDate>
+      
+      <guid>/defis/remboursante/</guid>
+      <description>La problématique Le compte Ameli, créé en 2007 sur le web, comptabilise à ce jour plus de 30 millions d’adhérents. La consultation des paiements de l’assurance maladie est l’un des services phare du compte et constitue le 1er motif de connexion au compte ameli avec plus de 50% des connexions sur la rubrique « Mes Paiements ». Cette rubrique contient de nombreuses informations liées à l’assuré et ses ayants droits. Bien que l’affichage des paiements ait évolué au cours des années, les adhérents remontent des incompréhensions sur le montant des remboursements, les participations forfaitaires…</description>
+    </item>
+    
+    <item>
+      <title>Open Chronic</title>
+      <link>/defis/open-chronic/</link>
+      <pubDate>Mon, 04 Oct 2021 14:09:48 +0000</pubDate>
+      
+      <guid>/defis/open-chronic/</guid>
+      <description>Code source La Direction de la recherche, des études, de l’évaluation et des statistiques (DREES) du Ministère des Solidarités et de la Santé souhaite construire une base de données des parcours de soin des malades chroniques et faciliter, pour les agences et établissements de santé, le développement d’une variété d’outils, notamment pour mieux comprendre les variabilités de prise en charge des malades et mieux coordonner les différents professionnels de santé (ville/hôpital).</description>
+    </item>
+    
+    <item>
+      <title>DataMed</title>
+      <link>/defis/datamed/</link>
+      <pubDate>Wed, 22 Sep 2021 15:29:30 +0000</pubDate>
+      
+      <guid>/defis/datamed/</guid>
+      <description>L’Agence nationale de sécurité des médicaments et des produits de santé (ANSM) souhaite mettre en place des outils lui permettant de rendre plus accessibles aux patients, professionnels de santé et plus largement au grand public ses données sur les médicaments.
+S’inscrire dans une politique de partage des données de santé L’Agence nationale de sécurité du médicament et des produits de santé est l’acteur public qui permet, au nom de l’État, l’accès aux produits de santé en France et qui assure leur sécurité tout au long de leur cycle de vie.</description>
+    </item>
+    
+    <item>
+      <title>ADEX</title>
+      <link>/defis/adex/</link>
+      <pubDate>Wed, 22 Sep 2021 14:30:53 +0000</pubDate>
+      
+      <guid>/defis/adex/</guid>
+      <description>Déontologie et rigueur de l’expertise étant au centre de son activité, la Haute Autorité de Santé a besoin d’analyser les liens d’intérêts financiers des experts experts avec qui elle collabore afin d’éviter de potentiels conflits d’intérêts.
+La problématique : une analyse des liens d’intérêt complexe et pas toujours de bonne qualité Autorité publique indépendante à caractère scientifique, la Haute Autorité de santé (HAS) travaille à garantir la qualité dans le champ sanitaire, social et médico-social, au bénéfice des personnes.</description>
+    </item>
+    
+    <item>
+      <title>Prev-AC-Tion</title>
+      <link>/defis/prev-ac-tion/</link>
+      <pubDate>Thu, 20 May 2021 14:22:09 +0000</pubDate>
+      
+      <guid>/defis/prev-ac-tion/</guid>
+      <description>Le contexte En matière d’accidentologie, le secteur maritime affiche aujourd’hui le plus fort taux d’incidence par rapport aux autres secteurs d’activité, avec 1 598 accidents du travail et 14 décès en 2019 (sur 38 368 marins recensés).
+La problématique Cependant, ces souffrances humaines restent encore mal connues : il n’existe pas de données consolidées sur les accidents du travail maritime et les maladies professionnelles qui y sont liées, qui permettraient d’en faire une description fine.</description>
+    </item>
+    
+    <item>
+      <title>GDR Santé</title>
+      <link>/defis/gdr-sante/</link>
+      <pubDate>Wed, 12 May 2021 15:38:22 +0000</pubDate>
+      
+      <guid>/defis/gdr-sante/</guid>
+      <description>Le contexte Chaque année, l’Agence nationale de sécurité du médicament et des produits de santé (ANSM) reçoit, pour le médicament, environ 1 000 demandes d’autorisation de mise sur le marché, 1 000 d’autorisations d’essais cliniques ou encore 115 000 signalements de pharmacovigilance. Leur traitement fait appel à différents profils d’agents et les profondeurs d’analyse dépendent de facteurs tels que la complexité scientifique, le profil des patients ou encore la sensibilité sociétale.</description>
+    </item>
+    
+    <item>
+      <title>SMASH</title>
+      <link>/defis/smash/</link>
+      <pubDate>Wed, 12 May 2021 14:35:06 +0000</pubDate>
+      
+      <guid>/defis/smash/</guid>
+      <description>Le contexte L’hôpital public compte aujourd’hui 1,04 million de salariés, pour des dépenses de personnel qui s’élèvent à 46,9 milliards d’euros (en 2018). Il s’agit du premier poste de dépense des établissements de santé.
+En juillet 2020 ont été signés les accords du Ségur de la santé, qui visent entre autres à revaloriser l’ensemble des carrières du soin. Cette réforme d’envergure fera très certainement évoluer les comportements des salariés des établissements de santé, impliquant une incertitude forte sur l’évolution des masses salariales et donc des dépenses de santé.</description>
+    </item>
+    
+    <item>
+      <title>SIRANo</title>
+      <link>/defis/sirano/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/defis/sirano/</guid>
+      <description>Le défi à relever L&amp;rsquo;administration porteuse La DGOS, le garant de la conformité de l&amp;rsquo;offre de soins au regard des politiques de santé Le bureau « innovation et recherche clinique » de la Direction Générale de l’Offre de Soins (DGOS) - rattachée au Ministère des Solidarités et de la Santé - pilote la politique du ministère portant sur la recherche appliquée en santé, sur l’offre de soins et sur l’innovation.</description>
+    </item>
+    
+  </channel>
+</rss>

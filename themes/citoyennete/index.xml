@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Citoyenneté on Test Jamstack</title>
+    <link>/themes/citoyennete/</link>
+    <description>Recent content in Citoyenneté on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 26 Oct 2021 13:14:22 +0000</lastBuildDate><atom:link href="/themes/citoyennete/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sequoia IGN</title>
+      <link>/defis/sequoia-ign/</link>
+      <pubDate>Tue, 26 Oct 2021 13:14:22 +0000</pubDate>
+      
+      <guid>/defis/sequoia-ign/</guid>
+      <description>La problématique Le commissariat général au développement durable (CGDD) produit de l’information qui a vocation à alimenter le dialogue environnemental entre l’Etat et ses citoyens. Or l’information environnementale peut prendre des formes différentes (études, données chiffrées, données géolocalisées…) et s’adresser à des publics multiples (experts, décideurs publics, grand public). Afin de permettre l’appropriation de cette information par ses différents publics et de favoriser son enrichissement, le CGDD envisage de refondre les dispositifs de diffusion de l’information et de promouvoir une mise à jour des données en mode collaboratif.</description>
+    </item>
+    
+    <item>
+      <title>Brigade Numérique</title>
+      <link>/defis/brigade-numerique/</link>
+      <pubDate>Thu, 14 Oct 2021 08:42:11 +0000</pubDate>
+      
+      <guid>/defis/brigade-numerique/</guid>
+      <description>Code source La mission des gendarmes est complexe : assurer la sécurité dans les zones rurales et périurbaines où ils sont parfois loin des citoyens qu’ils servent. Or l’usage croissant de nouveaux modes de communication (réseaux sociaux et agents conversationnels) rend possible une nouvelle forme de « proximité numérique » avec les citoyens, complémentaire de l’accueil physique en gendarmerie.
+La gendarmerie se rapproche donc des Français et lance sa Brigade Numérique.</description>
+    </item>
+    
+    <item>
+      <title>Open Collectivités</title>
+      <link>/defis/open-collectivites/</link>
+      <pubDate>Thu, 23 Sep 2021 08:05:04 +0000</pubDate>
+      
+      <guid>/defis/open-collectivites/</guid>
+      <description>La problématique : des informations disséminées sur différents canaux En octobre 2019, le Conseil National de l’Information Statistique (CNIS) publie une note dans laquelle il recommande de mettre largement à disposition les données et publications statistiques sur les collectivités locales. Cela « afin d’augmenter la notoriété et la visibilité des statistiques existantes […]. Cette mise à disposition peut prendre a minima la forme d’une publication, mais pourrait aussi faire l’objet d’un portail dédié ».</description>
+    </item>
+    
+    <item>
+      <title>Décos</title>
+      <link>/defis/decos/</link>
+      <pubDate>Sat, 22 May 2021 10:56:14 +0000</pubDate>
+      
+      <guid>/defis/decos/</guid>
+      <description>Le contexte Chaque année, entre 2 000 et 3 000 candidatures sont étudiées par le Ministère de l’Intérieur dans le cadre de l’attribution des ordres nationaux (Légion d’Honneur, Ordre National du Mérite) et de distinctions ministérielles propres.
+La problématique Aujourd’hui, la gestion des distinctions honorifiques est assurée à partir d’outils mêlant instruction papier et logiciels devenus obsolètes. Ces derniers ne permettent pas de sécuriser les procédures, sont lourds en termes de gestion administrative et peu économes.</description>
+    </item>
+    
+  </channel>
+</rss>

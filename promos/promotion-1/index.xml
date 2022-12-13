@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Promotion 1 on Test Jamstack</title>
+    <link>/promos/promotion-1/</link>
+    <description>Recent content in Promotion 1 on Test Jamstack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 27 Oct 2021 14:10:19 +0000</lastBuildDate><atom:link href="/promos/promotion-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MI - matchID</title>
+      <link>/defis/mi-matchid/</link>
+      <pubDate>Wed, 27 Oct 2021 14:10:19 +0000</pubDate>
+      
+      <guid>/defis/mi-matchid/</guid>
+      <description>Démonstration De nombreuses personnes décédées continuent à conduire. Du moins du point de vue du Fichier National des Permis de Conduire (SNPC), qui n’invalide pas automatiquement un permis si son possesseur décède. Cela pose à la fois des problèmes de sécurité quand ces permis sont utilisés par des conducteurs vivants et un problème de statistiques routières.
+L’analyse des données participe à l’amélioration de la sécurité sur les routes.
+L’outil développé par Martin, matchID, mêle des techniques d’analyse des données et de concordance partielle (“fuzzy matching”) et pour faire correspondre les noms contenus dans les fichiers du SNPC avec ceux contenus dans les registres de décès.</description>
+    </item>
+    
+    <item>
+      <title>MI - cartAV</title>
+      <link>/defis/mi-cartav/</link>
+      <pubDate>Wed, 27 Oct 2021 14:04:42 +0000</pubDate>
+      
+      <guid>/defis/mi-cartav/</guid>
+      <description>Code source Tous les jours, les forces de l’ordre interviennent sur le terrain. Qu’il s’agisse de verbalisations ou de compte-rendu d’accidents, elles font remonter une quantité impressionnante de données qu’elles ne peuvent pas elles-mêmes exploiter. Pourtant, elles peuvent servir à définir des profils d’accidents et à décider d’actions à mettre en œuvre pour les éviter.
+La mission : augmenter la sécurité sur les routes en exploitant les données de verbalisations et d’accidents.</description>
+    </item>
+    
+    <item>
+      <title>MESRI - La machine à données</title>
+      <link>/defis/mesri-la-machine-a-donnees/</link>
+      <pubDate>Wed, 27 Oct 2021 14:02:12 +0000</pubDate>
+      
+      <guid>/defis/mesri-la-machine-a-donnees/</guid>
+      <description>Code source De nombreuses bases de données sont construites à la main, et les informations saisies ne se conforment pas aux référentiels existants. Par exemple, les noms des établissements scolaires pourront différer d’une base de données à l’autre. Comment nettoyer les données sans faire de la « reprise de données » manuelle ?
+Concevoir un outil générique pour faciliter le nettoyage de base de données.
+C’est à cette question que répond la « Magical Merge Machine », une solution développée par Léo et Laurent au Ministère de l’Enseignement Supérieur, de la Recherche et de l’Innovation (MESRI).</description>
+    </item>
+    
+    <item>
+      <title>MCC - Inventaire des orgues</title>
+      <link>/defis/mcc-inventaire-des-orgues/</link>
+      <pubDate>Wed, 27 Oct 2021 13:56:21 +0000</pubDate>
+      
+      <guid>/defis/mcc-inventaire-des-orgues/</guid>
+      <description>Démonstration Code source Dissimulés dans de petites églises de village, mis en valeur dans de célèbres cathédrales gothiques, exposés dans de petites ou grandes collections… les orgues. Instruments de musique, mais aussi objets d’art, ils fédèrent une communauté de passionnés aux connaissances très vastes et complètes. Organistes, historiens de l’art, membres d’associations des amis des orgues : tous souhaitent valoriser ce patrimoine caché.
+Révéler et valoriser le patrimoine des orgues grâce à une approche collaborative.</description>
+    </item>
+    
+    <item>
+      <title>DGFiP - fraude fiscale</title>
+      <link>/defis/dgfip-fraude-fiscale/</link>
+      <pubDate>Wed, 27 Oct 2021 13:52:59 +0000</pubDate>
+      
+      <guid>/defis/dgfip-fraude-fiscale/</guid>
+      <description>Monsieur Dupont habite en France mais il travaille au Luxembourg. Contrairement aux résidents fiscaux français percevant leurs revenus en France, il doit calculer et déclarer lui-même les revenus qu’il perçoit. Sur l’honneur… Pourtant, depuis l’été 2016, plusieurs pays de l’OCDE ont mis en place un système d’échange automatisé des informations (EAI) pour les revenus des résidents fiscaux d’un pays travaillant à l’étranger (salaires, retraites, etc.).
+Mettre les données au service de la justice fiscale.</description>
+    </item>
+    
+    <item>
+      <title>CC - API rapports</title>
+      <link>/defis/cc-api-rapports/</link>
+      <pubDate>Wed, 27 Oct 2021 13:48:51 +0000</pubDate>
+      
+      <guid>/defis/cc-api-rapports/</guid>
+      <description>Code source C’est à la Cour des comptes que les institutions publiques rendent des comptes sur leur gestion de l’argent public. Qu’elle soit saisie ou qu’elle se saisisse elle-même, la Cour des comptes produit un grand nombre de rapports. Destinés à la fois aux institutions concernées et aux citoyens, ces rapports ne sont pourtant disponibles qu’en PDF, un format peu exploitable par des citoyens curieux.
+Grâce à une approche par les données, les rapports de la Cour des comptes deviennent plus accessibles.</description>
+    </item>
+    
+    <item>
+      <title>BNF - catalogage</title>
+      <link>/defis/bnf-catalogage/</link>
+      <pubDate>Wed, 27 Oct 2021 13:45:53 +0000</pubDate>
+      
+      <guid>/defis/bnf-catalogage/</guid>
+      <description>La Bibliothèque nationale de France, c’est une collection de plus de 15 millions d’ouvrages qui s’accroît de 670 000 nouveaux livres par an. Un trésor pour la France, mais un véritable casse-tête pour les catalogueurs qui doivent régulièrement mettre à jour leurs bases de données et diffuser des ressources difficiles à indexer aux institutions partenaires.
+Utiliser les métadonnées pour mieux cataloguer et mieux valoriser notre patrimoine papier.
+Les métadonnées sont des données qui servent à décrire une ressource : date de création, auteur, thème… L’objectif initial du défi était de développer un outil permettant de traiter les métadonnées massives et complexes de la BnF.</description>
+    </item>
+    
+    <item>
+      <title>ARS - Parcours de soin</title>
+      <link>/defis/ars-parcours-de-soin/</link>
+      <pubDate>Tue, 26 Oct 2021 21:27:13 +0000</pubDate>
+      
+      <guid>/defis/ars-parcours-de-soin/</guid>
+      <description>Un patient atteint d’une maladie cardiovasculaire a besoin d’une prise en charge spécifique : des médecins et des institutions spécialisées, une certaine fréquence de consultation et de soin, des médicaments spéciaux… Ces parcours de soin sont difficiles à appréhender, mais comprendre leurs spécificités est indispensable pour offrir une offre adaptée.
+La solution : exploiter le Système national de données de santé (SNDS) pour visualiser les parcours de soin de patients atteints de maladies chroniques et améliorer les politiques publiques de santé en Occitanie.</description>
+    </item>
+    
+    <item>
+      <title>AFD - Geodata</title>
+      <link>/defis/afd-geodata/</link>
+      <pubDate>Sun, 24 Oct 2021 14:41:15 +0000</pubDate>
+      
+      <guid>/defis/afd-geodata/</guid>
+      <description>Quand l’Agence Française de Développement (AFD) cherche à construire une route, il lui faut des informations de base, comme le nombre de personnes qui habitent sur le tracé. Si dans certains pays ces informations ne sont pas disponibles, elles peuvent néanmoins être facilement calculées à partir de données ouvertes.
+Mettre les données ouvertes au service de projets de développement, tel était le défi à relever.
+La solution développée par Étienne : Urban Dashboard, une plateforme web ouverte qui utilise les données cartographiques libres d’OpenStreetMap pour calculer les indicateurs de base d’un projet routier : densité de la population, occupation des sols… Pour permettre au projet d’évoluer après son départ, Étienne a également développé AFDLab4Dev, une bibliothèque de documentation qui explique comment créer des visualisations de données à partir des API ouvertes de l’AFD.</description>
+    </item>
+    
+    <item>
+      <title>Adnène Trojette </title>
+      <link>/personnes/adnene-trojette/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/adnene-trojette/</guid>
+      <description>Mohammed Adnène Trojette est conseiller Action publique et Numérique du Président de la République et conseiller technique numérique du Premier ministre. Précédemment secrétaire général adjoint de la Cour des comptes, il dirige le centre d’appui métier des juridictions financières, qui regroupe la direction des systèmes d’information, la direction de la documentation, le pôle données, le pôle méthodes et le pôle formation.
+Ingénieur en informatique et télécoms, ancien de SciencesPo Paris, de l’ENA et développeur Debian GNU/Linux, il a remis au Premier ministre en 2013 un rapport sur l’ouverture des données publiques.</description>
+    </item>
+    
+    <item>
+      <title>Antoine Chèvre</title>
+      <link>/personnes/antoine-chevre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/antoine-chevre/</guid>
+      <description>-</description>
+    </item>
+    
+    <item>
+      <title>Bastien Guerry</title>
+      <link>/personnes/bastien-guerry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/bastien-guerry/</guid>
+      <description>« Je suis programmeur indépendant et hacktiviste du libre. Après des études de philosophie et de sciences cognitives, j’ai renoué avec mes premières amours en découvrant le logiciel libre à la fin du millénaire. Je suis tombé en extase devant GNU Emacs, me suis mis au Lisp dans la foulée et suis aujourd’hui mainteneur d’Org-mode, un module pour organiser sa vie à l’aide de fichiers textes. En tant que libriste, j’ai participé au projet One Laptop Per Child en 2008, co-fondé OLPC France, organisé en 2009 une école d’été en Chine sur les outils open source pour la recherche, je suis premier salarié de Wikimédia France en 2010, puis j’ai contribué à ShareLex, jecode.</description>
+    </item>
+    
+    <item>
+      <title>Constance de Quatrebarbes</title>
+      <link>/personnes/constance-de-quatrebarbes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/constance-de-quatrebarbes/</guid>
+      <description>« Programmeuse indépendante, je suis militante libriste et data-artisan depuis une dizaine d&amp;rsquo;année. Après des études de littérature puis un Master en WebSciences, je me suis passionnée pour les systèmes de classification de l&amp;rsquo;information et par voie de conséquence pour la valorisation des données. Pythonniste enthousiaste et programmeuse autodidacte, j&amp;rsquo;ai formé plusieurs générations d&amp;rsquo;étudiants et de chercheurs au traitement des données avec Python, à la gestion de projet de recherche et à l&amp;rsquo;OpenScience.</description>
+    </item>
+    
+    <item>
+      <title>Didier Hève</title>
+      <link>/personnes/didier-heve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/didier-heve/</guid>
+      <description>-</description>
+    </item>
+    
+    <item>
+      <title>Emmanuelle Bermès</title>
+      <link>/personnes/emmanuelle-bermes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/emmanuelle-bermes/</guid>
+      <description>-</description>
+    </item>
+    
+    <item>
+      <title>Francis Chabouis</title>
+      <link>/personnes/francis-chabouis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/francis-chabouis/</guid>
+      <description>“Ingénieur de formation (Centrale Lyon 2006) avec une spécialité en mathématiques, j’ai travaillé plusieurs années en finance de marché avant de devenir développeur en 2012. Après avoir travaillé 3 ans à la R&amp;amp;D d’un éditeur de logiciel financier, j’ai fondé Ubikiwi pour proposer des services innovants en cartographie, data-visualisation et mobilité. L’objectif : aider les gens à passer moins de temps dans les transports. Un projet de cartographie pour la sécurité routière ne pouvait donc pas me laisser indifférent et j’ai naturellement proposé de contribuer au programme d’Entrepreneur·e d’Intérêt Général sur le défi du ministère de l’Intérieur.</description>
+    </item>
+    
+    <item>
+      <title>Frédéric Bardolle </title>
+      <link>/personnes/frederic-bardolle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/frederic-bardolle/</guid>
+      <description>“J’ai passé les 7 dernières années à résoudre des problèmes grâce aux données. Suite à mon expérience d’EIG à la Cour des Comptes, j’ai travaillé à l’Agence du numérique sur la mise en place de politiques publiques en faveur de l’inclusion numérique. Je suis également directeur technique de Data for Good (une communauté de volontaires mettant leur talent au profit d’organisations à but non lucratif) ainsi que cofondateur d’AlgoTransparency (un projet visant à informer les citoyens sur le fonctionnement des algorithmes et leurs effets indésirables).</description>
+    </item>
+    
+    <item>
+      <title>Judith Kagan</title>
+      <link>/personnes/judith-kagan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/judith-kagan/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Laurent Dupont</title>
+      <link>/personnes/laurent-dupont/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/laurent-dupont/</guid>
+      <description>“Diplômé de l’École Polytechnique (Palaiseau) et du KTH (École Polytechnique Royale de Suède), j’ai une quinzaine d’années d’expérience en informatique. J’ai contribué en France, en Suède et aux États-Unis à plusieurs startups en tant que responsable de projets et d’équipes, co-fondateur et directeur technique. Ces entreprises sont marquées par une forte composante de recherche et d’innovation souvent brevetée, centrée sur l’analyse et l’interprétation de données complexes et hétérogènes.”</description>
+    </item>
+    
+    <item>
+      <title>Léo Bouloc</title>
+      <link>/personnes/leo-bouloc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/leo-bouloc/</guid>
+      <description>“J’ai grandi en région parisienne. Je suis ingénieur de l’ENSTA ParisTech et diplômé d’un Master de l’ENS Cachan en mathématiques appliquées et apprentissage automatique. Mes expériences dans le public et en start-up dans différents pays (Palestine, Inde, France, USA) m’ont fait découvrir la variété des champs d’application de la science des données et m’ont motivé à utiliser ces nouvelles technologies pour l’intérêt général. Dans le cadre du programme EIG, j’ai développé un outil pour nettoyer les données “sales” (dont les valeurs sont manquantes, peu lisibles ou bien erronés) en les croisant avec des données de référence, permettant ainsi de rendre les fichiers de l’enseignement supérieur et de la recherche lisible par une machine.</description>
+    </item>
+    
+    <item>
+      <title>Marie-Véronique Leroi</title>
+      <link>/personnes/marie-veronique-leroi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/marie-veronique-leroi/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Marion Paclot</title>
+      <link>/personnes/marion-paclot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/marion-paclot/</guid>
+      <description>“Datascientist venue du monde l’économie et passée par le conseil, j’ai travaillé dans le secteur public puis privé. Après 10 mois à Bercy en tant qu’EIG, où j’ai développé des algorithmes de détection de la fraude fiscale, j’ai rejoint la mission Etalab en décembre 2017.”</description>
+    </item>
+    
+    <item>
+      <title>Martin Gross </title>
+      <link>/personnes/martin-gross/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/martin-gross/</guid>
+      <description>“Ingénieur Supélec (2012), passionné par les problématiques de data (et d’open data) ainsi que de web technologies, j’ai co-fondé avec mon frère CommoPrices.com, le plus grand portail de prix de matières premières au monde. Jamais à court d’idées, mon plus grand problème est de filtrer les bonnes des mauvaises.”</description>
+    </item>
+    
+    <item>
+      <title>Philippe Schall</title>
+      <link>/personnes/philippe-schall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/philippe-schall/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Sophie Cueille</title>
+      <link>/personnes/sophie-cueille/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/sophie-cueille/</guid>
+      <description>La description de ce profil est en cours de rédaction et sera disponible prochainement.</description>
+    </item>
+    
+    <item>
+      <title>Sébastien Cossin</title>
+      <link>/personnes/sebastien-cossin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/sebastien-cossin/</guid>
+      <description>“Je suis médecin spécialisé en santé publique et en informatique médicale formé à l’Institut de Santé Publique, d’Épidémiologie et de Développement (ISPED) à Bordeaux. Actuellement assistant hospitalier universitaire au CHU de Bordeaux, je mène mes recherches dans l’Equipe de Recherche en Informatique Appliquée à la Santé (ERIAS), centre de recherche INSERM U1219. Je m’intéresse à l’exploitation des données de santé à des fins de recherche épidémiologique et d’aide à la décision.</description>
+    </item>
+    
+    <item>
+      <title>Tristram Gräbener </title>
+      <link>/personnes/tristram-grabener/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/tristram-grabener/</guid>
+      <description>“Diplômé de l’Institut Mines Télécom en optimisation, j’ai effectué mon doctorat à l’université de Toulouse sur les calculs d’itinéraires multimodaux. J’ai travaillé chez Kisio Digital pour créer navitia.io – un calculateur d’itinétaire en transports en communs libre, puis chez Capitaine Train afin de distribuer des billets de train sur des trajets qui combinent différentes compagnies de train. Ces travaux algorithmiques ont toujours été accompagnés de questions cartographiques.”</description>
+    </item>
+    
+    <item>
+      <title>Étienne David </title>
+      <link>/personnes/etienne-david/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/etienne-david/</guid>
+      <description>” Je suis ingénieur AgroParisTech et entrepreneur. Spécialisé en analyse d’image, j’ai réalisé ma thèse de Master à Singapour. Attentif aux défis contemporains liés à l’alimentation, je suis à l’origine du projet Jugaaddict (désormais Harveez) visant à aller à la rencontre des innovations les plus ingénieuses dans le domaine de l’alimentaire. J’ai relevé le défi de l’Agence Française de Développement (AFD). Je commence une thèse en juillet à Avignon. “</description>
+    </item>
+    
+  </channel>
+</rss>
