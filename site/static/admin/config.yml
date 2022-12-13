@@ -1,8 +1,8 @@
 backend:
   name: github
   branch: master
-  repo: Pierre-Guichard/Pierre-Guichard.github.io
-  site_domain: magenta-flan-e6cf49.netlify.app
+  repo:  sig-actimage/sig-actimage.github.io
+  site_domain: flourishing-piroshki-a44750.netlify.app
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
