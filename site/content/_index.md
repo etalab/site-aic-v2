@@ -45,4 +45,19 @@ medias:
     - image: img/twitter-logo.svg
       title: "@eigforever"
       link: https://twitter.com/eigforever
+defis:
+  sub: Relever des défis concrets du service public
+  desc: "De la justice à la santé, en passant par la culture, l'éducation, la
+    défense, les défis ont un dénominateur commun : transformer les services
+    publics par le numérique"
+title: Page d'accueil
+hero:
+  btn:
+    title: Participer
+    url: /participer
+  title: Former un service public augmenté
+video:
+  quote: "\"Un service public augmenté, à l'intersection de deux bonnes volontés :
+    celle de l'administration et des citoyens\""
+  video: Test
 ---
