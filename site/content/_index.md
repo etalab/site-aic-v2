@@ -14,7 +14,7 @@ intro:
 video:
   quote: "\"Former un service public augmenté, à l'intersection de deux bonnes
     volontés : celle de l'administration et des citoyens\""
-  video: Video à insérer
+  video: '{{< dailymotion x8fy8tq"Vidéo ACOSS-Plateforme">}}'
 laureats:
   sub: Des initiatives innovantes portées par les citoyens
   desc: Bénéficier d'un accompagnement dans le développement de son initiative ...
