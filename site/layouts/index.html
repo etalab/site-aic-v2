@@ -27,14 +27,13 @@
     </div>
   </div>
 </div>
-
-<div class="fr-grid-row fr-grid-row--center">
-  <div class="fr-col-12 fr-col-lg-10">
+<div class="fr-container fr-mb-12v">
+  <div class="fr-grid-row fr-grid-row--center">
     <div class="
-          fr-grid-row fr-grid-row--gutters fr-grid-row--middle
-          c-section__agent c-section__agent--only
-          fr-mb-12v
-        ">
+                fr-grid-row fr-grid-row--gutters fr-grid-row--middle
+                c-section__agent c-section__agent--only
+                fr-mb-12v
+              ">
       {{with .Params.video.quote.photo }}
       <div class="fr-col-12 fr-col-md-3">
         <div class="c-rounded">
@@ -42,7 +41,7 @@
         </div>
       </div>
       {{ end}}
-      <div class="fr-col-12 fr-col-md-9">
+      <div class="fr-col-12  {{ with .Params.video.quote.photo }}fr-col-md-9{{ end }}">
         <p class="fr-mt-3v fr-h4 u-color-primary">
           {{ .Params.video.quote.text }}
         </p>
@@ -51,13 +50,14 @@
           <p class="fr-text--lg fr-mb-0">{{ .Params.video.quote.name }},</p>
           {{ end }}
           {{ with .Params.video.quote.desc }}
-            <p class="fr-mb-0">{{ .Params.video.quote.desc }}</p>
+          <p class="fr-mb-0">{{ .Params.video.quote.desc }}</p>
           {{end }}
         </div>
       </div>
-      <div class="fr-col-12 fr-col-md-9">
+      <div class="fr-col-12">
         <p class="fr-text--lead fr-mb-0">{{ .Params.video.video }}</p>
       </div>
+      
     </div>
   </div>
 </div>

@@ -30,18 +30,17 @@
       <div class="u-text-lg">
         {{ partial "markdownify-block" .Params.how.desc }}
       </div>
-      <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
+      <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-8v">
         {{ range $index, $tile := .Params.how.tiles }}
-        <div class="fr-col-6 fr-col-sm-3 fr-col-lg-2">
-          <div class="fr-tile fr-enlarge-link">
+        <div class="fr-col-6 fr-col-sm-2 fr-col-lg-3">
+          <div class="fr-tile">
             <div class="fr-tile__body">
-              <h4 class="fr-tile__title">
+              <p class="fr-tile__title">
                 {{ $tile.title }}
-              </h4>
+              </p>
             </div>
-            <div class="fr-tile__img">
-              <img src="{{ $tile.image }}" class="fr-responsive-img" alt="" />
-            </div>
+            <img src="/{{ $tile.image }}" class="fr-responsive-img" style="max-width:50%; margin: auto" alt="" />
+            <!--  L’alternative de l’image (attribut alt) doit rester vide car l’image est illustrative et ne doit pas être restituée aux technologies d’assistance  -->
           </div>
         </div>
         {{ end }}
