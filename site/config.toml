@@ -1,4 +1,4 @@
-baseurl = "https://sig-actimage.github.io/"
+baseurl = ""
 languageCode = "fr-fr"
 languageLang = "fr"
 title = "Accélérateur d'initiatives citoyennes"
@@ -30,32 +30,15 @@ removePathAccents = true
     identifier = "program"
     weight = 1
   [[menu.nav]]
-    name = "Défis"
-    url = "/defis"
+    name = "Lauréats"
+    url = "/laureats"
     identifier = "impact"
-    weight = 2
-  [[menu.nav]]
-    name = "Participants"
-    url = "/participants"
-    identifier = "participants"
-    weight = 3
-  
-  [[menu.nav]]
-    name = "Talents EIG"
-    url = "/talents"
-    parent = "participants"
-    weight = 1
+    weight = 2  
 
   [[menu.nav]]
-    name = "Agents publics"
-    url = "/agents"
-    parent = "participants"
-    weight = 2
-
-  [[menu.nav]]
-    name = "Équipe"
-    url = "/equipe"
-    identifier = "team"
+    name = "L'Écosystème"
+    url = "/ecosysteme"
+    identifier = "ecosystem"
     weight = 4
   [[menu.nav]]
     name = "Participer"
@@ -67,3 +50,8 @@ removePathAccents = true
     url = "/contact"
     identifier = "contact"
     weight = 6
+  [[menu.nav]]
+    name = "Foire aux questions"
+    url = "/faq"
+    identifier = "faq"
+    weight = 7

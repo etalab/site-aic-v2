@@ -49,7 +49,7 @@
                 <a class="fr-link fr-fi-arrow-right-line" href="{{ relref . " participer" }}">Participer</a>
               </li>
               <li>
-                <a class="fr-link fr-fi-arrow-right-line" href="{{ relref . " blog" }}">Blog</a>
+                <a class="fr-link fr-fi-arrow-right-line" href="{{ relref . " actualites" }}">Actualités</a>
               </li>
             </ul>
           </div>
@@ -68,15 +68,10 @@
           {{ range .Site.Menus.nav }}
           {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
           {{ $active = or $active (eq .Identifier $current.Params.menu) }}
-          {{ $active = or $active (and (eq .Name "Défis") (eq $current.Section "defis")) }}
-          {{ $active = or $active (and (eq .Name "Participants") (eq $current.RelPermalink "/talents/")) }}
-          {{ $active = or $active (and (eq .Name "Participants") (eq $current.RelPermalink "/agents/")) }}
-
+          {{ $active = or $active (and (eq .Name "Lauréats") (eq $current.Section "laureats")) }}
           {{ if(eq $current.Section "personnes") }}
-          {{ $active = or $active (and (eq .Name "Équipe") (eq $current.Params.role "agent-programme")) }}
-          {{ $active = or $active (and (eq .Name "Équipe") (eq $current.Params.role "agent-ecosysteme")) }}
-          {{ $active = or $active (and (eq .Name "Participants") (eq $current.Params.role "participant")) }}
-          {{ $active = or $active (and (eq .Name "Participants") (eq $current.Params.role "agent-public")) }}
+          {{ $active = or $active (and (eq .Name "L'Écosystème") (eq $current.Params.role "agent-programme")) }}
+          {{ $active = or $active (and (eq .Name "L'Écosystème") (eq $current.Params.role "agent-ecosysteme")) }}
           {{ end }}
 
           {{ $active = or $active (and (eq .Name "Participer") (eq $current.RelPermalink "/participer/candidats/")) }}
