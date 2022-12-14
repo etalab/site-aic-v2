@@ -125,16 +125,16 @@ collections: # A list of collections the CMS should be able to edit
               { label: "Agent public", value: "agent-public" },
             ],
         }
-      - {
-          label: "Défis",
-          name: "defis",
-          widget: "relation",
-          multiple: true,
-          collection: "defis",
-          value_field: "title",
-          search_fields: ["title"],
-          required: false,
-        }
+      # - {
+      #     label: "Défis",
+      #     name: "defis",
+      #     widget: "relation",
+      #     multiple: true,
+      #     collection: "defis",
+      #     value_field: "title",
+      #     search_fields: ["title"],
+      #     required: false,
+      #   }
       - {
           label: "Domaines",
           name: "domains",
