@@ -12,8 +12,12 @@ intro:
     ullamcorper.
   title: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac.
 video:
-  quote: "\"Former un service public augmenté, à l'intersection de deux bonnes
+  quote:
+    photo:
+    text: "\"Former un service public augmenté, à l'intersection de deux bonnes
     volontés : celle de l'administration et des citoyens\""
+    name:
+    desc: 
   video: "{{< dailymotion x8fy8tq \"Intervention du Président de la République
     Emmanuel Macron au Sommet de l'Open Gouvernment Partnership de Séoul, le 15
     décembre 2021\">}}"
