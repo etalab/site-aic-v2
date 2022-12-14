@@ -32,7 +32,7 @@
   <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
     <div class="fr-col-12 fr-col-sm-10 fr-col-lg-8">
       <h2 class="fr-h3 c-style-title">{{ .Params.video.quote }}</h2>
-      <p class="fr-text--lead fr-mb-0">{{ replace .Params.video.video "\n" "<br />" | safeHTML }}</p>
+      <p class="fr-text--lead fr-mb-0">{{ .Params.video.video }}</p>
     </div>
   </div>
 </div>
