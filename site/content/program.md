@@ -111,10 +111,5 @@ then:
 
 
     Pour les agents publics, le programme permet d'intégrer des outils et des talents durablement dans leurs services pour faire évoluer la qualité du service public. **90% des défis relevés lors du programme perdurent** ensuite dans les administrations qui les ont menés.
-quote:
-  photo: /img/marguerite-yourcenar3.jpg
-  quote: Même là où j’innovais, j’aimais à me sentir avant tout un continuateur.
-  name: Marguerite Yourcenar
-  desc: Mémoires d’Hadrien
 menu: program
 ---

@@ -480,15 +480,6 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { label: Description, name: desc, widget: markdown }
 
-          - label: "Citation"
-            name: quote
-            widget: object
-            fields:
-              - { label: Photo, name: photo, widget: image }
-              - { label: Citation, name: quote, widget: string }
-              - { label: Nom, name: name, widget: string }
-              - { label: Description, name: desc, widget: string }
-
       - file: "site/content/participer/_index.md"
         label: "Participer"
         name: "participate"
