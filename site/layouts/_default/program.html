@@ -30,6 +30,22 @@
       <div class="u-text-lg">
         {{ partial "markdownify-block" .Params.how.desc }}
       </div>
+      <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
+        {{ range $index, $tile := .Params.how.tiles }}
+        <div class="fr-col-6 fr-col-sm-3 fr-col-lg-2">
+          <div class="fr-tile fr-enlarge-link">
+            <div class="fr-tile__body">
+              <h4 class="fr-tile__title">
+                {{ $tile.title }}
+              </h4>
+            </div>
+            <div class="fr-tile__img">
+              <img src="{{ $tile.image }}" class="fr-responsive-img" alt="" />
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      </div>
       <h3>{{ .Params.steps.title }}</h3>
     </div>
   </div>

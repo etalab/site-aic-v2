@@ -28,14 +28,40 @@
   </div>
 </div>
 
-<div class="fr-container fr-mb-12v">
-  <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
-    <div class="fr-col-12 fr-col-sm-10 fr-col-lg-8">
-      <h2 class="fr-h3 c-style-title">{{ .Params.video.quote }}</h2>
-      <p class="fr-text--lead fr-mb-0">{{ .Params.video.video }}</p>
+<div class="fr-grid-row fr-grid-row--center">
+  <div class="fr-col-12 fr-col-lg-10">
+    <div class="
+          fr-grid-row fr-grid-row--gutters fr-grid-row--middle
+          c-section__agent c-section__agent--only
+          fr-mb-12v
+        ">
+      {{with .Params.video.quote.photo }}
+      <div class="fr-col-12 fr-col-md-3">
+        <div class="c-rounded">
+          <img src="{{ .Params.video.quote.photo }}" alt="" />
+        </div>
+      </div>
+      {{ end}}
+      <div class="fr-col-12 fr-col-md-9">
+        <p class="fr-mt-3v fr-h4 u-color-primary">
+          {{ .Params.video.quote.text }}
+        </p>
+        <div class="c-section__agent-info">
+          {{ with .Params.video.quote.name }}
+          <p class="fr-text--lg fr-mb-0">{{ .Params.video.quote.name }},</p>
+          {{ end }}
+          {{ with .Params.video.quote.desc }}
+            <p class="fr-mb-0">{{ .Params.video.quote.desc }}</p>
+          {{end }}
+        </div>
+      </div>
+      <div class="fr-col-12 fr-col-md-9">
+        <p class="fr-text--lead fr-mb-0">{{ .Params.video.video }}</p>
+      </div>
     </div>
   </div>
 </div>
+
 
 <div class="c-section">
   <div class="fr-container">

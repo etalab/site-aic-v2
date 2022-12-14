@@ -241,8 +241,14 @@ collections: # A list of collections the CMS should be able to edit
               widget: object,
               fields:
                 [
-                  { label: Citation, name: quote, widget: string },
-                  { label: Video, name: video, widget: markdown },
+                  { label: Citation, name: quote, widget: object, fields: [
+                    { label: Photo , name: photo, widget: image, required: false },
+                    { label: Texte, name: text, widget: string},
+                    { label: Auteur, name: name, widget: string, required: false },
+                    { label: Description, name: desc, widget: string, required: false }
+                  ] 
+                  },
+                  { label: Video, name: "body", widget: "markdown" },
                 ],
             }
           - {
@@ -438,7 +444,19 @@ collections: # A list of collections the CMS should be able to edit
             name: how
             widget: object
             fields:
-              - { label: Description, name: desc, widget: markdown }
+                [
+                  { label: Description, name: desc, widget: text },
+                  {
+                    label: Tuiles,
+                    name: tiles,
+                    widget: list,
+                    fields: 
+                      [
+                        { label: Title, name: title, widget: string },
+                        { label: Image, name: image, widget: image }
+                      ]
+                  }
+                ]
 
           - label: Phases
             name: steps
