@@ -236,53 +236,23 @@ collections: # A list of collections the CMS should be able to edit
                 ],
             }
           - {
-              label: Défis,
-              name: defis,
+              label: Video du Président de la République,
+              name: video,
               widget: object,
               fields:
                 [
-                  { label: Sous-titre, name: sub, widget: string },
-                  { label: Description, name: desc, widget: text },
+                  { label: Citation, name: quote, widget: string },
+                  { label: Video, name: video, widget: markdown },
                 ],
             }
           - {
-              label: Talents,
-              name: talents,
+              label: Lauréats,
+              name: laureats,
               widget: object,
               fields:
                 [
                   { label: Sous-titre, name: sub, widget: string },
                   { label: Description, name: desc, widget: text },
-                  {
-                    label: "Talents",
-                    name: "list",
-                    widget: "relation",
-                    multiple: true,
-                    max: 3,
-                    collection: "personnes",
-                    value_field: "title",
-                    search_fields: ["title"],
-                  },
-                ],
-            }
-          - {
-              label: Agents,
-              name: agents,
-              widget: object,
-              fields:
-                [
-                  { label: Sous-titre, name: sub, widget: string },
-                  { label: Description, name: desc, widget: text },
-                  {
-                    label: "Agents",
-                    name: "list",
-                    widget: "relation",
-                    multiple: true,
-                    max: 2,
-                    collection: "personnes",
-                    value_field: "title",
-                    search_fields: ["title"],
-                  },
                 ],
             }
           - {

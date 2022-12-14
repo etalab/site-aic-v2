@@ -28,98 +28,38 @@
   </div>
 </div>
 
+<div class="fr-container fr-mb-12v">
+  <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
+    <div class="fr-col-12 fr-col-sm-10 fr-col-lg-8">
+      <h2 class="fr-h3 c-style-title">{{ .Params.video.quote }}</h2>
+      <p class="fr-text--lead fr-mb-0">{{ replace .Params.video.video "\n" "<br />" | safeHTML }}</p>
+    </div>
+  </div>
+</div>
+
 <div class="c-section">
   <div class="fr-container">
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
       <div class="fr-col-12 fr-col-lg-10 fr-col-xl-9">
         <div class="c-section__head">
           <h2 class="fr-h3 fr-mb-2v">La mission</h2>
-          <h3 class="fr-h1 fr-mb-4v">{{ .Params.defis.sub }}</h3>
-          <p>{{ replace .Params.defis.desc "\n" "<br />" | safeHTML }}</p>
+          <h3 class="fr-h1 fr-mb-4v">{{ .Params.laureats.sub }}</h3>
+          <p>{{ replace .Params.laureats.desc "\n" "<br />" | safeHTML }}</p>
         </div>
       </div>
     </div>
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-10v">
-      {{ range first 3 ( where .Site.RegularPages "Type" "defis" ).ByDate }}
+      {{ range first 3 ( where .Site.RegularPages "Type" "laureats" ).ByDate }}
       <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
         {{ .Render "li" }}
       </div>
       {{ end }}
     </div>
     <div class="c-section__btn">
-      <a href="{{ relref . " defis" }}" class="fr-btn fr-btn--secondary">Parcourir d'autres défis</a>
+      <a href="{{ relref . " defis" }}" class="fr-btn fr-btn--secondary">Parcourir d'autres lauréats</a>
     </div>
   </div>
 </div>
-
-{{ $personnes := where (where .Site.Pages "Section" "personnes") ".Title" "in" .Params.talents.list }}
-{{ if ( gt ( len $personnes ) 0 ) }}
-<div class="c-section c-section--white">
-  <div class="fr-container">
-    <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
-      <div class="fr-col-12 fr-col-lg-10 fr-col-xl-9">
-        <div class="c-section__head">
-          <h2 class="fr-h3 fr-mb-2v">Qui</h2>
-          <h3 class="fr-h1 fr-mb-4v">{{ .Params.talents.sub }}</h3>
-          <p>{{ replace .Params.talents.desc "\n" "<br />" | safeHTML }}</p>
-        </div>
-      </div>
-    </div>
-    <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-10v">
-      {{ range $personnes }}
-      <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
-        {{ .Render "li" }}
-      </div>
-      {{ end }}
-    </div>
-    <div class="c-section__btn">
-      <a href="{{ relref . " talents" }}" class="fr-btn fr-btn--secondary">Découvrir d'autres profils EIG</a>
-    </div>
-  </div>
-</div>
-{{ end }}
-
-{{ $personnes := where (where .Site.Pages "Section" "personnes") ".Title" "in" .Params.agents.list }}
-{{ if ( gt ( len $personnes ) 0 ) }}
-<div class="c-section c-section--blue">
-  <div class="fr-container">
-    <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
-      <div class="fr-col-12 fr-col-lg-10 fr-col-xl-9">
-        <div class="c-section__head">
-          <h2 class="fr-h3 fr-mb-2v">Et aussi</h2>
-          <h3 class="fr-h1 fr-mb-4v">{{ .Params.agents.sub }}</h3>
-          <p>{{ replace .Params.agents.desc "\n" "<br />" | safeHTML }}</p>
-        </div>
-      </div>
-    </div>
-    <div class="fr-grid-row fr-grid-row--gutters">
-      {{ range $personnes }}
-      <div class="fr-col-12 fr-col-md-6">
-        <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--middle c-section__agent fr-enlarge-link">
-          <div class="fr-col-12 fr-col-lg-4">
-            <div class="c-rounded">
-              <img src="/{{ .Params.image }}" alt="">
-            </div>
-          </div>
-          <div class="fr-col-12 fr-col-lg-8">
-            <p class="fr-tag">{{ .Params.defi }}</p>
-            <p class="fr-mt-3v fr-mb-4v">{{ replace .Params.desc "\n" "<br />" | safeHTML }}</p>
-            <div class="c-section__agent-info">
-              <p class="fr-text--lg fr-mb-0"><a href="{{ .RelPermalink }}">{{ .Title }}</a>,</p>
-              <p>{{ .Params.job }}</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-    <div class="c-section__btn fr-mt-8v">
-      <a href="{{ relref . " agents" }}" class="fr-btn fr-btn--secondary">Découvrir d'autres profils d'agents
-        publics</a>
-    </div>
-  </div>
-</div>
-{{ end }}
 
 {{ if ne .Params.join.title "" }}
 <div class="c-join">
