@@ -8,8 +8,8 @@ promos:
   - Promotion 3 - DIG
 town: Paris
 date: 2021-10-17T09:42:47.429Z
-expertises:
-  - Design
+domains:
+  - Premier Domaine
 image: img/achadef.svg
 visible: true
 ---

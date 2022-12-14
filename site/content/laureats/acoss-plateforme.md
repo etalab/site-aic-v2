@@ -8,9 +8,8 @@ promos:
   - Promotion 3
 town: 93100 Montreuil
 date: 2021-09-30T14:05:02.160Z
-expertises:
-  - Design
-  - Développement
+domains:
+  - Premier Domaine
 image: img/eig3-acoss-plateforme.svg
 visible: true
 ---

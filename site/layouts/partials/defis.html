@@ -1,9 +1,0 @@
-<div class="fr-container fr-mb-20v">
-  <div class="fr-grid-row fr-grid-row--gutters fr-mb-10v js-grid">
-    {{ range ( where .Site.RegularPages "Type" "defis" ).ByDate }}
-      <div data-promo="{{ index (.Params.promos) 0 }}" class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3 {{ range $index, $expertises := .Params.expertises }}{{ if gt $index 0 }} {{ end }}is-cat-{{ . | urlize }}{{ end }} {{ range $index, $themes := .Params.themes }}{{ if gt $index 0 }} {{ end }}is-theme-{{ . | urlize }}{{ end }} {{ range $index, $promos := .Params.promos }}{{ if gt $index 0 }} {{ end }}is-promo-{{ . | urlize }}{{ end }}">
-        {{ .Render "li" }}
-      </div>
-    {{ end }}
-  </div>
-</div>

@@ -8,10 +8,8 @@ promos:
   - Promotion 4
 town: Saint-Denis (93200)
 date: 2021-09-22T14:30:53.904Z
-expertises:
-  - Data science
-  - Design
-  - Développement
+domains:
+  - Premier Domaine
 image: img/eig4-adex.svg
 visible: true
 ---
