@@ -4,14 +4,6 @@ numbers:
     title: Entrepreneurs d’intérêt général
     btnTitle: Découvrir les talents
     btnUrl: /talents
-  - num: "101"
-    title: Défis d’intérêt général
-    btnTitle: Parcourir les défis
-    btnUrl: /defis
-  - num: "80"
-    title: administrations impactées
-    btnTitle: Profils des agents publics
-    btnUrl: /agents
 steps:
   title: |
     Les 4 phases du programme
@@ -105,6 +97,11 @@ how:
 
 
     ![]()
+  tiles:
+    - title: Coaching et stratégie de croissance du projet
+      image: img/personalcoach.png
+    - title: Accès aux données, outils et briques techniques de l’État
+      image: img/datafind.png
 then:
   desc: >-
     ## Et après ?
