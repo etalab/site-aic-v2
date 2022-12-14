@@ -1,7 +1,7 @@
-baseurl = ""
+baseurl = "https://sig-actimage.github.io/"
 languageCode = "fr-fr"
 languageLang = "fr"
-title = "Test Jamstack"
+title = "Accélérateur d'initiatives citoyennes"
 paginate = 8
 
 # RSS, categories and tags disabled for an easy start

@@ -1,4 +1,4 @@
-# Test Jamstack à partir du site EIG
+# Site AIC - Accélérateur d'initiatives citoyennes
 
 ## Fonctionnement général
 
