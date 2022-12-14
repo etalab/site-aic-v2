@@ -14,7 +14,9 @@ intro:
 video:
   quote: "\"Former un service public augmenté, à l'intersection de deux bonnes
     volontés : celle de l'administration et des citoyens\""
-  video: '{{< dailymotion x8fy8tq"Vidéo ACOSS-Plateforme">}}'
+  video: "{{< dailymotion x8fy8tq \"Intervention du Président de la République
+    Emmanuel Macron au Sommet de l'Open Gouvernment Partnership de Séoul, le 15
+    décembre 2021\">}}"
 laureats:
   sub: Des initiatives innovantes portées par les citoyens
   desc: Bénéficier d'un accompagnement dans le développement de son initiative ...
