@@ -107,6 +107,7 @@ profiles:
   list:
     - ACOSS-Plateforme
     - ADEX
+  sub: Ils et elles sont devenus AIC
 wait:
   title: |-
     L’appel à candidatures pour notre
