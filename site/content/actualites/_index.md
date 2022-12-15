@@ -1,6 +1,6 @@
 ---
 title: Les actualités du programme
 layout: list
-url: /blog
+url: /actualites
 visible: false
 ---

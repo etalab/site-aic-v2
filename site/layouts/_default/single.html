@@ -11,7 +11,7 @@
               <a class="fr-breadcrumb__link" href="{{ .Site.BaseURL }}">Accueil</a>
             </li>
             <li>
-              <a class="fr-breadcrumb__link" href="{{ relref . "blog/_index.md" }}">Blog</a>
+              <a class="fr-breadcrumb__link" href="{{ relref . "actualites/_index.md" }}">Actualités</a>
             </li>
             <li>
               <a class="fr-breadcrumb__link" aria-current="page">{{ .Title }}</a>
@@ -38,7 +38,7 @@
       </div>
     </div>
   </div>
-  {{ $posts := where (where .Site.Pages "Section" "blog") ".Title" "in" .Params.related }}
+  {{ $posts := where (where .Site.Pages "Section" "actualites") ".Title" "in" .Params.related }}
   {{ if ( gt ( len $posts ) 0 ) }}
   <h2>À lire aussi</h2>
   <div class="fr-grid-row fr-grid-row--gutters fr-mb-12v">
