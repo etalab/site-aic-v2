@@ -35,6 +35,22 @@
         <div class="c-wysiwyg u-text-lg">
           {{ .Params.program | markdownify }}
           {{ partial "markdownify-block" .Params.steps }}
+          
+          <div class="c-link-head">
+            <h4 class="fr-h5">{{ .Params.profiles.sub }}</h4>
+            <a class="fr-btn fr-fi-arrow-right-line fr-btn--secondary" href="/laureats">Les lauréats AIC</a>
+          </div>
+          <div class="fr-grid-row fr-grid-row--gutters fr-mb-10v">
+            {{ $personnes := where (where .Site.Pages "Section" "laureats") ".Title" "in" .Params.profiles.list }}
+            {{ if ( gt ( len $personnes ) 0 ) }}
+            {{ range $personnes }}
+            <div class="fr-col-12 fr-col-sm-6 fr-col-md-4">
+              {{ .Render "li" }}
+            </div>
+            {{ end }}
+            {{ end }}
+          </div>
+
           {{ if not .Params.open }}
           <div class="c-wait fr-mb-6v">
             <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--middle">
@@ -48,7 +64,7 @@
             </div>
           </div>
           {{ end }}
-
+        
           {{ if .Params.open }}
           <div class="fr-mb-12v c-multi-btns">
             <a href="{{ .Params.head.apply.url }}" class="fr-btn fr-btn--lg">{{ .Params.head.apply.title }}</a>
