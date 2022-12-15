@@ -382,9 +382,9 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: Titre, name: title, widget: string }
           - { label: Description, name: desc, widget: text }
-      - file: "site/content/team.md"
-        label: "Equipe"
-        name: "team"
+      - file: "site/content/ecosystem.md"
+        label: "Ecosystème"
+        name: "ecosystem"
         fields:
           - { label: Titre, name: title, widget: string }
           - { label: Description, name: desc, widget: text }
