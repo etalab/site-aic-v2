@@ -772,3 +772,17 @@ collections: # A list of collections the CMS should be able to edit
               - { label: Description, name: desc, widget: markdown }
 
           - { label: Contact, name: contact, widget: markdown }
+
+      - file: "site/content/faq/_index.md"
+        label: "FAQ - Générale"
+        name: "faq"
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - label: "Questions"
+            name: questions
+            widget: list
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+
+          - { label: Contact, name: contact, widget: markdown }
