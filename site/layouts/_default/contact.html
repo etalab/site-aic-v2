@@ -21,35 +21,49 @@
       <h1 class="fr-mb-10v">Nous contacter</h1>
       <div class="fr-grid-row fr-grid-row--gutters">
         <div class="fr-col-12 fr-col-lg-6">
-          <p>* champs obligatoires</p>
           <form action="https://formspree.io/f/mayavydj" method="POST">
-            <div class="fr-form-group">
-              <fieldset class="fr-fieldset">
-                <legend class="a11y_visually-hidden">Formulaire de contact</legend>
-                <div class="fr-fieldset__content">
-                  <div class="fr-input-group">
-                    <label class="fr-label" for="nom">Votre nom *</label>
-                    <input class="fr-input" type="text" id="nom" name="nom" required />
-                  </div>
-                  <div class="fr-input-group">
-                    <label class="fr-label" for="email">Votre adresse e-mail *</label>
-                    <label class="fr-label fr-hint-text" for="email">Format attendu : nom@domaine.fr</label>
-                    <input class="fr-input" type="email" id="email" name="email" required />
-                  </div>
-                  <div class="fr-input-group">
-                    <label class="fr-label" for="sujet">Votre sujet *</label>
-                    <input class="fr-input" type="text" id="sujet" name="sujet" required />
-                  </div>
-                  <div class="fr-input-group">
-                    <label class="fr-label" for="message">Votre message *</label>
-                    <textarea class="fr-input" rows="5" id="message" name="message" required></textarea>
-                  </div>
+            <p>* champs obligatoires</p>
+              <!-- Fieldset personal data -->
+              <fieldset class="fr-fieldset fr-form-group">
+                <legend class="a11y_visually-hidden">Informations personnelles</legend>
+
+                <fieldset class="fr-fieldset fr-input-group">
+                  <legend class="a11y_visually-hidden">Nom</legend>
+                  <label class="fr-label" for="nom">Votre nom *</label>
+                  <input class="fr-input" type="text" autocomplete="name" id="nom" name="nom" required />
+                </fieldset>
+
+                <fieldset class="fr-fieldset fr-input-group">
+                  <legend class="a11y_visually-hidden">Addresse e-mail</legend>
+                  <label class="fr-label" for="email">Votre adresse e-mail *</label>
+                  <label class="fr-label fr-hint-text" for="email">Format attendu : nom@domaine.fr</label>
+                  <input class="fr-input" type="email" autocomplete="email" id="email" name="email" required />
+                </fieldset>
+              </fieldset>
+              <!-- END Fieldset personal data -->
+              <!-- Fieldset Message -->
+              <fieldset class="fr-fieldset fr-input-group">
+
+                <legend class="a11y_visually-hidden">Message</legend>
+
+                <fieldset class="fr-fieldset fr-input-group">
+                  <legend class="a11y_visually-hidden">Sujet</legend>
+                  <label class="fr-label" for="sujet">Votre sujet *</label>
+                  <input class="fr-input" type="text" id="sujet" name="sujet" required />
+                </fieldset>
+
+                <fieldset class="fr-fieldset fr-input-group">
+                  <legend class="a11y_visually-hidden">Corps du message</legend>
+                  <label class="fr-label" for="message">Votre message *</label>
+                  <textarea class="fr-input" rows="5" id="message" name="message" required></textarea>
+                </fieldset>
+              </fieldset>
+              <!-- END Fieldset Message -->
                   <button class="fr-btn" title="Envoyer votre message" type="submit">
                     Envoyer votre message
                   </button>
-                </div>
               </fieldset>
-            </div>
+              <div class="c-wysiwyg fr-mt-12v fr-mb-12v">{{ .Params.confidentiality }}</div>
           </form>
         </div>
         <div class="fr-col-12 fr-col-lg-5 fr-col-offset-lg-1">
@@ -64,9 +78,9 @@
               <p class="fr-mb-0">eig@data.gouv.fr</p>
             </div>
           </div>
+          <div class="c-wysiwyg fr-mt-12v fr-mb-12v">{{ .Content }}</div>
         </div>
       </div>
-      <div class="c-wysiwyg fr-mb-12v">{{ .Content }}</div>
     </div>
   </div>
 </div>

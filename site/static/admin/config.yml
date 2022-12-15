@@ -376,6 +376,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: "Titre", name: title, widget: string }
           - { label: "Contenu", name: "body", widget: "markdown" }
+          - { label: "Clause de confidentialité", name: "confidentiality", widget: "markdown" }
       - file: "site/content/laureats/_index.md"
         label: "Lauréats"
         name: "laureats"
