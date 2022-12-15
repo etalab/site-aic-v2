@@ -72,31 +72,12 @@ url: /programme
 image: img/bootcamp9_auto_x2-1-.jpg
 title: Programme
 desc: >-
-  Le programme Entrepreneurs d’intérêt général permet à des talents du numérique
-  d'intégrer des administrations, pour relever en 10 mois des défis qui
-  améliorent le service public.
-
-
-  En initiant des démarches d’exploration et d’émergence, l’ambition du programme est de développer une administration plus entrepreneuriale, tant dans ses méthodes que sa culture de travail. Les EIG adaptent leur trajectoire au contexte et aux enjeux : le chemin d'innovation suit une ligne de crête entre la stratégie et le terrain, en visant une incrémentation pérenne de la valeur. 
-
-
-  Ses valeurs cardinales sont :
-
-
-  > * Un service public inclusif et accessible : égalité et diversité, accessibilité numérique
-
-  > * Un service public ouvert et intelligible : ouverture des données, logiciel libre, explicabilité des algorithmes
-
-  > * Un service public moderne et collaboratif : entrepreneuriat, co-construction
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula, est sed faucibus placerat, erat lacus pharetra leo, nec venenatis quam justo ac massa. Maecenas in consectetur mi. Phasellus purus magna, finibus eu aliquam ac, facilisis id odio. Integer sagittis sem sagittis elit lobortis, in suscipit risus blandit. Sed egestas ipsum at nisi volutpat, eget elementum magna consectetur. Donec velit sapien, tristique quis libero quis, volutpat lacinia urna. Nullam eget velit aliquet, rhoncus neque sit amet, consectetur lorem.
 how:
   desc: >-
     ## Comment
 
-
-    L'innovation est un chemin pavé d'incertitudes et d’opportunités. Le programme EIG vous propose un cadre d’accompagnement en 4 phases pour faciliter la relève des défis. Avec le concours des expert(e)s de la DINUM, les coachs EIG fournissent un appui méthodologique et une expertise entrepreneuriale tout au long des 10 mois.
-
-
-    ![]()
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula, est sed faucibus placerat, erat lacus pharetra leo, nec venenatis quam justo ac massa. Maecenas in consectetur mi. Phasellus purus magna, finibus eu aliquam ac, facilisis id odio. Integer sagittis sem sagittis elit lobortis, in suscipit risus blandit. Sed egestas ipsum at nisi volutpat, eget elementum magna consectetur. Donec velit sapien, tristique quis libero quis, volutpat lacinia urna. Nullam eget velit aliquet, rhoncus neque sit amet, consectetur lorem.
   tiles:
     - title: Coaching et stratégie de croissance du projet
       image: img/personalcoach.png
@@ -106,10 +87,9 @@ then:
   desc: >-
     ## Et après ?
 
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula, est sed faucibus placerat, erat lacus pharetra leo, nec venenatis quam justo ac massa. Maecenas in consectetur mi. Phasellus purus magna, finibus eu aliquam ac, facilisis id odio. Integer sagittis sem sagittis elit lobortis, in suscipit risus blandit. Sed egestas ipsum at nisi volutpat, eget elementum magna consectetur. Donec velit sapien, tristique quis libero quis, volutpat lacinia urna. Nullam eget velit aliquet, rhoncus neque sit amet, consectetur lorem.
 
-    Pour les EIG, le programme offre une trajectoire de carrière permettant de mettre leurs compétences au service de l'intérêt général. Après 10 mois d'immersion au coeur des métiers de l'administration, **60% des EIG choisissent de rester dans le secteur public**.
 
-
-    Pour les agents publics, le programme permet d'intégrer des outils et des talents durablement dans leurs services pour faire évoluer la qualité du service public. **90% des défis relevés lors du programme perdurent** ensuite dans les administrations qui les ont menés.
+    Nullam eget sagittis turpis. Aenean rutrum ligula in diam tincidunt, vitae vulputate quam molestie. Aliquam ut convallis odio, non condimentum ante. Morbi sodales turpis et nibh tincidunt, quis eleifend massa euismod. Nulla laoreet lacinia orci non finibus. Nam felis diam, vulputate lobortis orci ac, euismod pharetra nisi. Nunc tristique ex tempus, interdum nunc ut, viverra lectus. Fusce sed mi ultrices, imperdiet nunc ut, pulvinar leo. In elit eros, consequat vitae dui a, porttitor placerat libero. Sed varius maximus felis vel volutpat. Curabitur ut lobortis tellus, sit amet ornare urna. 
 menu: program
 ---
