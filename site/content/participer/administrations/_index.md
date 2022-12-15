@@ -82,38 +82,6 @@ program: >-
   * un coaching par équipe
 
   * des apprentissages en pair-à-pair
-criteria:
-  title: "5 critères de sélection "
-  desc: >-
-    Chaque année, un appel à projets spécifique est ouvert à l’ensemble des
-    administrations publiques désireuses de proposer un projet numérique
-    innovant afin de pouvoir bénéficier d’une équipe d’EIG.
-
-
-    Pour être sélectionnés, les projets doivent répondre aux cinq critères suivants :
-  list:
-    - num: "1"
-      name: Besoin
-      desc: Un besoin clair, à fort impact, porté à un haut niveau hiérarchique par
-        l’administration d’accueil.
-    - num: "2"
-      name: Approche
-      desc: Caractère entrepreneurial du projet ; il ouvre un champ d’exploration des
-        usages et de la technologie tout en ayant une problématique circonscrite
-        et des profils du numérique cohérents
-    - num: "3"
-      name: Engagement
-      desc: Motivation pour participer au programme, ouvrir le terrain
-        d’expérimentation aux talents du numérique, et leur offrir de
-        l’autonomie.
-    - num: "4"
-      name: Transformation
-      desc: De fortes capacités de transformation numérique de l’administration.
-    - num: "5"
-      name: Ouverture
-      desc: Une démarche d’innovation ouverte (collaboration, co-construction,
-        gouvernance) et de partage de communs numériques (ouverture des données
-        et des codes-sources, mutualisation et réplication des productions).
 steps: >-
   ## Les étapes clés de la sélection
 

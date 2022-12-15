@@ -63,7 +63,7 @@
           <a class="fr-btn fr-fi-arrow-right-line fr-btn--secondary" href="/talents">Les talents EIG</a>
         </div>
         <div class="fr-grid-row fr-grid-row--gutters fr-mb-10v">
-          {{ $personnes := where (where .Site.Pages "Section" "personnes") ".Title" "in" .Params.profiles.list }}
+          {{ $personnes := where (where .Site.Pages "Section" "laureats") ".Title" "in" .Params.profiles.list }}
           {{ if ( gt ( len $personnes ) 0 ) }}
           {{ range $personnes }}
           <div class="fr-col-12 fr-col-sm-6 fr-col-md-4">
@@ -72,13 +72,18 @@
           {{ end }}
           {{ end }}
         </div>
-        <h3>{{ .Params.conditions.title }}</h3>
-        <div class="u-text-lg">
-          {{ .Params.conditions.desc | markdownify }}
-        </div>
         <h2>{{ .Params.how.title }}</h2>
         <div class="u-text-lg">
           {{ .Params.how.desc | markdownify }}
+        </div>
+        <div class="c-wysiwyg u-text-lg">
+          {{ .Params.program | markdownify }}
+          <h2>{{ .Params.criteria.title }}</h2>
+          {{ partial "markdownify-block" .Params.criteria.desc }}
+          {{ range .Params.criteria.list }}
+          <h3 class="fr-h4"><span class="fr-tag fr-tag--fix-center">Critère {{ .num }}</span> {{ .name }}</h3>
+          <p class="fr-mb-8v">{{ .desc }}</p>
+          {{ end }}
         </div>
         {{ if not .Params.open }}
         <div class="c-wait fr-mb-6v">
