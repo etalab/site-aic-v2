@@ -58,9 +58,40 @@ profiles:
 
     Et au-delà, des personnes qui veulent : transmettre une culture numérique à l’administration, s’engager dans l’open data et l’open source, participer à la mutualisation et à la réutilisation des produits et des données.
   list:
-    - "Cédric Merouani "
-    - Line Rahal
+    - ACOSS-Plateforme
+    - ADEX
   sub: Ils et elles sont devenus EIG
+how:
+  title: Comment devenir EIG de la prochaine promotion ?
+  desc: >-
+    Pour rejoindre le programme et ainsi relever un défi dans une
+    administration, il vous faudra répondre à notre prochain appel à
+    candidatures. 
+
+
+    Le processus de sélection se fait en 4 étapes : 
+
+
+    ![](img/steps.svg)
+
+
+    1. **Vous postulez** au programme via un formulaire de candidature en ligne
+
+    2. **Si vous êtes pré-sélectionnés, vous votez** pour les défis que vous souhaitez relever
+
+    3. **Vous échangez avec un jury** composé d'agents publics et d'experts lors d'une audition pour relever un défi pour lequel vous avez voté
+
+    4. **Vous rejoignez le programme Entrepreneurs d'intérêt général et une administration** pendant 10 mois
+
+
+    ###### Pour en savoir plus :
+
+
+    * Accédez à [notre foire aux questions](https://eig.etalab.gouv.fr/participer/candidats/faq/)
+
+    * Consultez la [plaquette de l'appel à candidatures 2022](https://eig.etalab.gouv.fr/img/aac-eig6-plaquette.pdf)
+
+    * Lisez notre [article de blog](https://www.etalab.gouv.fr/letat-recherche-des-profils-du-numerique-rejoignez-les-entrepreneurs-dinteret-general/)
 criteria:
   title: "5 critères de sélection "
   desc: >-
@@ -93,37 +124,6 @@ criteria:
       desc: Une démarche d’innovation ouverte (collaboration, co-construction,
         gouvernance) et de partage de communs numériques (ouverture des données
         et des codes-sources, mutualisation et réplication des productions).
-how:
-  title: Comment devenir EIG de la prochaine promotion ?
-  desc: >-
-    Pour rejoindre le programme et ainsi relever un défi dans une
-    administration, il vous faudra répondre à notre prochain appel à
-    candidatures. 
-
-
-    Le processus de sélection se fait en 4 étapes : 
-
-
-    ![](img/steps.svg)
-
-
-    1. **Vous postulez** au programme via un formulaire de candidature en ligne
-
-    2. **Si vous êtes pré-sélectionnés, vous votez** pour les défis que vous souhaitez relever
-
-    3. **Vous échangez avec un jury** composé d'agents publics et d'experts lors d'une audition pour relever un défi pour lequel vous avez voté
-
-    4. **Vous rejoignez le programme Entrepreneurs d'intérêt général et une administration** pendant 10 mois
-
-
-    ###### Pour en savoir plus :
-
-
-    * Accédez à [notre foire aux questions](https://eig.etalab.gouv.fr/participer/candidats/faq/)
-
-    * Consultez la [plaquette de l'appel à candidatures 2022](https://eig.etalab.gouv.fr/img/aac-eig6-plaquette.pdf)
-
-    * Lisez notre [article de blog](https://www.etalab.gouv.fr/letat-recherche-des-profils-du-numerique-rejoignez-les-entrepreneurs-dinteret-general/)
 wait:
   title: L'appel à candidatures 2022 du programme Entrepreneurs d'Intérêt Général
     est désormais clos.
