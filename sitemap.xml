@@ -303,8 +303,6 @@
   </url><url>
     <loc>/personnes/adeline-celier/</loc>
   </url><url>
-    <loc>/participer/administrations/</loc>
-  </url><url>
     <loc>/personnes/adnene-trojette/</loc>
   </url><url>
     <loc>/personnes/adrien-laville/</loc>
@@ -467,6 +465,8 @@
   </url><url>
     <loc>/personnes/constance-de-quatrebarbes/</loc>
   </url><url>
+    <loc>/participer/contribuer/</loc>
+  </url><url>
     <loc>/personnes/coralie-coton/</loc>
   </url><url>
     <loc>/personnes/coraline-gillard/</loc>
@@ -603,7 +603,7 @@
   </url><url>
     <loc>/personnes/florent-robic/</loc>
   </url><url>
-    <loc>/participer/administrations/faq/</loc>
+    <loc>/participer/contribuer/faq/</loc>
   </url><url>
     <loc>/participer/candidats/faq/</loc>
   </url><url>
@@ -1001,7 +1001,7 @@
   </url><url>
     <loc>/promos/promotion-6/</loc>
   </url><url>
-    <loc>/participer/administrations/proposer/</loc>
+    <loc>/participer/contribuer/proposer/</loc>
   </url><url>
     <loc>/themes/protection-sociale/</loc>
   </url><url>
