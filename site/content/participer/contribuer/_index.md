@@ -1,19 +1,19 @@
 ---
-title: Administrations
-layout: admins
+title: Contribuer
+layout: contribute
 open: false
 head:
   desc: Parce que nous croyons qu'une transformation durable se fait de
     l'intérieur... le programme Entrepreneurs d'intérêt général vous aide à
     intégrer des outils et des talents dans vos administrations pour faire
     évoluer la qualité du service public.
-  title: Administrations
+  title: Contribuer
   apply:
     title: Proposer un projet
-    url: /participer/administrations/proposer
+    url: /participer/contribuer/proposer
   call:
     title: Cahier des charges
-    url: img/aap-eig6-cahier-des-charges.pdf
+    url: ../../img/aap-eig6-cahier-des-charges.pdf
 program: >-
   ## L'APPEL A PROJET 2022 EST FERMÉ
 
@@ -25,7 +25,7 @@ program: >-
 
   * Consultez la [plaquette de l’appel à projets 2022](https://eig.etalab.gouv.fr/img/aap-eig6_plaquette.pdf)
 
-  * Accédez à [notre foire aux questions](https://eig.etalab.gouv.fr/participer/administrations/faq/)
+  * Accédez à [notre foire aux questions](https://eig.etalab.gouv.fr/participer/contribuer/faq/)
 
 
   Vous avez déjà un projet ou souhaitez explorer des idées avec notre équipe :
@@ -33,7 +33,7 @@ program: >-
 
   * Contactez-nous : [eig@data.gouv.fr](eig@data.gouv.fr) 
 
-  * Inscrivez-vous à [nos webinaires d'information](https://eig.etalab.gouv.fr/participer/administrations/proposer/)
+  * Inscrivez-vous à [nos webinaires d'information](https://eig.etalab.gouv.fr/participer/contribuer/proposer/)
 
 
   ## Ce que le programme vous propose
@@ -103,6 +103,10 @@ steps: >-
 
 
   ![]()
+profiles:
+  list:
+    - ACOSS-Plateforme
+    - ADEX
 wait:
   title: |-
     L’appel à candidatures pour notre

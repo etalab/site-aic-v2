@@ -17,9 +17,9 @@ url: /plan-du-site
 * ## [Participer](https://eig.etalab.gouv.fr/participer/)
 * ### [Candidats](https://eig.etalab.gouv.fr/participer/candidats/)
 
-  * ### [Administrations](https://eig.etalab.gouv.fr/participer/administrations/)
+  * ### [Administrations](https://eig.etalab.gouv.fr/participer/contribuer/)
 
-    * #### [Proposer un projet](https://eig.etalab.gouv.fr/participer/administrations/proposer/)
+    * #### [Proposer un projet](https://eig.etalab.gouv.fr/participer/contribuer/proposer/)
     * #### [Cahier des charges](https://eig.etalab.gouv.fr/img/aap-eig6-cahier-des-charges.pdf)
 * ## [Contact](https://eig.etalab.gouv.fr/contact/)
 * ## [Blog](https://eig.etalab.gouv.fr/blog/)

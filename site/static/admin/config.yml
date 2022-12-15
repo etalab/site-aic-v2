@@ -628,6 +628,21 @@ collections: # A list of collections the CMS should be able to edit
                 fields:
                   - { label: Date, name: date, widget: string }
                   - { label: Description, name: desc, widget: markdown }
+          - label: "Laureats"
+            name: laureats
+            widget: object
+            fields:
+              - { label: Titre, name: title, widget: string }
+              - { label: Description, name: desc, widget: markdown }
+              - { label: "Sous-titre", name: sub, widget: string }
+              - label: "Laureats"
+                name: "list"
+                widget: "relation"
+                multiple: true
+                max: 3
+                collection: "laureats"
+                value_field: "title"
+                search_fields: ["title"]
 
           - { label: Questions, name: questions, widget: markdown }
           - label: "Rejoindre"
@@ -653,9 +668,9 @@ collections: # A list of collections the CMS should be able to edit
 
           - { label: Contact, name: contact, widget: markdown }
 
-      - file: "site/content/participer/administrations/_index.md"
-        label: "Administrations"
-        name: "admins"
+      - file: "site/content/participer/contribuer/_index.md"
+        label: "Contribuer"
+        name: "contribute"
         fields:
           - { label: "Candidatures ouvertes", name: open, widget: boolean }
           - label: "Haut de page"
@@ -711,7 +726,7 @@ collections: # A list of collections the CMS should be able to edit
               - { label: Titre, name: title, widget: text }
               - { label: Description, name: desc, widget: markdown }
 
-      - file: "site/content/participer/administrations/proposer.md"
+      - file: "site/content/participer/contribuer/proposer.md"
         label: "Proposer"
         name: "proposer"
         fields:
@@ -745,7 +760,7 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Questions, name: questions, widget: markdown }
           - { label: Communication, name: com, widget: markdown }
 
-      - file: "site/content/participer/administrations/faq.md"
+      - file: "site/content/participer/contribuer/faq.md"
         label: "FAQ - Administrations"
         name: "admins-faq"
         fields:

@@ -37,7 +37,7 @@ questions: >-
   ## Des questions ?
 
 
-  * Trouvez des réponses dans notre [foire aux questions](https://eig.etalab.gouv.fr/participer/administrations/faq/)
+  * Trouvez des réponses dans notre [foire aux questions](https://eig.etalab.gouv.fr/participer/contribuer/faq/)
 
   * Pendant toute la durée de l'appel à projet, vous pouvez bénéficier d'un entretien de pré-incubation avec un coach produit. L'objectif de ce nouveau dispositif est de vous accompagner dans l'élaboration de votre stratégie entrepreneuriale. Pour ce faire, [réservez un créneau parmi ceux proposés](https://calendly.com/thomas-parisot/entretien-de-pre-incubation).
 

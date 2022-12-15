@@ -78,9 +78,9 @@
           {{ $active = or $active (and (eq .Name "Participer") (eq $current.RelPermalink
           "/participer/candidats/postuler/")) }}
           {{ $active = or $active (and (eq .Name "Participer") (eq $current.RelPermalink
-          "/participer/administrations/")) }}
+          "/participer/contribuer/")) }}
           {{ $active = or $active (and (eq .Name "Participer") (eq $current.RelPermalink
-          "/participer/administrations/proposer/")) }}
+          "/participer/contribuer/proposer/")) }}
           {{ if .HasChildren }}
           <li class="fr-nav__item">
             <button class="fr-nav__btn" aria-expanded="false" aria-controls="menu-807" {{ if $active }}
