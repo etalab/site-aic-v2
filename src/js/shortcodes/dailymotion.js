@@ -16,6 +16,6 @@ export default {
         return `{{< dailymotion ${obj.shortcode} >}}`;
     },
     toPreview: function (obj) {
-        return `<div class="c-embed fr-mb-8v"><iframe frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/${obj.shortcode}" width="100%" height="100%" allowfullscreen></iframe></div>`;
+        return `<div class="c-embed fr-mb-8v"><iframe frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/${obj.shortcode}" allowfullscreen></iframe></div>`;
     },
 }
