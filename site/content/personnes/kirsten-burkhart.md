@@ -6,7 +6,7 @@ promos:
 role: agent-programme
 laureats:
   - AchaDef
-expertises:
+domains:
   - Développement
 image: img/promotion-6-photos/kadfoto.jpg
 linkedin: https://www.linkedin.com/in/abdelkader-kersani/

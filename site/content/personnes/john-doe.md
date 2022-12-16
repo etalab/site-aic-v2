@@ -6,7 +6,7 @@ promos:
 role: participant
 laureats:
   - AchaDef
-expertises:
+domains:
   - Développement
 image: img/promotion-6-photos/img_0011_-_copie.jpg
 linkedin: https://www.linkedin.com/in/abdelali-boulajine

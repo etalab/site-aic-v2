@@ -7,7 +7,7 @@ role: agent-programme
 laureats:
   - ADEX  
   - AchaDef
-expertises:
+domains:
   - Design
 image: img/promotion-6-photos/screenshot_2022-08-13_at_10.27.48.png
 linkedin: https://fr.linkedin.com/in/adrien-laville-0667b453

@@ -6,7 +6,7 @@ promos:
 role: agent-programme
 laureats:
   - AchaDef
-expertises:
+domains:
   - Data science
 image: img/adriensignorino.png
 github: https://github.com/sign0
