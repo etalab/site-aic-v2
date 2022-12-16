@@ -11,16 +11,9 @@ intro:
     vitae consectetur nulla egestas eget. Curabitur fringilla eros eu iaculis
     ullamcorper.
   title: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac.
-video:
-  quote:
-    photo:
-    text: "\"Former un service public augmenté, à l'intersection de deux bonnes
-    volontés : celle de l'administration et des citoyens\""
-    name:
-    desc: 
-  video: "{{< dailymotion x8fy8tq \"Intervention du Président de la République
-    Emmanuel Macron au Sommet de l'Open Gouvernment Partnership de Séoul, le 15
-    décembre 2021\">}}"
+quote:
+  text: "\"Former un service public augmenté, à l'intersection de deux bonnes
+  volontés : celle de l'administration et des citoyens\""
 laureats:
   sub: Des initiatives innovantes portées par les citoyens
   desc: Bénéficier d'un accompagnement dans le développement de son initiative ...
@@ -44,3 +37,4 @@ medias:
       title: Usbek & Rica
       image: img/u-b.png
 ---
+{{< dailymotion x8fy8tq >}}

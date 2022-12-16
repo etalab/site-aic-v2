@@ -236,21 +236,19 @@ collections: # A list of collections the CMS should be able to edit
                 ],
             }
           - {
-              label: Video du Président de la République,
-              name: video,
+              label: Citation,
+              name: quote,
               widget: object,
               fields:
                 [
-                  { label: Citation, name: quote, widget: object, fields: [
+                  
                     { label: Photo , name: photo, widget: image, required: false },
                     { label: Texte, name: text, widget: string},
                     { label: Auteur, name: name, widget: string, required: false },
                     { label: Description, name: desc, widget: string, required: false }
-                  ] 
-                  },
-                  { label: Video, name: "body", widget: "markdown" },
                 ],
             }
+          - { label: Video, name: "body", widget: "markdown" }
           - {
               label: Lauréats,
               name: laureats,
