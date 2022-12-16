@@ -3,7 +3,7 @@
     <h4 class="fr-card__title">
       <a href="{{ .RelPermalink }}" class="fr-card__link">{{ .Title }}</a>
     </h4>
-    {{ with .Params.defis }}
+    {{ with .Params.laureats }}
     {{ if ( gt ( len . ) 0 ) }}
     <p class="fr-card__detail">
       {{ delimit . ", " }}

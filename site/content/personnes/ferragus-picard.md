@@ -1,11 +1,11 @@
 ---
-title: Alain Régnier
+title: Ferragus Picard
 job: Porteur de projet
 promos:
   - Promotion 3
 role: agent-public
-defis:
-  - Karfu’R
+laureats:
+  - ADEX
 image: img/alain-regnier.png
 ---
 

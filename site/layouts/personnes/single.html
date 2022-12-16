@@ -32,7 +32,7 @@
             {{ end }}
             <h1 class="fr-mb-2v">{{ .Title }}</h1>
             <div class="fr-h4 fr-mb-2v">{{ .Params.job }}</div>
-            {{ $defi := where (where .Site.Pages "Section" "defis") ".Title" "in" .Params.defis }}
+            {{ $defi := where (where .Site.Pages "Section" "laureats") ".Title" "in" .Params.laureats }}
             {{ if ( gt ( len $defi ) 0 ) }}
             <ul class="fr-tags-group">
               {{ range $defi }}

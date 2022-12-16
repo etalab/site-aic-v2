@@ -1,11 +1,11 @@
 ---
-title: Abdelali Boulajine
+title: John Doe
 job: Développeur
 promos:
   - Promotion 6
 role: participant
-defis:
-  - SIRANo
+laureats:
+  - AchaDef
 expertises:
   - Développement
 image: img/promotion-6-photos/img_0011_-_copie.jpg

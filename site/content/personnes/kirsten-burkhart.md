@@ -1,11 +1,11 @@
 ---
-title: Abdelkader Kersani
+title: Kirsten J. Burkhart
 job: Développeur
 promos:
   - Promotion 6
-role: participant
-defis:
-  - Etat bas carbone
+role: agent-programme
+laureats:
+  - AchaDef
 expertises:
   - Développement
 image: img/promotion-6-photos/kadfoto.jpg

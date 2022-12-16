@@ -1,11 +1,11 @@
 ---
-title: Albane Miron De L'Espinay
+title: Laurence Cousteau
 job: Porteuse
 promos:
   - Promotion 6
-role: agent-public
-defis:
-  - SIRANo
+role: agent-ecosysteme
+laureats:
+  - ADEX
 image: img/promotion-6-photos/photo_184.jpg
 linkedin: https://www.linkedin.com/in/albane-miron-de-l-espinay-900265105/
 ---

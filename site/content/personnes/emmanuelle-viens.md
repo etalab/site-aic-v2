@@ -1,11 +1,11 @@
 ---
-title: Adrien Signorino
+title: Emmanuelle Viens
 job: Data scientist
 promos:
   - Promotion 2
-role: participant
-defis:
-  - b@liseNAV
+role: agent-programme
+laureats:
+  - AchaDef
 expertises:
   - Data science
 image: img/adriensignorino.png

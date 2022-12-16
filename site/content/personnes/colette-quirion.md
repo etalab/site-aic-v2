@@ -1,11 +1,12 @@
 ---
-title: Adrien Laville
+title: Colette Quirion
 job: Designer
 promos:
   - Promotion 6
-role: participant
-defis:
-  - Pilote Intelligence
+role: agent-programme
+laureats:
+  - ADEX  
+  - AchaDef
 expertises:
   - Design
 image: img/promotion-6-photos/screenshot_2022-08-13_at_10.27.48.png
