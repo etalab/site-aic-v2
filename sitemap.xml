@@ -173,5 +173,11 @@
     <loc>/participer/</loc>
   </url><url>
     <loc>/domains/deuxieme-domaine-1/</loc>
+  </url><url>
+    <loc>/categories/ecosysteme/</loc>
+  </url><url>
+    <loc>/categories/evaluation/</loc>
+  </url><url>
+    <loc>/categories/evenement/</loc>
   </url>
 </urlset>

@@ -436,5 +436,32 @@ Quand la science des données éclaire la gestion RH à l’hôpital
       <description></description>
     </item>
     
+    <item>
+      <title>Écosystème</title>
+      <link>/categories/ecosysteme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ecosysteme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Évaluation</title>
+      <link>/categories/evaluation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Évènement</title>
+      <link>/categories/evenement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/evenement/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
