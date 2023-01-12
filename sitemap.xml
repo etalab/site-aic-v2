@@ -118,6 +118,10 @@
   </url><url>
     <loc>/gestion-des-cookies/</loc>
   </url><url>
+    <loc>/categories/international/</loc>
+  </url><url>
+    <loc>/categories/integration/</loc>
+  </url><url>
     <loc>/personnes/john-doe/</loc>
   </url><url>
     <loc>/personnes/kirsten-burkhart/</loc>
@@ -135,6 +139,8 @@
     <loc>/espace-presse/</loc>
   </url><url>
     <loc>/categories/open/</loc>
+  </url><url>
+    <loc>/categories/partenariat/</loc>
   </url><url>
     <loc>/personnes/</loc>
   </url><url>
@@ -173,6 +179,8 @@
     <loc>/participer/</loc>
   </url><url>
     <loc>/domains/deuxieme-domaine-1/</loc>
+  </url><url>
+    <loc>/categories/temoignage/</loc>
   </url><url>
     <loc>/categories/ecosysteme/</loc>
   </url><url>

@@ -207,6 +207,24 @@ TEST LIEN PDF</description>
     </item>
     
     <item>
+      <title>International</title>
+      <link>/categories/international/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/international/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intégration</title>
+      <link>/categories/integration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>John Doe</title>
       <link>/personnes/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -298,6 +316,15 @@ Quand la science des données éclaire la gestion RH à l’hôpital
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/categories/open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partenariat</title>
+      <link>/categories/partenariat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/partenariat/</guid>
       <description></description>
     </item>
     
@@ -433,6 +460,15 @@ Quand la science des données éclaire la gestion RH à l’hôpital
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/domains/deuxieme-domaine-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Témoignage</title>
+      <link>/categories/temoignage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/temoignage/</guid>
       <description></description>
     </item>
     
