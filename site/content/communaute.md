@@ -1,8 +1,8 @@
 ---
 title: "Qui sommes-nous ? "
-layout: ecosystem
-menu: ecosystem
-url: /ecosysteme
+layout: communaute
+menu: communaute
+url: /communaute
 desc: L'Accélérateur d'Initiatives Citoyennes est un programme d'Etalab au sein
   de la direction interministérielle du numérique en partenariat avec la
   direction interminitérielle de la transformation publique.

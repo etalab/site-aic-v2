@@ -36,9 +36,9 @@ removePathAccents = true
     weight = 2  
 
   [[menu.nav]]
-    name = "L'Écosystème"
-    url = "/ecosysteme"
-    identifier = "ecosystem"
+    name = "Communauté"
+    url = "/communaute"
+    identifier = "communaute"
     weight = 4
   [[menu.nav]]
     name = "Participer"
