@@ -50,8 +50,8 @@ export default class TAC {
     });
 
     (tarteaucitron.job = tarteaucitron.job || []).push('dailymotion');
-    tarteaucitron.user.matomoId = 171;
-    tarteaucitron.user.matomoHost = 'https://test-clone.fr/';
+    tarteaucitron.user.matomoId = 210;
+    tarteaucitron.user.matomoHost = 'https://stats.data.gouv.fr/';
     (tarteaucitron.job = tarteaucitron.job || []).push('matomo');
   }
 }
