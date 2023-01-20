@@ -4,8 +4,8 @@ description: Prévenir les conflits d'intérêts dans le domaine médical
 who: Haute Autorité de Santé
 themes:
   - Santé
-promos:
-  - Promotion 4
+impacts:
+  - Impact 1
 town: Saint-Denis (93200)
 date: 2021-09-22T14:30:53.904Z
 domains:
