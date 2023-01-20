@@ -26,16 +26,16 @@
     <loc>/laureats/achadef/</loc>
     <lastmod>2021-10-17T09:42:47+00:00</lastmod>
   </url><url>
+    <loc>/impacts/impact-1/</loc>
+    <lastmod>2021-10-17T09:42:47+00:00</lastmod>
+  </url><url>
+    <loc>/impacts/</loc>
+    <lastmod>2021-10-17T09:42:47+00:00</lastmod>
+  </url><url>
+    <loc>/impacts/</loc>
+    <lastmod>2021-10-17T09:42:47+00:00</lastmod>
+  </url><url>
     <loc>/laureats/</loc>
-    <lastmod>2021-10-17T09:42:47+00:00</lastmod>
-  </url><url>
-    <loc>/promos/</loc>
-    <lastmod>2021-10-17T09:42:47+00:00</lastmod>
-  </url><url>
-    <loc>/promos/</loc>
-    <lastmod>2021-10-17T09:42:47+00:00</lastmod>
-  </url><url>
-    <loc>/promos/promotion-3-dig/</loc>
     <lastmod>2021-10-17T09:42:47+00:00</lastmod>
   </url><url>
     <loc>/themes/securite/</loc>
@@ -50,16 +50,13 @@
     <loc>/laureats/acoss-plateforme/</loc>
     <lastmod>2021-09-30T14:05:02+00:00</lastmod>
   </url><url>
-    <loc>/promos/promotion-3/</loc>
+    <loc>/impacts/impact-2/</loc>
     <lastmod>2021-09-30T14:05:02+00:00</lastmod>
   </url><url>
     <loc>/themes/service-public/</loc>
     <lastmod>2021-09-30T14:05:02+00:00</lastmod>
   </url><url>
     <loc>/laureats/adex/</loc>
-    <lastmod>2021-09-22T14:30:53+00:00</lastmod>
-  </url><url>
-    <loc>/promos/promotion-4/</loc>
     <lastmod>2021-09-22T14:30:53+00:00</lastmod>
   </url><url>
     <loc>/themes/sante/</loc>
@@ -118,6 +115,10 @@
   </url><url>
     <loc>/gestion-des-cookies/</loc>
   </url><url>
+    <loc>/impacts/impact-1/</loc>
+  </url><url>
+    <loc>/impacts/impact-2/</loc>
+  </url><url>
     <loc>/categories/international/</loc>
   </url><url>
     <loc>/categories/integration/</loc>
@@ -152,11 +153,17 @@
   </url><url>
     <loc>/programme/</loc>
   </url><url>
+    <loc>/promos/</loc>
+  </url><url>
+    <loc>/promos/</loc>
+  </url><url>
     <loc>/promos/promotion-1/</loc>
   </url><url>
     <loc>/promos/promotion-2/</loc>
   </url><url>
     <loc>/promos/promotion-2/</loc>
+  </url><url>
+    <loc>/promos/promotion-3/</loc>
   </url><url>
     <loc>/promos/promotion-3/</loc>
   </url><url>

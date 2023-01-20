@@ -5,41 +5,22 @@
     <link>/promos/</link>
     <description>Recent content in Promos on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Sun, 17 Oct 2021 09:42:47 +0000</lastBuildDate><atom:link href="/promos/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Promotion 3 - DIG</title>
-      <link>/promos/promotion-3-dig/</link>
-      <pubDate>Sun, 17 Oct 2021 09:42:47 +0000</pubDate>
-      
-      <guid>/promos/promotion-3-dig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Promotion 3</title>
-      <link>/promos/promotion-3/</link>
-      <pubDate>Thu, 30 Sep 2021 14:05:02 +0000</pubDate>
-      
-      <guid>/promos/promotion-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Promotion 4</title>
-      <link>/promos/promotion-4/</link>
-      <pubDate>Wed, 22 Sep 2021 14:30:53 +0000</pubDate>
-      
-      <guid>/promos/promotion-4/</guid>
-      <description></description>
-    </item>
-    
+    <language>fr-fr</language><atom:link href="/promos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Promotion 2</title>
       <link>/promos/promotion-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/promos/promotion-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promotion 3</title>
+      <link>/promos/promotion-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/promos/promotion-3/</guid>
       <description></description>
     </item>
     
