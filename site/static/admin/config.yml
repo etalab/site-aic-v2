@@ -35,10 +35,10 @@ collections: # A list of collections the CMS should be able to edit
           search_fields: ["title"],
         }
       - {
-          label: "Promotions",
-          name: "promos",
+          label: "Impacts",
+          name: "impacts",
           widget: "relation",
-          collection: "promos",
+          collection: "impacts",
           multiple: true,
           value_field: "title",
           search_fields: ["title"],
@@ -178,6 +178,13 @@ collections: # A list of collections the CMS should be able to edit
     label: "Promotions" # Used in the UI, ie.: "New Post"
     label_singular: "Promotion"
     folder: "site/content/promos" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: "Titre", name: "title", widget: "string" }
+  - name: "impacts" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Impacts" # Used in the UI, ie.: "New Post"
+    label_singular: "Impact"
+    folder: "site/content/impacts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: "Titre", name: "title", widget: "string" }
@@ -381,9 +388,9 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: Titre, name: title, widget: string }
           - { label: Description, name: desc, widget: text }
-      - file: "site/content/ecosystem.md"
-        label: "Ecosystème"
-        name: "ecosystem"
+      - file: "site/content/communaute.md"
+        label: "Communauté"
+        name: "communaute"
         fields:
           - { label: Titre, name: title, widget: string }
           - { label: Description, name: desc, widget: text }
@@ -717,12 +724,6 @@ collections: # A list of collections the CMS should be able to edit
                 collection: "laureats"
                 value_field: "title"
                 search_fields: ["title"]
-          - label: "Prochaine promotion"
-            name: wait
-            widget: object
-            fields:
-              - { label: Titre, name: title, widget: text }
-              - { label: Description, name: desc, widget: markdown }
       - file: "site/content/participer/contribuer/proposer.md"
         label: "Proposer"
         name: "proposer"

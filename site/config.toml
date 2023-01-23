@@ -16,6 +16,7 @@ removePathAccents = true
   promo = "promos"
   expertise = "expertises"
   category = "categories"
+  impact = "impacts"
 
 [markup]
   defaultMarkdownHandler = "goldmark"

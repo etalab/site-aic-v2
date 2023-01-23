@@ -4,8 +4,8 @@ description: Simplifier les démarches des cotisants à l’aide des données de
 who: Agence centrale des organismes de sécurité sociale (ACOSS)
 themes:
   - Service public
-promos:
-  - Promotion 3
+impacts:
+  - Impact 2
 town: 93100 Montreuil
 date: 2021-09-30T14:05:02.160Z
 domains:

@@ -4,8 +4,8 @@ description: Faciliter l’accès aux achats hors armement du ministère des Arm
 who: Ministère des Armées
 themes:
   - Sécurité
-promos:
-  - Promotion 3 - DIG
+impacts:
+  - Impact 1
 town: Paris
 date: 2021-10-17T09:42:47.429Z
 domains:
