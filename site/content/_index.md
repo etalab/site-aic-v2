@@ -27,11 +27,14 @@ join:
 medias:
   desc: Parcourez les articles, tribunes, posts de blog sur le programme
   tiles:
-    - title: Les Echos Start
-      image: img/logo-les-echos.png
-      link: https://start.lesechos.fr/travailler-mieux/metiers-reconversion/salaries-dans-la-tech-ils-ont-quitte-le-prive-pour-innover-dans-le-secteur-public-1352864
-    - title: Usbek & Rica
-      image: img/usbek-rica.png
-      link: https://usbeketrica.com/fr/article/le-manoir-de-verre-comment-la-tech-traite-t-elle-les-femmes-developpeuses-ou-data-scientists
+    - title: AEF info
+      image: img/logo-aef-info.svg
+      link: https://www.aefinfo.fr/depeche/680264-l-accelerateur-d-initiatives-citoyennes-tire-le-bilan-de-sa-premiere-promotion
+    - title: Acteurs publics
+      image: img/Acteurspublics-logo.png
+      link: https://acteurspublics.fr/articles/une-cooperation-en-germe-entre-administration-et-citoyens
+    - title: Le Monde
+      image: img/Le_Monde.svg
+      link: https://www.lemonde.fr/politique/article/2022/03/30/le-service-public-se-convertit-timidement-au-mecenat-de-competences_6119801_823448.html
 ---
 {{< dailymotion x8fy8tq "Intervention du Président de la République  Macron au Sommet de l'Open Gouvernment Partnership de Séoul, le 15 décembre 2021" >}}
