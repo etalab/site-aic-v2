@@ -10,6 +10,10 @@
     background-color: #f2f2f9;
   }
 
+  &--wild-blue-yonder {
+    background-color: #B2BDE0;
+  }
+
   @media (min-width: 48em) {
     padding: 3rem 0;
   }
