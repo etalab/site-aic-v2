@@ -48,7 +48,7 @@ program: >-
   ![Mentions "recrutement", "financement" et "aide à l'innovation"](img/admin_soutienx3_vecto.svg "Un soutien à 3 niveaux")
 
 
-  #### Recrutement
+  ### Recrutement
 
 
   Le programme offre une procédure de recrutement accélérée, de bout en bout, en sourçant et en sélectionnant des talents aux compétences rares - des "EIG" :
@@ -65,13 +65,13 @@ program: >-
   * juristes du numérique
 
 
-  #### Co-financement
+  ### Co-financement
 
 
   Nous participons aux salaires des talents à hauteur de 30 %. Ils sont rémunérés 3 500 € ou 4 000 € net par mois, avec une possibilité de co-financement de 20.000 euros par profil recruté (le programme est ouvert à toute administration, mais des conditions spécifiques s’appliquent pour le cofinancement, voir le cahier des charges de l'appel à projets).
 
 
-  #### Aide à l'innovation
+  ### Aide à l'innovation
 
 
   Pour vous soutenir dans le pilotage de talents et de projets avec une compétence entrepreneuriale, trois dispositifs vous sont proposés :

@@ -20,10 +20,10 @@
       <h1 class="fr-mb-8v">{{ .Title }}</h1>
       {{ range $index, $question := .Params.questions }}
       <section class="fr-accordion">
-        <h3 class="fr-accordion__title">
+        <h2 class="fr-accordion__title">
           <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-{{ $index }}">{{ .title
             }}</button>
-        </h3>
+        </h2>
         <div class="fr-collapse" id="accordion-{{ $index }}">
           {{ partial "markdownify-block" .desc }}
         </div>
