@@ -12,7 +12,7 @@ intro:
     ullamcorper.
   title: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac.
 quote:
-  text: "\"XFormer un service public augmenté, à l'intersection de deux
+  text: "\"Former un service public augmenté, à l'intersection de deux
     bonnes   volontés : celle de l'administration et des citoyens\""
 laureats:
   sub: Des initiatives innovantes portées par les citoyens
