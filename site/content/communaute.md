@@ -6,17 +6,11 @@ url: /communaute
 desc: L'Accélérateur d'Initiatives Citoyennes est un programme d'Etalab au sein
   de la direction interministérielle du numérique en partenariat avec la
   direction interminitérielle de la transformation publique.
-introProg: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
-  vehicula, est sed faucibus placerat, erat lacus pharetra leo, nec venenatis
-  quam justo ac massa.
-introEco: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
-  vehicula, est sed faucibus placerat, erat lacus pharetra leo, nec venenatis
-  quam justo ac massa.
+introProg: "L'Accélérateur d'Initiatives Citoyennes est un programme d'Etalab au sein de la direction interministérielle du numérique en partenariat avec la direction interministérielle de la transformation publique."
+introEco: "Particuliers, associations, administrations, entreprises : nous pouvons tous contribuer à faire grandir les initiatives d'intérêt général."
 join:
   image: img/capture-d’écran-2021-07-23-à-11.30.24.jpg
-  title: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
-    vehicula, est sed faucibus placerat, erat lacus pharetra leo, nec venenatis
-    quam justo ac massa.
-  desc: "Contactez-nous "
+  title: "Particuliers, associations, administrations, entreprises : contribuez au projets citoyens de l'Accélérateur ! Vous voulez aider les projets de l'AIC à avancer ?"
+  desc: "Rejoignez la communauté "
   link: /participer
 ---
