@@ -24,7 +24,7 @@ La tâche n’est pas aisée. Mais il incombe au service public d’être exempl
 
 Quels sont les facteurs clés de succès de tout projet d’innovation, de modernisation ou de transformation ? À la lumière de conférences et tables rondes entre entrepreneurs et entrepreneuses d’intérêt général (EIG), à la croisée de la cérémonie de clôture de la promotion 5 et du séminaire d’intégration de la promotion 6, nous identifions au moins 5 leviers qui concourent à la relève des défis d’intérêt général.
 
-# Levier n° 1 : s’inscrire dans la continuité, transformer de l’intérieur
+## Levier n° 1 : s’inscrire dans la continuité, transformer de l’intérieur
 
 Le programme EIG se place sous le signe de la pyramide.
 
@@ -40,7 +40,7 @@ L’innovation et la transformation vers lesquelles tendent l’esprit entrepren
 
 Ainsi, les EIG ne peuvent passer outre la culture existante, ni ignorer ses fondamentaux. Les maîtres mots sont flexibilité dans l’appréciation de l’environnement, anticipation des opportunités, humilité vis-à-vis des partenaires et conscience de leurs compétences.
 
-# Levier n° 2 : développer les complémentarités, faire collectif
+## Levier n° 2 : développer les complémentarités, faire collectif
 
 Le rôle des porteuses et porteurs de projet, ainsi que des sponsors est structurant dans la réussite des défis. À la fois dans une posture de facilitation, de conseil et d’encadrement, ils et elles sont les phares vers lesquels se tournent les EIG pour éclairer leur cap. L’expertise métier des agent(e)s de service public et leur compréhension des politiques publiques sont un apport précieux aux EIG.
 
@@ -54,7 +54,7 @@ La cohésion de l’équipe EIG peut ainsi l’emporter sur les décisions unila
 
 La co-construction en bonne intelligence est cruciale. Pour y parvenir, il est intéressant de s’attacher à certains préceptes : s’adresser aux autres comme on voudrait qu’ils et elles s’adressent à nous, accepter chez soi ou autrui la non-connaissance de tel ou tel sujet, éviter les postures de dépositaires du savoir, éviter d’apporter une aide superficielle et tronquée, préparer au maximum les réunions pour ne pas faire « perdre de temps » à ses participant(e)s ou encore encourager les retours mutuels.
 
-# Levier n° 3 : expérimenter rapidement, multiplier les initiatives
+## Levier n° 3 : expérimenter rapidement, multiplier les initiatives
 
 Il est bénéfique d’attiser et de nourrir la culture entrepreneuriale des administrations. Les démarches d’exploration et d’émergence permettent aux EIG de suivre un chemin de crête entre la stratégie et le terrain, afin de viser une incrémentation pérenne de la valeur au sein des administrations.
 
@@ -74,7 +74,7 @@ Comme le dit le proverbe anglais, « Quand la vie vous donne des citrons, faites
 
 Enfin soyez pilote de votre avion. Pour ce faire, il est pertinent de s’attacher à l’impact et aux gains immédiats du projet plutôt que de se projeter uniquement sur les retombées futures. 
 
-# Levier n° 4 : savoir convaincre, saisir les opportunités
+## Levier n° 4 : savoir convaincre, saisir les opportunités
 
 Toute organisation humaine est traversée de mouvements qui tendent à maintenir un certain statu quo et à paralyser les avancées, que cela soit motivé par intérêt pour l’existant, par crainte d’un avenir que l’on discerne moins, ou même par résignation à force d’illusions déçues.
 
@@ -86,7 +86,7 @@ Comment convaincre ? Le « pitch » est désormais l'un des principaux outils de
 
 Entreprendre, c'est trouver un public. Sur votre chemin, vous rencontrerez des allié(e)s et devrez convaincre des hésitant(e)s. Aussi, chaque rencontre, même fortuite et banale, est l'opportunité de devenir une aventure ! N'hésitez pas à multiplier les occasions de faire entendre votre voix, pour changer les mentalités, bouger les lignes et créer de nouveaux possibles.
 
-# Levier n° 5 : embrasser l’incertitude, rester en mouvement
+## Levier n° 5 : embrasser l’incertitude, rester en mouvement
 
 Établir la feuille de route et la faire valider vous prend plusieurs mois ? Tractations avec les parties prenantes, recherche utilisateur précipitée, fonctionnalités définies a priori... Ne pas réussir à livrer en temps voulu l'intégralité des solutions attendues vous frustre ? Course au respect des engagements, réduction progressive du périmètre, tests utilisateurs rudimentaires... Comment aurait-on pu éviter ces écueils ? 
 

@@ -81,6 +81,12 @@ img {
   }
 }
 
+.offset {
+  left: -999em;
+  position: absolute;
+  top: -999em;
+}
+
 .c-wysiwyg {
   p {
     margin-bottom: 1rem;
@@ -113,6 +119,10 @@ img {
   a:not([class]) {
     color: var(--bf500);
   }
+}
+
+.ttu {
+  text-transform: uppercase;
 }
 
 .u-text-center {

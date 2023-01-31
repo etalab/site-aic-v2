@@ -2,6 +2,10 @@
   padding: 1.5rem;
   border: 8px solid #00c8c8;
 
+  &--blue-bell {
+    border-color: #9999D3;
+  }
+
   @media (min-width: 48em) {
     padding: 3rem 1.5rem;
   }

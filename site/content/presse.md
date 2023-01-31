@@ -103,4 +103,4 @@ agents:
 [17 nouveaux projets sélectionnés pour améliorer les
 services publics grâce au numérique](https://www.aefinfo.fr/depeche/625647)
 
-##### Vous souhaitez en savoir plus, organiser une interview, une immersion ? [Contactez le service de presse de la DINUM](https://www.numerique.gouv.fr/espace-presse/), des photos et contacts pour témoignages peuvent être transmis sur demande.
+## Vous souhaitez en savoir plus, organiser une interview, une immersion ? [Contactez le service de presse de la DINUM](https://www.numerique.gouv.fr/espace-presse/), des photos et contacts pour témoignages peuvent être transmis sur demande.

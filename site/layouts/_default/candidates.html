@@ -31,7 +31,7 @@
           </div>
           {{ end }}
         </div>
-        <h2 class="fr-h4">{{ .Params.head.sub }}</h2>
+        <p class="fr-h4">{{ .Params.head.sub }}</p>
         {{ if .Params.open }}
         <div class="fr-mb-18v c-multi-btns">
           <a href="{{ .Params.head.apply.url }}" class="fr-btn fr-btn--lg">{{ .Params.head.apply.title }}</a>
@@ -41,7 +41,6 @@
         {{ end }}
         <h2>{{ .Params.def.title }}</h2>
         <div class="fr-callout fr-mb-18v">
-          <h4 class="fr-callout__title">{{ .Params.def.info.title }}</h4>
           <div class="fr-callout__text">
             {{ .Params.def.info.desc | markdownify }}
           </div>
@@ -86,13 +85,13 @@
           {{ end }}
         </div>
         {{ if not .Params.open }}
-        <div class="c-wait fr-mb-6v">
+        <div class="c-wait c-wait--blue-bell fr-mb-6v">
           <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--middle">
             <div class="fr-col-12 fr-col-sm-3 fr-col-md-2 c-wait__icon">
               <img src="/img/hourglass.svg" alt="">
             </div>
             <div class="fr-col-12 fr-col-sm-9 fr-col-md-10">
-              <h3>{{ .Params.wait.title }}</h3>
+              <h2 class="fr-h3">{{ .Params.wait.title }}</h2>
               <div class="u-text-lg">
                 {{ partial "markdownify-block" .Params.wait.desc }}
               </div>
