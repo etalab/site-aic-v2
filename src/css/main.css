@@ -163,6 +163,11 @@ img {
   margin-left: -0.75rem;
 }
 
+.small-narrow {
+  margin: auto;
+  max-width: 895px;
+}
+
 .fr-card--horizontal {
   .fr-card__img {
     @media (min-width: 48em) {
