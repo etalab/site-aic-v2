@@ -3,8 +3,8 @@
   padding: 1.5rem;
   background-color: #aeeaea;
 
-  &--blue-bell {
-    background-color: #9999D3;
+  &--ghost-white {
+    background-color: #F1F3F9;
   }
 
   @media (min-width: 48em) {
