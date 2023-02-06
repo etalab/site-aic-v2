@@ -10,16 +10,61 @@
     <item>
       <title>Accompagnement</title>
       <link>/categories/accompagnement/</link>
-      <pubDate>Wed, 12 Oct 2022 12:05:59 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/categories/accompagnement/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Administration</title>
+      <link>/categories/administration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/administration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consolidation</title>
+      <link>/categories/consolidation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/consolidation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Déploiement</title>
+      <link>/categories/deploiement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/deploiement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International</title>
+      <link>/categories/international/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/international/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intégration</title>
+      <link>/categories/integration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Méthode</title>
       <link>/categories/methode/</link>
-      <pubDate>Wed, 12 Oct 2022 12:05:59 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/categories/methode/</guid>
       <description></description>
@@ -28,18 +73,54 @@
     <item>
       <title>Open</title>
       <link>/categories/open/</link>
-      <pubDate>Mon, 19 Jul 2021 14:11:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/categories/open/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Partenariat</title>
+      <link>/categories/partenariat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/partenariat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Témoignage</title>
+      <link>/categories/temoignage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/temoignage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Écosystème</title>
+      <link>/categories/ecosysteme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ecosysteme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Évaluation</title>
       <link>/categories/evaluation/</link>
-      <pubDate>Mon, 19 Jul 2021 14:11:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/categories/evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Évènement</title>
+      <link>/categories/evenement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/evenement/</guid>
       <description></description>
     </item>
     
