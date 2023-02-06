@@ -131,4 +131,6 @@ wait:
     [inscrivez-vous à notre liste de
     diffusion](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio)
     ! Vous serez tenus au courant de toutes nos actualités.
+simplified_procedure:
+  image: img/Banniere-DS.jpg
 ---

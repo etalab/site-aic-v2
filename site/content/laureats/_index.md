@@ -1,8 +1,8 @@
 ---
-title: Les initiatives accompagnées par l'Accélérateur d'initiatives citoyennes
+title: Les premières initiatives lauréates
 menu: laureats
 layout: laureats
-desc: >+
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit leo et convallis dignissim. Integer eget tortor congue, finibus massa eget, blandit sapien. Nunc placerat justo sem, eget consectetur magna maximus ac. Duis eleifend dignissim elit non pretium. Ut et pellentesque urna. Ut a varius mauris, semper laoreet leo. Duis et gravida justo. Fusce venenatis lacinia porttitor. Donec finibus orci ac efficitur bibendum. Phasellus a ullamcorper arcu. Cras turpis augue, consectetur ut nunc non, pellentesque ornare ex. In ac tellus tortor.
+desc: >-
+  La première promotion de l'Accélérateur d'initiatives citoyennes compte 9 initiatives qui ont été accompagnées dans leur développement pendant 7 mois. Découvrez ici leurs objectifs et les premiers apports possibles identifiés par le programme d’accélération :
 visible: false
 ---

@@ -3,141 +3,56 @@ title: Foire aux questions
 layout: faq_main
 url: /faq
 questions:
-  - title: Qui peut devenir EIG ?
+  - title: Qu’est ce que l’Accélérateur d’Initiatives Citoyennes ?
     desc: >-
-      Le programme EIG est ouvert à toute personne ayant terminé son cursus
-      universitaire (premier et deuxième cycle), à l’exception des agents en
-      fonction dans l’administration et des membres du jury (voir le règlement
-      du programme pour plus d’informations).
+      L’Accélérateur d’Initiatives Citoyennes permet d’accompagner et d’apporter les coups de pouce nécessaires aux citoyens, associations, collectifs qui ont un projet d’utilité publique. [Annoncé par le Président de la République](https://www.elysee.fr/emmanuel-macron/2021/12/15/un-incubateur-pour-soutenir-les-initiatives-citoyennes-dinteret-general) et lancé par la Ministre de la Transformation et de la Fonction publiques le 17 décembre 2021, le dispositif est porté par Etalab à la direction interministérielle du numérique en partenariat avec la direction interministérielle de la transformation publique.
 
+      Il vise à promouvoir les initiatives d'intérêt général portées par la société civile, à en accélérer le déploiement et à faciliter l'accès aux ressources et expertises que l'administration est susceptible de leur fournir. Selon les besoins identifiés en entrée de l’Accélérateur, il pourra notamment fournir un [soutien méthodologique, technique, administratif et financier](/programme).
 
-      Nous recherchons principalement des candidats disposant d’une certaine expérience (environ 5 ans), mais des profils moins expérimentés ayant déjà mené des projets d’entreprenariat ou associatifs sont également les bienvenus.
-  - title: Quels sont les profils recherchés ?
+      Le contenu et les modalités de l’accompagnement proposés seront développés et enrichis de façon itérative, au regard de l’expérience acquise par les promotions successives et en complémentarité avec l’offre existante, publique comme privée, en matière de soutien à d’innovation.
+  - title: Que propose l’Accélérateur comme accompagnement ?
     desc: >-
-      Le programme EIG recrute les profils suivants :
+      Il faut que la structure ou les individus qui portent les projets résident en France. Il est nécessaire d’être majeur.
 
+      Tout projet d’utilité publique et concourant à l’amélioration des politiques publiques est recevable. Les candidatures seront examinées au regard de [critères de recevabilité et d’intérêt général](https://citoyens.transformation.gouv.fr/charte.html).
 
-      * Des développeurs et développeuses ;
-
-      * Des data scientists ;
-
-      * Des data engineers ;
-
-      * Des géomaticiens et géomaticiennes ;
-
-      * Des designers ;
-
-      * Des juristes du numérique.
-
-
-      Les compétences et qualités recherchées pour chaque type de profil sont précisées [ici](https://entrepreneur-interet-general.etalab.gouv.fr/docs/EIG5_Fiche-metiers_Profils-du-numerique.pdf).
-  - desc: Les EIG travaillent par équipe, chacune située dans l'administration
-      proposant le projet. Le programme d'accompagnement ménage des temps
-      d'échanges entre EIG et un lieu où ils peuvent se rencontrer en dehors de
-      leur administration, en accord avec leurs porteurs de projet.
-    title: Où travaillent les EIG ?
-  - desc: La localisation des administrations d'accueil sera indiquée lors de la
-      présentation des projets. A titre d'exemple, les projets de la précédente
-      promotion d'EIG se sont déroulés en majorité en région parisienne, mais
-      certains en région. C'est pourquoi il est important d'indiquer si vous
-      êtes mobiles lors de votre candidature.
-    title: Où se situent les administrations d'accueil ?
-  - title: Puis-je participer à mon projet en télétravail, complètement ou
-      partiellement ?
-    desc: Le programme repose sur l'immersion dans les administrations d'accueil, et
-      de ce fait ne permet pas de télétravail complet. La possibilité de
-      télétravailler régulièrement varie selon les administrations et devra être
-      envisagée avec leur accord explicite, ainsi que celui des autres membres
-      de l'équipe. La plupart des administrations le permettent et l'encadrent,
-      mais il faudra que vous posiez la question aux porteurs de projet lors des
-      entretiens.
-  - title: Quelles sont les compétences et qualités attendues pour les profils en
-      droit du numérique ?
-    desc: Les compétences et qualités recherchées pour les juristes du numérique
-      sont précisées [dans cette
-      fiche](https://entrepreneur-interet-general.etalab.gouv.fr/docs/EIG5_Fiche-metier_Droit-du-numerique.pdf).
-  - title: Je suis en CDI, dois-je démissionner de mon poste actuel ?
-    desc: Pas nécessairement. D’autres solutions existent, telles que le [congé sans
-      solde](https://www.service-public.fr/particuliers/vosdroits/F10431).
-      Celui-ci nécessite cependant l’accord de votre employeur.
-  - title: En quoi un EIG est-il différent d’un prestataire ?
-    desc: À la différence d’un prestataire, les EIG ne travaillent pas sur un cahier
-      des charges précis. Elles et ils sont maîtres de leur projet et peuvent
-      proposer des modifications par rapport aux idées envisagées initialement
-      par les administrations d’accueil, s’il leur semble qu’il existe des
-      manières plus adéquates de répondre au projet qui leur a été lancé, en
-      termes de technologies ou de livrables. Au cours de leur immersion dans
-      l’administration, les EIG sont amenés à élaborer une feuille de route sur
-      laquelle elles et ils itèrent avec leurs porteurs de projet.
-  - title: En quoi un EIG est-elle ou il différent d’un contractuel en CDD de 3 ans
-      dans l’administration ?
-    desc: À la différence d’un contractuel classique, les EIG sont mobilisés sur un
-      seul projet, et pendant 10 mois. Cela leur permet de mener un projet de
-      bout en bout, de sa conception à sa réalisation. Les mentors sont garants
-      de ce format, en permettant aux EIG de rentrer en contact avec tous les
-      interlocuteurs nécessaires à la réalisation du projet.
-  - title: Quelle est la forme du contrat des EIG avec leur administration d’accueil ?
-    desc: "Les EIG, une fois sélectionnés, rentrent en contact avec l’administration
-      d’accueil afin de signer un contrat. La forme est la suivante : CDD de 10
-      mois rémunéré 4 000 € net par mois si plus de 5 ans d'expérience ; 3 500 €
-      net par mois si moins."
-  - title: Pourquoi des projets de 10 mois ?
-    desc: "Les règles sont claires : après 10 mois, les EIG quittent leur
-      administration d’accueil. La présence de cette date butoir place une
-      pression saine sur les EIG, qui restent concentrés sur la tâche à
-      accomplir. Cette temporalité différente de celle habituellement en vigueur
-      dans l’administration insuffle de nouvelles méthodes et stimule la
-      créativité et l’efficacité de l’équipe projet."
-  - title: Est-il possible de commencer plus tard que la date de début de la
-      promotion ?
-    desc: Malheureusement, pour des raisons administratives, nous n'avons pas de
-      marge pour décaler le début de la promotion. Pour réduire votre délai de
-      préavis (si vous démissionnez), vous pouvez demander à votre employeur une
-      dispense partielle ou totale de préavis. Vous pouvez également envisager
-      d’autres solutions, telles que le congé sans solde.
-  - title: Au terme des 10 mois, comment les projets sont-ils pérennisés ?
-    desc: Les outils continuent à être maintenus et développés par les équipes de
-      l’administration d’accueil. D’autres sont mêmes déployés dans d’autres
-      services. De plus, l’obligation, sauf dérogation, de verser les
-      développements réalisés en open source rend leur maintien possible par
-      tous. Le programme EIG dispose d’une organisation sur GitHub pour y
-      regrouper les dépôts publiés.
-  - title: Comment sont préparés les porteurs de projet à l’accueil des EIG dans
-      leur administration ?
-    desc: "Avant l’arrivée des EIG, les porteurs de projet sont accompagnés par
-      l’équipe d’Etalab pour préparer plusieurs étapes : le recrutement
-      administration, l’environnement de travail, le cadrage du projet (besoins
-      technique, méthodes, agilité, etc.). Elles et ils participent également
-      aux sessions de mentoring de la promotion, et peuvent ainsi partager leurs
-      réussites et leurs difficultés."
-  - title: Quels projets ont été relevés par les promotions précédentes ?
-    desc: Nous vous invitons à consulter la [page présentant les
-      défis](https://eig.etalab.gouv.fr/defis/) pour découvrir les projets en
-      cours et déjà réalisés.
-  - title: "Dans le formulaire de candidature, je ne peux pas fournir de support
-      illustrant le projet présenté pour des raisons de confidentialité :
-      comment faire ?"
-    desc: Il est tout à fait possible que vous soyez dans l'incapacité de joindre un
-      support. Nous comprenons cette contrainte. Veillez alors à bien illustrer
-      votre présentation d'exemples concrets.
-  - title: Est-il possible de passer l'entretien à distance, par visioconférence ?
-    desc: Oui, c'est tout à fait possible.
-  - title: Quelle est la différence entre Entrepreneurs d'Intérêt Général (EIG) et
-      Designers d'Intérêt Général (DIG) ?
-    desc: "Le programme DIG (Designers d’Intérêt Général) n’existe plus : il a
-      fusionné avec le programme EIG (Entrepreneurs d’Intérêt Général) en 2020."
-  - title: "Les candidats ayant une entreprise sont-ils éligibles au programme EIG ? "
+      Nous privilégions néanmoins les produits aux idées : les projets ayant fait leurs preuves, ayant déjà commencé à travailler sur le terrain, ayant déjà mis un premier produit en production, et portés par une équipe solide seront favorisés. Il est possible de proposer une solution déjà existante si le projet y apporte une amélioration.
+  - title: Quelle est la procédure de candidature ?
     desc: >-
-      
+      Elle est la plus simple possible. Il suffit de remplir un formulaire présentant son projet en quelques lignes. Une première analyse sera réalisée, suite à cette pré-sélection, un examen de recevabilité sera effectué par les équipes de la DINUM et de la DITP. Les dossiers seront soumis à un jury composé de citoyens, qui se prononcera sur le critère d’utilité publique du projet afin que soit finalisée l’admission au programme.
+  - title: Combien de projets seront accompagnés ?
+    desc: Jusqu’à dix projets pourront être accompagnés par promotion.
+  - title: Quel est le calendrier de la première promotion ?
+    desc: >-
+      La phase de candidature a eu lieu du 17 décembre 2021 jusqu’au 26 janvier 2022 à 23h59.
+      La phase de sélection et l’annonce des lauréats de la première promotion a eu lieu entre janvier et mars 2022.
+      L’accompagnement a débuté en avril pour s’achever fin novembre 2022.
+  - title: Quelles sont les contreparties attendues de la part des porteurs de projet ?
+    desc: >-
+      Une charte rappelant les valeurs fondamentales du programme est à signer par chaque porteur de projet. Parmi ces valeurs sont présentes notamment un engagement sur la finalité d'intérêt général, sur la transparence du projet, la publication des données en open data etc.) et la mention du passage par l’Accélérateur dans toutes les communications du projet.
+  - title: Quel est l’emploi du temps de l’Accélérateur et combien de temps faut-il prévoir quand on fait partie du programme ?
+    desc: >-
+      L’Accélérateur s’adapte aux disponibilités de chacun. L’accompagnement individuel peut se réaliser à distance avec à la fois un mentor issu de l’administration correspondant aux besoins de votre projet, et l’équipe projet de la DINUM et DITP. En fonction de vos disponibilités, les créneaux pourront être adaptés. Des événements en présentiel auront lieu au cours de l’accompagnement et seront proposés en fin de journée pour s’adapter à vos contraintes.
+  - title: Qu’obtient-on en sortie de l'Accélérateur ?
+    desc: >-
+      A l’issue de l’accompagnement, les porteurs de projet seront invités à présenter leurs travaux devant un comité d’engagement constitué de sponsors publics et privés.
 
-      * Pour les auto-entrepreneurs, à la signature du contrat avec l'administration d'accueil, il faudra fournir une attestation sur l’honneur qu’ils n’exerceront pas d’autre activité pendant toute la durée du contrat ;
+      Lors de ce “tour de table”, les sponsors potentiels, identifiés pendant la phase d’accélération, auront l’opportunité à de se prononcer sur leur souhait de voir le projet se poursuivre et de contribuer à ce changement d’échelle. Ils pourront pourront apporter des contributions qui pourront prendre des formes diverses : soutien financier, apport d’expertise et de compétences, relais de distribution, mobilisation de communautés et de réseaux de contributeurs, internationalisation…
+      Les projets bénéficieront par la suite de la visibilité et de la reconnaissance offertes par leur passage par l’Accélérateur d’Initiatives Citoyennes de l’Etat.
+  - title: Peut-on devenir partenaire de l’Accélérateur ?
+    desc: >-
+      Une approche partenariale, ouverte, non exclusive sera développée dans le courant de l’année 2022. Elle permettra de favoriser la coopération entre l’administration et les acteurs de l'écosystème d’innovation (incubateurs, accélérateurs, collectifs et communautés etc.). L’objectif est de mettre en valeur le savoir-faire de chacun. Les partenaires pourront notamment prendre part à notre démarche :
 
-      * Pour les autres (SARL, SAS), il faut apporter la preuve que l’entreprise est fermée ou en sommeil ou qu’ils n’en sont plus dirigeants.
-
-        Ces règles ne s'appliquent qu'aux services du Premier ministre, d'autres règles pouvant s'appliquer dans les autres administrations.
+      > en amont, en relayant les appels à candidatures et en participant à l’identification, et à la sélection de nos lauréats, 
+      > pendant l’accélération en mettant à disposition, par exemple des collaborateurs par le mécénat de compétences ou en conseillant les projets accompagnés,
+      > En aval, en mobilisant des communautés de contributeurs, en apportant un éventuel soutien financier, un relais de distribution ou en prenant part à la gouvernance des projets si cela s’avérait pertinent.
+  - title: Quelles sont les autres façons de contribuer à l'intérêt général ?
+    desc: >-
+      Vous êtes un citoyen, une administration, et vous cherchez à vous engager concrètement pour l'intérêt général ? Vous pouvez contribuer aux projets de l'Accélérateur d'Initiatives Citoyennes, à un commun numérique, ou encore donner du temps à une association qui a besoin d'aide.
+      Consultez les différentes manières de contribuer [sur cette page](/participer/contribuer)
 contact: >-
-  ## Vous n’avez pas trouvé de réponse à votre question ?
+  ## Je souhaite poser une question qui n’est pas présente dans la FAQ ?
 
 
-  Vous pouvez [nous contacter](https://entrepreneur-interet-general.etalab.gouv.fr/contact.html "Formulaire de contact") et nous vous répondrons rapidement
+  Vous pouvez [nous contacter](/contact.html "Formulaire de contact") et nous vous répondrons rapidement
 ---

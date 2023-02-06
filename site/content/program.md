@@ -1,9 +1,5 @@
 ---
 numbers:
-  - num: "206"
-    title: Entrepreneurs d’intérêt général
-    btnTitle: Découvrir les talents
-    btnUrl: /talents
 steps:
   title: |
     Les 4 phases du programme
@@ -70,26 +66,29 @@ steps:
 layout: program
 url: /programme
 image: img/bootcamp9_auto_x2-1-.jpg
-title: Programme
+title: Pourquoi ce programme d'accélération ?
 desc: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula, est sed faucibus placerat, erat lacus pharetra leo, nec venenatis quam justo ac massa. Maecenas in consectetur mi. Phasellus purus magna, finibus eu aliquam ac, facilisis id odio. Integer sagittis sem sagittis elit lobortis, in suscipit risus blandit. Sed egestas ipsum at nisi volutpat, eget elementum magna consectetur. Donec velit sapien, tristique quis libero quis, volutpat lacinia urna. Nullam eget velit aliquet, rhoncus neque sit amet, consectetur lorem.
+  De nombreuses initiatives naissent au sein de la société civile et relèvent de l’intérêt général.
+  Mais leur développement n’est pas toujours aisé : il est parfois compliqué d’accéder aux ressources publiques utiles,
+  de frapper à la bonne porte dans l’administration, de se faire connaître, reconnaître ou distribuer par les services ou les agents de l’État...
 how:
   desc: >-
-    ## Comment
+    ## Comment ça marche ?
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula, est sed faucibus placerat, erat lacus pharetra leo, nec venenatis quam justo ac massa. Maecenas in consectetur mi. Phasellus purus magna, finibus eu aliquam ac, facilisis id odio. Integer sagittis sem sagittis elit lobortis, in suscipit risus blandit. Sed egestas ipsum at nisi volutpat, eget elementum magna consectetur. Donec velit sapien, tristique quis libero quis, volutpat lacinia urna. Nullam eget velit aliquet, rhoncus neque sit amet, consectetur lorem.
+    Ce programme d'accélération s’adresse à tous les porteurs de projets d’intérêt général de la société civile , quel que soit leur statut : individus ou associations, à condition que les initiatives soient en cohérence avec les valeurs du service public et qu’elles contribuent au bien commun, sans donner lieu à une captation de valeur exclusive par leurs créateurs.
+
+    A l’issue d’un processus de sélection mené conjointement par l'administration et un jury de citoyens, les projets retenus seront accélérés durant quelques mois. Pendant cette période, l'équipe interministérielle de l'Accélérateur mobilise les ressources de l'administration pour accompagner les projets en deux phases.
   tiles:
-    - title: Coaching et stratégie de croissance du projet
-      image: img/personalcoach.png
-    - title: Accès aux données, outils et briques techniques de l’État
-      image: img/datafind.png
 then:
   desc: >-
     ## Et après ?
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula, est sed faucibus placerat, erat lacus pharetra leo, nec venenatis quam justo ac massa. Maecenas in consectetur mi. Phasellus purus magna, finibus eu aliquam ac, facilisis id odio. Integer sagittis sem sagittis elit lobortis, in suscipit risus blandit. Sed egestas ipsum at nisi volutpat, eget elementum magna consectetur. Donec velit sapien, tristique quis libero quis, volutpat lacinia urna. Nullam eget velit aliquet, rhoncus neque sit amet, consectetur lorem.
+    En sortie d'accélérateur, des sponsors publics et privés s’engagent pour la suite du projet
 
+    Chaque initiative sera présentée à un comité de sponsors publics et privés susceptibles de s’engager pour accompagner son développement.
 
-    Nullam eget sagittis turpis. Aenean rutrum ligula in diam tincidunt, vitae vulputate quam molestie. Aliquam ut convallis odio, non condimentum ante. Morbi sodales turpis et nibh tincidunt, quis eleifend massa euismod. Nulla laoreet lacinia orci non finibus. Nam felis diam, vulputate lobortis orci ac, euismod pharetra nisi. Nunc tristique ex tempus, interdum nunc ut, viverra lectus. Fusce sed mi ultrices, imperdiet nunc ut, pulvinar leo. In elit eros, consequat vitae dui a, porttitor placerat libero. Sed varius maximus felis vel volutpat. Curabitur ut lobortis tellus, sit amet ornare urna. 
+    En sortie d'accélérateur, forts de la consolidation apportée par le programme, les porteurs de projets seront préparés à ce pitch final qui leur permettra de présenter les prochaines étapes et perspectives de développement de leur initiative.
+
+    Ce comité d’engagement donnera ainsi l’opportunité à des partenaires internes ou externes à l’administration de se prononcer sur leur souhait de voir le projet se poursuivre et de contribuer à ce changement d’échelle. Ces contributions pourront prendre des formes diverses : soutien financier, apport d’expertise et de compétences, relais de distribution, mobilisation de communautés et de réseaux de contributeurs, internationalisation etc.
 menu: program
 ---

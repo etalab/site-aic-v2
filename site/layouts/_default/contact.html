@@ -63,7 +63,9 @@
                     Envoyer votre message
                   </button>
               </fieldset>
-              <div class="c-wysiwyg fr-mt-12v fr-mb-12v">{{ .Params.confidentiality }}</div>
+              <div class="c-wysiwyg fr-mt-12v fr-mb-12v">
+                <em>{{ .Params.confidentiality }}</em>
+              </div>
           </form>
         </div>
         <div class="fr-col-12 fr-col-lg-5 fr-col-offset-lg-1">
@@ -72,11 +74,11 @@
               <h2 class="offset">Coordonnées</h2>
               <h3 class="fr-h4">Adresse postale</h3>
               <p class="fr-mb-4v">
-                DINUM / Programme EIG <br />20 avenue de Ségur <br />75007
+                DINUM/DITP Programme AIC <br />20 avenue de Ségur <br />75007
                 Paris, France
               </p>
-              <h3 class="fr-h4">E-mail</h3>
-              <p class="fr-mb-0">eig@data.gouv.fr</p>
+              <h4>E-mail</h4>
+              <p class="fr-mb-0">accelerateur@data.gouv.fr</p>
             </div>
           </div>
           <div class="c-wysiwyg fr-mt-12v fr-mb-12v">{{ .Content }}</div>
