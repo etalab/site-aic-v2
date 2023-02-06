@@ -43,9 +43,11 @@ questions:
     desc: >-
       Une approche partenariale, ouverte, non exclusive sera développée dans le courant de l’année 2022. Elle permettra de favoriser la coopération entre l’administration et les acteurs de l'écosystème d’innovation (incubateurs, accélérateurs, collectifs et communautés etc.). L’objectif est de mettre en valeur le savoir-faire de chacun. Les partenaires pourront notamment prendre part à notre démarche :
 
-      > en amont, en relayant les appels à candidatures et en participant à l’identification, et à la sélection de nos lauréats, 
-      > pendant l’accélération en mettant à disposition, par exemple des collaborateurs par le mécénat de compétences ou en conseillant les projets accompagnés,
-      > En aval, en mobilisant des communautés de contributeurs, en apportant un éventuel soutien financier, un relais de distribution ou en prenant part à la gouvernance des projets si cela s’avérait pertinent.
+      - en amont, en relayant les appels à candidatures et en participant à l’identification, et à la sélection de nos lauréats, 
+      
+      - pendant l’accélération en mettant à disposition, par exemple des collaborateurs par le mécénat de compétences ou en conseillant les projets accompagnés,
+      
+      - En aval, en mobilisant des communautés de contributeurs, en apportant un éventuel soutien financier, un relais de distribution ou en prenant part à la gouvernance des projets si cela s’avérait pertinent.
   - title: Quelles sont les autres façons de contribuer à l'intérêt général ?
     desc: >-
       Vous êtes un citoyen, une administration, et vous cherchez à vous engager concrètement pour l'intérêt général ? Vous pouvez contribuer aux projets de l'Accélérateur d'Initiatives Citoyennes, à un commun numérique, ou encore donner du temps à une association qui a besoin d'aide.
