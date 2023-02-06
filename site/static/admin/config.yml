@@ -122,6 +122,7 @@ collections: # A list of collections the CMS should be able to edit
               { label: "Talent", value: "participant" },
               { label: "Equipe du programme", value: "agent-programme" },
               { label: "Membre de l’écosystème", value: "agent-ecosysteme" },
+              { label: "Participant", value: "agent-participant" },
               { label: "Agent public", value: "agent-public" },
             ],
         }
@@ -396,6 +397,7 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Description, name: desc, widget: text }
           - { label: Intro programme, name: introProg, widget: text }
           - { label: Intro écosystème, name: introEco, widget: text }
+          - { label: Intro participants, name: introParticipants, widget: text }
           - label: "Rejoindre"
             name: join
             widget: object
