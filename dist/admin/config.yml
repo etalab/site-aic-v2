@@ -249,7 +249,7 @@ collections: # A list of collections the CMS should be able to edit
               widget: object,
               fields:
                 [
-                  
+
                     { label: Photo , name: photo, widget: image, required: false },
                     { label: Texte, name: text, widget: string},
                     { label: Auteur, name: name, widget: string, required: false },
@@ -458,7 +458,7 @@ collections: # A list of collections the CMS should be able to edit
                     label: Tuiles,
                     name: tiles,
                     widget: list,
-                    fields: 
+                    fields:
                       [
                         { label: Title, name: title, widget: string },
                         { label: Image, name: image, widget: image }
