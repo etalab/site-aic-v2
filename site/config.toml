@@ -1,7 +1,9 @@
-baseurl = ""
+baseurl = "https://etalab.github.io/site-aic-v2/"
 languageCode = "fr-fr"
 languageLang = "fr"
 title = "Accélérateur d'initiatives citoyennes"
+relativeURLs=true
+canonifyURLs=true
 paginate = 8
 
 # RSS, categories and tags disabled for an easy start
