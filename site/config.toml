@@ -2,8 +2,6 @@ baseurl = "https://aic-tmp.data.gouv.fr/"
 languageCode = "fr-fr"
 languageLang = "fr"
 title = "Accélérateur d'initiatives citoyennes"
-relativeURLs=true
-canonifyURLs=true
 paginate = 8
 
 # RSS, categories and tags disabled for an easy start
