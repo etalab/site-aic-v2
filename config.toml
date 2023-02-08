@@ -1,3 +1,6 @@
 baseURL = 'https://etalab.github.io/site-aic-v2/'
 languageCode = 'fr-fr'
 title = 'AIC'
+
+relativeURLs=true
+canonifyURLs=true
