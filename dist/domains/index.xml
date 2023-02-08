@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Domains on Accélérateur d&#39;initiatives citoyennes</title>
-    <link>/domains/</link>
+    <link>https://etalab.github.io/site-aic-v2/domains/</link>
     <description>Recent content in Domains on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="/domains/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://etalab.github.io/site-aic-v2/domains/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deuxième domaine</title>
-      <link>/domains/deuxieme-domaine/</link>
+      <link>https://etalab.github.io/site-aic-v2/domains/deuxieme-domaine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/domains/deuxieme-domaine/</guid>
+      <guid>https://etalab.github.io/site-aic-v2/domains/deuxieme-domaine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Premier Domaine</title>
-      <link>/domains/premier-domaine/</link>
+      <link>https://etalab.github.io/site-aic-v2/domains/premier-domaine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/domains/premier-domaine/</guid>
+      <guid>https://etalab.github.io/site-aic-v2/domains/premier-domaine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Troisieme domaine</title>
-      <link>/domains/deuxieme-domaine-1/</link>
+      <link>https://etalab.github.io/site-aic-v2/domains/deuxieme-domaine-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/domains/deuxieme-domaine-1/</guid>
+      <guid>https://etalab.github.io/site-aic-v2/domains/deuxieme-domaine-1/</guid>
       <description></description>
     </item>
     

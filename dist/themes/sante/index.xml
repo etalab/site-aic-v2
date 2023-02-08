@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Santé on Accélérateur d&#39;initiatives citoyennes</title>
-    <link>/themes/sante/</link>
+    <link>https://etalab.github.io/site-aic-v2/themes/sante/</link>
     <description>Recent content in Santé on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 22 Sep 2021 14:30:53 +0000</lastBuildDate><atom:link href="/themes/sante/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Sep 2021 14:30:53 +0000</lastBuildDate><atom:link href="https://etalab.github.io/site-aic-v2/themes/sante/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ADEX</title>
-      <link>/laureats/adex/</link>
+      <link>https://etalab.github.io/site-aic-v2/laureats/adex/</link>
       <pubDate>Wed, 22 Sep 2021 14:30:53 +0000</pubDate>
       
-      <guid>/laureats/adex/</guid>
+      <guid>https://etalab.github.io/site-aic-v2/laureats/adex/</guid>
       <description>Déontologie et rigueur de l’expertise étant au centre de son activité, la Haute Autorité de Santé a besoin d’analyser les liens d’intérêts financiers des experts experts avec qui elle collabore afin d’éviter de potentiels conflits d’intérêts.
 La problématique : une analyse des liens d’intérêt complexe et pas toujours de bonne qualité Autorité publique indépendante à caractère scientifique, la Haute Autorité de santé (HAS) travaille à garantir la qualité dans le champ sanitaire, social et médico-social, au bénéfice des personnes.</description>
     </item>

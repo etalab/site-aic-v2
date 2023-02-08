@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Expertises on Accélérateur d&#39;initiatives citoyennes</title>
-    <link>/expertises/</link>
+    <link>https://etalab.github.io/site-aic-v2/expertises/</link>
     <description>Recent content in Expertises on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="/expertises/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://etalab.github.io/site-aic-v2/expertises/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

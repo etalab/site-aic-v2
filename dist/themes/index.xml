@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Themes on Accélérateur d&#39;initiatives citoyennes</title>
-    <link>/themes/</link>
+    <link>https://etalab.github.io/site-aic-v2/themes/</link>
     <description>Recent content in Themes on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 17 Oct 2021 09:42:47 +0000</lastBuildDate><atom:link href="/themes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Oct 2021 09:42:47 +0000</lastBuildDate><atom:link href="https://etalab.github.io/site-aic-v2/themes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sécurité</title>
-      <link>/themes/securite/</link>
+      <link>https://etalab.github.io/site-aic-v2/themes/securite/</link>
       <pubDate>Sun, 17 Oct 2021 09:42:47 +0000</pubDate>
       
-      <guid>/themes/securite/</guid>
+      <guid>https://etalab.github.io/site-aic-v2/themes/securite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Service public</title>
-      <link>/themes/service-public/</link>
+      <link>https://etalab.github.io/site-aic-v2/themes/service-public/</link>
       <pubDate>Thu, 30 Sep 2021 14:05:02 +0000</pubDate>
       
-      <guid>/themes/service-public/</guid>
+      <guid>https://etalab.github.io/site-aic-v2/themes/service-public/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Santé</title>
-      <link>/themes/sante/</link>
+      <link>https://etalab.github.io/site-aic-v2/themes/sante/</link>
       <pubDate>Wed, 22 Sep 2021 14:30:53 +0000</pubDate>
       
-      <guid>/themes/sante/</guid>
+      <guid>https://etalab.github.io/site-aic-v2/themes/sante/</guid>
       <description></description>
     </item>
     
