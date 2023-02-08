@@ -605,11 +605,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: markdown,
                   required: false,
                 }
-          - label: "Démarches simplifiées"
-            name: simplified_procedure
-            widget: object
-            fields:
-              - { label: Image, name: image, widget: image }
 
       - file: "site/content/participer/candidats/postuler.md"
         label: "Postuler"
