@@ -1,4 +1,4 @@
-baseURL = 'https://etalab.github.io/site-aic-v2/'
+baseURL = 'https://aic-tmp.data.gouv.fr/'
 languageCode = 'fr-fr'
 title = 'AIC'
 
