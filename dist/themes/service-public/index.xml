@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Service public on Accélérateur d&#39;initiatives citoyennes</title>
-    <link>https://etalab.github.io/site-aic-v2/themes/service-public/</link>
+    <link>https://aic-tmp.data.gouv.fr/themes/service-public/</link>
     <description>Recent content in Service public on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 30 Sep 2021 14:05:02 +0000</lastBuildDate><atom:link href="https://etalab.github.io/site-aic-v2/themes/service-public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Sep 2021 14:05:02 +0000</lastBuildDate><atom:link href="https://aic-tmp.data.gouv.fr/themes/service-public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ACOSS-Plateforme</title>
-      <link>https://etalab.github.io/site-aic-v2/laureats/acoss-plateforme/</link>
+      <link>https://aic-tmp.data.gouv.fr/laureats/acoss-plateforme/</link>
       <pubDate>Thu, 30 Sep 2021 14:05:02 +0000</pubDate>
       
-      <guid>https://etalab.github.io/site-aic-v2/laureats/acoss-plateforme/</guid>
+      <guid>https://aic-tmp.data.gouv.fr/laureats/acoss-plateforme/</guid>
       <description>L’Agence centrale des organismes de sécurité sociale (ACOSS) souhaite améliorer l’expérience utilisateur des démarches du secteur de l’emploi à domicile en capitalisant sur les données de l’Urssaf.
 ACOSS Plateforme : simplifier les démarches des utilisateurs de l’emploi à domicile à l’aide des données de l’Urssaf. La problématique Chaque année, le réseau de l’Union de recouvrement des cotisations de sécurité sociale et d’allocations familiales (Urssaf) recouvre pour le compte de l’Agence centrale des organismes de sécurité sociale (ACOSS) près de 500 milliards d’euros, auprès de 9,7 millions de cotisants au nom d’environ 900 partenaires.</description>
     </item>

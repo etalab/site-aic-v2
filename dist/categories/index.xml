@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Accélérateur d&#39;initiatives citoyennes</title>
-    <link>https://etalab.github.io/site-aic-v2/categories/</link>
+    <link>https://aic-tmp.data.gouv.fr/categories/</link>
     <description>Recent content in Categories on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 12 Oct 2022 12:05:59 +0000</lastBuildDate><atom:link href="https://etalab.github.io/site-aic-v2/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Oct 2022 12:05:59 +0000</lastBuildDate><atom:link href="https://aic-tmp.data.gouv.fr/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accompagnement</title>
-      <link>https://etalab.github.io/site-aic-v2/categories/accompagnement/</link>
+      <link>https://aic-tmp.data.gouv.fr/categories/accompagnement/</link>
       <pubDate>Wed, 12 Oct 2022 12:05:59 +0000</pubDate>
       
-      <guid>https://etalab.github.io/site-aic-v2/categories/accompagnement/</guid>
+      <guid>https://aic-tmp.data.gouv.fr/categories/accompagnement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Méthode</title>
-      <link>https://etalab.github.io/site-aic-v2/categories/methode/</link>
+      <link>https://aic-tmp.data.gouv.fr/categories/methode/</link>
       <pubDate>Wed, 12 Oct 2022 12:05:59 +0000</pubDate>
       
-      <guid>https://etalab.github.io/site-aic-v2/categories/methode/</guid>
+      <guid>https://aic-tmp.data.gouv.fr/categories/methode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open</title>
-      <link>https://etalab.github.io/site-aic-v2/categories/open/</link>
+      <link>https://aic-tmp.data.gouv.fr/categories/open/</link>
       <pubDate>Mon, 19 Jul 2021 14:11:00 +0000</pubDate>
       
-      <guid>https://etalab.github.io/site-aic-v2/categories/open/</guid>
+      <guid>https://aic-tmp.data.gouv.fr/categories/open/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Évaluation</title>
-      <link>https://etalab.github.io/site-aic-v2/categories/evaluation/</link>
+      <link>https://aic-tmp.data.gouv.fr/categories/evaluation/</link>
       <pubDate>Mon, 19 Jul 2021 14:11:00 +0000</pubDate>
       
-      <guid>https://etalab.github.io/site-aic-v2/categories/evaluation/</guid>
+      <guid>https://aic-tmp.data.gouv.fr/categories/evaluation/</guid>
       <description></description>
     </item>
     

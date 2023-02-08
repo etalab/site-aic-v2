@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contribuer on Accélérateur d&#39;initiatives citoyennes</title>
-    <link>https://etalab.github.io/site-aic-v2/participer/contribuer/</link>
+    <link>https://aic-tmp.data.gouv.fr/participer/contribuer/</link>
     <description>Recent content in Contribuer on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://etalab.github.io/site-aic-v2/participer/contribuer/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://aic-tmp.data.gouv.fr/participer/contribuer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Proposer un projet</title>
-      <link>https://etalab.github.io/site-aic-v2/participer/contribuer/proposer/</link>
+      <link>https://aic-tmp.data.gouv.fr/participer/contribuer/proposer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://etalab.github.io/site-aic-v2/participer/contribuer/proposer/</guid>
+      <guid>https://aic-tmp.data.gouv.fr/participer/contribuer/proposer/</guid>
       <description></description>
     </item>
     

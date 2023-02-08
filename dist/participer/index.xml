@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vous souhaitez vous engager pour l&#39;intérêt général ? Rencontrer des projets, des partenaires, obtenir de l&#39;aide ? Rejoignez la communauté !  on Accélérateur d&#39;initiatives citoyennes</title>
-    <link>https://etalab.github.io/site-aic-v2/participer/</link>
+    <link>https://aic-tmp.data.gouv.fr/participer/</link>
     <description>Recent content in Vous souhaitez vous engager pour l&#39;intérêt général ? Rencontrer des projets, des partenaires, obtenir de l&#39;aide ? Rejoignez la communauté !  on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://etalab.github.io/site-aic-v2/participer/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://aic-tmp.data.gouv.fr/participer/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
