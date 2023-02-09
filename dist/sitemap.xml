@@ -129,6 +129,8 @@
   </url><url>
     <loc>https://aic-tmp.data.gouv.fr/contact/</loc>
   </url><url>
+    <loc>https://aic-tmp.data.gouv.fr/themes/numerique/</loc>
+  </url><url>
     <loc>https://aic-tmp.data.gouv.fr/espace-presse/</loc>
   </url><url>
     <loc>https://aic-tmp.data.gouv.fr/categories/open/</loc>
@@ -168,10 +170,6 @@
     <loc>https://aic-tmp.data.gouv.fr/participer/contribuer/proposer/</loc>
   </url><url>
     <loc>https://aic-tmp.data.gouv.fr/communaute/</loc>
-  </url><url>
-    <loc>https://aic-tmp.data.gouv.fr/themes/sante/</loc>
-  </url><url>
-    <loc>https://aic-tmp.data.gouv.fr/themes/securite/</loc>
   </url><url>
     <loc>https://aic-tmp.data.gouv.fr/impacts/transformer-nos-services-publics-et-construire-une-renaissance-democratique/</loc>
   </url><url>
