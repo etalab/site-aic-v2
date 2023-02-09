@@ -1,11 +1,11 @@
-baseurl = ""
+baseurl = "https://aic-tmp.data.gouv.fr/"
 languageCode = "fr-fr"
 languageLang = "fr"
 title = "Accélérateur d'initiatives citoyennes"
 paginate = 8
 
 # RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
+# See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 # disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
@@ -34,7 +34,7 @@ removePathAccents = true
     name = "Lauréats"
     url = "/laureats"
     identifier = "impact"
-    weight = 2  
+    weight = 2
 
   [[menu.nav]]
     name = "Communauté"
@@ -56,4 +56,3 @@ removePathAccents = true
     url = "/contact"
     identifier = "contact"
     weight = 7
-  
