@@ -16,32 +16,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Sécurité</title>
-      <link>https://aic-tmp.data.gouv.fr/themes/securite/</link>
-      <pubDate>Sun, 17 Oct 2021 09:42:47 +0000</pubDate>
-      
-      <guid>https://aic-tmp.data.gouv.fr/themes/securite/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Service public</title>
-      <link>https://aic-tmp.data.gouv.fr/themes/service-public/</link>
-      <pubDate>Thu, 30 Sep 2021 14:05:02 +0000</pubDate>
-      
-      <guid>https://aic-tmp.data.gouv.fr/themes/service-public/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Santé</title>
-      <link>https://aic-tmp.data.gouv.fr/themes/sante/</link>
-      <pubDate>Wed, 22 Sep 2021 14:30:53 +0000</pubDate>
-      
-      <guid>https://aic-tmp.data.gouv.fr/themes/sante/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
