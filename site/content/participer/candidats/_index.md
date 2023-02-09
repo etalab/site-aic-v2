@@ -2,10 +2,11 @@
 open: false
 head:
   questions:
-    - question: Vous voulez vous engager pour l'intérêt général ?
-    - question: Vous aimez les défis concrets ?
-    - question: Vous avez l’esprit du collectif ?
-  sub: Participez de l'intérieur à la transformation numérique du service public !
+    - question: Respect des valeurs du service public et but d’intérêt général
+    - question: Transparence
+    - question: Publication et valorisation des résultats
+    - question: Communication
+  sub: Un jury citoyen collabore avec l'administration pour sélectionner les projets d'intérêt général.
   apply:
     title: Postuler
     url: /participer/candidats/postuler
@@ -28,19 +29,31 @@ def:
       3. Démarche alliant l’agilité et un goût prononcé pour les défis propres à l’administration, afin de créer de nouvelles solutions pour les usagers et les agents publics.
 
       4. Néologisme employé par l’administration du XXIe siècle : « Il faut qu’on s’EIGise » ayant remplacé - le « moderniser le service public par le numérique » du XXe siècle
+      
+
+      Un jury de citoyens et une équipe interministérielle sélectionnent ensemble les projets qui intègrent l'Accélérateur. L'administration pré-sélectionne les projets sur la base d’une expertise technique. Elle en évalue la solidité, la faisabilité et l'impact potentiel, ainsi que l’aide que les pouvoirs publics sont susceptibles de lui apporter sur la base de critères. Le jury citoyen se prononce sur la dimension d’utilité et d'intérêt général du projet, et sur sa capacité à répondre à un enjeu social, environnemental ou économique important. 
+
+
+      * Le jury citoyen est constitué de 15 citoyens choisis parmi la population française évalue les projets qui candidatent à l'Accélérateur sur leur dimension d'intérêt général, et leur capacité à répondre à un enjeu important pour les français remet un avis sur les projets
+
+      * L'équipe de l'accélérateur est constituée d'agents publics de l'administration évalue les dossiers de candidatures sur les autres critères : techniques, maturité etc. mobilise les bonnes expertises au sein de l'administration si besoin
 what:
-  title: EIG, concrètement c'est quoi ?
+  title: Augmenter son impact
   defs:
-    - def: Rejoindre une administration pour 10 mois
-    - def: Faire équipe avec un ou deux autres profils tech, design ou en droit du
-        numérique
-    - def: Expérimenter autour de projets pour améliorer l’action publique
-    - def: Entrer dans l'écosystème du numérique public (Etalab, DINUM,...)
+    - def: Services publics
+    - def: Environnent
+    - def: Citoyenneté
+    - def: Inclusion
+    - def: Numérique
+    - def: Education
 layout: candidates
-title: Candidates et candidats EIG
+title: La charte des projets d'intérêt général
 profiles:
   title: Profils
   desc: >-
+    L'accompagnement est ouvert pour tout individu ou structure qui porte un projet d'intérêt général en résonance avec les chantiers prioritaires du gouvernement.
+    
+    
     Nous recherchons plusieurs types de profils, selon les expertises que
     nécessitent les défis :
 
@@ -60,9 +73,9 @@ profiles:
   list:
     - ACOSS-Plateforme
     - ADEX
-  sub: Ils et elles sont devenus EIG
+  sub: Découvrez les initiatives lauréates
 how:
-  title: Comment devenir EIG de la prochaine promotion ?
+  title: Les étapes du programme en détail
   desc: >-
     Pour rejoindre le programme et ainsi relever un défi dans une
     administration, il vous faudra répondre à notre prochain appel à
@@ -75,13 +88,13 @@ how:
     ![](img/steps.svg)
 
 
-    1. **Vous postulez** au programme via un formulaire de candidature en ligne
+    1.  Dépôt du dossier de candidature en 30 minutes chrono. L'accompagnement est ouvert pour tout individu ou structure qui porte un projet d'intérêt général. Pour postuler, répondez à notre formulaire simplifié, et recevez une réponse rapidement.
 
-    2. **Si vous êtes pré-sélectionnés, vous votez** pour les défis que vous souhaitez relever
+    2.  Sélection par le jury citoyen & l'administration. L'administration & un jury de citoyens sélectionnent les initiatives les plus pertinentes.
 
-    3. **Vous échangez avec un jury** composé d'agents publics et d'experts lors d'une audition pour relever un défi pour lequel vous avez voté
+    3. L'accélération : votre projet est accompagné pendant quelques mois. Les projets retenus intègrent ensemble une même promotion au sein du programme d'accélération. Pendant quelques mois, l'équipe interministérielle et ses partenaires leur apportent leur aide pour consolider le projet. Passage en comité d'engagement & déploiement
 
-    4. **Vous rejoignez le programme Entrepreneurs d'intérêt général et une administration** pendant 10 mois
+    4. A la sortie de l'Accélérateur, les porteurs de projets passent devant un comité d'engagement. Constitué de sponsors publics et privés, qui pourront apporter des contributions pour soutenir leur développement. Ainsi consolidé avec l'aide de l'administration et ses partenaires, votre projet est prêt à voler de ses propres ailes !
 
 
     ###### Pour en savoir plus :
@@ -99,31 +112,24 @@ criteria:
     administrations publiques désireuses de proposer un projet numérique
     innovant afin de pouvoir bénéficier d’une équipe d’EIG.
 
-
-    Pour être sélectionnés, les projets doivent répondre aux cinq critères suivants :
+    Les projets sont choisis sur la base des critères suivants :
   list:
     - num: "1"
-      name: Besoin
-      desc: Un besoin clair, à fort impact, porté à un haut niveau hiérarchique par
-        l’administration d’accueil.
+      name: La finalité d'intérêt général
+      desc: Le problème identifié et la solution proposée relèvent d'une préoccupation d'intérêt général, voire s'inscrivent dans une politique publique prioritaire ou stratégique
     - num: "2"
-      name: Approche
-      desc: Caractère entrepreneurial du projet ; il ouvre un champ d’exploration des
-        usages et de la technologie tout en ayant une problématique circonscrite
-        et des profils du numérique cohérents
+      name: L'impact
+      desc: Les initiatives à fort impact (nombre de personnes touchées, capacité à traiter une cause racine), diffusables à large échelle et réplicables seront privilégiées
     - num: "3"
-      name: Engagement
-      desc: Motivation pour participer au programme, ouvrir le terrain
-        d’expérimentation aux talents du numérique, et leur offrir de
-        l’autonomie.
+      name: La maturité et la structuration du projet
+      desc: >-
+        Nous privilégions les projets aux idées : les projets ayant fait leurs preuves, ayant déjà commencé à travailler sur le terrain, ayant déjà mis un premier produit en production, et portés par une équipe solide seront privilégiés
     - num: "4"
-      name: Transformation
-      desc: De fortes capacités de transformation numérique de l’administration.
+      name: L'ouverture, la transparence et l'intégrité
+      desc: Les initiatives ouvertes et transparentes seront privilégiées, elles devront bien sûr respecter le cadre légal en vigueur
     - num: "5"
-      name: Ouverture
-      desc: Une démarche d’innovation ouverte (collaboration, co-construction,
-        gouvernance) et de partage de communs numériques (ouverture des données
-        et des codes-sources, mutualisation et réplication des productions).
+      name: Potentiel d'effet de levier de l'accompagnement par l'administration
+      desc: L'aide demandée à l'administration a clairement été identifiée, et permettra au projet de passer une étape importante de son développement
 wait:
   title: L'appel à candidatures 2022 du programme Entrepreneurs d'Intérêt Général
     est désormais clos.
