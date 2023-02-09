@@ -65,7 +65,7 @@ steps:
       icon: /img/4_amplifier.png
 layout: program
 url: /programme
-image: img/bootcamp9_auto_x2-1-.jpg
+image: img/banner-programme.jpg
 title: Pourquoi ce programme d'accélération ?
 desc: >-
   De nombreuses initiatives naissent au sein de la société civile et relèvent de l’intérêt général.
