@@ -85,8 +85,6 @@
   </url><url>
     <loc>https://aic-tmp.data.gouv.fr/agents/</loc>
   </url><url>
-    <loc>https://aic-tmp.data.gouv.fr/participer/candidats/</loc>
-  </url><url>
     <loc>https://aic-tmp.data.gouv.fr/personnes/colette-quirion/</loc>
   </url><url>
     <loc>https://aic-tmp.data.gouv.fr/categories/consolidation/</loc>
@@ -122,6 +120,8 @@
     <loc>https://aic-tmp.data.gouv.fr/personnes/john-doe/</loc>
   </url><url>
     <loc>https://aic-tmp.data.gouv.fr/personnes/kirsten-burkhart/</loc>
+  </url><url>
+    <loc>https://aic-tmp.data.gouv.fr/participer/candidats/</loc>
   </url><url>
     <loc>https://aic-tmp.data.gouv.fr/personnes/laurence-cousteau/</loc>
   </url><url>
