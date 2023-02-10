@@ -6,7 +6,7 @@ head:
     - question: Transparence
     - question: Publication et valorisation des résultats
     - question: Communication
-  sub: Un jury citoyen collabore avec l'administration pour sélectionner les projets d'intérêt général.
+  sub: 
   apply:
     title: Postuler
     url: /participer/candidats/postuler
@@ -14,24 +14,11 @@ head:
     title: "Règlement "
     url: img/aac-eig6-reglement.pdf
 def:
-  title: EIG ça veut dire quoi ?
+  title: Un jury de citoyens et une équipe interministérielle sélectionnent ensemble les projets qui intègrent l’Accélérateur
   info:
     title: EIG, ça veut dire quoi ?
     desc: >-
-      \[əiʒ] n. m. et n. f., épicène dérivé d’entreprendeur, XIIIe, au sens de
-      personne qui crée, qui agit.
-
-
-      1. Art de conjuguer le potentiel du numérique aux enjeux de l’intérêt général.
-
-      2. Membre d’un collectif mêlant compétences numériques, humour geek et appétence pour les valeurs d’ouverture.
-
-      3. Démarche alliant l’agilité et un goût prononcé pour les défis propres à l’administration, afin de créer de nouvelles solutions pour les usagers et les agents publics.
-
-      4. Néologisme employé par l’administration du XXIe siècle : « Il faut qu’on s’EIGise » ayant remplacé - le « moderniser le service public par le numérique » du XXe siècle
-      
-
-      Un jury de citoyens et une équipe interministérielle sélectionnent ensemble les projets qui intègrent l'Accélérateur. L'administration pré-sélectionne les projets sur la base d’une expertise technique. Elle en évalue la solidité, la faisabilité et l'impact potentiel, ainsi que l’aide que les pouvoirs publics sont susceptibles de lui apporter sur la base de critères. Le jury citoyen se prononce sur la dimension d’utilité et d'intérêt général du projet, et sur sa capacité à répondre à un enjeu social, environnemental ou économique important. 
+      L'administration pré-sélectionne les projets sur la base d’une expertise technique. Elle en évalue la solidité, la faisabilité et l'impact potentiel, ainsi que l’aide que les pouvoirs publics sont susceptibles de lui apporter sur la base de critères. Le jury citoyen se prononce sur la dimension d’utilité et d'intérêt général du projet, et sur sa capacité à répondre à un enjeu social, environnemental ou économique important. 
 
 
       * Le jury citoyen est constitué de 15 citoyens choisis parmi la population française évalue les projets qui candidatent à l'Accélérateur sur leur dimension d'intérêt général, et leur capacité à répondre à un enjeu important pour les français remet un avis sur les projets
@@ -54,22 +41,6 @@ profiles:
     L'accompagnement est ouvert pour tout individu ou structure qui porte un projet d'intérêt général en résonance avec les chantiers prioritaires du gouvernement.
     
     
-    Nous recherchons plusieurs types de profils, selon les expertises que
-    nécessitent les défis :
-
-
-    * des développeurs et développeuses
-
-    * des data scientists 
-
-    * des data engineers
-
-    * des designers
-
-    * des juristes du numérique
-
-
-    Et au-delà, des personnes qui veulent : transmettre une culture numérique à l’administration, s’engager dans l’open data et l’open source, participer à la mutualisation et à la réutilisation des produits et des données.
   list:
     - ACOSS-Plateforme
     - ADEX
@@ -131,8 +102,7 @@ criteria:
       name: Potentiel d'effet de levier de l'accompagnement par l'administration
       desc: L'aide demandée à l'administration a clairement été identifiée, et permettra au projet de passer une étape importante de son développement
 wait:
-  title: L'appel à candidatures 2022 du programme Entrepreneurs d'Intérêt Général
-    est désormais clos.
+  title: L'appel à candidatures 2022 est désormais clos.
   desc: Si vous êtes intéressés par une participation à la prochaine promotion,
     [inscrivez-vous à notre liste de
     diffusion](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio)
