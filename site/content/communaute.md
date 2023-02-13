@@ -13,7 +13,7 @@ introEco: "Particuliers, associations, administrations, entreprises : nous
   pouvons tous contribuer à faire grandir les initiatives d'intérêt général."
 introParticipants: "Ils et elles font vivre l'Accélérateur d'initiatives citoyennes ! Découvrez leurs profils et leurs engagements."
 join:
-  image: img/capture-d’écran-2021-07-23-à-11.30.24.jpg
+  image: img/Picto-4.jpg
   title: "Particuliers, associations, administrations, entreprises : contribuez
     aux projets citoyens de l'Accélérateur ! Vous voulez aider les projets de
     l'AIC à avancer ?"
