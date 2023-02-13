@@ -1,12 +1,11 @@
 ---
 title: Georges Macaron
 job: Chargé des opérations du programme AIC
-promos:
-  - Promotion 6
+promos: []
 role: equipe-du-programme
-laureats:
+laureats: null
 domains:
-  - Design 
+  - Design
 image: img/photo_georges_macaron.jpg
 linkedin: https://linkedin.com/in/georges-macaron
 ---
