@@ -7,7 +7,7 @@
   <div class="c-hero__content">
     <div class="fr-container">
       <div class="c-hero__inner">
-        <h1>{{ replace .Params.hero.title "\n" "<br />" | safeHTML }}</h1>
+        <h1 class="h1-width">{{ replace .Params.hero.title "\n" "<br />" | safeHTML }}</h1>
         {{ if ne .Params.hero.btn.title "" }}
         <a href="{{ .Params.hero.btn.url }}" class="fr-btn">{{ .Params.hero.btn.title }}</a>
         {{ end }}
@@ -94,7 +94,7 @@
     <div class="fr-grid-row fr-grid-row--gutters">
       <div class="fr-col-12 fr-col-md-5 fr-displayed-md">
         <div class="c-join__img">
-          <img src="{{ .Params.join.image }}" alt="">
+          <img src="/{{ .Params.join.image }}" alt="">
         </div>
       </div>
       <div class="fr-col-12 fr-col-md-7">

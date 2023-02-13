@@ -26,7 +26,7 @@
       <h2 class="offset">L’équipe du programme</h2>
       <p>{{ .Params.introProg }}</p>
       <div class="fr-grid-row fr-grid-row--gutters">
-        {{ range (where (where .Site.RegularPages "Type" "personnes") ".Params.role" "agent-programme") }}
+        {{ range (where (where .Site.RegularPages "Type" "personnes") ".Params.role" "equipe-du-programme") }}
         <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
           {{ .Render "li" }}
         </div>
