@@ -17,7 +17,7 @@ laureats:
 join:
   title: Rejoindre la saison 2
   sub: de l'Accélérateur d'Initiatives Citoyennes
-  image: img/photo-de-nadim.jfif
+  image: img/photo-2.jpg
   btn:
     title: Participer
     url: https://eig.etalab.gouv.fr/participer/
