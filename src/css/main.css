@@ -302,3 +302,13 @@ a.fr-tag.a11y_outlined {
 .fr-card.fr-enlarge-link.fr-enlarge-link--img-white .fr-card__img {
   background-color: #fff;
 }
+
+.h1-width {
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .h1-width {
+    width: 42vw;
+  }
+}
