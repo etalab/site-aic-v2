@@ -16,7 +16,7 @@ steps:
       title: Consolidation
       dates: Gouvernance, financements, évaluation
       desc: "L’AIC permet de disposer d'un environnement et accompagnement partenarial clé en main pour CONSOLIDER les fondamentaux de l'association."
-    - icon: /img/Picto-3.png
+    - icon: /img/Picto-3.jpg
       step: Phase 3
       duration: 3 mois
       title: Déploiement
