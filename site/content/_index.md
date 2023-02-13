@@ -15,8 +15,8 @@ laureats:
   sub: Des initiatives innovantes portées par les citoyens
   desc: Bénéficier d'un accompagnement dans le développement de son initiative ...
 join:
-  title: Rejoindre la promotion 2
-  sub: "\"du programme de l'Accélérateur d'Initiatives Citoyennes\""
+  title: Rejoindre la saison 2
+  sub: de l'Accélérateur d'Initiatives Citoyennes
   image: img/photo-de-nadim.jfif
   btn:
     title: Participer

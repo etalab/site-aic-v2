@@ -298,3 +298,7 @@ a.fr-tag.a11y_outlined {
   /* IE6, IE7 */
   clip: rect(1px 1px 1px 1px);
 }
+
+.fr-card.fr-enlarge-link.fr-enlarge-link--img-white .fr-card__img {
+  background-color: #fff;
+}

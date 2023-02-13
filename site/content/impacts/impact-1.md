@@ -1,3 +1,0 @@
----
-title: Impact 1
----
