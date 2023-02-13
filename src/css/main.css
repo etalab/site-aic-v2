@@ -312,3 +312,9 @@ a.fr-tag.a11y_outlined {
     width: 42vw;
   }
 }
+
+@media (min-width: 1600px) {
+  .h1-width {
+    width: 30vw;
+  }
+}
