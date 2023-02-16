@@ -12,16 +12,28 @@ agents:
     - Christophe Cuq
     - TEST - Adeline Celier
 ---
-Le 9 novembre 2022 [Une coopération en germe entre administration et citoyens](https://acteurspublics.fr/articles/une-cooperation-en-germe-entre-administration-et-citoyens)\
-\
-Le 7 octobre 2022 [L’Accélérateur d’initiatives citoyennes tire le bilan de sa première promotion](https://www.aefinfo.fr/depeche/680264-l-accelerateur-d-initiatives-citoyennes-tire-le-bilan-de-sa-premiere-promotion)\
-\
-Le 30 mars 2022 [Le service public se convertit timidement au mécénat de compétences](https://www.lemonde.fr/politique/article/2022/03/30/le-service-public-se-convertit-timidement-au-mecenat-de-competences_6119801_823448.html)\
-\
-Le 15 mars 2022 [9 projets citoyens pour réinventer la notion de service d’intérêt général](https://acteurspublics.fr/articles/9-projets-citoyens-pour-reinventer-la-notion-de-service-dinteret-general)\
-\
-Le 17 décembre 2021 [Le gouvernement veut créer un service public « augmenté » par les initiatives privées](https://www.lemonde.fr/politique/article/2021/12/17/le-gouvernement-veut-creer-un-service-public-augmente-par-les-initiatives-privees_6106519_823448.html)\
-\
-Le 15 décembre 2021 [Un incubateur pour soutenir les initiatives citoyennes d’intérêt général !](https://www.elysee.fr/emmanuel-macron/2021/12/15/un-incubateur-pour-soutenir-les-initiatives-citoyennes-dinteret-general)
+**Le 9 novembre 2022** 
 
-## Vous souhaitez en savoir plus, organiser une interview, une immersion ? [Contactez le service de presse de la DINUM](https://www.numerique.gouv.fr/espace-presse/), des photos et contacts pour témoignages peuvent être transmis sur demande.
+[Une coopération en germe entre administration et citoyens](https://acteurspublics.fr/articles/une-cooperation-en-germe-entre-administration-et-citoyens)\
+\
+**Le 7 octobre 2022 [](https://www.aefinfo.fr/depeche/680264-l-accelerateur-d-initiatives-citoyennes-tire-le-bilan-de-sa-premiere-promotion)**
+
+[L’Accélérateur d’initiatives citoyennes tire le bilan de sa première promotion](https://www.aefinfo.fr/depeche/680264-l-accelerateur-d-initiatives-citoyennes-tire-le-bilan-de-sa-premiere-promotion)\
+\
+**Le 30 mars 2022** 
+
+[Le service public se convertit timidement au mécénat de compétences](https://www.lemonde.fr/politique/article/2022/03/30/le-service-public-se-convertit-timidement-au-mecenat-de-competences_6119801_823448.html)\
+\
+**Le 15 mars 2022** 
+
+[9 projets citoyens pour réinventer la notion de service d’intérêt général](https://acteurspublics.fr/articles/9-projets-citoyens-pour-reinventer-la-notion-de-service-dinteret-general)\
+\
+**Le 17 décembre 2021**
+
+[Le gouvernement veut créer un service public « augmenté » par les initiatives privées](https://www.lemonde.fr/politique/article/2021/12/17/le-gouvernement-veut-creer-un-service-public-augmente-par-les-initiatives-privees_6106519_823448.html)\
+\
+**Le 15 décembre 2021** 
+
+[Un incubateur pour soutenir les initiatives citoyennes d’intérêt général !](https://www.elysee.fr/emmanuel-macron/2021/12/15/un-incubateur-pour-soutenir-les-initiatives-citoyennes-dinteret-general)
+
+### Vous souhaitez en savoir plus, organiser une interview, une immersion ? [Contactez le service de presse de la DINUM](https://www.numerique.gouv.fr/espace-presse/), des photos et contacts pour témoignages peuvent être transmis sur demande.
