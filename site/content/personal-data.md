@@ -3,7 +3,7 @@ title: Données personnelles
 layout: page
 url: /donnees-personnelles
 ---
-Etalab s'engage à ce que la collecte et le traitement de données personnelles effectuées sur eig.etalab.gouv.fr soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
+Etalab s'engage à ce que la collecte et le traitement de données personnelles effectuées sur citoyens.transformation.gouv.fr soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
 
 ## Exercer vos droits
 
@@ -16,7 +16,5 @@ Services du Premier Ministre
 A l'attention du délégué à la protection des données (DPD)
 56 rue de Varenne
 75007 Paris
-
-
 
 [TEST LIEN PDF](/img/document-sans-titre.pdf)
