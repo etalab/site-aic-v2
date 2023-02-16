@@ -5,11 +5,11 @@ url: /cgu
 ---
 ## Éditeur
 
-Ce site est édité par l'équipe Entrepreneurs d'intérêt général, programme d’innovation numérique des Services du Premier Ministre porté par Etalab, à la Direction interministérielle du numérique..
+Ce site est édité par l'équipe de l'Accélérateur d'initiatives citoyennes, programme d’innovation numérique des Services du Premier Ministre porté par Etalab au sein de [la direction interministérielle du numérique](https://www.numerique.gouv.fr) en partenariat avec [la direction interministérielle de la transformation publique](https://www.modernisation.gouv.fr).
 
 ## Directeur de publication
 
-Pour les sujets relevant de la DINUM (transformation numérique de l’État) : Nadi Bou Hanna, directeur interministériel du numérique.
+Pour les sujets relevant de la DINUM (transformation numérique de l’État) : Stéphanie Schaer, directrice interministériel du numérique.
 
 ## Conception et gestion du site
 
@@ -26,11 +26,3 @@ Tout site public ou privé est autorisé à établir, sans autorisation préalab
 Sauf mention de propriété intellectuelle détenue par des tiers (notamment un crédit sur certaines images), les contenus de ce site sont proposés sous licence ouverte.
 
 La mise en place de liens vers nos contenus et documents est cependant est à privilégier par rapport à la reproduction sur un site tiers. La mention explicite du site source design.numerique.gouv.fr est recommandée.
-
-## Hébergement
-
-Netlify Inc.\
-2325 3rd Street, Suite 215\
-San Francisco, California 94107\
-États-Unis d'Amérique\
-+1 844-899-7312
