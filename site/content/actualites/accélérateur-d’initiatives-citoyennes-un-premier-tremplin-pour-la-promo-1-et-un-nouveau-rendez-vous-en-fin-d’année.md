@@ -21,7 +21,7 @@ Les [neuf initiatives lauréates de la première promotion](https://citoyens.tra
 \
 Ces projets, qui viennent chacun à leur façon compléter l’action de l’Etat dans des champs de politiques au cœur des priorités des français, donnent à voir des illustrations concrètes du concept de « service public augmenté ».
 
-#### ***Une première phase de structuration pour consolider les synergies entre initiatives et administrations***
+#### **Une première phase de structuration pour consolider les synergies entre initiatives et administrations**
 
 Cette première phase de trois mois, pendant laquelle administrations et associations ont travaillé de concert, a servi à **approfondir le diagnostic et la compréhension** du projet poursuivi par chaque initiative, à **identifier des contacts utiles** dans les administrations ainsi que les **complémentarités possibles avec les politiques publiques concernées**.\
 \
@@ -38,11 +38,12 @@ Trois grands types de besoins ont été distingués parmi les projets :
 * A l’issue de la première phase d'accompagnement, une **subvention d’amorçage** de 80k€, complétée d’une **deuxième tranche** de 60 k€ potentiellement déblocable en fin d’année, a été attribuée à certains des projets afin de supporter **leurs besoins de consolidation** ;
 * Une partie des lauréats s’est par ailleurs vue proposer de **prolonger l’accompagnement** par l’AIC au cours **d’une deuxième phase de trois mois (septembre-novembre)**, en vue notamment d’approfondir ou de diversifier leurs liens avec les administrations ;
 * A l'issue de la Phase 2, un **nouveau comité d'engagement** permettra à tous les lauréats qui le souhaitent de faire un tour de table supplémentaire, afin par exemple de financer des besoins de déploiement et d’engager des sponsors additionnels internes ou externes à l’administration.
-* 
+
+
 
 ![](https://citoyens.transformation.gouv.fr/img/programme2.jpg)
 
-#### ***Un nouveau rendez-vous en fin d'année***
+#### **Un nouveau rendez-vous en fin d'année**
 
 Ce programme, qui continuera de s’enrichir et d’améliorer son fonctionnement au fil de l’eau, inaugure ainsi une modalité inédite de co-construction et de co-délivrance du service public :
 
@@ -53,7 +54,7 @@ Ce programme, qui continuera de s’enrichir et d’améliorer son fonctionnemen
 
 Les mois à venir permettront de consolider le bilan des apports du programme aux projets et au service public et d’**affiner la mesure d’impact de l’AIC**, ainsi que d'**associer plus largement des partenaires de l’écosystème de l’innovation au dispositif**. Un **évènement de restitution et de clôture de la première promotion** aura lieu en fin d'année.
 
-#### ***Statut à l'issue de la Phase 1 par lauréat***
+#### **Statut à l'issue de la Phase 1 par lauréat**
 
 ![](https://citoyens.transformation.gouv.fr/img/resultatphase1b.jpg)\
 \
