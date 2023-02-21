@@ -57,6 +57,8 @@
   </url><url>
     <loc>https://aic-tmp.data.gouv.fr/agents/</loc>
   </url><url>
+    <loc>https://aic-tmp.data.gouv.fr/themes/citoyennete/</loc>
+  </url><url>
     <loc>https://aic-tmp.data.gouv.fr/personnes/colette-quirion/</loc>
   </url><url>
     <loc>https://aic-tmp.data.gouv.fr/categories/consolidation/</loc>
@@ -74,6 +76,8 @@
     <loc>https://aic-tmp.data.gouv.fr/personnes/emmanuelle-viens/</loc>
   </url><url>
     <loc>https://aic-tmp.data.gouv.fr/domains/encyclopedie/</loc>
+  </url><url>
+    <loc>https://aic-tmp.data.gouv.fr/themes/environnement/</loc>
   </url><url>
     <loc>https://aic-tmp.data.gouv.fr/expertises/</loc>
   </url><url>

@@ -88,6 +88,15 @@ Cette déclaration d’accessibilité s’applique à citoyens.transformation.go
     </item>
     
     <item>
+      <title>Citoyenneté</title>
+      <link>https://aic-tmp.data.gouv.fr/themes/citoyennete/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aic-tmp.data.gouv.fr/themes/citoyennete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Colette Quirion</title>
       <link>https://aic-tmp.data.gouv.fr/personnes/colette-quirion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -148,6 +157,15 @@ Exercer vos droits Pour toute information ou exercice de vos droits Informatique
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aic-tmp.data.gouv.fr/domains/encyclopedie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environnement</title>
+      <link>https://aic-tmp.data.gouv.fr/themes/environnement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aic-tmp.data.gouv.fr/themes/environnement/</guid>
       <description></description>
     </item>
     
