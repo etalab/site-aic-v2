@@ -1,10 +1,8 @@
 ---
-title: "Accessibilité : partiellement conforme"
+title: "Accessibilité : non conforme"
 layout: page
 url: /accessibilite
 ---
-# Accessibilité : non conforme
-
 Le programme AIC s’engage à rendre son site internet citoyens.transformation.gouv.fr, accessible conformément à l’article 47 de la loi n° 2005-102 du 11 février 2005.
 
 A cette fin, il met en œuvre la stratégie et les actions suivantes : réalisation d’un audit de conformité en 2023.
