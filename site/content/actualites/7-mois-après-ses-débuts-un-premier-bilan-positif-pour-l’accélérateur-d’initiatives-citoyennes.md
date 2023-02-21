@@ -2,7 +2,7 @@
 title: 7 mois après ses débuts, un premier bilan positif pour l’Accélérateur
   d’Initiatives Citoyennes
 author: Coraline Gillard
-date: 2023-02-21T08:53:59.044Z
+date: 2022-12-05T08:53:59.044Z
 description: "Le 14 mars dernier, 9 projets citoyens ont été choisis parmi 200
   candidatures au travers d’un processus de sélection ambitieux, pour rejoindre
   l’Accélérateur d’initiatives citoyennes (AIC). Accompagnés du 14 avril 2022 au
