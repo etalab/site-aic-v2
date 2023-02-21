@@ -5,12 +5,13 @@ description: Faciliter l’accès aux documents administratifs des acteurs inves
 who: Association Open Knowledge Foundation France
 themes:
   - Numérique
+  - Citoyenneté
 impacts:
   - Transformer nos services publics et construire une renaissance démocratique
 town: Paris
 date: 2023-02-09T13:24:54.549Z
 domains:
-  - Accès à la donnée publique
+  - Transformation numérique
 image: img/image-fiche-lauréat-1.png
 visible: true
 ---
