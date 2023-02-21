@@ -5,6 +5,16 @@
     <link>https://aic-tmp.data.gouv.fr/categories/</link>
     <description>Recent content in Categories on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://aic-tmp.data.gouv.fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 05 Oct 2022 07:15:48 +0000</lastBuildDate><atom:link href="https://aic-tmp.data.gouv.fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accompagnement</title>
+      <link>https://aic-tmp.data.gouv.fr/categories/accompagnement/</link>
+      <pubDate>Wed, 05 Oct 2022 07:15:48 +0000</pubDate>
+      
+      <guid>https://aic-tmp.data.gouv.fr/categories/accompagnement/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
