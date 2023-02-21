@@ -6,11 +6,20 @@
     <description>Recent content in Themes on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 21 Feb 2023 08:39:43 +0000</lastBuildDate><atom:link href="https://aic-tmp.data.gouv.fr/themes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Feb 2023 08:49:17 +0000</lastBuildDate><atom:link href="https://aic-tmp.data.gouv.fr/themes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Citoyenneté</title>
+      <link>https://aic-tmp.data.gouv.fr/themes/citoyennete/</link>
+      <pubDate>Tue, 21 Feb 2023 08:49:17 +0000</pubDate>
+      
+      <guid>https://aic-tmp.data.gouv.fr/themes/citoyennete/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Education </title>
       <link>https://aic-tmp.data.gouv.fr/themes/education/</link>
-      <pubDate>Tue, 21 Feb 2023 08:39:43 +0000</pubDate>
+      <pubDate>Tue, 21 Feb 2023 08:49:17 +0000</pubDate>
       
       <guid>https://aic-tmp.data.gouv.fr/themes/education/</guid>
       <description></description>
@@ -19,7 +28,7 @@
     <item>
       <title>Numérique</title>
       <link>https://aic-tmp.data.gouv.fr/themes/numerique/</link>
-      <pubDate>Tue, 21 Feb 2023 08:39:43 +0000</pubDate>
+      <pubDate>Tue, 21 Feb 2023 08:49:17 +0000</pubDate>
       
       <guid>https://aic-tmp.data.gouv.fr/themes/numerique/</guid>
       <description></description>
@@ -31,15 +40,6 @@
       <pubDate>Tue, 21 Feb 2023 08:36:17 +0000</pubDate>
       
       <guid>https://aic-tmp.data.gouv.fr/themes/environnement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Citoyenneté</title>
-      <link>https://aic-tmp.data.gouv.fr/themes/citoyennete/</link>
-      <pubDate>Thu, 09 Feb 2023 13:24:54 +0000</pubDate>
-      
-      <guid>https://aic-tmp.data.gouv.fr/themes/citoyennete/</guid>
       <description></description>
     </item>
     
