@@ -5,12 +5,13 @@ description: Proposer un outil contributif et ouvert d’éducation aux médias 
 who: Association Vikidia
 themes:
   - Numérique
+  - "Education "
 impacts:
   - Transformer nos services publics et construire une renaissance démocratique
 town: Corenc
 date: 2023-02-21T08:18:08.558Z
 domains:
-  - Accès à la donnée publique
+  - Transformation numérique
 image: img/vikidia_logo.png
 visible: true
 ---
