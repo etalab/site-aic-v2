@@ -1,5 +1,5 @@
 ---
-title: OPEN DATA UNIVERSITY
+title: Open Data University
 description: Former les étudiants à la réutilisation des données publiques pour
   faire émerger des initiatives citoyennes numériques
 who: Association Latitudes
