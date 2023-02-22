@@ -1,4 +1,4 @@
-baseurl = "https://aic-tmp.data.gouv.fr/"
+baseurl = "https://citoyens.transformation.gouv.fr"
 languageCode = "fr-fr"
 languageLang = "fr"
 title = "Accélérateur d'initiatives citoyennes"

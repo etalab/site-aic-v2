@@ -1,4 +1,4 @@
-baseURL = 'https://aic-tmp.data.gouv.fr/'
+baseURL = 'https://citoyens.transformation.gouv.fr/'
 languageCode = 'fr-fr'
 title = 'AIC'
 
