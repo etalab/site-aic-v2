@@ -1,5 +1,5 @@
 ---
-title: SERVICE NATIONAL UNIVERSEL AUGMENTE
+title: Service national universel augmenté
 description: Permettre à des milliers de jeunes de s’engager bénévolement pour
   la solidarité et l’environnement
 who: Association makesense
