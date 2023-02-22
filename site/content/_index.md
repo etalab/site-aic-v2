@@ -6,8 +6,12 @@ hero:
     url: /participer
 intro:
   title: Seconde saison de l'Accélérateur d'Initiatives Citoyennes !
-  desc: >-
-    Annoncé par le Président de la République et lancé par la ministre de la Transformation et de la Fonction publiques le 17 décembre 2021, l’Accélérateur d’initiatives citoyennes , ou AIC, vise à promouvoir les initiatives d’intérêt général portées par la société civile, à en accélérer le déploiement et à faciliter l’accès aux ressources et expertises que l’administration est susceptible de leur fournir.
+  desc: Annoncé par le Président de la République et lancé par la ministre de la
+    Transformation et de la Fonction publiques le 17 décembre 2021,
+    l’Accélérateur d’initiatives citoyennes , ou AIC, vise à promouvoir les
+    initiatives d’intérêt général portées par la société civile, à en accélérer
+    le déploiement et à faciliter l’accès aux ressources et expertises que
+    l’administration est susceptible de leur fournir.
 quote:
   text: "\"Former un service public augmenté, à l'intersection de deux
     bonnes   volontés : celle de l'administration et des citoyens\""
@@ -20,7 +24,7 @@ join:
   image: img/photo-2.jpg
   btn:
     title: Participer
-    url: https://eig.etalab.gouv.fr/participer/
+    url: https://citoyens.transformation.gouv.fr/participer/candidats/
 medias:
   desc: Parcourez les articles, tribunes, posts de blog sur le programme
   tiles:
