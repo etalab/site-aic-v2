@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Promos on Accélérateur d&#39;initiatives citoyennes</title>
-    <link>https://aic-tmp.data.gouv.fr/promos/</link>
+    <link>https://citoyens.transformation.gouv.fr/promos/</link>
     <description>Recent content in Promos on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://aic-tmp.data.gouv.fr/promos/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://citoyens.transformation.gouv.fr/promos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Promotion 2</title>
-      <link>https://aic-tmp.data.gouv.fr/promos/promotion-2/</link>
+      <link>https://citoyens.transformation.gouv.fr/promos/promotion-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aic-tmp.data.gouv.fr/promos/promotion-2/</guid>
+      <guid>https://citoyens.transformation.gouv.fr/promos/promotion-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Promotion 3</title>
-      <link>https://aic-tmp.data.gouv.fr/promos/promotion-3/</link>
+      <link>https://citoyens.transformation.gouv.fr/promos/promotion-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aic-tmp.data.gouv.fr/promos/promotion-3/</guid>
+      <guid>https://citoyens.transformation.gouv.fr/promos/promotion-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Promotion 6</title>
-      <link>https://aic-tmp.data.gouv.fr/promos/promotion-6/</link>
+      <link>https://citoyens.transformation.gouv.fr/promos/promotion-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aic-tmp.data.gouv.fr/promos/promotion-6/</guid>
+      <guid>https://citoyens.transformation.gouv.fr/promos/promotion-6/</guid>
       <description></description>
     </item>
     

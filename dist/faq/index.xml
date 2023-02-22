@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Foire aux questions on Accélérateur d&#39;initiatives citoyennes</title>
-    <link>https://aic-tmp.data.gouv.fr/faq/</link>
+    <link>https://citoyens.transformation.gouv.fr/faq/</link>
     <description>Recent content in Foire aux questions on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://aic-tmp.data.gouv.fr/faq/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://citoyens.transformation.gouv.fr/faq/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

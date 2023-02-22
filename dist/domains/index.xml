@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Domains on Accélérateur d&#39;initiatives citoyennes</title>
-    <link>https://aic-tmp.data.gouv.fr/domains/</link>
+    <link>https://citoyens.transformation.gouv.fr/domains/</link>
     <description>Recent content in Domains on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://aic-tmp.data.gouv.fr/domains/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://citoyens.transformation.gouv.fr/domains/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transformation numérique</title>
-      <link>https://aic-tmp.data.gouv.fr/domains/transformation-numerique/</link>
+      <link>https://citoyens.transformation.gouv.fr/domains/transformation-numerique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aic-tmp.data.gouv.fr/domains/transformation-numerique/</guid>
+      <guid>https://citoyens.transformation.gouv.fr/domains/transformation-numerique/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transformation publique </title>
-      <link>https://aic-tmp.data.gouv.fr/domains/transformation-publique/</link>
+      <link>https://citoyens.transformation.gouv.fr/domains/transformation-publique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aic-tmp.data.gouv.fr/domains/transformation-publique/</guid>
+      <guid>https://citoyens.transformation.gouv.fr/domains/transformation-publique/</guid>
       <description></description>
     </item>
     

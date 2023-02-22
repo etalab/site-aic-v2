@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Environnement on Accélérateur d&#39;initiatives citoyennes</title>
-    <link>https://aic-tmp.data.gouv.fr/themes/environnement/</link>
+    <link>https://citoyens.transformation.gouv.fr/themes/environnement/</link>
     <description>Recent content in Environnement on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 21 Feb 2023 08:36:17 +0000</lastBuildDate><atom:link href="https://aic-tmp.data.gouv.fr/themes/environnement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Feb 2023 08:36:17 +0000</lastBuildDate><atom:link href="https://citoyens.transformation.gouv.fr/themes/environnement/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>INFOCLIMAT</title>
-      <link>https://aic-tmp.data.gouv.fr/laureats/infoclimat/</link>
+      <link>https://citoyens.transformation.gouv.fr/laureats/infoclimat/</link>
       <pubDate>Tue, 21 Feb 2023 08:36:17 +0000</pubDate>
       
-      <guid>https://aic-tmp.data.gouv.fr/laureats/infoclimat/</guid>
+      <guid>https://citoyens.transformation.gouv.fr/laureats/infoclimat/</guid>
       <description>Problématique Les données météorologiques et climatiques sont difficilement accessibles et compréhensibles pour les citoyennes et citoyens.
 Description de l’initiative L’association Infoclimat produit, collecte et met à disposition des données météorologiques et climatiques. Elle s’appuie sur un réseau de particuliers passionnés qui fournit des données issues de stations météo personnelles et crée du contenu pédagogique sur les phénomènes météorologiques et climatiques. L’ensemble est exposé gratuitement sur le site infoclimat.fr. L’objectif est de créer un véritable commun numérique à partir de ces données et d’inclure un maximum d’acteurs dans la démarche.</description>
     </item>
