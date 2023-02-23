@@ -1,5 +1,5 @@
 ---
-title: INFOCLIMAT
+title: Infoclimat
 description: Vulgariser la météo et le climat grâce aux sciences participatives
   et aux données ouvertes
 who: Association Infoclimat
