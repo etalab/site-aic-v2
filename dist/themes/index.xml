@@ -6,22 +6,31 @@
     <description>Recent content in Themes on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 23 Feb 2023 12:48:17 +0000</lastBuildDate><atom:link href="https://citoyens.transformation.gouv.fr/themes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Feb 2023 12:55:59 +0000</lastBuildDate><atom:link href="https://citoyens.transformation.gouv.fr/themes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Citoyenneté</title>
+      <link>https://citoyens.transformation.gouv.fr/themes/citoyennete/</link>
+      <pubDate>Thu, 23 Feb 2023 12:55:59 +0000</pubDate>
+      
+      <guid>https://citoyens.transformation.gouv.fr/themes/citoyennete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education </title>
+      <link>https://citoyens.transformation.gouv.fr/themes/education/</link>
+      <pubDate>Thu, 23 Feb 2023 12:55:59 +0000</pubDate>
+      
+      <guid>https://citoyens.transformation.gouv.fr/themes/education/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Santé</title>
       <link>https://citoyens.transformation.gouv.fr/themes/sante/</link>
       <pubDate>Thu, 23 Feb 2023 12:48:17 +0000</pubDate>
       
       <guid>https://citoyens.transformation.gouv.fr/themes/sante/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Citoyenneté</title>
-      <link>https://citoyens.transformation.gouv.fr/themes/citoyennete/</link>
-      <pubDate>Thu, 23 Feb 2023 10:34:59 +0000</pubDate>
-      
-      <guid>https://citoyens.transformation.gouv.fr/themes/citoyennete/</guid>
       <description></description>
     </item>
     
@@ -40,15 +49,6 @@
       <pubDate>Thu, 23 Feb 2023 08:42:32 +0000</pubDate>
       
       <guid>https://citoyens.transformation.gouv.fr/themes/handicap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Education </title>
-      <link>https://citoyens.transformation.gouv.fr/themes/education/</link>
-      <pubDate>Tue, 21 Feb 2023 08:49:17 +0000</pubDate>
-      
-      <guid>https://citoyens.transformation.gouv.fr/themes/education/</guid>
       <description></description>
     </item>
     
