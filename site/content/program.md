@@ -16,7 +16,7 @@ steps:
       step: Phase 2
       duration: 3 mois
       title: Intégration
-      dates: Relais d'influence, clefs de compréhension de l’administration.
+      dates: Relais d'influence, clefs de compréhension de l’administration
       desc: "L’AIC est le seul dispositif visant à permettre aux acteurs issus de la
         société civile de mieux appréhender l'administration et ses relais pour
         intégrer son action avec un service public donné. "
