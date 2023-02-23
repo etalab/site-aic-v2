@@ -28,4 +28,6 @@ L’association propose aux enfants en situation de handicap de pratiquer une ac
 * Restructurer notre parcours usager et de le solidifier
 * Outiller notre structure pour être plus efficients
 
+{{< dailymotion x8g766g "\[Lauréat AIC] Ma Dada : l'accès aux données administratives" >}}
+
 > *«  L’AIC nous a permis de définir une stratégie et de former des bénévoles à aller chercher des clubs via des prescripteurs comme les mairies. »*
