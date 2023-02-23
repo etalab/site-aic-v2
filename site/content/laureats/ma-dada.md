@@ -1,5 +1,5 @@
 ---
-title: MA DADA
+title: Ma Dada
 description: Faciliter l’accès aux documents administratifs des acteurs investis
   d’une mission de service public
 who: Association Open Knowledge Foundation France
