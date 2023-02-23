@@ -10,16 +10,18 @@ steps:
       duration: 2 mois
       title: Consolidation
       dates: Gouvernance, financements, évaluation
-      desc: L’AIC permet de disposer d'un environnement et accompagnement partenarial
-        clé en main pour consolider les fondamentaux de l'association.
+      desc: L'Accélérateur d'initiatives citoyennes permet de disposer d'un
+        environnement et accompagnement partenarial clé en main pour consolider
+        les fondamentaux de l'association.
     - icon: img/Picto-1.jpg
       step: Phase 2
       duration: 3 mois
       title: Intégration
       dates: Relais d'influence, clefs de compréhension de l’administration
-      desc: "L’AIC est le seul dispositif visant à permettre aux acteurs issus de la
-        société civile de mieux appréhender l'administration et ses relais pour
-        intégrer son action avec un service public donné. "
+      desc: "L'Accélérateur d'initiatives citoyennes est le seul dispositif visant à
+        permettre aux acteurs issus de la société civile de mieux appréhender
+        l'administration et ses relais pour intégrer son action avec un service
+        public donné. "
     - icon: /img/Picto-3.jpg
       step: Phase 3
       duration: 3 mois
@@ -49,9 +51,8 @@ then:
   desc: >-
     ## Et après ?
 
-    En sortie d'accélérateur, des sponsors publics et privés s’engagent pour la suite du projet
 
-    Chaque initiative sera présentée à un comité de sponsors publics et privés susceptibles de s’engager pour accompagner son développement.
+    **En sortie d'accélérateur, des sponsors publics et privés s’engagent pour la suite du projet.** Chaque initiative sera présentée à un comité de sponsors publics et privés susceptibles de s’engager pour accompagner son développement.
 
     En sortie d'accélérateur, forts de la consolidation apportée par le programme, les porteurs de projets seront préparés à ce pitch final qui leur permettra de présenter les prochaines étapes et perspectives de développement de leur initiative.
 
