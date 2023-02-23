@@ -18,10 +18,8 @@ visible: true
 **Problématique**
 Les contenus de Wikipédia sont très détaillés et pointus, mais peu accessibles à la compréhension et à la contribution pour un public jeune.
 
-
 **Description de l’initiative**
 Vikidia est une encyclopédie libre, multilingue et écrite de manière collaborative par et pour les 8-13 ans. Elle s’appuie sur la technologie wiki et fonctionne grâce à une communauté de bénévoles. L'objectif est d'intégrer de nouveaux contributeurs et contributrices bénévoles et d'augmenter la participation des enfants à sa rédaction. Cela passera par la formation d’un maximum de documentalistes à l’outil et la mise en place de projets pédagogiques dans l'enseignement primaire et secondaire.
-
 
 **En 6 mois, l’Accélérateur aura permis de…**
 
@@ -29,4 +27,6 @@ Vikidia est une encyclopédie libre, multilingue et écrite de manière collabor
 * Consolider la gouvernance et la structuration de l’association en recrutant une première personne
 * Enrichir la solution pour la pratique pédagogique
 
-> « L’AIC nous a rendu tout à fait autonomes dans la relation avec les administrations. Nous avons bénéficié d’un temps dédié pour échanger de manière plus approfondie. »
+{{< dailymotion x8g7654 "\[Lauréat AIC] Vikidia : l'encyclopédie dès 8 ans" >}}
+
+> *« L’AIC nous a rendu tout à fait autonomes dans la relation avec les administrations. Nous avons bénéficié d’un temps dédié pour échanger de manière plus approfondie. »*
