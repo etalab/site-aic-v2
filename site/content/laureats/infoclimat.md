@@ -24,9 +24,10 @@ L’association Infoclimat produit, collecte et met à disposition des données 
 
 **En 6 mois, l’Accélérateur aura permis de…**
 
-
 * Renforcer les liens de l’association avec Etalab et aller plus loin dans l’ouverture des données
 * Consolider la gouvernance de l’organisation qui était depuis 20 ans 100 % bénévole
 * Sécuriser l’infrastructure technique
 
-> « Le coup d’accélérateur a été flagrant. Nous avons fait en 6 mois ce que nous espérions faire en 2 ans. Grâce à l’AIC nous avons pu embaucher une personne et investir dans notre infrastructure technique. C’est une vraie bouffée d’oxygène. »
+{{< dailymotion x8g767t "\[Lauréat AIC] Infoclimat : partager les données météo et climatologiques" >}}
+
+> *« Le coup d’accélérateur a été flagrant. Nous avons fait en 6 mois ce que nous espérions faire en 2 ans. Grâce à l’AIC nous avons pu embaucher une personne et investir dans notre infrastructure technique. C’est une vraie bouffée d’oxygène. »*
