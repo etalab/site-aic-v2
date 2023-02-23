@@ -67,9 +67,9 @@ how:
     ![](img/steps.svg)
 
 
-    1.  Dépôt du dossier de candidature en 30 minutes chrono. L'accompagnement est ouvert pour tout individu ou structure qui porte un projet d'intérêt général. Pour postuler, répondez à notre formulaire simplifié, et recevez une réponse rapidement.
+    1. Dépôt du dossier de candidature en 30 minutes chrono. L'accompagnement est ouvert pour tout individu ou structure qui porte un projet d'intérêt général. Pour postuler, répondez à notre formulaire simplifié, et recevez une réponse rapidement.
 
-    2.  Sélection par le jury citoyen & l'administration. L'administration & un jury de citoyens sélectionnent les initiatives les plus pertinentes.
+    2. Sélection par le jury citoyen & l'administration. L'administration & un jury de citoyens sélectionnent les initiatives les plus pertinentes.
 
     3. L'accélération : votre projet est accompagné pendant quelques mois. Les projets retenus intègrent ensemble une même promotion au sein du programme d'accélération. Pendant quelques mois, l'équipe interministérielle et ses partenaires leur apportent leur aide pour consolider le projet. Passage en comité d'engagement & déploiement
 
@@ -79,11 +79,9 @@ how:
     ###### Pour en savoir plus :
 
 
-    * Accédez à [notre foire aux questions](https://eig.etalab.gouv.fr/participer/candidats/faq/)
+    * Accédez à [notre foire aux questions](https://citoyens.transformation.gouv.fr/faq/)
 
-    * Consultez la [plaquette de l'appel à candidatures 2022](https://eig.etalab.gouv.fr/img/aac-eig6-plaquette.pdf)
-
-    * Lisez notre [article de blog](https://www.etalab.gouv.fr/letat-recherche-des-profils-du-numerique-rejoignez-les-entrepreneurs-dinteret-general/)
+    * Lisez notre [article de blog](https://citoyens.transformation.gouv.fr/actualites/7-mois-apres-ses-debuts-un-premier-bilan-positif-pour-laccelerateur-dinitiatives-citoyennes/)
 criteria:
   title: "5 critères de sélection "
   desc: >-
