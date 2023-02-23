@@ -1,36 +1,42 @@
 ---
-numbers:
+numbers: null
 steps:
-  title: |
-    L’AIC incarne la co-construction et la co-délivrance du service public avec la société civile.
+  title: >
+    L’AIC incarne la co-construction et la co-délivrance du service public avec
+    la société civile.
   list:
-    - icon: /img/Picto-1.jpg
+    - icon: img/picto-2.jpg
       step: Phase 1
       duration: 2 mois
-      title: Intégration
-      dates: Relais d'influence, clefs de compréhension de l’administration
-      desc: L’AIC est le seul dispositif visant à permettre aux acteurs issus de la société civile de mieux appréhender l'administration et ses relais pour INTEGRER son action avec un service public donné.
-    - icon: /img/Picto-2.jpg
-      step: Phase 2
-      duration: 3 mois
       title: Consolidation
       dates: Gouvernance, financements, évaluation
-      desc: "L’AIC permet de disposer d'un environnement et accompagnement partenarial clé en main pour CONSOLIDER les fondamentaux de l'association."
+      desc: L’AIC permet de disposer d'un environnement et accompagnement partenarial
+        clé en main pour consolider les fondamentaux de l'association.
+    - icon: img/picto-2.jpg
+      step: Phase 2
+      duration: 3 mois
+      title: Intégration
+      dates: Relais d'influence, clefs de compréhension de l’administration.
+      desc: "L’AIC est le seul dispositif visant à permettre aux acteurs issus de la
+        société civile de mieux appréhender l'administration et ses relais pour
+        intégrer son action avec un service public donné. "
     - icon: /img/Picto-3.jpg
       step: Phase 3
       duration: 3 mois
       title: Déploiement
       dates: Terrains d'expérimentation, soutien en ingénierie
       desc: >
-        Faciliter l'adaptation d’une innovation sociale ou numérique à un service public pour assurer son DÉPLOIEMENT AU PLUS PRÈS DES USAGERS.
+        Faciliter l'adaptation d’une innovation sociale ou numérique à un
+        service public pour assurer son déploiement au plus près des usagers.
 layout: program
 url: /programme
 image: img/banner-programme.jpg
 title: Pourquoi ce programme d'accélération ?
-desc: >-
-  De nombreuses initiatives naissent au sein de la société civile et relèvent de l’intérêt général.
-  Mais leur développement n’est pas toujours aisé : il est parfois compliqué d’accéder aux ressources publiques utiles,
-  de frapper à la bonne porte dans l’administration, de se faire connaître, reconnaître ou distribuer par les services ou les agents de l’État...
+desc: "De nombreuses initiatives naissent au sein de la société civile et
+  relèvent de l’intérêt général. Mais leur développement n’est pas toujours aisé
+  : il est parfois compliqué d’accéder aux ressources publiques utiles, de
+  frapper à la bonne porte dans l’administration, de se faire connaître,
+  reconnaître ou distribuer par les services ou les agents de l’État..."
 how:
   desc: >-
     ## Comment ça marche ?
@@ -38,7 +44,7 @@ how:
     Ce programme d'accélération s’adresse à tous les porteurs de projets d’intérêt général de la société civile , quel que soit leur statut : individus ou associations, à condition que les initiatives soient en cohérence avec les valeurs du service public et qu’elles contribuent au bien commun, sans donner lieu à une captation de valeur exclusive par leurs créateurs.
 
     A l’issue d’un processus de sélection mené conjointement par l'administration et un jury de citoyens, les projets retenus seront accélérés durant quelques mois. Pendant cette période, l'équipe interministérielle de l'Accélérateur mobilise les ressources de l'administration pour accompagner les projets en deux phases.
-  tiles:
+  tiles: null
 then:
   desc: >-
     ## Et après ?
