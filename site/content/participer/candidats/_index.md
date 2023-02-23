@@ -6,7 +6,8 @@ head:
     - question: Transparence
     - question: Publication et valorisation des résultats
     - question: Communication
-  sub: 
+  sub: Cette charte est signée par tous les projets souhaitant intégrer la
+    promotion de l'Accélérateur d'Initiatives Citoyennes.
   apply:
     title: Postuler
     url: /participer/candidats/postuler
@@ -14,11 +15,17 @@ head:
     title: "Règlement "
     url: img/aac-eig6-reglement.pdf
 def:
-  title: Un jury de citoyens et une équipe interministérielle sélectionnent ensemble les projets qui intègrent l’Accélérateur
+  title: Un jury de citoyens et une équipe interministérielle sélectionnent
+    ensemble les projets qui intègrent l’Accélérateur
   info:
     title: EIG, ça veut dire quoi ?
     desc: >-
-      L'administration pré-sélectionne les projets sur la base d’une expertise technique. Elle en évalue la solidité, la faisabilité et l'impact potentiel, ainsi que l’aide que les pouvoirs publics sont susceptibles de lui apporter sur la base de critères. Le jury citoyen se prononce sur la dimension d’utilité et d'intérêt général du projet, et sur sa capacité à répondre à un enjeu social, environnemental ou économique important. 
+      L'administration pré-sélectionne les projets sur la base d’une expertise
+      technique. Elle en évalue la solidité, la faisabilité et l'impact
+      potentiel, ainsi que l’aide que les pouvoirs publics sont susceptibles de
+      lui apporter sur la base de critères. Le jury citoyen se prononce sur la
+      dimension d’utilité et d'intérêt général du projet, et sur sa capacité à
+      répondre à un enjeu social, environnemental ou économique important. 
 
 
       * Le jury citoyen est constitué de 15 citoyens choisis parmi la population française évalue les projets qui candidatent à l'Accélérateur sur leur dimension d'intérêt général, et leur capacité à répondre à un enjeu important pour les français remet un avis sur les projets
@@ -34,17 +41,18 @@ what:
     - def: Numérique
     - def: Education
 layout: candidates
-title: La charte des projets d'intérêt général
 profiles:
   title: Profils
-  desc: >-
-    L'accompagnement est ouvert pour tout individu ou structure qui porte un projet d'intérêt général en résonance avec les chantiers prioritaires du gouvernement.
-    
-    
+  desc: L'accompagnement est ouvert pour tout individu ou structure qui porte un
+    projet d'intérêt général en résonance avec les chantiers prioritaires du
+    gouvernement.
   list:
     - ACOSS-Plateforme
     - ADEX
   sub: Découvrez les initiatives lauréates
+simplified_procedure:
+  image: img/Banniere-DS.jpg
+title: La charte des projets d'intérêt général
 how:
   title: Les étapes du programme en détail
   desc: >-
@@ -87,26 +95,32 @@ criteria:
   list:
     - num: "1"
       name: La finalité d'intérêt général
-      desc: Le problème identifié et la solution proposée relèvent d'une préoccupation d'intérêt général, voire s'inscrivent dans une politique publique prioritaire ou stratégique
+      desc: Le problème identifié et la solution proposée relèvent d'une préoccupation
+        d'intérêt général, voire s'inscrivent dans une politique publique
+        prioritaire ou stratégique
     - num: "2"
       name: L'impact
-      desc: Les initiatives à fort impact (nombre de personnes touchées, capacité à traiter une cause racine), diffusables à large échelle et réplicables seront privilégiées
+      desc: Les initiatives à fort impact (nombre de personnes touchées, capacité à
+        traiter une cause racine), diffusables à large échelle et réplicables
+        seront privilégiées
     - num: "3"
       name: La maturité et la structuration du projet
-      desc: >-
-        Nous privilégions les projets aux idées : les projets ayant fait leurs preuves, ayant déjà commencé à travailler sur le terrain, ayant déjà mis un premier produit en production, et portés par une équipe solide seront privilégiés
+      desc: "Nous privilégions les projets aux idées : les projets ayant fait leurs
+        preuves, ayant déjà commencé à travailler sur le terrain, ayant déjà mis
+        un premier produit en production, et portés par une équipe solide seront
+        privilégiés"
     - num: "4"
       name: L'ouverture, la transparence et l'intégrité
-      desc: Les initiatives ouvertes et transparentes seront privilégiées, elles devront bien sûr respecter le cadre légal en vigueur
+      desc: Les initiatives ouvertes et transparentes seront privilégiées, elles
+        devront bien sûr respecter le cadre légal en vigueur
     - num: "5"
       name: Potentiel d'effet de levier de l'accompagnement par l'administration
-      desc: L'aide demandée à l'administration a clairement été identifiée, et permettra au projet de passer une étape importante de son développement
+      desc: L'aide demandée à l'administration a clairement été identifiée, et
+        permettra au projet de passer une étape importante de son développement
 wait:
   title: L'appel à candidatures 2022 est désormais clos.
   desc: Si vous êtes intéressés par une participation à la prochaine promotion,
-    [inscrivez-vous à notre liste de
-    diffusion](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio)
-    ! Vous serez tenus au courant de toutes nos actualités.
-simplified_procedure:
-  image: img/Banniere-DS.jpg
+    [suivez-nous sur les réseaux
+    sociaux](https://www.linkedin.com/company/etalab/) ! Vous serez tenus au
+    courant de toutes nos actualités.
 ---
