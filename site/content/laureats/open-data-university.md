@@ -23,9 +23,10 @@ L’association Latitudes souhaite créer un programme d’enseignement de l’o
 
 **En 6 mois, l’Accélérateur aura permis de…**
 
-
 * Identifier des jeux de données à réutiliser pour élaborer les premiers défis
 * Faire reconnaître le programme par le ministère de l’enseignement supérieur 
 * Booster la diffusion du programme dans le monde de l’enseignement supérieur
 
-> « En l’espace d’une semaine, l’AIC nous a permis d’améliorer notre réseau et de présenter notre projet à 60 DNum (Direction du Numérique) d’universités. »
+{{< dailymotion x8g769c "\[Lauréat AIC] Open Data University : apprendre à réutiliser les données ouvertes" >}}
+
+> *« En l’espace d’une semaine, l’AIC nous a permis d’améliorer notre réseau et de présenter notre projet à 60 DNum (Direction du Numérique) d’universités. »*
