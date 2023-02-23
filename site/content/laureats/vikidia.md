@@ -1,5 +1,5 @@
 ---
-title: VIKIDIA
+title: Vikidia
 description: Proposer un outil contributif et ouvert d’éducation aux médias et à
   l'information pour les 8-13 ans
 who: Association Vikidia
