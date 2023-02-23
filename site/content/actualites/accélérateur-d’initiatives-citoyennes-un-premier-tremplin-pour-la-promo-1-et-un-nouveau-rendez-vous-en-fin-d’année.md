@@ -6,14 +6,12 @@ date: 2022-10-05T07:15:48.327Z
 description: A l’issue d’une première phase de trois mois de collaboration avec
   les projets lauréats, l’Accélérateur d’initiatives citoyennes détaille les
   avancées du programme et les progrès réalisés.
-image: img/aic-tableau-2-.jpg
+image: img/Picto-4.jpg
 categories:
   - Accompagnement
 visible: true
 ---
 Annoncé par le Président de la République et lancé le 17 décembre 2021, l’[Accélérateur d’initiatives citoyennes](https://citoyens.transformation.gouv.fr/index.html) permet d’accompagner les citoyens, associations et collectifs ayant un projet d’utilité publique.\
-\
-![](https://citoyens.transformation.gouv.fr/img/intro5.jpg)\
 \
 Piloté par Etalab au sein de la [DINUM](https://www.numerique.gouv.fr/dinum/) en partenariat avec la [DITP](https://www.modernisation.gouv.fr/qui-sommes-nous) et intégré au plan d’action français 2021-2023 du [Partenariat pour un gouvernement ouvert (PGO)](https://gouvernement-ouvert.modernisation.gouv.fr/), le programme vise à **promouvoir les initiatives d’intérêt général portées par la société civile**, à en **accélérer le déploiement** et à **faciliter l’accès aux ressources et expertises que l’administration est susceptible de leur fournir.**\
 \
@@ -39,9 +37,7 @@ Trois grands types de besoins ont été distingués parmi les projets :
 * Une partie des lauréats s’est par ailleurs vue proposer de **prolonger l’accompagnement** par l’AIC au cours **d’une deuxième phase de trois mois (septembre-novembre)**, en vue notamment d’approfondir ou de diversifier leurs liens avec les administrations ;
 * A l'issue de la Phase 2, un **nouveau comité d'engagement** permettra à tous les lauréats qui le souhaitent de faire un tour de table supplémentaire, afin par exemple de financer des besoins de déploiement et d’engager des sponsors additionnels internes ou externes à l’administration.
 
-
-
-![](https://citoyens.transformation.gouv.fr/img/programme2.jpg)
+![](http://aic-preprod.app.etalab.studio/img/programme2.jpg)
 
 #### **Un nouveau rendez-vous en fin d'année**
 
@@ -56,8 +52,6 @@ Les mois à venir permettront de consolider le bilan des apports du programme au
 
 #### **Statut à l'issue de la Phase 1 par lauréat**
 
-![](https://citoyens.transformation.gouv.fr/img/resultatphase1b.jpg)\
-\
-[Retrouvez les lauréats de la promotion 1](https://citoyens.transformation.gouv.fr/laureats.html)\
-\
-[Le fonctionnement du programm](https://citoyens.transformation.gouv.fr/programme.html)
+![](http://aic-preprod.app.etalab.studio/img/resultatphase1b.jpg)
+
+[Retrouvez les lauréats de la promotion ](https://citoyens.transformation.gouv.fr/laureats/)
