@@ -12,7 +12,7 @@ steps:
       dates: Gouvernance, financements, évaluation
       desc: L’AIC permet de disposer d'un environnement et accompagnement partenarial
         clé en main pour consolider les fondamentaux de l'association.
-    - icon: img/picto-2.jpg
+    - icon: img/Picto-1.jpg
       step: Phase 2
       duration: 3 mois
       title: Intégration
