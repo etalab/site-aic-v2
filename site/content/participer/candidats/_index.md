@@ -81,6 +81,8 @@ how:
 
     * Accédez à [notre foire aux questions](https://citoyens.transformation.gouv.fr/faq/)
 
+    * Consultez le [livret de la saison 1](img/livretevcloture.pdf)
+
     * Lisez notre [article de blog](https://citoyens.transformation.gouv.fr/actualites/7-mois-apres-ses-debuts-un-premier-bilan-positif-pour-laccelerateur-dinitiatives-citoyennes/)
 criteria:
   title: "5 critères de sélection "
