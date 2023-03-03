@@ -64,7 +64,7 @@ how:
     Le processus de sélection se fait en 4 étapes : 
 
 
-    ![](img/steps.svg)
+    ![](img/banniere2.jpg)
 
 
     1. Dépôt du dossier de candidature en 30 minutes chrono. L'accompagnement est ouvert pour tout individu ou structure qui porte un projet d'intérêt général. Pour postuler, répondez à notre formulaire simplifié, et recevez une réponse rapidement.
