@@ -11,7 +11,7 @@ intro:
     l’Accélérateur d’initiatives citoyennes , ou AIC, vise à promouvoir les
     initiatives d’intérêt général portées par la société civile, à en accélérer
     le déploiement et à faciliter l’accès aux ressources et expertises que
-    l’administration est susceptible de leur fournir
+    l’administration est susceptible de leur fournir.
 quote:
   text: "\"Former un service public augmenté, à l'intersection de deux
     bonnes   volontés : celle de l'administration et des citoyens\""
