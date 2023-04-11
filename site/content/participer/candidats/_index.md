@@ -5,7 +5,6 @@ head:
     - question: Respect des valeurs du service public et but d’intérêt général
     - question: Transparence
     - question: Publication et valorisation des résultats
-    - question: Communication
   sub: Les projets souhaitant intégrer l'Accélérateur d'Initiatives Citoyennes
     partagent ces valeurs
   apply:
