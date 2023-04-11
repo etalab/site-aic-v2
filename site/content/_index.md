@@ -5,7 +5,7 @@ hero:
     title: Participer
     url: /participer
 intro:
-  title: Seconde saison de l'Accélérateur d'Initiatives Citoyennes !
+  title: Deuxième saison de l'Accélérateur d'Initiatives Citoyennes !
   desc: Lancé en 2021 par le Président Emmanuel Macron lors du 7ème sommet mondial
     du Partenariat pour un Gouvernement Ouvert (PGO), l’Accélérateur
     d’initiatives citoyennes (AIC) vise à promouvoir et renforcer les
