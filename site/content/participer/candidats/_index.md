@@ -5,8 +5,8 @@ head:
     - question: Respect des valeurs du service public et but d’intérêt général
     - question: Transparence
     - question: Publication et valorisation des résultats
-  sub: Les projets soutenus part l'Accélérateur d'Initiatives Citoyennes
-    s'engagent à respecter ces valeurs
+  sub: Les projets soutenus par l'Accélérateur d'Initiatives Citoyennes s'engagent
+    à respecter ces valeurs
   apply:
     title: Postuler
     url: https://www.demarches-simplifiees.fr/commencer/aic
@@ -36,13 +36,8 @@ what:
 layout: candidates
 profiles:
   title: "Les conditions d’éligibilité  "
-  desc: >-
-    L’AIC vise à soutenir des projets portés par des collectifs de citoyens,
-    associations ou réseaux d’associations mobilisés pour la gestion et la
-    protection des ressources matérielles ou immatérielles d’intérêt commun.\
-
-    Ces projets peuvent candidater à condition d’être soutenus par :
-
+  desc: |-
+    Les porteurs de projets peuvent candidater à condition d’être soutenus par :
 
     * Une association\
       Et/ou
@@ -61,9 +56,9 @@ how:
     ![](img/banniere2.jpg)
 
 
-    1. Dépôt du dossier de candidature en 20 minutes chrono. [Répondez à notre formulaire simplifié](https://www.demarches-simplifiees.fr/commencer/aic) **jusqu'au 2 mai** et recevez une réponse rapidement.
+    1. Dépôt du dossier de candidature en 20 minutes chrono. [Répondez à notre formulaire simplifié](https://www.demarches-simplifiees.fr/commencer/aic) et recevez une réponse rapidement.
 
-    2. Une liste restreinte de quelques projets est établie par l’équipe de l’AIC. Les projets en liste restreinte, sont examinés par un jury, avec le concours de personnalités qualifiées, dans le mois suivant l’ouverture du guichet.
+    2. Une liste restreinte de quelques projets est établie par l’équipe de l’AIC. Pour le premier tirage, les projets en liste restreinte, sont examinés par un jury, avec le concours de personnalités qualifiées, dans le mois suivant l’ouverture du guichet. Le second tirage a lieu à l'automne.
 
     3. Les projets et l'équipe d'accompagnement posent un diagnostic ensemble pour établir la feuille de route de l'accompagnement.
 
@@ -72,8 +67,6 @@ how:
 
 
     * Accédez à [notre foire aux questions](https://citoyens.transformation.gouv.fr/faq/)
-
-    * Consultez le [livret de la saison 1](img/livretevcloture.pdf)
 
     * Lisez notre [article de blog](https://citoyens.transformation.gouv.fr/actualites/7-mois-apres-ses-debuts-un-premier-bilan-positif-pour-laccelerateur-dinitiatives-citoyennes/)
 criteria:
