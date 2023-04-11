@@ -28,5 +28,5 @@ profiles:
   list:
     - ACOSS-Plateforme
     - ADEX
-  sub: x
+  sub: Contenu en cours de rédaction
 ---
