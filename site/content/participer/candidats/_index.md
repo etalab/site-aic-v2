@@ -36,13 +36,8 @@ what:
 layout: candidates
 profiles:
   title: "Les conditions d’éligibilité  "
-  desc: >-
-    L’AIC vise à soutenir des projets portés par des collectifs de citoyens,
-    associations ou réseaux d’associations mobilisés pour la gestion et la
-    protection des ressources matérielles ou immatérielles d’intérêt commun.\
-
-    Ces projets peuvent candidater à condition d’être soutenus par :
-
+  desc: |-
+    Les porteurs de projets peuvent candidater à condition d’être soutenus par :
 
     * Une association\
       Et/ou
