@@ -17,12 +17,8 @@ program: |-
   ![]( " ")
 
   Contenu en cours de rédaction
-steps: |-
-  ## Les étapes clés de la sélection
-
-  Contenu en cours de rédaction
-
-  Le processus de sélection se fait en **3 étapes :** 
+steps: |-2
+   
 
   ![]()
 
