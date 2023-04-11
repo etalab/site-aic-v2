@@ -15,7 +15,7 @@ steps:
     - icon: img/Picto-1.jpg
       step: Volet
       duration: "2"
-      title: Nouer des partenariats durables avec l'administration
+      title: Nouer des partenariats durables
       dates: Relais d'influence, clefs de compréhension de l’administration
       desc: L'Accélérateur d'initiatives citoyennes apporte un soutien dans la prise
         et la poursuite de contacts au sein de l’administration pour accélérer
@@ -24,7 +24,7 @@ steps:
       step: "Volet "
       duration: "3"
       title: Bénéficier de nouvelles expertises
-      dates: Appui technique, stratégie de développement.
+      dates: Appui technique, stratégie de développement
       desc: >
         Après avoir établi un diagnostic partagé avec le projet, l'Accélérateur
         d'initiatives citoyennes met à disposition les expertises métier
