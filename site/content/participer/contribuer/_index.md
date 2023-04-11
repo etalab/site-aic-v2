@@ -16,16 +16,6 @@ program: |-
 
   ![]( " ")
 
-  ### Recrutement
-
-  Contenu en cours de rédaction
-
-  ### Co-financement
-
-  Contenu en cours de rédaction
-
-  ### Aide à l'innovation
-
   Contenu en cours de rédaction
 steps: |-
   ## Les étapes clés de la sélection
