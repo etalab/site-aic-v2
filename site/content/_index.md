@@ -1,20 +1,19 @@
 ---
 hero:
-  title: Former un service public augmenté
+  title: Accélérer les initiatives citoyennes
   btn:
     title: Participer
     url: /participer
 intro:
   title: Seconde saison de l'Accélérateur d'Initiatives Citoyennes !
-  desc: Annoncé par le Président de la République et lancé par la ministre de la
-    Transformation et de la Fonction publiques le 17 décembre 2021,
-    l’Accélérateur d’initiatives citoyennes , ou AIC, vise à promouvoir les
-    initiatives d’intérêt général portées par la société civile, à en accélérer
-    le déploiement et à faciliter l’accès aux ressources et expertises que
-    l’administration est susceptible de leur fournir.
+  desc: Lancé en 2021 par le Président Emmanuel Macron lors du 7ème sommet mondial
+    du Partenariat pour un Gouvernement Ouvert (PGO), l’Accélérateur
+    d’initiatives citoyennes (AIC) vise à promouvoir et renforcer les
+    coopérations entre l’Etat et les initiatives citoyennes, au service de
+    l’intérêt général.
 quote:
-  text: "\"Former un service public augmenté, à l'intersection de deux
-    bonnes   volontés : celle de l'administration et des citoyens\""
+  text: "\"Former un service public augmenté, à l'intersection de deux bonnes
+    volontés : celle de l'administration et des citoyens\""
 laureats:
   sub: Des initiatives innovantes portées par les citoyens
   desc: Bénéficier d'un accompagnement dans le développement de son initiative ...
