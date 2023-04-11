@@ -7,7 +7,7 @@ head:
   title: Contribuer
   apply:
     title: Proposer un projet
-    url: /participer/contribuer/proposer
+    url: /participer/candidats/
   call:
     title: Cahier des charges
     url: ""
