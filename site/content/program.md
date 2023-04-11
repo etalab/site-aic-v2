@@ -6,24 +6,24 @@ steps:
     développement et nouer des partenariats durables avec l'administration.
   list:
     - icon: img/picto-2.jpg
-      step: "1"
-      duration: Poser les bases
+      step: Volet
+      duration: "1"
       title: Consolider son projet
       dates: Juridique, financements, évaluation
       desc: L'Accélérateur d'initiatives citoyennes permet de disposer d'un soutien en
         ingénierie partenariale, juridique et financière.
     - icon: img/Picto-1.jpg
-      step: "2"
-      duration: Nouer des partenariats durables avec l'administration
-      title: Intégration
+      step: Volet
+      duration: "2"
+      title: Nouer des partenariats durables avec l'administration
       dates: Relais d'influence, clefs de compréhension de l’administration
       desc: L'Accélérateur d'initiatives citoyennes apporte un soutien dans la prise
         et la poursuite de contacts au sein de l’administration pour accélérer
         le déploiement des projets.
     - icon: /img/Picto-3.jpg
-      step: "3"
-      duration: Bénéficier de nouvelles expertises
-      title: Déploiement
+      step: "Volet "
+      duration: "3"
+      title: Bénéficier de nouvelles expertises
       dates: Appui technique, stratégie de développement.
       desc: >
         Après avoir établi un diagnostic partagé avec le projet, l'Accélérateur
