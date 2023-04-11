@@ -108,8 +108,10 @@ criteria:
         processus participatif ou d’une gestion ouverte et transparente du bien
         mis en commun).
 wait:
-  title: L'appel à candidature 2023 est ouvert
-  desc: Si vous êtes intéressés par une candidature, [suivez-nous sur les réseaux
+  title: "L'appel à candidature 2023 est ouvert. "
+  desc: "[Candidatez sur notre formulaire
+    simplifié](https://www.demarches-simplifiees.fr/commencer/aic), et
+    [suivez-nous sur les réseaux
     sociaux](https://www.linkedin.com/company/etalab/) ! Vous serez tenus au
-    courant de toutes nos actualités.
+    courant de toutes nos actualités."
 ---
