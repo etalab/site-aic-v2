@@ -5,8 +5,8 @@ head:
     - question: Respect des valeurs du service public et but d’intérêt général
     - question: Transparence
     - question: Publication et valorisation des résultats
-  sub: Les projets souhaitant intégrer l'Accélérateur d'Initiatives Citoyennes
-    partagent ces valeurs
+  sub: Les projets soutenus part l'Accélérateur d'Initiatives Citoyennes
+    s'engagent à respecter ces valeurs
   apply:
     title: Postuler
     url: https://www.demarches-simplifiees.fr/commencer/test/ad905022-a166-41eb-97fc-9d107efb2917
