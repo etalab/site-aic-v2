@@ -35,7 +35,7 @@ what:
   defs: []
 layout: candidates
 profiles:
-  title: "Conditions d’éligibilité communes DINUM/DITP "
+  title: "Conditions d’éligibilité  "
   desc: >-
     L’AIC vise à soutenir des projets portés par des collectifs de citoyens,
     associations ou réseaux d’associations mobilisés pour la gestion et la
@@ -50,12 +50,13 @@ profiles:
   list:
     - Infoclimat
     - Vikidia
+    - Service national universel augmenté
   sub: " Découvrez les initiatives lauréates"
 simplified_procedure:
   image: img/Banniere-DS.jpg
-title: Processus de candidature
+title: Le processus de candidature
 how:
-  title: Les étapes du programme en détail
+  title: "Les étapes "
   desc: >-
     
 
@@ -78,7 +79,7 @@ how:
 
     * Lisez notre [article de blog](https://citoyens.transformation.gouv.fr/actualites/7-mois-apres-ses-debuts-un-premier-bilan-positif-pour-laccelerateur-dinitiatives-citoyennes/)
 criteria:
-  title: "5 critères de sélection "
+  title: Les critères de sélection
   desc: Les projets présentés seront sélectionnés sur la base des critères suivants
   list:
     - num: "1"
