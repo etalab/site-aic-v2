@@ -1,5 +1,5 @@
 ---
-open: false
+open: true
 head:
   questions:
     - question: Respect des valeurs du service public et but d’intérêt général
@@ -9,7 +9,7 @@ head:
     s'engagent à respecter ces valeurs
   apply:
     title: Postuler
-    url: https://www.demarches-simplifiees.fr/commencer/test/ad905022-a166-41eb-97fc-9d107efb2917
+    url: https://www.demarches-simplifiees.fr/commencer/aic
   call:
     title: " "
     url: ""
@@ -31,11 +31,11 @@ def:
 
       Les projets retenus seront accompagnés pendant 12 mois renouvelables par la DINUM ou la DITP, suivant ce à quoi ils auront candidaté.
 what:
-  title: Augmenter son impact
+  title: Qui peut postuler ?
   defs: []
 layout: candidates
 profiles:
-  title: "Conditions d’éligibilité communes DINUM/DITP "
+  title: "Les conditions d’éligibilité  "
   desc: >-
     L’AIC vise à soutenir des projets portés par des collectifs de citoyens,
     associations ou réseaux d’associations mobilisés pour la gestion et la
@@ -50,19 +50,18 @@ profiles:
   list:
     - Infoclimat
     - Vikidia
-  sub: " Découvrez les initiatives lauréates"
+    - Service national universel augmenté
+  sub: " Découvrez les initiatives lauréates en 2022"
 simplified_procedure:
   image: img/Banniere-DS.jpg
-title: Processus de candidature
+title: Candidater
 how:
-  title: Les étapes du programme en détail
+  title: "Les prochaines étapes "
   desc: >-
-    
-
     ![](img/banniere2.jpg)
 
 
-    1. Dépôt du dossier de candidature en 20 minutes chrono. Répondez à notre formulaire simplifié **jusqu'au 2 mai** et recevez une réponse rapidement.
+    1. Dépôt du dossier de candidature en 20 minutes chrono. [Répondez à notre formulaire simplifié](https://www.demarches-simplifiees.fr/commencer/aic) **jusqu'au 2 mai** et recevez une réponse rapidement.
 
     2. Une liste restreinte de quelques projets est établie par l’équipe de l’AIC. Les projets en liste restreinte, sont examinés par un jury, avec le concours de personnalités qualifiées, dans le mois suivant l’ouverture du guichet.
 
@@ -78,7 +77,7 @@ how:
 
     * Lisez notre [article de blog](https://citoyens.transformation.gouv.fr/actualites/7-mois-apres-ses-debuts-un-premier-bilan-positif-pour-laccelerateur-dinitiatives-citoyennes/)
 criteria:
-  title: "5 critères de sélection "
+  title: Les critères de sélection
   desc: Les projets présentés seront sélectionnés sur la base des critères suivants
   list:
     - num: "1"
