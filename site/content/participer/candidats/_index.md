@@ -53,7 +53,7 @@ profiles:
   sub: " Découvrez les initiatives lauréates"
 simplified_procedure:
   image: img/Banniere-DS.jpg
-title: Les valeurs de l'Accélérateur d'initiatives citoyennes
+title: Processus de candidature
 how:
   title: Les étapes du programme en détail
   desc: >-
