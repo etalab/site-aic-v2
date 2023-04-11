@@ -10,9 +10,10 @@ head:
     url: /participer/contribuer/proposer
   call:
     title: Cahier des charges
-    url: ../../img/aap-eig6-cahier-des-charges.pdf
+    url: ""
 program: >-
   ## L'APPEL A PROJET 2022 EST FERMÉ
+
 
   Contenu en cours de rédaction
 
@@ -26,7 +27,7 @@ program: >-
   ## Un soutien à 3 niveaux
 
 
-  ![Mentions "recrutement", "financement" et "aide à l'innovation"](img/admin_soutienx3_vecto.svg "Un soutien à 3 niveaux")
+  ![Mentions "recrutement", "financement" et "aide à l'innovation"]( "Un soutien à 3 niveaux")
 
 
   ### Recrutement
@@ -45,25 +46,20 @@ program: >-
 
 
   Contenu en cours de rédaction
-steps: >-
+steps: |-
   ## Les étapes clés de la sélection
 
-
   Contenu en cours de rédaction
-
 
   Le processus de sélection se fait en **3 étapes :** 
 
-
-  ![](img/steps2.svg)
-
+  ![]()
 
   Contenu en cours de rédaction
-
-  ![]()
+  ![](<>)
 profiles:
   list:
     - ACOSS-Plateforme
     - ADEX
-  sub: 
+  sub: x
 ---
