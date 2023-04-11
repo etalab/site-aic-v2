@@ -9,41 +9,22 @@ head:
     title: Proposer un projet
     url: /participer/candidats/
   call:
-    title: Cahier des charges
+    title: ""
     url: ""
-program: >-
-  ## L'APPEL A PROJET 2022 EST FERMÉ
+program: |-
+  
 
-
-  Contenu en cours de rédaction
-
-
-  ## Ce que le programme vous propose
-
-
-  Contenu en cours de rédaction
-
-
-  ## Un soutien à 3 niveaux
-
-
-  ![Mentions "recrutement", "financement" et "aide à l'innovation"]( "Un soutien à 3 niveaux")
-
+  ![]( " ")
 
   ### Recrutement
 
-
   Contenu en cours de rédaction
-
 
   ### Co-financement
 
-
   Contenu en cours de rédaction
 
-
   ### Aide à l'innovation
-
 
   Contenu en cours de rédaction
 steps: |-
