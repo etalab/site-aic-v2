@@ -162,8 +162,6 @@
   </url><url>
     <loc>https://citoyens.transformation.gouv.fr/talents/</loc>
   </url><url>
-    <loc>https://citoyens.transformation.gouv.fr/participer/candidats/</loc>
-  </url><url>
     <loc>https://citoyens.transformation.gouv.fr/cgu/</loc>
   </url><url>
     <loc>https://citoyens.transformation.gouv.fr/categories/methode/</loc>
@@ -187,6 +185,8 @@
     <loc>https://citoyens.transformation.gouv.fr/programme/</loc>
   </url><url>
     <loc>https://citoyens.transformation.gouv.fr/impacts/prendre-soin-des-francais/</loc>
+  </url><url>
+    <loc>https://citoyens.transformation.gouv.fr/participer/candidats/</loc>
   </url><url>
     <loc>https://citoyens.transformation.gouv.fr/promos/</loc>
   </url><url>
