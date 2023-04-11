@@ -21,12 +21,10 @@ def:
     desc: >-
       Le programme Accélérateur d’initiatives citoyennes est porté par la
       Direction interministérielle du numérique (DINUM), en partenariat avec la
-      DITP.\
-
-      La DINUM pilote la sélection et le soutien aux projets de communs numériques.
+      DITP.
 
 
-      La Direction interministérielle de la transformation publique (DITP) pilote la sélection et le soutien aux communs qui se structurent autour de ressources, matérielles ou immatérielles, d’intérêt commun dont la dimension numérique n’est pas au cœur de leur action.
+      La DINUM pilote la sélection et le soutien aux projets de communs numériques. La Direction interministérielle de la transformation publique (DITP) pilote la sélection et le soutien aux communs qui se structurent autour de ressources, matérielles ou immatérielles, d’intérêt commun dont la dimension numérique n’est pas au cœur de leur action.
 
 
       La DINUM et la DITP ont des critères de sélection communs, explicités dans le cahier des charges de l’appel à projet. En revanche, la nature distincte des projets candidats induit deux processus de sélection différents.
@@ -35,13 +33,7 @@ def:
       Les projets retenus seront accompagnés pendant 12 mois renouvelables par la DINUM ou la DITP, suivant ce à quoi ils auront candidaté.
 what:
   title: Augmenter son impact
-  defs:
-    - def: Services publics
-    - def: Environnent
-    - def: Citoyenneté
-    - def: Inclusion
-    - def: Numérique
-    - def: Education
+  defs: []
 layout: candidates
 profiles:
   title: "Conditions d’éligibilité communes DINUM/DITP "
