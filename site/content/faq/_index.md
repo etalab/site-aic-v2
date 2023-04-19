@@ -19,16 +19,16 @@ questions:
   - title: Quelle est la procédure de candidature ?
     desc: >-
       Un guichet est ouvert en continu, avec un tirage en mai et un tirage en
-      septembre, dans la limite de 5 projets soutenus pour chaque volet.
+      septembre, dans la limite de 5 projets soutenus pour la DINUM.
 
 
-      Pour le premier tirage, les projets sont invités à remplir un dossier de candidature sur [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/commencer/aic) jusqu’au 2 mai.
+      Pour le premier tirage, les projets sont invités à remplir un dossier de candidature sur [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/commencer/aic) jusqu’au **2 mai à midi.**
 
 
       Une liste restreinte de quelques projets est établie par l’équipe de l’AIC.
 
 
-      Les projets en liste restreinte, sont examinés par un jury DINUM, avec le concours éventuel de personnalités qualifiées, dans le mois suivant l’ouverture du guichet.
+      Les projets en liste restreinte, sont examinés par un jury, avec le concours éventuel de personnalités qualifiées, dans le mois suivant l’ouverture du guichet.
 
 
       Les projets lauréats sont annoncés fin mai.
@@ -61,6 +61,9 @@ questions:
       * pendant l’accélération en mettant à disposition en conseillant les projets accompagnés
 
       * En aval, en mobilisant des communautés de contributeurs, en apportant un éventuel soutien financier, un relais de distribution ou en prenant part à la gouvernance des projets si cela s’avérait pertinent.
+  - title: Doit-on présenter un co-financement ?
+    desc: Aucun co-financement n'est exigé. Pour les administrations, le jury
+      sera  attentif au niveau de soutien apporté par les sponsors du projet.
 contact: |-
   ## Je souhaite poser une question qui n’est pas présente dans la FAQ ?
 
