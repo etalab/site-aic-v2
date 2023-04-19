@@ -64,6 +64,24 @@ questions:
   - title: Doit-on présenter un co-financement ?
     desc: Aucun co-financement n'est exigé. Pour les administrations, le jury
       sera  attentif au niveau de soutien apporté par les sponsors du projet.
+  - title: Concrètement, quel est l'accompagnement proposé par l'Accélérateur ?
+    desc: >-
+      Les projets retenus par l'appel à projet bénéficieront un soutien
+      sur-mesure pendant 12 mois renouvelables. 
+
+
+      Ce soutien se matérialise par :
+
+
+      * La facilitation, la préparation et le suivi de prise de contacts avec des partenaires/utilisateurs publics et parapublics qui sont clef pour le développement du projet
+
+      * La mobilisation d'un appui "métier" sur un besoin stratégique pour le développement du projet retenu. Voici quelques exemples de ce qu'est un appui métier : coaching stratégique sur le développement du projet, analyse juridique (des licences, des contrats...), consolidation et animation de la gouvernance, développements techniques...
+
+
+      Ce sont donc des gens qui vont apporter des conseils experts et du temps aux projets. Pour les associations le soutien ne pourra pas excéder le [plafond des aides d'Etat](https://associations.gouv.fr/aides-d-etat-nouveau-reglement-de-minimis.html).
+
+
+      Concrètement, les projets lauréats élaborent avec l'équipe d'accompagnement, une feuille de route établissant leurs priorités, les objectifs et les moyens à atteindre durant la durée de l'accompagnement. Cette feuille de route sera mise à jour régulièrement lors de points avec l'équipe d'accompagnement.
 contact: |-
   ## Je souhaite poser une question qui n’est pas présente dans la FAQ ?
 
