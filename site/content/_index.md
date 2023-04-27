@@ -12,8 +12,8 @@ intro:
     coopérations entre l’Etat et les initiatives citoyennes, au service de
     l’intérêt général.
 quote:
-  text: "Découvrez l’expérience AIC avec Infoclimat, initiative lauréate de la
-    saison 1 :"
+  text: Découvrez l’expérience AIC avec Infoclimat, initiative lauréate de la
+    saison 1
 laureats:
   sub: Des initiatives innovantes portées par les citoyens
   desc: Bénéficier d'un accompagnement dans le développement de son initiative ...
