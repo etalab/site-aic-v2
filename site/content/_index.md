@@ -12,8 +12,8 @@ intro:
     coopérations entre l’Etat et les initiatives citoyennes, au service de
     l’intérêt général.
 quote:
-  text: "\"Former un service public augmenté, à l'intersection de deux bonnes
-    volontés : celle de l'administration et des citoyens\""
+  text: "Découvrez l’expérience AIC avec Infoclimat, initiative lauréate de la
+    saison 1 :"
 laureats:
   sub: Des initiatives innovantes portées par les citoyens
   desc: Bénéficier d'un accompagnement dans le développement de son initiative ...
@@ -37,4 +37,4 @@ medias:
       image: img/Le_Monde.svg
       link: https://www.lemonde.fr/politique/article/2022/03/30/le-service-public-se-convertit-timidement-au-mecenat-de-competences_6119801_823448.html
 ---
-{{< dailymotion x8fy8tq "Intervention du Président de la République  Macron au Sommet de l'Open Gouvernment Partnership de Séoul, le 15 décembre 2021" >}}
+{{< dailymotion x8g04tj "\[Lauréat AIC] Infoclimat : partager les données météo et climatologiques" >}}
