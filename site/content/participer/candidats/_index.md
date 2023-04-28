@@ -69,6 +69,8 @@ how:
     * Accédez à [notre foire aux questions](https://citoyens.transformation.gouv.fr/faq/)
 
     * Lisez notre [article de blog](https://citoyens.transformation.gouv.fr/actualites/7-mois-apres-ses-debuts-un-premier-bilan-positif-pour-laccelerateur-dinitiatives-citoyennes/)
+
+    * Découvrez le [formulaire de candidature](https://citoyens.transformation.gouv.fr/img/candidature-à-l-accélérateur-d-initiatives-citoyennes.pdf) à compléter
 criteria:
   title: Les critères de sélection
   desc: Les projets présentés seront sélectionnés sur la base des critères suivants
