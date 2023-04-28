@@ -17,7 +17,7 @@ laureats:
   sub: Des initiatives innovantes portées par les citoyens
   desc: Bénéficier d'un accompagnement dans le développement de son initiative ...
 join:
-  title: Candidatez pour rejoindre la saison 2
+  title: Rejoindre la saison 2
   sub: de l'Accélérateur d'Initiatives Citoyennes
   image: img/photo-2.jpg
   btn:
