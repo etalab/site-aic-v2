@@ -2,9 +2,10 @@
 open: true
 head:
   questions:
-    - question: Respect des valeurs du service public et but d’intérêt général
-    - question: Transparence
-    - question: Publication et valorisation des résultats
+    - question: Un guichet ouvert en continu avec un tirage en mai et un tirage en
+        septembre
+    - question: Fin du premier tirage le 2 mai 2023 à 12h00
+    - question: Fin du second tirage le 8 septembre 2023 à 12h00
   sub: Les projets soutenus par l'Accélérateur d'Initiatives Citoyennes s'engagent
     à respecter ces valeurs
   apply:
