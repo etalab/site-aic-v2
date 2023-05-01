@@ -53,5 +53,8 @@ then:
 
 
     L'Accélérateur vise à tisser des liens durables entre les administrations et les porteurs de communs. A l'issue de leur période d'accompagnement, ces derniers peuvent continuer à bénéficier des temps de rencontre et événements organisés dans le cadre de l'AIC.
+
+
+    Pour en savoir plus, explorez notre [foire aux questions](https://citoyens.transformation.gouv.fr/faq/).
 menu: program
 ---
