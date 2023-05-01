@@ -6,8 +6,7 @@ head:
         septembre
     - question: Fin du premier tirage le 2 mai 2023 à 12h00
     - question: Fin du second tirage le 8 septembre 2023 à 12h00
-  sub: Les projets soutenus par l'Accélérateur d'Initiatives Citoyennes s'engagent
-    à respecter ces valeurs
+  sub: Les projets lauréats au premier tirage sont annoncés fin mai.
   apply:
     title: Postuler
     url: https://www.demarches-simplifiees.fr/commencer/aic
