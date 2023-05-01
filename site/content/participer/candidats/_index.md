@@ -6,7 +6,7 @@ head:
         séléction en septembre
     - question: Fin de la première séléction le 2 mai 2023 à 12h00
     - question: Fin de la seconde séléction le 8 septembre 2023 à 12h00
-  sub: Les projets lauréats au premier tirage sont annoncés fin mai.
+  sub: Les projets lauréats de la première séléction sont annoncés fin mai.
   apply:
     title: Postuler
     url: https://www.demarches-simplifiees.fr/commencer/aic
