@@ -2,10 +2,10 @@
 open: true
 head:
   questions:
-    - question: Un guichet ouvert en continu avec un tirage en mai et un tirage en
-        septembre
-    - question: Fin du premier tirage le 2 mai 2023 à 12h00
-    - question: Fin du second tirage le 8 septembre 2023 à 12h00
+    - question: Un guichet ouvert en continu avec une séléction en mai et une
+        séléction en septembre
+    - question: Fin de la première séléction le 2 mai 2023 à 12h00
+    - question: Fin de la seconde séléction le 8 septembre 2023 à 12h00
   sub: Les projets lauréats au premier tirage sont annoncés fin mai.
   apply:
     title: Postuler
