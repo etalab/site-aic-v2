@@ -6,7 +6,7 @@ head:
         sélection en septembre
     - question: Fin de la première sélection le 2 mai 2023 à 12h00
     - question: Fin de la seconde sélection le 8 septembre 2023 à 12h00
-  sub: Les projets lauréats de la première sélection sont annoncés fin mai.
+  sub: Les projets lauréats de la première sélection sont annoncés fin mai
   apply:
     title: Postuler
     url: https://www.demarches-simplifiees.fr/commencer/aic
