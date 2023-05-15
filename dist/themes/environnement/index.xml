@@ -6,7 +6,19 @@
     <description>Recent content in Environnement on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 21 Feb 2023 08:36:17 +0000</lastBuildDate><atom:link href="https://citoyens.transformation.gouv.fr/themes/environnement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 May 2023 09:05:56 +0000</lastBuildDate><atom:link href="https://citoyens.transformation.gouv.fr/themes/environnement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pyronear</title>
+      <link>https://citoyens.transformation.gouv.fr/laureats/pyronear/</link>
+      <pubDate>Mon, 15 May 2023 09:05:56 +0000</pubDate>
+      
+      <guid>https://citoyens.transformation.gouv.fr/laureats/pyronear/</guid>
+      <description>Pyronear est une association loi 1901 au service du bien commun et du logiciel libre.
+L’objectif de Pyronear est de démocratiser des solutions technologiques sobres et ouvertes de lutte contre les incendies de forêts, au service des écosystèmes et des citoyens.
+Pour cela, nous co-construisons une solution open source de détection précoce, performante, automatique, énergétiquement sobre et économique des départs de feux dans les espaces naturels.
+Concrètement, des caméras et un micro-ordinateur sont disposés sur des points hauts permettant de couvrir un espace forestier étendu et transmettre les alertes incendies aux services de secours.</description>
+    </item>
+    
     <item>
       <title>Infoclimat</title>
       <link>https://citoyens.transformation.gouv.fr/laureats/infoclimat/</link>
