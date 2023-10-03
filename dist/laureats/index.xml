@@ -6,7 +6,17 @@
     <description>Recent content in Les premières initiatives lauréates on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 03 Oct 2023 15:54:04 +0000</lastBuildDate><atom:link href="https://citoyens.transformation.gouv.fr/laureats/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Oct 2023 17:07:47 +0000</lastBuildDate><atom:link href="https://citoyens.transformation.gouv.fr/laureats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>uMap</title>
+      <link>https://citoyens.transformation.gouv.fr/laureats/umap/</link>
+      <pubDate>Tue, 03 Oct 2023 17:07:47 +0000</pubDate>
+      
+      <guid>https://citoyens.transformation.gouv.fr/laureats/umap/</guid>
+      <description>Créé en 2012 pour permettre à des personnes sans compétence technique de créer des cartes en ligne.
+Depuis, plusieurs milliers d&amp;rsquo;utilisateurs ont démontré l&amp;rsquo;attente sur ce besoin. En 2022, il y avait 850000 cartes créées par 80000 utilisateurs sur l&amp;rsquo;instance principale de uMap, hébergée par l&amp;rsquo;association Open Street Map France. Cette instance publique héberge une infrastructure critique pour de nombreux utilisateurs y compris des administrations. Au moins 600 acteurs publics identifiés (mairies, écoles, conseil départemental) ont créé chacun de nombreuses cartes, souvent plusieurs centaines.</description>
+    </item>
+    
     <item>
       <title>Primtux</title>
       <link>https://citoyens.transformation.gouv.fr/laureats/primtux/</link>
