@@ -76,7 +76,7 @@
       </div>
     </div>
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-10v">
-      {{ range first 3 ( where .Site.RegularPages "Type" "laureats" ).ByDate }}
+      {{ range first 4 ( where .Site.RegularPages "Type" "laureats" ).ByDate.Reverse }}
       <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
         {{ .Render "li" }}
       </div>
