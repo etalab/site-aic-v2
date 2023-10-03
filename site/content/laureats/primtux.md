@@ -14,7 +14,7 @@ domains:
 image: https://primtux.fr/wp-content/uploads/2020/11/cropped-cropped-ptx-1.png
 visible: true
 ---
-Développé par une équipe bénévole de professeurs d’école et passionnés depuis 2015, **PrimTux** est une solution numérique d’apprentissage pour les 3-10 ans qui propose un grand nombre d’exercices dans toutes les matières et selon la logique du programme scolaire à chaque niveau.  Principalement déployé dans les écoles, PrimTux a notamment été implémenté sur 300 installations par l’académie de Grenoble au primaire. 
+Développée par une équipe bénévole de professeurs d’école et passionnés depuis 2015, **PrimTux** est une solution numérique d’apprentissage pour les 3-10 ans qui propose un grand nombre d’exercices dans toutes les matières et selon la logique du programme scolaire à chaque niveau.  Principalement déployé dans les écoles, PrimTux a notamment été implémenté sur 300 installations par l’académie de Grenoble au primaire. 
 
 Techniquement, il s’agit d’une suite GNU/ Linux complète et personnalisable qui convient à tous types de PC, même anciens. Aussi, PrimTux est largement plébiscité par les associations de réemploi qui, pour certaines, déploient elles-mêmes la solution auprès de familles.
 
