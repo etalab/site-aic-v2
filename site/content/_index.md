@@ -1,6 +1,7 @@
 ---
 hero:
-  title: Accélérer les initiatives citoyennes
+  title: Travailler avec la société civile pour construire un numérique d’intérêt
+    général
   btn:
     title: Participer
     url: /participer
