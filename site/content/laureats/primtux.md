@@ -11,7 +11,7 @@ town: Cambrai
 date: 2023-10-03T15:54:04.286Z
 domains:
   - Transformation numérique
-image: https://primtux.fr/wp-content/uploads/2020/11/cropped-cropped-ptx-1.png
+image: img/primtux.png
 visible: true
 ---
 Développée par une équipe bénévole de professeurs d’école et passionnés depuis 2015, **PrimTux** est une solution numérique d’apprentissage pour les 3-10 ans qui propose un grand nombre d’exercices dans toutes les matières et selon la logique du programme scolaire à chaque niveau.  Principalement déployé dans les écoles, PrimTux a notamment été implémenté sur 300 installations par l’académie de Grenoble au primaire. 
