@@ -6,7 +6,17 @@
     <description>Recent content in Education  on Accélérateur d&#39;initiatives citoyennes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 23 Feb 2023 12:55:59 +0000</lastBuildDate><atom:link href="https://citoyens.transformation.gouv.fr/themes/education/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Oct 2023 15:54:04 +0000</lastBuildDate><atom:link href="https://citoyens.transformation.gouv.fr/themes/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primtux</title>
+      <link>https://citoyens.transformation.gouv.fr/laureats/primtux/</link>
+      <pubDate>Tue, 03 Oct 2023 15:54:04 +0000</pubDate>
+      
+      <guid>https://citoyens.transformation.gouv.fr/laureats/primtux/</guid>
+      <description>Développée par une équipe bénévole de professeurs d’école et passionnés depuis 2015, PrimTux est une solution numérique d’apprentissage pour les 3-10 ans qui propose un grand nombre d’exercices dans toutes les matières et selon la logique du programme scolaire à chaque niveau. Principalement déployé dans les écoles, PrimTux a notamment été implémenté sur 300 installations par l’académie de Grenoble au primaire.
+Techniquement, il s’agit d’une suite GNU/ Linux complète et personnalisable qui convient à tous types de PC, même anciens.</description>
+    </item>
+    
     <item>
       <title>Parlons Démocratie</title>
       <link>https://citoyens.transformation.gouv.fr/laureats/parlons-democratie/</link>
