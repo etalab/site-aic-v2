@@ -5,58 +5,14 @@
   <p class="fr-text--lead fr-mb-4v">
     {{ .Params.desc }}
   </p>
-  <a class="fr-btn fr-btn--secondary" href="{{ .Params.join.link }}">Nous rejoindre</a>
-  <div class="fr-tabs fr-mt-8v fr-mb-12v">
-    <ul class="fr-tabs__list" role="tablist" aria-label="Personnes">
-      <li role="presentation">
-        <button id="tabpanel-630" class="fr-tabs__tab fr-tabs__tab--icon-left" tabindex="0" role="tab"
-          aria-selected="true" aria-controls="tabpanel-630-panel">L’équipe du programme</button>
-      </li>
-      <li role="presentation">
-        <button id="tabpanel-631" class="fr-tabs__tab fr-tabs__tab--icon-left" tabindex="-1" role="tab"
-          aria-selected="false" aria-controls="tabpanel-631-panel">Nos partenaires</button>
-      </li>
-      <li role="presentation">
-        <button id="tabpanel-632" class="fr-tabs__tab fr-tabs__tab--icon-left" tabindex="-1" role="tab"
-          aria-selected="false" aria-controls="tabpanel-632-panel">Les participants</button>
-      </li>
-    </ul>
-    <div id="tabpanel-630-panel" class="fr-tabs__panel fr-tabs__panel--selected" role="tabpanel"
-      aria-labelledby="tabpanel-630" tabindex="0">
-      <h2 class="offset">L’équipe du programme</h2>
-      <p>{{ .Params.introProg }}</p>
-      <div class="fr-grid-row fr-grid-row--gutters">
-        {{ range (where (where .Site.RegularPages "Type" "personnes") ".Params.role" "agent-programme") }}
-        <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
-          {{ .Render "li" }}
-        </div>
-        {{ end }}
-      </div>
+  <div class="fr-grid-row fr-grid-row--gutters fr-mt-8v fr-mb-12v">
+    {{ range (where (where .Site.RegularPages "Type" "personnes") ".Params.role" "agent-programme") }}
+    <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
+      {{ .Render "li" }}
     </div>
-    <div id="tabpanel-631-panel" class="fr-tabs__panel" role="tabpanel" aria-labelledby="tabpanel-631" tabindex="0">
-      <h2 class="offset">Nos partenaires</h2>
-      <p>{{ .Params.introEco }}</p>
-      <div class="fr-grid-row fr-grid-row--gutters">
-        {{ range (where (where .Site.RegularPages "Type" "personnes") ".Params.role" "agent-ecosysteme") }}
-        <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
-          {{ .Render "li" }}
-        </div>
-        {{ end }}
-      </div>
-    </div>
-    <div id="tabpanel-632-panel" class="fr-tabs__panel" role="tabpanel" aria-labelledby="tabpanel-632" tabindex="0">
-      <h2 class="offset">Les participants</h2>
-      <p>{{ .Params.introParticipants }}</p>
-      <div class="fr-grid-row fr-grid-row--gutters">
-        {{ range (where (where .Site.RegularPages "Type" "personnes") ".Params.role" "agent-participant") }}
-        <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
-          {{ .Render "li" }}
-        </div>
-        {{ end }}
-      </div>
-    </div>
+    {{ end }}
   </div>
-  <div class="fr-card fr-card--horizontal fr-enlarge-link">
+  <div class="fr-card fr-card--horizontal fr-enlarge-link fr-mt-8v fr-mb-12v">
     <div class="fr-card__body">
       <h2 class="fr-card__title">
         <a href="{{ .Params.join.link }}" class="fr-card__link">{{ .Params.join.title }}</a>
