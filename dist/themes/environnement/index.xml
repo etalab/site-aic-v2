@@ -13,10 +13,8 @@
       <pubDate>Mon, 15 May 2023 09:05:56 +0000</pubDate>
       
       <guid>https://citoyens.transformation.gouv.fr/laureats/pyronear/</guid>
-      <description>Pyronear est une association loi 1901 au service du bien commun et du logiciel libre.
-L’objectif de Pyronear est de démocratiser des solutions technologiques sobres et ouvertes de lutte contre les incendies de forêts, au service des écosystèmes et des citoyens.
-Pour cela, nous co-construisons une solution open source de détection précoce, performante, automatique, énergétiquement sobre et économique des départs de feux dans les espaces naturels.
-Concrètement, des caméras et un micro-ordinateur sont disposés sur des points hauts permettant de couvrir un espace forestier étendu et transmettre les alertes incendies aux services de secours.</description>
+      <description>Conçue par une équipe de jeunes ingénieurs à travers le programme DataForGood, Pyronear est une solution de détection précoce de départs de feu, basée sur un algorithme et une solution “hardware” ouverts. Pyronear permet ainsi aux Services Départements d’Incendie et de Secours (SDIS) de s&amp;rsquo;outiller à moindre coût avec solution conçue pour l’intérêt général.
+Actuellement à l’essai sur 3 territoires (Ardèche, Alpes Maritimes, Chili) en partenariat avec 2 SDIS, Pyronear renforce en parallèle la précision de son algorithme de vision grâce à une collaboration avec La Réserve (Bayes Impact) qui mobilise des citoyens sur des défis d’annotation d’images (+ 100K à ce jour).</description>
     </item>
     
     <item>
