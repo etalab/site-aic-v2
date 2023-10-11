@@ -13,12 +13,14 @@ domains:
 image: img/pyronear.png
 visible: true
 ---
-Pyronear est une association loi 1901 au service du bien commun et du logiciel libre.
+Conçue par une équipe de jeunes ingénieurs à travers le programme [DataForGood](https://dataforgood.fr/), **Pyronear** est une solution de détection précoce de départs de feu, basée sur un algorithme et une solution “hardware” ouverts. Pyronear permet ainsi aux Services Départements d’Incendie et de Secours (SDIS) de s'outiller à moindre coût avec solution conçue pour l’intérêt général. 
 
-L’objectif de Pyronear est de démocratiser des solutions technologiques sobres et ouvertes de lutte contre les incendies de forêts, au service des écosystèmes et des citoyens.
+Actuellement à l’essai sur 3 territoires (Ardèche, Alpes Maritimes, Chili) en partenariat avec 2 SDIS, Pyronear renforce en parallèle la précision de son algorithme de vision grâce à une collaboration avec [La Réserve](https://www.bayesimpact.org/fr/) (Bayes Impact) qui mobilise des citoyens sur des défis d’annotation d’images (+ 100K à ce jour). 
 
-Pour cela, nous co-construisons une solution open source de détection précoce, performante, automatique, énergétiquement sobre et économique des départs de feux dans les espaces naturels.
+Pyronear est déjà référencé par le projet Panoptès du Ministère de la Transition Écologique et de la Cohésion des Territoires (MTECT) qui recense les solutions de détection d’incendie. 
 
-Concrètement, des caméras et un micro-ordinateur sont disposés sur des points hauts permettant de couvrir un espace forestier étendu et transmettre les alertes incendies aux services de secours.
+### Notre accompagnement pour Pyronear
 
-Notre approche ouverte permet de fédérer des expertises et une communauté variée, donnant l’opportunité à des citoyens, selon leurs disponibilités et envies, de contribuer bénévolement à un projet pour le bien commun.
+Les axes d’accompagnement : coaching déploiement, coaching produit, partenariat, méthodes de travail. 
+
+Les axes de coopération facilités par l’AIC : l’ancrage institutionnel de Pyronear au sein du MTECT, ainsi que son déploiement auprès des 99 SDIS du territoire.

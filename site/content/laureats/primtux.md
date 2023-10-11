@@ -18,4 +18,9 @@ Développée par une équipe bénévole de professeurs d’école et passionnés
 
 Techniquement, il s’agit d’une suite GNU/ Linux complète et personnalisable qui convient à tous types de PC, même anciens. Aussi, PrimTux est largement plébiscité par les associations de réemploi qui, pour certaines, déploient elles-mêmes la solution auprès de familles.
 
-PrimTux est déjà reconnu dans l’écosystème institutionnel de l’Éducation Nationale, à la fois par son appartenance au socle interministériel des logiciels libres ([SILL](https://code.gouv.fr/sill/readme)), ainsi qu’avec la Forge des Communs Numériques qui fédère et promeut les acteurs du libre dans le milieu éducatif.
+PrimTux est déjà reconnu dans l’écosystème institutionnel de l’Éducation Nationale, à la fois par son appartenance au socle interministériel des logiciels libres ([SILL](https://code.gouv.fr/sill/readme)), ainsi qu’avec la Forge des Communs Numériques qui fédère et promeut les acteurs du libre dans le milieu éducatif. 
+
+### Notre accompagnement pour PrimTux
+Les axes d’accompagnement : évolutions UX/UI du produit, image de marque, méthodes de travail et financement. 
+
+Les coopérations facilitées par l’AIC : l’ancrage institutionnel de PrimTux au sein du MENJ et son déploiement auprès des 25 académies du territoire.
