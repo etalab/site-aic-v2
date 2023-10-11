@@ -3,7 +3,7 @@ title: Données personnelles
 layout: page
 url: /donnees-personnelles
 ---
-Etalab s'engage à ce que la collecte et le traitement de données personnelles effectuées sur citoyens.transformation.gouv.fr soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
+La DINUM s'engage à ce que la collecte et le traitement de données personnelles effectuées sur citoyens.transformation.gouv.fr soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
 
 ## Exercer vos droits
 
