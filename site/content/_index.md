@@ -32,6 +32,6 @@ medias:
       image: img/Le_Monde.svg
       link: https://www.lemonde.fr/pixels/article/2023/10/09/les-communs-numeriques-graines-de-transition-et-de-souverainete_6193334_4408996.html
     - title: Republik IT
-      image: https://static.wixstatic.com/media/501ea2_f1a238400a6843a7a5a9198904aa65c9~mv2.png/v1/fill/w_198,h_228,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_R%C3%A9publik-BU-IT-Noir.png
+      image: img/logo_republik-it.png
       link: https://www.republik-it.fr/decideurs-it/achat-it/les-communs-numeriques-outils-pour-accroitre-la-performance-du-service-public.html
 ---
