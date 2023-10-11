@@ -26,9 +26,9 @@ removePathAccents = true
 
 [menu]
   [[menu.nav]]
-    name = "Programme"
-    url = "/programme"
-    identifier = "program"
+    name = "Accompagnement"
+    url = "/accompagnement"
+    identifier = "accompagnement"
     weight = 1
   [[menu.nav]]
     name = "Lauréats"
