@@ -1,13 +1,26 @@
 {{ define "main" }}
 
-<div class="c-hero">
+<!--<div class="c-hero">
   <div class="c-hero__bg">
     <img src="/{{ .Params.image }}" alt="" />
   </div>
-</div>
+</div>-->
 <div class="fr-container">
   <div class="fr-grid-row fr-grid-row--center">
     <div class="fr-col-12 fr-col-lg-10">
+      <nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
+        <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-192">Voir le fil d’Ariane</button>
+        <div class="fr-collapse" id="breadcrumb-192">
+          <ol class="fr-breadcrumb__list">
+            <li>
+              <a class="fr-breadcrumb__link" href="{{ .Site.BaseURL }}">Accueil</a>
+            </li>
+            <li>
+              <a class="fr-breadcrumb__link" aria-current="page">Accompagnement</a>
+            </li>
+          </ol>
+        </div>
+      </nav>
       <h1 class="fr-mb-8v">{{ .Title }}</h1>
       <div class="u-text-lg">
         {{ partial "markdownify-block" .Params.desc }}
@@ -27,6 +40,22 @@
         {{ end }}
       </div>
       {{ end }}
+      {{ range .Params.steps.list }}
+  
+  <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
+    <div class="fr-col-12 fr-col-sm-4 fr-col-offset-lg-1 fr-col-lg-3">
+      <img src="{{ .icon }}" alt="" />
+    </div>
+    <div class="fr-col-12 fr-col-sm-8 fr-col-lg-7">
+      <h4 class="fr-h4 fr-mb-3v is-step-title">
+        <!--<span class="fr-tag">{{ .step }} | {{ .duration }}</span> <br />-->{{ .title }}
+      </h4>
+      <p class="fr-text--lg fr-mb-0">
+        <strong class="u-color-primary">{{ .dates }}.</strong> {{ .desc }}
+      </p>
+    </div>
+  </div>
+  {{ end }}
       <div class="u-text-lg">
         {{ partial "markdownify-block" .Params.how.desc }}
       </div>
@@ -48,21 +77,6 @@
       <h3>{{ .Params.steps.title }}</h3>
     </div>
   </div>
-  {{ range .Params.steps.list }}
-  <div class="fr-grid-row fr-grid-row--gutters fr-mb-8v">
-    <div class="fr-col-12 fr-col-sm-4 fr-col-offset-lg-1 fr-col-lg-3">
-      <img src="{{ .icon }}" alt="" />
-    </div>
-    <div class="fr-col-12 fr-col-sm-8 fr-col-lg-7">
-      <h4 class="fr-h4 fr-mb-3v is-step-title">
-        <span class="fr-tag">{{ .step }} | {{ .duration }}</span> <br />{{ .title }}
-      </h4>
-      <p class="fr-text--lg fr-mb-0">
-        <strong class="u-color-primary">{{ .dates }}.</strong> {{ .desc }}
-      </p>
-    </div>
-  </div>
-  {{ end }}
   <div class="fr-grid-row fr-grid-row--center">
     <div class="fr-col-12 fr-col-lg-10">
       <div class="u-text-lg">
