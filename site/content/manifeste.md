@@ -29,7 +29,7 @@ Pour cela, nous soutenons le développement de **cas d’usages concrets dans l�
 Pendant au moins 12 mois, nous expérimentons avec eux et des administrations partenaires, différentes manières de coopérer et de travailler ensemble autour de cas d’usages concrets. 
 
 <center>
-<a class="fr-btn" href="/#communs-laureat">
-    Découvrir les projets
-</a>
+    <a class="fr-btn" href="/#communs-laureat">
+        Découvrir les projets
+    </a>
 </center>
