@@ -3,8 +3,8 @@ hero:
   title: Travailler avec la société civile pour construire un numérique d’intérêt
     général
   btn:
-    title: Participer
-    url: /participer
+    title: En savoir plus
+    url: /programme
 intro:
   title: 4 communs numériques de la société civile accompagnés 
   desc: pour favoriser la coopération avec des administrations partenaires
@@ -13,13 +13,12 @@ quote:
 laureats:
   sub: Des initiatives innovantes portées par les citoyens
   desc: Bénéficier d'un accompagnement dans le développement de son initiative ...
-join:
-  title: Rejoindre la saison 2
-  sub: de l'Accélérateur d'Initiatives Citoyennes
+contact:
+  title: Pour rencontrer l'équipe ou les projets
   image: img/photo-2.jpg
   btn:
-    title: Participer
-    url: https://citoyens.transformation.gouv.fr/participer/candidats/
+    title: Prenez rendez-vous
+    url: https://citoyens.transformation.gouv.fr/participer/contact/
 medias:
   desc: Parcourez les articles, tribunes, posts de blog sur le programme
   tiles:
@@ -31,6 +30,8 @@ medias:
       link: https://acteurspublics.fr/articles/une-cooperation-en-germe-entre-administration-et-citoyens
     - title: Le Monde
       image: img/Le_Monde.svg
-      link: https://www.lemonde.fr/politique/article/2022/03/30/le-service-public-se-convertit-timidement-au-mecenat-de-competences_6119801_823448.html
+      link: https://www.lemonde.fr/pixels/article/2023/10/09/les-communs-numeriques-graines-de-transition-et-de-souverainete_6193334_4408996.html
+    - title: Republik IT
+      image: img/logo_republik-it.png
+      link: https://www.republik-it.fr/decideurs-it/achat-it/les-communs-numeriques-outils-pour-accroitre-la-performance-du-service-public.html
 ---
-{{< dailymotion x8kh4ab "Accélérateur d'initiatives citoyennes : Les projets, bande-annonce" >}}

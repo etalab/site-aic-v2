@@ -16,94 +16,44 @@
   </div>
 </div>
 
+
 <div class="fr-container fr-mb-12v">
   <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
     <div class="fr-col-12 fr-col-sm-10 fr-col-lg-8">
-      <h2 class="fr-h3 c-style-title">{{ .Params.intro.title }}</h2>
-      <p class="fr-text--lead fr-mb-0">{{ replace .Params.intro.desc "\n" "<br />" | safeHTML }}</p>
-    </div>
-  </div>
-</div>
-<div class="fr-container fr-mb-12v">
-  <div class="fr-grid-row fr-grid-row--center">
-    <div class="
-                fr-grid-row fr-grid-row--gutters fr-grid-row--middle
-                c-section__agent c-section__agent--only
-                fr-mb-12v
-              ">
-      {{with .Params.video.quote.photo }}
-      <div class="fr-col-12 fr-col-md-3">
-        <div class="c-rounded">
-          <img src="{{ .Params.video.quote.photo }}" alt="" />
-        </div>
-      </div>
-      {{ end}}
-      <div class="fr-col-12  {{ with .Params.video.quote.photo }}fr-col-md-9{{ end }}">
-        <div class="small-narrow">
-          <p class="fr-mt-3v fr-h4 u-color-primary">
-            {{ .Params.quote.text }}
-          </p>
-        </div>
-        <div class="c-section__agent-info">
-          {{ with .Params.quote.name }}
-          <p class="fr-text--lg fr-mb-0">{{ .Params.quote.name }},</p>
-          {{ end }}
-          {{ with .Params.quote.desc }}
-          <p class="fr-mb-0">{{ .Params.quote.desc }}</p>
-          {{end }}
-        </div>
-      </div>
-      <div class="fr-col-12">
-        <div class="small-narrow">
-          <p class="fr-text--lead fr-mb-0">{{ .Content }}</p>
-        </div>
-      </div>
-      
+      <center><h2 class="fr-h3 c-style-title">{{ .Params.intro.title }}</h2>
+      <p class="fr-text--lead fr-mb-0">{{ replace .Params.intro.desc "\n" "<br />" | safeHTML }}</p></center>
     </div>
   </div>
 </div>
 
-
-<div class="c-section c-section--ghost-white">
-  <div class="fr-container">
-    <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center">
-      <div class="fr-col-12 fr-col-lg-10 fr-col-xl-9">
-        <div class="c-section__head">
-          <h2 class="fr-h3 fr-mb-2v">La mission</h2>
-          <h3 class="fr-h1 fr-mb-4v">{{ .Params.laureats.sub }}</h3>
-          <p>{{ replace .Params.laureats.desc "\n" "<br />" | safeHTML }}</p>
-        </div>
-      </div>
+<div class="fr-container">
+  <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-10v">
+    {{ range first 4 ( where .Site.RegularPages "Type" "laureats" ).ByDate.Reverse }}
+    <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
+      {{ .Render "li" }}
     </div>
-    <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-10v">
-      {{ range first 4 ( where .Site.RegularPages "Type" "laureats" ).ByDate.Reverse }}
-      <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
-        {{ .Render "li" }}
-      </div>
-      {{ end }}
-    </div>
-    <div class="c-section__btn">
-      <a href="{{ relref . "  laureats" }}" class="fr-btn fr-btn--secondary">Parcourir d'autres lauréats</a>
-    </div>
+    {{ end }}
   </div>
 </div>
 
-{{ if ne .Params.join.title "" }}
+
+{{ if ne .Params.contact.title "" }}
 <div class="c-join">
   <div class="fr-container">
     <div class="fr-grid-row fr-grid-row--gutters">
-      <div class="fr-col-12 fr-col-md-5 fr-displayed-md">
+      <!--<div class="fr-col-12 fr-col-md-5 fr-displayed-md">
         <div class="c-join__img">
           <img src="/{{ .Params.join.image }}" alt="">
         </div>
-      </div>
-      <div class="fr-col-12 fr-col-md-7">
-        <h2 class="fr-h1">{{ .Params.join.title }}</h2>
-        <p class="fr-text--lead">{{ .Params.join.sub }}</p>
-        {{ if ne .Params.join.btn.title "" }}
-        <a href="{{ .Params.join.btn.url }}" class="fr-btn" {{ if .Params.join.btn.external }}target="_blank" {{ end
-          }}>{{ .Params.join.btn.title }}</a>
+      </div>-->
+      <div class="fr-col-12">
+        <center><h2 class="fr-h1">{{ .Params.contact.title }}</h2>
+        <p class="fr-text--lead">{{ .Params.contact.sub }}</p>
+        {{ if ne .Params.contact.btn.title "" }}
+        <a href="{{ .Params.contact.btn.url }}" class="fr-btn" {{ if .Params.contact.btn.external }}target="_blank" {{ end
+          }}>{{ .Params.contact.btn.title }}</a>
         {{ end }}
+      </center>
       </div>
     </div>
   </div>
