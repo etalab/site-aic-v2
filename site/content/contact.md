@@ -3,8 +3,8 @@ title: Nous contacter
 layout: contact
 menu: contact
 url: /contact
-admin: Vous travaillez au sein d’une administration et vous êtes intéressé.e par les communs numériques ? 
-commun: Vous travaillez pour un projet de commun numérique au sein de la société civile et vous souhaitez candidater au programme ? 
+admin: Vous travaillez au sein d’une **administration et vous êtes intéressé.e par les communs numériques**
+commun: Vous travaillez pour un projet de commun numérique au sein de la société civile et vous souhaitez **candidater au programme**
 confidentiality: En cliquant sur Envoyer, vous acceptez que le programme de
   l'Accélérateur d'initiatives citoyennes conserve vos données personnelles
   transmises via ce formulaire. Ces données seront conservées uniquement dans le

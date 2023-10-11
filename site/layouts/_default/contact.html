@@ -18,7 +18,7 @@
           </ol>
         </div>
       </nav>
-      <h1 class="fr-mb-10v">Nous contacter</h1>
+      <h1 class="fr-mb-10v">Contactez-nous</h1>
       <div class="fr-grid-row fr-grid-row--gutters">
         <div class="fr-col-12 fr-col-lg-6">
           <form action="https://formspree.io/f/xvonkdyn" method="POST">
@@ -69,8 +69,9 @@
           </form>
         </div>
         <div class="fr-col-12 fr-col-lg-5 fr-col-offset-lg-1">
-          <p><span class="fr-link fr-fi-arrow-right-line" aria-hidden="true"></span>{{ .Params.commun }}</p>
-          <p><span class="fr-link fr-fi-arrow-right-line" aria-hidden="true"></span>{{ .Params.admin }}</p>
+          <p><strong>Surtout n'hésitez pas si</strong></p>
+          <p><span class="fr-link fr-fi-arrow-right-line" aria-hidden="true"></span>{{ .Params.commun | markdownify }}</p>
+          <p><span class="fr-link fr-fi-arrow-right-line" aria-hidden="true"></span>{{ .Params.admin | markdownify }}</p>
           <div class="fr-callout fr-callout--contact fr-mb-12v">
             <div class="fr-callout__text">
               <h2 class="offset">Coordonnées</h2>
