@@ -3,12 +3,14 @@ title: Manifeste
 layout: page
 url: /manifeste
 ---
-<div class="fr-grid-row fr-mb-3w"><div class="fr-col">
-          <div id="callout-r8Qz0GQ8I-" class="fr-callout" data-fr-js-callout-actionee="true">
+<div class="fr-grid-row fr-mb-3w">
+    <div class="fr-col">
+        <div id="callout-r8Qz0GQ8I-" class="fr-callout" data-fr-js-callout-actionee="true">
             <p class="fr-callout__text">Lancé en 2021 à l'initiative du Président Emmanuel Macron, l'Accélérateur d'initiatives citoyennes (AIC) vise à renforcer les coopérations entre l'Etat et les initiatives citoyennes porteuses de communs numériques, au service de l'intérêt général
 Cette démarche est portée par l’incubateur de service numérique beta.gouv au sein de la Direction interministérielle du Numérique.</p>
-          </div>
-        </div></div>
+        </div>
+    </div>
+</div>
 
 ## Nous travaillons à construire un numérique d’intérêt général. 
 Nous soutenons des communs numériques pour leur utilité, leur qualité, et pour leur méthode de construction et d’adoption par des communautés citoyennes.``
