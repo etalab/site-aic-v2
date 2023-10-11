@@ -7,7 +7,7 @@ Le programme AIC s’engage à rendre son site internet citoyens.transformation.
 
 A cette fin, il met en œuvre la stratégie et les actions suivantes : réalisation d’un audit de conformité en 2023.
 
-Cette déclaration d’accessibilité s’applique à citoyens.transformation.gouv.fr[](https://eig.etalab.gouv.fr/).
+Cette déclaration d’accessibilité s’applique à citoyens.transformation.gouv.fr[](https://citoyens.transformation.gouv.fr).
 
 ## État de conformité
 
@@ -23,7 +23,7 @@ Cette déclaration a été établie le 16 février 2023.
 
 ## Retour d’information et contact
 
-Si vous n’arrivez pas à accéder à un contenu ou à un service, vous pouvez contacter le responsable du site internet  pour être orienté vers une alternative accessible ou obtenir le contenu sous une autre forme. Merci d’envoyer un message [](https://www.inrae.fr/contact)au programme via le formulaire de contact. 
+Si vous n’arrivez pas à accéder à un contenu ou à un service, vous pouvez contacter le responsable du site internet  pour être orienté vers une alternative accessible ou obtenir le contenu sous une autre forme. Merci d’envoyer un message au programme via le [formulaire de contact](https://citoyens.transformation.gouv.frcontact).
 
 ## Voies de recours
 
