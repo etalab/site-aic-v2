@@ -31,28 +31,18 @@ removePathAccents = true
     identifier = "accompagnement"
     weight = 1
   [[menu.nav]]
-    name = "Lauréats"
-    url = "/laureats"
-    identifier = "impact"
-    weight = 2
-
-  [[menu.nav]]
     name = "Équipe"
     url = "/equipe"
     identifier = "equipe"
-    weight = 4
-  [[menu.nav]]
-    name = "Participer"
-    url = "/participer"
-    identifier = "participate"
-    weight = 5
-  [[menu.nav]]
-    name = "Foire aux questions"
-    url = "/faq"
-    identifier = "faq"
-    weight = 6
+    weight = 2
   [[menu.nav]]
     name = "Contact"
     url = "/contact"
     identifier = "contact"
-    weight = 7
+    weight = 3
+  [[menu.nav]]
+    name = "Foire aux questions"
+    url = "/faq"
+    identifier = "faq"
+    weight = 4
+  
