@@ -1,7 +1,6 @@
 ---
-introProg: L'Accélérateur d'Initiatives Citoyennes est un programme développé au
-  sein de la direction interministérielle du numérique en partenariat avec la
-  direction interministérielle de la transformation publique.
+introProg: L'Accélérateur d'Initiatives Citoyennes est développé au
+  sein de la direction interministérielle du numérique.
 introEco: "Associations, administrations : contribuons à faire grandir les
   initiatives d'intérêt général."
 join:
@@ -12,10 +11,9 @@ join:
 layout: communaute
 introParticipants: Ils et elles font vivre l'Accélérateur d'initiatives
   citoyennes ! Découvrez leurs profils et leurs engagements.
-url: /communaute
+url: /equipe
 title: "Qui sommes-nous ? "
 desc: L'Accélérateur d'Initiatives Citoyennes est un programme développé au sein
-  de la direction interministérielle du numérique en partenariat avec la
-  direction interministérielle de la transformation publique.
-menu: communaute
+  de la direction interministérielle du numérique
+menu: equipe
 ---
