@@ -1,6 +1,6 @@
 ---
 title: "Virgile Deville "
-job: "Coach Produit "
+job: "Coach"
 role: agent-programme
 domains:
   - Transformation numérique
