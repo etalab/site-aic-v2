@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+<div class="fr-container fr-mt-8v fr-mb-10v">
+  <h1>{{ .Params.title }}</h1>
+  <p class="fr-text--lead fr-mb-4v">
+    {{ .Params.desc }}
+  </p>
+  <div class="fr-grid-row fr-grid-row--gutters fr-mt-8v fr-mb-12v">
+    {{ range (where (where .Site.RegularPages "Type" "personnes") ".Params.role" "agent-programme") }}
+    <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
+      {{ .Render "li" }}
+    </div>
+    {{ end }}
+  </div>
+  <div class="fr-card fr-card--horizontal fr-enlarge-link fr-mt-8v fr-mb-12v">
+    <div class="fr-card__body">
+      <h2 class="fr-card__title">
+        <a href="{{ .Params.join.link }}" class="fr-card__link">{{ .Params.join.title }}</a>
+      </h2>
+      <p class="fr-card__desc">{{ .Params.join.desc }}</p>
+    </div>
+    <div class="fr-card__img">
+      <img src="/{{ .Params.join.image }}" class="fr-responsive-img" alt="" />
+    </div>
+  </div>
+</div>
+
+{{ end }}

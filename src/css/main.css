@@ -110,7 +110,6 @@ img {
       width: 50px;
       height: 46px;
       margin: 20px 0 0 auto;
-      background: url(/img/quote.svg) left top no-repeat;
       background-size: contain;
       transform: scaleX(-1);
     }

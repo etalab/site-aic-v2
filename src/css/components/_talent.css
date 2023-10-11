@@ -16,7 +16,6 @@
       position: absolute;
       top: -10px;
       left: -10px;
-      background: url(/img/quote.svg) left top no-repeat;
       background-size: contain;
     }
   }

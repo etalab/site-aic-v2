@@ -1,7 +1,7 @@
 ---
 title: Coraline Gillard
 job: Chargée de mission Programmes d'innovation
-role: agent-programme
+role: 
 domains:
   - Transformation numérique
 image: img/img_0391.jpg

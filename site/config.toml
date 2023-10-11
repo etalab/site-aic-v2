@@ -37,9 +37,9 @@ removePathAccents = true
     weight = 2
 
   [[menu.nav]]
-    name = "Communauté"
-    url = "/communaute"
-    identifier = "communaute"
+    name = "Équipe"
+    url = "/equipe"
+    identifier = "equipe"
     weight = 4
   [[menu.nav]]
     name = "Participer"
