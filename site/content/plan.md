@@ -14,8 +14,8 @@ url: /plan-du-site
     - [Equipe](/equipe)
     - [Foire aux questions](/faq)
     - [Contact](/contact)
-    - [Actualités](actualités)
     - [Conditions générales d'utilisation](/cgu)
     - [Accessibilité](/accessibilite)
     - [Espace presse](/espace-presse)
     - [Données personnelles](/donnees-personnelles/)
+    <!-- - [Actualités](actualités)-->
