@@ -10,8 +10,8 @@ town: Paris
 date: 2023-10-03T17:07:47.110Z
 domains:
   - Transformation numérique
-image: img/logo-umap.png
-ogImage: img/logo-umap.png
+image: img/logo-uMap.png
+ogImage: img/logo-uMap.png
 visible: true
 ---
 **uMap** a été créé en 2012 pour permettre à des personnes sans compétence technique de créer des cartes en ligne. 
