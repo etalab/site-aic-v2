@@ -12,7 +12,7 @@ town: Saint-Maur-des-Fossés
 date: 2023-05-15T09:12:00.707Z
 domains:
   - Transformation numérique
-image: img/open-food-facts.jpg
+image: img/logo-OFF.png
 visible: true
 ---
 Né en 2012, **Open Food Facts** vise à promouvoir la transparence dans l'industrie alimentaire. C’est aujourd’hui la première base de données de produits alimentaires ouverte, et qui nourrit plusieurs centaines d’applications tierces. 

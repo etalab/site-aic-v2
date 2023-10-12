@@ -10,7 +10,7 @@ town: Ardèche
 date: 2023-05-15T09:05:56.369Z
 domains:
   - "Transformation publique "
-image: img/pyronear.png
+image: img/logo-pyronear.png
 visible: true
 ---
 Conçue par une équipe de jeunes ingénieurs à travers le programme [DataForGood](https://dataforgood.fr/), **Pyronear** est une solution de détection précoce de départs de feu, basée sur un algorithme et une solution “hardware” ouverts. Pyronear permet ainsi aux Services Départements d’Incendie et de Secours (SDIS) de s'outiller à moindre coût avec solution conçue pour l’intérêt général. 
