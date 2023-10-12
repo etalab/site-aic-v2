@@ -3,8 +3,8 @@ hero:
   title: Travailler avec la société civile pour construire un numérique d’intérêt
     général
   btn:
-    title: En savoir plus
-    url: /programme
+    title: Lire notre manifeste
+    url: /manifeste
 intro:
   title: 4 communs numériques de la société civile accompagnés 
   desc: pour favoriser la coopération avec des administrations partenaires
@@ -18,7 +18,7 @@ contact:
   image: img/photo-2.jpg
   btn:
     title: Prenez rendez-vous
-    url: https://citoyens.transformation.gouv.fr/participer/contact/
+    url: /contact
 medias:
   desc: Parcourez les articles, tribunes, posts de blog sur le programme
   tiles:
