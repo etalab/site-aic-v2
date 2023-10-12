@@ -33,14 +33,13 @@ questions:
       d’innovation (incubateurs, accélérateurs, collectifs et communautés etc.).
       L’objectif est de mettre en valeur le savoir-faire de chacun. Les
       partenaires pourront notamment prendre part à notre démarche :
-
-
       * en participant à l’identification, et à la sélection des lauréats
 
       * en mettant à disposition du financement et / ou des compétences pour les projets accompagnés 
 
       * en mobilisant des communautés de contributeurs, un relais de distribution ou en prenant part à la gouvernance des projets si cela s’avérait pertinent.
-
+      
+      
       Vous souhaitez devenir partenaires ? [Contactez-nous](/contact)
   - title: Concrètement, quel est l'accompagnement proposé par l'Accélérateur ?
     desc: >-
@@ -53,7 +52,7 @@ questions:
       * La facilitation, la préparation et le suivi de prise de contacts avec des partenaires/utilisateurs publics et parapublics qui sont clef pour le développement du projet
 
       * La mobilisation d'un appui "métier" sur un besoin stratégique pour le développement du projet retenu. Voici quelques exemples de ce qu'est un appui métier : coaching stratégique sur le développement du projet, analyse juridique (des licences, des contrats...), structuration et organsiation de l'équipe, consolidation et animation de la gouvernance, développements techniques...
-
+      
 
       Ce sont donc des gens qui vont apporter des conseils experts et du temps aux projets. Pour les associations le soutien ne pourra pas excéder le [plafond des aides d'Etat](https://associations.gouv.fr/aides-d-etat-nouveau-reglement-de-minimis.html).
 
