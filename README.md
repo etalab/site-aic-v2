@@ -24,7 +24,8 @@ Il existe deux façons de modifier les contenus (textes du site, biographies, ar
 
 1. Cloner le repository
 2. Installer les dépendances avec la commande `npm install`.
-2. Lancer le projet avec la commande `npm run start`.
+3. Utilisez une version antérieure de openssl avec `export NODE_OPTIONS=--openssl-legacy-provider` (sinon le projet ne se lance pas)
+4. Lancer le projet avec la commande `npm run start`.
 
 ### Généralités
 
