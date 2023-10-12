@@ -12,6 +12,18 @@ agents:
     - Christophe Cuq
     - TEST - Adeline Celier
 ---
+**Le 9 octobre 2023**
+
+[Les communs numériques, graines de transition et de souveraineté](https://www.lemonde.fr/pixels/article/2023/10/09/les-communs-numeriques-graines-de-transition-et-de-souverainete_6193334_4408996.html)
+
+**Le 12 septembre 2023**
+
+[Les Communs Numériques, outils pour accroître la performance du service public](https://www.republik-it.fr/decideurs-it/achat-it/les-communs-numeriques-outils-pour-accroitre-la-performance-du-service-public.html)
+
+**Le 17 mai 2023**
+
+[Accélérateur d’initiatives citoyennes : coup d’envoi de la saison 2 et de premiers lauréats annoncés](https://www.numerique.gouv.fr/espace-presse/accelerateur-dinitiatives-citoyennes-saison-2/)
+
 **Le 9 novembre 2022** 
 
 [Une coopération en germe entre administration et citoyens](https://acteurspublics.fr/articles/une-cooperation-en-germe-entre-administration-et-citoyens)\
