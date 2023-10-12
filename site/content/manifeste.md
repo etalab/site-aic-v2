@@ -12,7 +12,7 @@ url: /manifeste
 </div>
 
 ## Nous travaillons à construire un numérique d’intérêt général. 
-Nous soutenons des communs numériques pour leur utilité, leur qualité, et pour leur méthode de construction et d’adoption par des communautés citoyennes.``
+Nous soutenons des communs numériques pour leur utilité, leur qualité, et pour leur méthode de construction et d’adoption par des communautés citoyennes.
 
 Nous pensons que la coopération entre les administrations et les communs numériques de la société civile est un puissant levier pour construire un numérique d’intérêt général et des services numériques qui changent concrètement la vie des gens.
 

@@ -1,9 +1,7 @@
 ---
-title: Les premières initiatives lauréates
+title: Les initiatives lauréates de l'accélérateur
 menu: laureats
 layout: laureats
-desc: La première saison de l'Accélérateur d'initiatives citoyennes a permis de
-  soutenir 9 initiatives qui ont été accompagnées dans leur développement.
-  Découvrez les !
+desc: L'Accélérateur d'initiatives citoyennes a accueilli 15 projets à date. Découvrez les ! Les projets accompagnés actuellement sont visibles [ici](/#communs-laureats)
 visible: false
 ---

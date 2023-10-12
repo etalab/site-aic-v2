@@ -26,7 +26,8 @@ url: /accompagnement
 image: img/banner-programme.jpg
 title: L’accompagnement proposé par l’AIC
 desc: >-
-  En fonction des besoins, l’équipe propose des ressources en interne (coaching par les membres de l’équipe) ou externes (partenaires experts, financements). L'accompagnement se fait sur plusieurs volets.
+  En fonction des besoins, l’équipe propose des ressources en interne (coaching par les membres de l’équipe) ou externes (partenaires experts, financements). 
+  L'accompagnement se fait sur plusieurs volets.
 how:
   desc: >-
     ## L'équipe cœur
