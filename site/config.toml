@@ -36,8 +36,13 @@ removePathAccents = true
     identifier = "equipe"
     weight = 2
   [[menu.nav]]
+    name = "Foire aux questions"
+    url = "/faq"
+    identifier = "faq"
+    weight = 3
+  [[menu.nav]]
     name = "Contact"
     url = "/contact"
     identifier = "contact"
-    weight = 3
+    weight = 4
   
